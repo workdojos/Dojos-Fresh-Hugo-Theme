@@ -33,7 +33,7 @@ params:
     # Main hero title
     title: Dojo. Dashboard. Small Business in a Box.
     # Hero subtitle (optional)
-    subtitle: Using exclusively open-source technology! For less than a dollar a day we help you start a business, dojo, or passion project online.
+    subtitle: For less than a dollar a day we help you start a business, dojo, or passion project. Using open-source technology.
     # Button text
     buttontext: Get started
     # Where the main hero button links to
@@ -409,7 +409,7 @@ params:
 
 
 
-    - title: E-mail Us
+    - title: E-mail us
       icon: envelope
       links:
       - text: Our founder
