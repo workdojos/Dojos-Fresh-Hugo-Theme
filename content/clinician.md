@@ -21,8 +21,37 @@ Chat with a person who cares.
 
 <br>
 
+ <figure>
+  <img src="https://workmates.live/wp-content/uploads/2021/09/generalpractitioners-1-scaled.jpg" alt="Trulli" style="width:100%">
+  <figcaption>Simplifying healthcare tech.</figcaption>
+</figure> 
+
+<br>
+
 {{% subtitle5 "Do you work in the medical field?" %}}
 If you would like a dashboard customized to your practice or profession, if you work for a hospital or clinic that is looking for something both better and cheaper, or if you're just looking to stay in-the-know about a particular medical field, then maybe our service can be of benefit to you!
+
+<br>
+
+ <figure>
+  <img src="https://workmates.live/wp-content/uploads/2021/09/generalpractitioners-5.jpg" alt="Trulli" style="width:100%">
+  <figcaption>Get in touch.</figcaption>
+</figure> 
+
+<br>
+
+{{% subtitle5 "We support small business because we are a small business." %}}
+We are an employee-owned company.  We believe in revitalizing the world through grassroots good old-fashioned teamwork.  Whoever you are, whatever you do, you are welcome here!  We believe in opportunity and fairness and our mission is to deliver value in everything that we do.  
+
+ <ul>
+  <li>Are you looking to start a business or have a hobby that you'd like to take to the next level?</li>
+  <li>Do you work at an existing business and are you looking to cut costs and get rid of excessive SaaS subscriptions?</li>
+  <li>Are you a researcher looking for some amazing tools to help you do your job?</li>
+    <li>Or a student looking to learn about self-hosting and web app development?</li>
+      <li>Do you want to get involved or just have a question and want to talk to someone? </li>
+</ul> 
+
+Hop aboard, it's going to be a fun!
 
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -60,21 +89,6 @@ If you would like a dashboard customized to your practice or profession, if you 
         </td>
     </tr>
 </table>
-
-{{% subtitle5 "We support small business because we are a small business." %}}
-We are an employee-owned company.  We believe in revitalizing the world through grassroots good old-fashioned teamwork.  Whoever you are, whatever you do, you are welcome here!  We believe in opportunity and fairness and our mission is to deliver value in everything that we do.  
-
- <ul>
-  <li>Are you looking to start a business or have a hobby that you'd like to take to the next level?</li>
-  <li>Do you work at an existing business and are you looking to cut costs and get rid of excessive SaaS subscriptions?</li>
-  <li>Are you a researcher looking for some amazing tools to help you do your job?</li>
-    <li>Or a student looking to learn about self-hosting and web app development?</li>
-      <li>Do you want to get involved or just have a question and want to talk to someone? </li>
-</ul> 
-
-Hop aboard, it's going to be a fun!
-
-
 
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
