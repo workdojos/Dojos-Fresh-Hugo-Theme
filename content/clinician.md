@@ -11,7 +11,7 @@ You're in control.
 <br>
 
 {{% title3 "We equip entrepreneurs and digital dreamers" %}}
-{{% subtitle5 "Workmates ".Live" network" %}}
+{{% subtitle5 "Workmates '.Live' network" %}}
 We're building a network of self-hosted small businesses.  Businesses built affordably with open-source technology.  
 
 Would you like to explore what open-source can do for you and your digital dreams?  
