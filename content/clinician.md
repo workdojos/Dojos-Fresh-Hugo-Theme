@@ -21,22 +21,8 @@ Chat with a person who cares.
 
 <br>
 
- <figure>
-  <img src="https://workmates.live/wp-content/uploads/2021/09/generalpractitioners-1-scaled.jpg" alt="Trulli" style="width:100%">
-  <figcaption>Simplifying healthcare tech.</figcaption>
-</figure> 
-
-<br>
-
 {{% subtitle5 "Do you work in the medical field?" %}}
 If you would like a dashboard customized to your practice or profession, if you work for a hospital or clinic that is looking for something both better and cheaper, or if you're just looking to stay in-the-know about a particular medical field, then maybe our service can be of benefit to you!
-
-<br>
-
- <figure>
-  <img src="https://workmates.live/wp-content/uploads/2021/09/generalpractitioners-5.jpg" alt="Trulli" style="width:100%">
-  <figcaption>Get in touch.</figcaption>
-</figure> 
 
 <br>
 
@@ -65,7 +51,7 @@ Hop aboard, it's going to be a fun!
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>Become a therapist</h1>
+                        <h1>Heal the world.</h1>
                         Elevate your practice, level up your game, help others, start a community, heal the world.
                     </td>
                 </tr>
@@ -81,7 +67,7 @@ Hop aboard, it's going to be a fun!
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
-                        <h1>Start a practice</h1>
+                        <h1>Start a practice.</h1>
                         In whatever field you're in, we can customize the ultimate digital experience for you.
                     </td>
                 </tr>
@@ -102,7 +88,7 @@ Hop aboard, it's going to be a fun!
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>Deliver virtual physical therapy online</h1>
+                        <h1>Virtual therapy.</h1>
                         Don't stop being there because you can't be there.  Be present now.
                     </td>
                 </tr>
@@ -118,7 +104,7 @@ Hop aboard, it's going to be a fun!
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
-                        <h1>Help others</h1>
+                        <h1>Help others.</h1>
                         Share your ideas for revolutionizing the world of healthcare.
                     </td>
                 </tr>
