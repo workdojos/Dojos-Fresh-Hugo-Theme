@@ -34,9 +34,11 @@ Do you work at an existing business and are you looking to cut costs and get rid
 
 Are you a researcher looking for some amazing tools to help you stay informed?  
 
-Or a student looking for a fast on-ramp to digital wokeness?
+Or a student looking to learn about self-hosting and web app development?
 
-You're in the right place.  Hop aboard, it's going to be an interesting ride!
+Do you want to support grassroots change, to pledge support for your local small businesses, or just have a question and want to talk to someone? 
+
+Hop aboard, it's going to be a fun ride!
 
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
