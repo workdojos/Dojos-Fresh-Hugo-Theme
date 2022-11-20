@@ -45,7 +45,7 @@ Hop aboard, it's going to be a fun!
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
-                        <img src="https://workmates.live/wp-content/uploads/2022/09/rockstar2-scaled.jpg" class="columnImage" />
+                        <img src="https://workmates.live/wp-content/uploads/2022/01/Healers.jpg" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
@@ -60,7 +60,7 @@ Hop aboard, it's going to be a fun!
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="rightColumnContent">
-                        <img src="https://workmates.live/wp-content/uploads/2022/10/woody-2.jpg" class="columnImage" />
+                        <img src="https://workmates.live/wp-content/uploads/2022/01/sasun-bughdaryan-RlIppR1I3E8-unsplash.jpg" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
@@ -74,5 +74,38 @@ Hop aboard, it's going to be a fun!
     </tr>
 </table>
 
-
+<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+    <tr>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="leftColumnContent">
+                        <img src="https://workmates.live/wp-content/uploads/2022/01/physicaltherapist.live_.jpg" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="leftColumnContent">
+                        <h1>Left Column</h1>
+                        Lorem ipsum dolor sit amet.
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="rightColumnContent">
+                        <img src="https://workmates.live/wp-content/uploads/2022/01/RegisteredNurse-scaled.jpg" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="rightColumnContent">
+                        <h1>Right Column</h1>
+                        Lorem ipsum dolor sit amet.
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
 
