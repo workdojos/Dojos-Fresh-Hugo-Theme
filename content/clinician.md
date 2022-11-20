@@ -50,8 +50,8 @@ Hop aboard, it's going to be a fun!
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>Left Column</h1>
-                        Lorem ipsum dolor sit amet.
+                        <h1>Become a therapist</h1>
+                        Attract and wow your audience through a slick digital presence.
                     </td>
                 </tr>
             </table>
@@ -65,8 +65,8 @@ Hop aboard, it's going to be a fun!
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
-                        <h1>Right Column</h1>
-                        Lorem ipsum dolor sit amet.
+                        <h1>Start a practice</h1>
+                        In whatever field you're in, we can customize the ultimate digital experience for you.
                     </td>
                 </tr>
             </table>
@@ -85,8 +85,8 @@ Hop aboard, it's going to be a fun!
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>Left Column</h1>
-                        Lorem ipsum dolor sit amet.
+                        <h1>Deliver virtual physical therapy online</h1>
+                        Don't stop being there because you can't be there.  Be present now.
                     </td>
                 </tr>
             </table>
@@ -100,8 +100,8 @@ Hop aboard, it's going to be a fun!
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
-                        <h1>Right Column</h1>
-                        Lorem ipsum dolor sit amet.
+                        <h1>Help others</h1>
+                        Share your ideas for revolutionizing the world of healthcare.
                     </td>
                 </tr>
             </table>
