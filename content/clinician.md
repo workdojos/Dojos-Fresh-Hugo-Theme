@@ -8,38 +8,36 @@ include_footer: true
 <iframe src="https://clinician.workdojos.com" style="width: 100%;height: 800px;box-shadow: 0 5px 10px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
-{{% title3 "We empower digital dreams" %}}
+{{% title3 "We empower people to build" %}}
 
 
 {{% subtitle5 "" %}}
 
-We're building a network of self-hosted small businesses.  Businesses built affordably with open-source technology.  
+The best builders have all the tools.  Open-source tech makes anything possible.  
 
-Would you like to explore what open-source can do for you and your digital dreams?  
+Start building today.  For less than a dollar a day.
 
-Simply sign up for a free trial, chat with our founders, and explore the many things that you can do for yourself, your business, and the things you're passionate about.    
-
-<br>
-
-{{% subtitle5 "Are you a doctor or do you work in the medical field?" %}}
-If you would like a dashboard customized to your practice (or you wish to open a practice online), you work for a hospital or clinic, or just looking to stay in-the-know about a particular medical field, then maybe our service can be of benefit to you.
+Sign up for a free trial and chat with a real person anytime.   
 
 <br>
 
-{{% subtitle5 "We support small businesses" %}}
-We are an employee-owned company.  We believe in revitalizing the world through good old-fashioned grassroots teamwork.  Whoever you are, whatever you do, you are welcome here.  We believe in fairness and our mission is to deliver value in everything that we do.  
+{{% subtitle5 "Do you work in the medical field?" %}}
+If you would like a dashboard customized to your practice or profession, if you work for a hospital or clinic that is looking for something both better and cheaper, or if you're just looking to stay in-the-know about a particular medical field, then maybe our service can be of benefit to you!
 
+<br>
 
+{{% subtitle5 "We support small business" %}}
+We are an employee-owned company.  We believe in revitalizing the world through grassroots good old-fashioned teamwork.  Whoever you are, whatever you do, you are welcome here!  We believe in opportunity and fairness and our mission is to deliver value in everything that we do.  
 
- <ol>
+ <ul>
   <li>Are you looking to start a business or have a hobby that you'd like to take to the next level?</li>
   <li>Do you work at an existing business and are you looking to cut costs and get rid of excessive SaaS subscriptions?</li>
-  <li>Are you a researcher looking for some amazing tools to help you stay informed?</li>
+  <li>Are you a researcher looking for some amazing tools to help you do your job?</li>
     <li>Or a student looking to learn about self-hosting and web app development?</li>
-      <li>Do you want to support grassroots change, to pledge support for your local small businesses, or just have a question and want to talk to someone? </li>
-</ol> 
+      <li>Do you want to get involved or just have a question and want to talk to someone? </li>
+</ul> 
 
-Hop aboard, it's going to be a fun ride!
+Hop aboard, it's going to be a fun!
 
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
