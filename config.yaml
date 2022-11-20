@@ -1,4 +1,4 @@
-baseURL: https://workdojos.github.io
+baseURL: https://workdojos.com
 languageCode: en-us
 title: Work Dojos
 theme: hugo-fresh
@@ -883,8 +883,8 @@ params:
           link: /
         - text: Baristas
           link: /baristas
-        - text: blah
-          link: /blah
+        - text: Travel
+          link: https://travelers.live
       column2:
         title: "Docs"
         links:
