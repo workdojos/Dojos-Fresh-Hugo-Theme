@@ -80,6 +80,7 @@ Hop aboard, it's going to be a fun!
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
+                      <a href="https://workdojos.com/PhysicalTherapist">  
                         <img src="https://workmates.live/wp-content/uploads/2022/01/physicaltherapist.live_.jpg" class="columnImage" />
                     </td>
                 </tr>
