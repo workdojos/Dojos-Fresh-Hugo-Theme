@@ -8,10 +8,10 @@ include_footer: true
 <iframe src="https://clinician.workdojos.com" style="width: 100%;height: 800px;box-shadow: 0 5px 10px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
-{{% title3 "We empower people to build things." %}}
+{{% title3 "" %}}
 
 
-{{% subtitle5 "Digital things" %}}
+{{% subtitle5 "We empower people to build things." %}}
 
 The best builders have all the tools!  Open-source tech makes anything possible.  
 
@@ -26,7 +26,7 @@ If you would like a dashboard customized to your practice or profession, if you 
 
 <br>
 
-{{% subtitle5 "We support small business." %}}
+{{% subtitle5 "We support small business because we are a small business." %}}
 We are an employee-owned company.  We believe in revitalizing the world through grassroots good old-fashioned teamwork.  Whoever you are, whatever you do, you are welcome here!  We believe in opportunity and fairness and our mission is to deliver value in everything that we do.  
 
  <ul>
@@ -45,13 +45,14 @@ Hop aboard, it's going to be a fun!
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
+                      <a href="https://workdojos.com/Healers">
                         <img src="https://workmates.live/wp-content/uploads/2022/01/Healers.jpg" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Become a therapist</h1>
-                        Attract and wow your audience through a slick digital presence.
+                        Elevate your practice, level up your game, help others, start a community, heal the world.
                     </td>
                 </tr>
             </table>
@@ -60,6 +61,7 @@ Hop aboard, it's going to be a fun!
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="rightColumnContent">
+                      <a href="https://workdojos.com/Practitioner">
                         <img src="https://workmates.live/wp-content/uploads/2022/01/sasun-bughdaryan-RlIppR1I3E8-unsplash.jpg" class="columnImage" />
                     </td>
                 </tr>
@@ -96,6 +98,7 @@ Hop aboard, it's going to be a fun!
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="rightColumnContent">
+                      <a href="https://workdojos.com/RegisteredNurse">
                         <img src="https://workmates.live/wp-content/uploads/2022/01/RegisteredNurse-scaled.jpg" class="columnImage" />
                     </td>
                 </tr>
