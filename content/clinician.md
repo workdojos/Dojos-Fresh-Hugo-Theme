@@ -4,7 +4,7 @@ include_footer: true
 ---
 
 {{% title3 "When I wake up I'm greeted by a GUI" %}}
-The future is now.  Screens are ubiquitous.  Having control of your own digital dashboard is step 1 as we move ever further into the digital age. 
+You're in control. 
 
 
 <iframe src="https://dash.workmates.live" style="width: 100%;height: 1000px;box-shadow: 0 5px 10px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
@@ -25,7 +25,7 @@ If you would like a dashboard customized to your practice (or you wish to open a
 
 <br>
 
-{{% subtitle5 "Please support our small business efforts" %}}
+{{% subtitle5 "Please support small business" %}}
 We are an employee-owned company.  We believe in revitalizing the world through good old-fashioned grassroots teamwork.  Whoever you are, whatever you do, you are welcome here.  We believe in fairness and our mission is to deliver value in everything that we do.  
 
 Are you looking to start a business or have a hobby that you'd like to take to the next level?  
