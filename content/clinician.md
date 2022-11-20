@@ -10,7 +10,9 @@ include_footer: true
 
 {{% title3 "We empower digital dreams" %}}
 
+
 {{% subtitle5 "" %}}
+
 We're building a network of self-hosted small businesses.  Businesses built affordably with open-source technology.  
 
 Would you like to explore what open-source can do for you and your digital dreams?  
@@ -24,18 +26,18 @@ If you would like a dashboard customized to your practice (or you wish to open a
 
 <br>
 
-{{% subtitle5 "Please support small business" %}}
+{{% subtitle5 "We support small businesses" %}}
 We are an employee-owned company.  We believe in revitalizing the world through good old-fashioned grassroots teamwork.  Whoever you are, whatever you do, you are welcome here.  We believe in fairness and our mission is to deliver value in everything that we do.  
 
-Are you looking to start a business or have a hobby that you'd like to take to the next level?  
 
-Do you work at an existing business and are you looking to cut costs and get rid of excessive SaaS subscriptions?  
 
-Are you a researcher looking for some amazing tools to help you stay informed?  
-
-Or a student looking to learn about self-hosting and web app development?
-
-Do you want to support grassroots change, to pledge support for your local small businesses, or just have a question and want to talk to someone? 
+ <ol>
+  <li>Are you looking to start a business or have a hobby that you'd like to take to the next level?</li>
+  <li>Do you work at an existing business and are you looking to cut costs and get rid of excessive SaaS subscriptions?</li>
+  <li>Are you a researcher looking for some amazing tools to help you stay informed?</li>
+    <li>Or a student looking to learn about self-hosting and web app development?</li>
+      <li>Do you want to support grassroots change, to pledge support for your local small businesses, or just have a question and want to talk to someone? </li>
+</ol> 
 
 Hop aboard, it's going to be a fun ride!
 
