@@ -21,12 +21,18 @@ If you would like a dashboard customized to your practice (or you wish to open a
 
 <br>
 
-{{% subtitle5 "Please support us" %}}
-We are an employee-owned company.  We believe in revitalizing the world through honest grassroots good ol'-fashioned teamwork.  Whoever you are, whatever you do, you are welcome here.    
+{{% subtitle5 "Please support our small business efforts" %}}
+We are an employee-owned company.  We believe in revitalizing the world through good old-fashioned grassroots teamwork.  Whoever you are, whatever you do, you are welcome here.  We believe in fairness and our mission is to deliver value in everything that we do.  
 
-Are you looking to start a business or have a hobby that you'd like to take to the next level?  Do you work at an existing business and are you looking to cut costs and get rid of excessive SaaS subscriptions?  Are you a researcher looking for some amazing tools to help you stay informed?  Or a student looking for a fast on-ramp to digital wokeness?
+Are you looking to start a business or have a hobby that you'd like to take to the next level?  
 
-You're in the right place.  Hop aboard, it's going to be an interesting ride.
+Do you work at an existing business and are you looking to cut costs and get rid of excessive SaaS subscriptions?  
+
+Are you a researcher looking for some amazing tools to help you stay informed?  
+
+Or a student looking for a fast on-ramp to digital wokeness?
+
+You're in the right place.  Hop aboard, it's going to be an interesting ride!
 
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
