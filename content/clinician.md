@@ -8,16 +8,16 @@ include_footer: true
 <iframe src="https://clinician.workdojos.com" style="width: 100%;height: 800px;box-shadow: 0 5px 10px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
-{{% title3 "We empower people to build" %}}
+{{% title3 "We empower people to build things." %}}
 
 
-{{% subtitle5 "" %}}
+{{% subtitle5 "Digital things" %}}
 
-The best builders have all the tools.  Open-source tech makes anything possible.  
+The best builders have all the tools!  Open-source tech makes anything possible.  
 
-Start building today.  For less than a dollar a day.
+It costs less than a dollar a day.  What do you want to build today?
 
-Sign up for a free trial and chat with a real person anytime.   
+Chat with a person who cares.   
 
 <br>
 
@@ -26,7 +26,7 @@ If you would like a dashboard customized to your practice or profession, if you 
 
 <br>
 
-{{% subtitle5 "We support small business" %}}
+{{% subtitle5 "We support small business." %}}
 We are an employee-owned company.  We believe in revitalizing the world through grassroots good old-fashioned teamwork.  Whoever you are, whatever you do, you are welcome here!  We believe in opportunity and fairness and our mission is to deliver value in everything that we do.  
 
  <ul>
