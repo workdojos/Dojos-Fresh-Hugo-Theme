@@ -883,7 +883,7 @@ params:
           link: /
         - text: Baristas
           link: /baristas
-        - text: Travel
+        - text: Travelista
           link: https://travelers.live
       column2:
         title: "Docs"
