@@ -11,8 +11,12 @@ The future is now.  Screens are ubiquitous.  Having control of your own digital 
 <br>
 
 {{% title3 "We equip entrepreneurs and digital dreamers" %}}
-{{% subtitle5 "§2.1 Bacon1" %}}
-We're building a network of self-hosted businesses.  Business built with open-source technology.  Would you like to explore what open-source can do for you and your digital dreams?  Simply sign up for a free trial, chat with our founders, and explore the many things that you can do for yourself, your business, and the things you're passionate about.    
+{{% subtitle5 "Workmates ".Live" network" %}}
+We're building a network of self-hosted small businesses.  Businesses built affordably with open-source technology.  
+
+Would you like to explore what open-source can do for you and your digital dreams?  
+
+Simply sign up for a free trial, chat with our founders, and explore the many things that you can do for yourself, your business, and the things you're passionate about.    
 
 <br>
 
