@@ -3,15 +3,14 @@ title: Clinician's Dashboard
 include_footer: true
 ---
 
-{{% title3 "When I wake up I'm greeted by a GUI" %}}
-You're in control. 
 
 
-<iframe src="https://dash.workmates.live" style="width: 100%;height: 1000px;box-shadow: 0 5px 10px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://clinician.workdojos.com" style="width: 100%;height: 800px;box-shadow: 0 5px 10px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
-{{% title3 "We equip entrepreneurs and digital dreamers" %}}
-{{% subtitle5 "Workmates '.Live' network" %}}
+{{% title3 "We empower digital dreams" %}}
+
+{{% subtitle5 "" %}}
 We're building a network of self-hosted small businesses.  Businesses built affordably with open-source technology.  
 
 Would you like to explore what open-source can do for you and your digital dreams?  
