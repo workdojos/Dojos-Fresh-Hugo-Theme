@@ -1,0 +1,905 @@
+baseURL: http://home.workdojos.com/
+languageCode: en-us
+title: Work Dojos
+theme: hugo-fresh
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  description: Open a dojo.  In whatever it is that you do.  We will help you do you, digitally.
+  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
+  # preloader: false
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/workmates logo 2.svg
+    link: /
+    # Default width/height. Uncomment if you need to change
+    # width: 112
+    # height: 28
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Dojo. Dashboard. Small Business in a Box.
+    # Hero subtitle (optional)
+    subtitle: Using exclusively open-source technology! For less than a dollar a day we help you start a business, dojo, or passion project online.
+    # Button text
+    buttontext: Get started
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from static/images/___)
+    image: logos/undraw_working_remotely_re_6b3a.svg
+    # Footer logos (from static/images/logos/clients/___.svg)
+    clientlogos:
+    - systek
+    - tribe
+    - kromo
+    - infinite
+    - gutwork
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Features
+    url: /features
+    sublinks:
+    - title: Your own website
+      url: /features/website
+    - title: Your own chat app
+      url: /features/chat
+    - title: Your own blogging engine
+      url: /features/blog
+    - title: Your own automation app
+      url: /features/automation
+    - title: Your own media server
+      url: /features/media
+    - title: Your own VoIP number
+      url: /features/voip
+    - title: Your own database app
+      url: /features/db
+    - title: Your own password manager
+      url: /features/passwords
+    - title: Your own virtual cafe
+      url: /features/virtualcafe
+    - title: Your own wiki
+      url: /features/wiki
+
+  - title: Pricing
+    url: https://blog.workmates.live/#/portal/signup
+
+  - title: Featured dojos
+    sublinks:
+    - title: Clinician's Dojo
+      url: https://workdojos.com/clinician
+    - title: Librarian's Dojo
+      url: https://workdojos.com/librarian
+    - title: Physicist's Dojo
+      url: https://workdojos.com/physicist
+    - title: Philosopher's Dojo
+      url: https://workdojos.com/philosopher
+    - title: Curator's Dojo
+      url: https://workdojos.com/curators
+    - title: Logistician's Dojo
+      url: https://workdojos.com/logistician
+    - title: Politician's Dojo
+      url: https://workdojos.com/politician
+
+  - title: Log in
+    url: /
+  - title: Sign up
+    url: /
+    button: true
+  sidebar:
+    # Logo (from /images/logos/___.svg)
+    logo: fresh-square
+    sections:
+    - title: Chat now
+      icon: user
+      links:
+      - text: 4X4S
+        url: https://chat.workmates.live/channel/4X4S
+      - text: Academies
+        url: https://chat.workmates.live/channel/Academies
+
+      - text: AccountExecutive
+        url: https://chat.workmates.live/channel/AccountExecutive
+      - text: Actuaries
+        url: https://chat.workmates.live/channel/Actuaries
+
+      - text: Administrators
+        url: https://chat.workmates.live/channel/Administrators
+      - text: Adventurers
+        url: https://chat.workmates.live/channel/Adventurers
+
+      - text: Agriculturist
+        url: https://chat.workmates.live/channel/Agriculturist
+      - text: Animators
+        url: https://chat.workmates.live/channel/Animators
+
+      - text: AppDeveloper
+        url: https://chat.workmates.live/channel/AppDeveloper
+      - text: Arcades
+        url: https://chat.workmates.live/channel/Arcades
+
+      - text: ArmchairExpert
+        url: https://chat.workmates.live/channel/ArmchairExpert
+      - text: ArtGalleries
+        url: https://chat.workmates.live/channel/ArtGalleries
+
+      - text: Artistically
+        url: https://chat.workmates.live/channel/Artistically
+      - text: Aviationist
+        url: https://chat.workmates.live/channel/Aviationist
+
+      - text: Bankroller
+        url: https://chat.workmates.live/channel/Bankroller
+      - text: Baristas
+        url: https://chat.workmates.live/channel/Baristas
+
+      - text: Bartenders
+        url: https://chat.workmates.live/channel/Bartenders
+      - text: Beauticians
+        url: https://chat.workmates.live/channel/Beauticians
+
+      - text: Beautifully
+        url: https://chat.workmates.live/channel/Beautifully
+      - text: BeerGarden
+        url: https://chat.workmates.live/channel/BeerGarden
+
+      - text: Biologist
+        url: https://chat.workmates.live/channel/Biologist
+      - text: Botanist
+        url: https://chat.workmates.live/channel/Botanist
+
+      - text: BrewMasters
+        url: https://chat.workmates.live/channel/BrewMasters
+      - text: BrewPub
+        url: https://chat.workmates.live/channel/BrewPub
+
+      - text: Brotherly
+        url: https://chat.workmates.live/channel/Brotherly
+      - text: Cafes
+        url: https://chat.workmates.live/channel/Cafes
+
+      - text: Captains
+        url: https://chat.workmates.live/channel/Captains
+      - text: Coworkers
+        url: https://chat.workmates.live/channel/Coworkers
+
+      - text: Curators
+        url: https://chat.workmates.live/channel/Curators
+      - text: DigitalMarketers
+        url: https://chat.workmates.live/channel/DigitalMarketers
+
+      - text: Economists
+        url: https://chat.workmates.live/channel/Economists
+      - text: Encapsulate
+        url: https://chat.workmates.live/channel/Encapsulate
+
+      - text: Evangelist
+        url: https://chat.workmates.live/channel/Evangelist
+      - text: EventPlanners
+        url: https://chat.workmates.live/channel/EventPlanners
+
+      - text: ExecutiveSearch
+        url: https://chat.workmates.live/channel/ExecutiveSearch
+      - text: Exhibitionist
+        url: https://chat.workmates.live/channel/Exhibitionist
+
+      - text: Expatriate
+        url: https://chat.workmates.live/channel/Expatriate
+      - text: ExpertNetwork
+        url: https://chat.workmates.live/channel/ExpertNetwork
+
+      - text: Explorers
+        url: https://chat.workmates.live/channel/Explorers
+      - text: Exporter
+        url: https://chat.workmates.live/channel/Exporter
+
+      - text: Facilitator
+        url: https://chat.workmates.live/channel/Facilitator
+      - text: Financier
+        url: https://chat.workmates.live/channel/Financier
+      - text: Firefighters
+        url: https://chat.workmates.live/channel/Firefighters
+
+      - text: Franchiser
+        url: https://chat.workmates.live/channel/Franchiser
+      - text: Geneticist
+        url: https://chat.workmates.live/channel/Geneticist
+
+      - text: Ghostwriters
+        url: https://chat.workmates.live/channel/Ghostwriters
+      - text: GraphicDesigner
+        url: https://chat.workmates.live/channel/GraphicDesigner
+
+      - text: Growers
+        url: https://chat.workmates.live/channel/Growers
+      - text: Guesthouses
+        url: https://chat.workmates.live/channel/Guesthouses
+
+      - text: Healers
+        url: https://chat.workmates.live/channel/Healers
+      - text: Importer
+        url: https://chat.workmates.live/channel/Importer
+
+      - text: Incentivize
+        url: https://chat.workmates.live/channel/Incentivize
+      - text: Interpreters
+        url: https://chat.workmates.live/channel/Interpreters
+
+      - text: Investigators
+        url: https://chat.workmates.live/channel/Investigators
+      - text: InvestmentBanker
+        url: https://chat.workmates.live/channel/InvestmentBanker
+
+      - text: Jeweler
+        url: https://chat.workmates.live/channel/Jeweler
+      - text: JobSeeker
+        url: https://chat.workmates.live/channel/JobSeeker
+
+      - text: Kanbans
+        url: https://chat.workmates.live/channel/Kanbans
+      - text: Labtech
+        url: https://chat.workmates.live/channel/Labtech
+
+      - text: Landowners
+        url: https://chat.workmates.live/channel/Landowners
+      - text: LawEnforcement
+        url: https://chat.workmates.live/channel/LawEnforcement
+
+      - text: LeadGenerator
+        url: https://chat.workmates.live/channel/LeadGenerator
+      - text: Legislator
+        url: https://chat.workmates.live/channel/Legislator
+
+      - text: Liaison
+        url: https://chat.workmates.live/channel/Liaison
+      - text: Librarian
+        url: https://chat.workmates.live/channel/Librarian
+
+      - text: LifeCoaches
+        url: https://chat.workmates.live/channel/LifeCoaches
+      - text: Lighthouses
+        url: https://chat.workmates.live/channel/Lighthouses
+
+      - text: Litigator
+        url: https://chat.workmates.live/channel/Litigator
+      - text: Lobbying
+        url: https://chat.workmates.live/channel/Lobbying
+
+      - text: Logistician
+        url: https://chat.workmates.live/channel/Logistician
+      - text: Lyricist
+        url: https://chat.workmates.live/channel/Lyricist
+
+      - text: Machinist
+        url: https://chat.workmates.live/channel/Machinist
+      - text: Manufacturer
+        url: https://chat.workmates.live/channel/Manufacturer
+
+      - text: Manufacturers
+        url: https://chat.workmates.live/channel/Manufacturers
+      - text: MediaBuyer
+        url: https://chat.workmates.live/channel/MediaBuyer
+
+      - text: Medically
+        url: https://chat.workmates.live/channel/Medically
+      - text: Metaversial
+        url: https://chat.workmates.live/channel/Metaversial
+
+      - text: MortgageBrokers
+        url: https://chat.workmates.live/channel/MortgageBrokers
+      - text: Motivators
+        url: https://chat.workmates.live/channel/Motivators
+
+      - text: MusicAlartist
+        url: https://chat.workmates.live/channel/MusicAlartist
+      - text: Musically
+        url: https://chat.workmates.live/channel/Musically
+
+      - text: Negotiator
+        url: https://chat.workmates.live/channel/Negotiator
+      - text: Neighborly
+        url: https://chat.workmates.live/channel/Neighborly
+
+      - text: Neurologists
+        url: https://chat.workmates.live/channel/Neurologists
+      - text: Nomadically
+        url: https://chat.workmates.live/channel/Nomadically
+
+      - text: Non-Profit
+        url: https://chat.workmates.live/channel/Non-Profit
+      - text: Novelist
+        url: https://chat.workmates.live/channel/Novelist
+
+      - text: Operatives
+        url: https://chat.workmates.live/channel/Operatives
+      - text: ParkRanger
+        url: https://chat.workmates.live/channel/ParkRanger
+
+      - text: Pathologist
+        url: https://chat.workmates.live/channel/Pathologist
+
+      - text: Pharmacists
+        url: https://chat.workmates.live/channel/Pharmacists
+      - text: Philosophers
+        url: https://chat.workmates.live/channel/Philosophers
+
+      - text: PhotoJournalist
+      - text: PhysicalTherapist
+        url: https://chat.workmates.live/channel/PhysicalTherapist
+      - text: Physicist
+        url: https://chat.workmates.live/channel/Physicist
+
+      - text: Playwright
+        url: https://chat.workmates.live/channel/Playwright
+      - text: Politician
+        url: https://chat.workmates.live/channel/Politician
+
+      - text: Practically
+        url: https://chat.workmates.live/channel/Practically
+      - text: Practitioner
+        url: https://chat.workmates.live/channel/Practitioner
+
+      - text: ProjectManagers
+        url: https://chat.workmates.live/channel/ProjectManagers
+      - text: Psychiatric
+        url: https://chat.workmates.live/channel/Psychiatric
+
+      - text: PublicRelations
+        url: https://chat.workmates.live/channel/PublicRelations
+      - text: Racers
+        url: https://chat.workmates.live/channel/Racers
+
+      - text: RegisteredNurse
+        url: https://chat.workmates.live/channel/RegisteredNurse
+      - text: RemoteWorker
+        url: https://chat.workmates.live/channel/RemoteWorker
+
+      - text: Researchers
+        url: https://chat.workmates.live/channel/Researchers
+      - text: Retailers
+        url: https://chat.workmates.live/channel/Retailers
+
+      - text: SalesCoaches
+        url: https://chat.workmates.live/channel/SalesCoaches
+      - text: Satellites
+        url: https://chat.workmates.live/channel/Satellites
+
+      - text: Schoolmates
+        url: https://chat.workmates.live/channel/Schoolmates
+      - text: SchoolTeachers
+        url: https://chat.workmates.live/channel/SchoolTeachers
+
+      - text: Screenwriter
+        url: https://chat.workmates.live/channel/Screenwriter
+      - text: Sisterly
+        url: https://chat.workmates.live/channel/Sisterly
+
+      - text: Socialites
+        url: https://chat.workmates.live/channel/Socialites
+      - text: SocialNetworks
+        url: https://chat.workmates.live/channel/SocialNetworks
+
+      - text: SocialWorker
+        url: https://chat.workmates.live/channel/SocialWorker
+      - text: Sociologist
+        url: https://chat.workmates.live/channel/Sociologist
+
+      - text: SpiritualCoach
+        url: https://chat.workmates.live/channel/SpiritualCoach
+      - text: Sponsors
+        url: https://chat.workmates.live/channel/Sponsors
+
+      - text: Statistician
+        url: https://chat.workmates.live/channel/Statistician
+      - text: StayLit
+        url: https://chat.workmates.live/channel/StayLit
+      - text: Strategists
+        url: https://chat.workmates.live/channel/Strategists
+      - text: SupportGroup
+        url: https://chat.workmates.live/channel/SupportGroup
+
+      - text: Telemarketer
+        url: https://chat.workmates.live/channel/Telemarketer
+      - text: Theologian
+        url: https://chat.workmates.live/channel/Theologian
+
+      - text: Thespian
+        url: https://chat.workmates.live/channel/Thespian
+      - text: Tokenomic
+        url: https://chat.workmates.live/channel/Tokenomic
+
+      - text: TownSquare
+        url: https://chat.workmates.live/channel/TownSquare
+      - text: TravelAgent
+        url: https://chat.workmates.live/channel/TravelAgent
+
+      - text: TravelAgents
+        url: https://chat.workmates.live/channel/TravelAgents
+      - text: Travelers
+        url: https://chat.workmates.live/channel/Travelers
+
+      - text: Trustees
+        url: https://chat.workmates.live/channel/Trustees
+      - text: Unions
+        url: https://chat.workmates.live/channel/Unions
+
+      - text: VideoGamers
+        url: https://chat.workmates.live/channel/VideoGamers
+      - text: WebDesigners
+        url: https://chat.workmates.live/channel/WebDesigners
+
+      - text: WebJedi
+        url: https://chat.workmates.live/channel/WebJedi
+      - text: WeekendWarrior
+        url: https://chat.workmates.live/channel/WeekendWarrior
+
+      - text: Wholesalers
+        url: https://chat.workmates.live/channel/Wholesalers
+      - text: Winebar
+        url: https://chat.workmates.live/channel/Winebar
+
+      - text: Wingman
+        url: https://chat.workmates.live/channel/Wingman
+      - text: Womanly
+        url: https://chat.workmates.live/channel/Womanly
+
+      - text: Wordsmith
+        url: https://chat.workmates.live/channel/Wordsmith
+      - text: Workmates
+        url: https://chat.workmates.live/channel/Workmates
+
+      - text: Worldly
+        url: https://chat.workmates.live/channel/Worldly
+      - text: Worldsfair
+        url: https://chat.workmates.live/channel/Worldsfair
+
+      - text: Yaas
+        url: https://chat.workmates.live/channel/Yaas
+      - text: YogaInstructor
+        url: https://chat.workmates.live/channel/YogaInstructor
+      - text: Zookeeper
+        url: https://chat.workmates.live/channel/Zookeeper
+
+
+    - title: Browse dojos
+      icon: image
+      links:
+      - text: 4X4S
+        url: https://workdojos.com/4X4S
+      - text: Academies
+        url: https://workdojos.com/Academies
+      - text: AccountExecutive
+        url: https://workdojos.com/AccountExecutive
+      - text: Actuaries
+        url: https://workdojos.com/Actuaries
+      - text: Administrators
+        url: https://workdojos.com/Administrators
+      - text: Adventurers
+        url: https://workdojos.com/Adventurers
+      - text: Agriculturist
+        url: https://workdojos.com/Agriculturist
+      - text: Animators
+        url: https://workdojos.com/Animators
+      - text: AppDeveloper
+        url: https://workdojos.com/AppDeveloper
+      - text: Arcades
+        url: https://workdojos.com/Arcades
+      - text: ArmchairExpert
+        url: https://workdojos.com/ArmchairExpert
+      - text: ArtGalleries
+        url: https://workdojos.com/ArtGalleries
+      - text: Artistically
+        url: https://workdojos.com/Artistically
+      - text: Aviationist
+        url: https://workdojos.com/Aviationist
+      - text: Bankroller
+        url: https://workdojos.com/Bankroller
+      - text: Baristas
+        url: https://workdojos.com/Baristas
+      - text: Bartenders
+        url: https://workdojos.com/Bartenders
+      - text: Beauticians
+        url: https://workdojos.com/Beauticians
+      - text: Beautifully
+        url: https://workdojos.com/Beautifully
+      - text: BeerGarden
+        url: https://workdojos.com/BeerGarden
+      - text: Biologist
+        url: https://workdojos.com/Biologist
+      - text: Botanist
+        url: https://workdojos.com/Botanist
+      - text: BrewMasters
+        url: https://workdojos.com/BrewMasters
+      - text: BrewPub
+        url: https://workdojos.com/BrewPub
+      - text: Brotherly
+        url: https://workdojos.com/Brotherly
+      - text: Cafes
+        url: https://workdojos.com/Cafes
+      - text: Captains
+        url: https://workdojos.com/Captains
+      - text: Coworkers
+        url: https://workdojos.com/Coworkers
+      - text: Curators
+        url: https://workdojos.com/Curators
+      - text: DigitalMarketers
+        url: https://workdojos.com/DigitalMarketers
+      - text: Economists
+        url: https://workdojos.com/Economists
+      - text: Encapsulate
+        url: https://workdojos.com/Encapsulate
+      - text: Evangelist
+        url: https://workdojos.com/Evangelist
+      - text: EventPlanners
+        url: https://workdojos.com/EventPlanners
+      - text: ExecutiveSearch
+        url: https://workdojos.com/ExecutiveSearch
+      - text: Exhibitionist
+        url: https://workdojos.com/Exhibitionist
+      - text: Expatriate
+        url: https://workdojos.com/Expatriate
+      - text: ExpertNetwork
+        url: https://workdojos.com/ExpertNetwork
+      - text: Explorers
+        url: https://workdojos.com/Explorers
+      - text: Exporter
+        url: https://workdojos.com/Exporter
+      - text: Facilitator
+        url: https://workdojos.com/Facilitator
+      - text: Financier
+        url: https://workdojos.com/Financier
+      - text: Firefighters
+        url: https://workdojos.com/Firefighters
+      - text: Franchiser
+        url: https://workdojos.com/Franchiser
+      - text: Geneticist
+        url: https://workdojos.com/Geneticist
+      - text: Ghostwriters
+        url: https://workdojos.com/Ghostwriters
+      - text: GraphicDesigner
+        url: https://workdojos.com/GraphicDesigner
+      - text: Growers
+        url: https://workdojos.com/Growers
+      - text: Guesthouses
+        url: https://workdojos.com/Guesthouses
+      - text: Healers
+        url: https://workdojos.com/Healers
+      - text: Importer
+        url: https://workdojos.com/Importer
+      - text: Incentivize
+        url: https://workdojos.com/Incentivize
+      - text: Interpreters
+        url: https://workdojos.com/Interpreters
+      - text: Investigators
+        url: https://workdojos.com/Investigators
+      - text: InvestmentBanker
+        url: https://workdojos.com/InvestmentBanker
+      - text: Jeweler
+        url: https://workdojos.com/Jeweler
+      - text: JobSeeker
+        url: https://workdojos.com/JobSeeker
+      - text: Kanbans
+        url: https://workdojos.com/Kanbans
+      - text: Labtech
+        url: https://workdojos.com/Labtech
+      - text: Landowners
+        url: https://workdojos.com/Landowners
+      - text: LawEnforcement
+        url: https://workdojos.com/LawEnforcement
+      - text: LeadGenerator
+        url: https://workdojos.com/LeadGenerator
+      - text: Legislator
+        url: https://workdojos.com/Legislator
+      - text: Liaison
+        url: https://workdojos.com/Liaison
+      - text: Librarian
+        url: https://workdojos.com/Librarian
+      - text: LifeCoaches
+        url: https://workdojos.com/LifeCoaches
+      - text: Lighthouses
+        url: https://workdojos.com/Lighthouses
+      - text: Litigator
+        url: https://workdojos.com/Litigator
+      - text: Lobbying
+        url: https://workdojos.com/Lobbying
+      - text: Logistician
+        url: https://workdojos.com/Logistician
+      - text: Lyricist
+        url: https://workdojos.com/Lyricist
+      - text: Machinist
+        url: https://workdojos.com/Machinist
+      - text: Manufacturer
+        url: https://workdojos.com/Manufacturer
+      - text: Manufacturers
+        url: https://workdojos.com/Manufacturers
+      - text: MediaBuyer
+        url: https://workdojos.com/MediaBuyer
+      - text: Medically
+        url: https://workdojos.com/Medically
+      - text: Metaversial
+        url: https://workdojos.com/Metaversial
+      - text: MortgageBrokers
+        url: https://workdojos.com/MortgageBrokers
+      - text: Motivators
+        url: https://workdojos.com/Motivators
+      - text: MusicAlartist
+        url: https://workdojos.com/MusicAlartist
+      - text: Musically
+        url: https://workdojos.com/Musically
+      - text: Negotiator
+        url: https://workdojos.com/Negotiator
+      - text: Neighborly
+        url: https://workdojos.com/Neighborly
+      - text: Neurologists
+        url: https://workdojos.com/Neurologists
+      - text: Nomadically
+        url: https://workdojos.com/Nomadically
+      - text: Non-Profit
+        url: https://workdojos.com/Non-Profit
+      - text: Novelist
+        url: https://workdojos.com/Novelist
+      - text: Operatives
+        url: https://workdojos.com/Operatives
+      - text: ParkRanger
+        url: https://workdojos.com/ParkRanger
+      - text: Pathologist
+        url: https://workdojos.com/Pathologist
+      - text: Pharmacists
+        url: https://workdojos.com/Pharmacists
+      - text: Philosophers
+        url: https://workdojos.com/Philosophers
+      - text: PhotoJournalist
+      - text: PhysicalTherapist
+        url: https://workdojos.com/PhysicalTherapist
+      - text: Physicist
+        url: https://workdojos.com/Physicist
+      - text: Playwright
+        url: https://workdojos.com/Playwright
+      - text: Politician
+        url: https://workdojos.com/Politician
+      - text: Practically
+        url: https://workdojos.com/Practically
+      - text: Practitioner
+        url: https://workdojos.com/Practitioner
+      - text: ProjectManagers
+        url: https://workdojos.com/ProjectManagers
+      - text: Psychiatric
+        url: https://workdojos.com/Psychiatric
+      - text: PublicRelations
+        url: https://workdojos.com/PublicRelations
+      - text: Racers
+        url: https://workdojos.com/Racers
+      - text: RegisteredNurse
+        url: https://workdojos.com/RegisteredNurse
+      - text: RemoteWorker
+        url: https://workdojos.com/RemoteWorker
+      - text: Researchers
+        url: https://workdojos.com/Researchers
+      - text: Retailers
+        url: https://workdojos.com/Retailers
+      - text: SalesCoaches
+        url: https://workdojos.com/SalesCoaches
+      - text: Satellites
+        url: https://workdojos.com/Satellites
+      - text: Schoolmates
+        url: https://workdojos.com/Schoolmates
+      - text: SchoolTeachers
+        url: https://workdojos.com/SchoolTeachers
+      - text: Screenwriter
+        url: https://workdojos.com/Screenwriter
+      - text: Sisterly
+        url: https://workdojos.com/Sisterly
+      - text: Socialites
+        url: https://workdojos.com/Socialites
+      - text: SocialNetworks
+        url: https://workdojos.com/SocialNetworks
+      - text: SocialWorker
+        url: https://workdojos.com/SocialWorker
+      - text: Sociologist
+        url: https://workdojos.com/Sociologist
+      - text: SpiritualCoach
+        url: https://workdojos.com/SpiritualCoach
+      - text: Sponsors
+        url: https://workdojos.com/Sponsors
+      - text: Statistician
+        url: https://workdojos.com/Statistician
+      - text: StayLit
+        url: https://workdojos.com/StayLit
+      - text: Strategists
+        url: https://workdojos.com/Strategists
+      - text: SupportGroup
+        url: https://workdojos.com/SupportGroup
+      - text: Telemarketer
+        url: https://workdojos.com/Telemarketer
+      - text: Theologian
+        url: https://workdojos.com/Theologian
+      - text: Thespian
+        url: https://workdojos.com/Thespian
+      - text: Tokenomic
+        url: https://workdojos.com/Tokenomic
+      - text: TownSquare
+        url: https://workdojos.com/TownSquare
+      - text: TravelAgent
+        url: https://workdojos.com/TravelAgent
+      - text: TravelAgents
+        url: https://workdojos.com/TravelAgents
+      - text: Travelers
+        url: https://workdojos.com/Travelers
+      - text: Trustees
+        url: https://workdojos.com/Trustees
+      - text: Unions
+        url: https://workdojos.com/Unions
+      - text: VideoGamers
+        url: https://workdojos.com/VideoGamers
+      - text: WebDesigners
+        url: https://workdojos.com/WebDesigners
+      - text: WebJedi
+        url: https://workdojos.com/WebJedi
+      - text: WeekendWarrior
+        url: https://workdojos.com/WeekendWarrior
+      - text: Wholesalers
+        url: https://workdojos.com/Wholesalers
+      - text: Winebar
+        url: https://workdojos.com/Winebar
+      - text: Wingman
+        url: https://workdojos.com/Wingman
+      - text: Womanly
+        url: https://workdojos.com/Womanly
+      - text: Wordsmith
+        url: https://workdojos.com/Wordsmith
+      - text: Workmates
+        url: https://workdojos.com/Workmates
+      - text: Worldly
+        url: https://workdojos.com/Worldly
+      - text: Worldsfair
+        url: https://workdojos.com/Worldsfair
+      - text: Yaas
+        url: https://workdojos.com/Yaas
+      - text: YogaInstructor
+        url: https://workdojos.com/YogaInstructor
+      - text: Zookeeper
+        url: https://workdojos.com/Zookeeper
+
+
+
+
+
+
+    - title: E-mail Us
+      icon: envelope
+      links:
+      - text: Our founder
+        url: mailto:workdojos@gmail.com
+      - text: Technical support
+        url: mailto:workmates.live@gmail.com
+      - text: Investors
+        url: mailto:workmates.live@outlook.com
+      - text: HR
+        url: mailto:workmates.live@outlook.com
+
+  section1:
+    title: A dashboard
+    subtitle: to rule them all.
+    tiles:
+    - title: Customized dashboards
+      icon: mouse-globe
+      text: Your info, no ads, customized to your profession.
+      url: /
+      buttonText: Free trial
+    - title: In YOUR own private cloud
+      icon: laptop-cloud
+      text: Your server.  Your data.  You're in control.
+      url: /
+      buttonText: Get started
+    - title: Apps you own and control
+      icon: plug-cloud
+      text: World's best tools, virtually free.
+      url: /
+      buttonText: Get started  
+  section2:
+    title: You're here because you want to build something.
+    subtitle: A passion project. A portfolio. A service. A billion dollar company.  A f*ckin' legacy.
+    features:
+    - title: Do what you love to do
+      text: Our mission is to empower people to become self-sufficient with their technology!  This means equipping you with the wherewithal to do your own thing, whatever that is!
+      icon: mobile-feed
+    - title: Grow your business
+      text: Unleash your brand upon the world with a smorgasbord of digital tools.  Not per seat, not per team!
+      icon: mobile-feed
+    - title: Empower your teams
+      text: Give your teams the ultimate toolkit at a fraction of the cost of premium SaaS providers.
+      icon: mobile-feed
+    - title: Start a podcast or vlog
+      text: We guide you through the process of doing your thing and captivating your audience.
+      icon: mobile-feed
+    - title: Create a social network
+      text: A chat app customized for you. You're the almighty Admin!  Ditch Discord, toss Twitter in the trash. Self-host your own social network!
+      icon: mobile-feed
+    - title: Build the next big thing
+      text: Most services online lack that personal touch, but not us!  We will be your biggest fan. Customer service is priority number one.
+      icon: mobile-feed
+
+  section3:
+    title: Pick a path
+    subtitle: No matter your profession or whatever you're passionate about, we will help you chase those dreams.
+    image: logos/undraw_road_to_knowledge_m8s0.svg
+    buttonText: Get started
+    buttonLink: "#"
+  section4:
+    title: What people are saying!
+    subtitle: The future of a tech-savvy, self-sufficient decentralized workforce.
+    clients:
+    - name: Irma Walter
+      quote: I never thought I would or could host my own server.  Work Dojos showed me the way..
+      job: Accountant
+      img: 1
+    - name: John Bradford
+      quote: I had always dreamed of doing something else.  I never knew where to start.  Work Dojos cares about their customers and inspired me to make a career change.
+      job: Financial Analyst
+      img: 2
+    - name: Gary Black
+      quote: We saved a ton of money by self-hosting.  Work Dojos guided us through the process of onboarding a chat app, wiki, and learning management system for our entire company at a fraction of the cost of other service providers.
+      job: HR Manager
+      img: 3
+  section5: true
+  footer:
+    # Logo (from /images/logos/___)
+    logo: workmates logo 2.svg
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://github.com/lucperkins/github-fresh
+      # Icons are from Font Awesome
+      icon: instagram
+    - link: https://www.instagram.com/workmateslive/
+      icon: instagram
+    - link: https://www.pinterest.com/workmateslive/
+      icon: pinterest
+    - link: https://twitter.com/WorkmatesLive
+      icon: twitter
+    bulmalogo: true
+    quicklinks:
+      column1:
+        title: "Product"
+        links:
+        - text: Discover features
+          link: /
+        - text: Why choose our product?
+          link: /
+        - text: Compare features
+          link: /
+        - text: Baristas
+          link: /baristas
+        - text: blah
+          link: /blah
+      column2:
+        title: "Docs"
+        links:
+        - text: Get started
+          link: /
+        - text: User guides
+          link: /docs/guides
+        - text: 
+          link: /docs
+        - text: Developers
+          link: /docs/developers
+      column3:
+        title: "Blog"
+        links:
+        - text: Workmates
+          link: https://blog.workmates.live
+        - text: Built with Ghost
+          link: https://ghost.org/
