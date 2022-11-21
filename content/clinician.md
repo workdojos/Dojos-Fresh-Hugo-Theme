@@ -113,7 +113,7 @@ Hop aboard, it's going to be a fun!
     </tr>
 </table>
 
-{{% w3-button-icon  %}}Hello world{{% /w3-button-icon %}}
+{{% w3-button-icon  %}}Hello world 2{{% /w3-button-icon %}}
 {{% w3-button-icon icon="fab fa-google" href="https://google.com" %}}take me to Google{{% /w3-button-icon %}}
 {{% w3-button-icon "/blog" %}}take me to Blog{{% /w3-button-icon %}}
 {{% w3-button-icon "/faq" "far fa-question-circle" %}}take me to FAQ{{% /w3-button-icon %}}
