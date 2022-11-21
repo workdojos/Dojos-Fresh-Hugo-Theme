@@ -68,7 +68,7 @@ See what Docker can do for you.  Sign up for a trial in the upper right or save 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/wiki">
-                        <img src="https://workmates.live/wp-content/uploads/2022/11/wiki.js-logo.png" class="columnImage" />
+                        <img src="https://workmates.live/wp-content/uploads/2022/11/wiki0.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
