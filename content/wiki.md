@@ -74,7 +74,7 @@ See what Wiki.js can do for you.  Sign up for a trial in the upper right or save
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
-                        <h1>Next up:  Vaultwarden.</h1>
+                        <h1>Next up:  Vault.</h1>
                         Password manager to rule them all.
                                                          <a href="https://workdojos.com/vault">Continue</a> 
                     </td>
