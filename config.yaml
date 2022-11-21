@@ -865,39 +865,37 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
+
       # Icons are from Font Awesome
-      icon: instagram
+      
     - link: https://www.instagram.com/workmateslive/
       icon: instagram
     - link: https://www.pinterest.com/workmateslive/
       icon: pinterest
     - link: https://twitter.com/WorkmatesLive
       icon: twitter
-    bulmalogo: true
+    bulmalogo: false
     quicklinks:
       column1:
         title: "Product"
         links:
         - text: Discover features
-          link: /
-        - text: Why choose our product?
-          link: /
-        - text: Compare features
-          link: /
-        - text: Baristas
-          link: /baristas
-        - text: Travelista
-          link: https://travelers.live
+          link: /features
+        - text: Why choose us?
+          link: /why
+        - text: Compare pricing
+          link: /compare
+        - text: Free trial
+          link: https://blog.workmates.live/#/portal/signup
       column2:
         title: "Docs"
         links:
         - text: Get started
-          link: /
+          link: /docs/start
         - text: User guides
           link: /docs/guides
-        - text: 
-          link: /docs
+        - text: Privacy policy
+          link: /docs/privacy
         - text: Developers
           link: /docs/developers
       column3:

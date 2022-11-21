@@ -1,4 +1,5 @@
 ---
+
 title: Clinician's Dashboard
 include_footer: true
 ---
@@ -112,4 +113,7 @@ Hop aboard, it's going to be a fun!
         </td>
     </tr>
 </table>
+
+
+{{< button size="large" relref="usage/getting-started/" >}}Getting Started{{< /button >}}
 
