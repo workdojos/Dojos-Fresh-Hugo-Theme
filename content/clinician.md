@@ -113,7 +113,3 @@ Hop aboard, it's going to be a fun!
     </tr>
 </table>
 
-{{% button href="https://gohugo.io/" style="info" %}}Get Hugo{{% /button %}}
-{{% button href="https://gohugo.io/" style="note" %}}Get Hugo{{% /button %}}
-{{% button href="https://gohugo.io/" style="tip" %}}Get Hugo{{% /button %}}
-{{% button href="https://gohugo.io/" style="warning" %}}Get Hugo{{% /button %}}
