@@ -115,5 +115,4 @@ Hop aboard, it's going to be a fun!
 </table>
 
 
-{{< button size="large" relref="usage/getting-started/" >}}Getting Started{{< /button >}}
 
