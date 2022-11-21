@@ -52,12 +52,12 @@ See what Docker can do for you.  Sign up for a trial in the upper right or save 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://www.docker.com/">  
-                        <img src="https://workmates.live/wp-content/uploads/2022/11/docker-logo.webp" class="columnImage" />
+                        <img src="https://workmates.live/wp-content/uploads/2022/11/docker-logo.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>Accelerate how you build, share, and run modern applications.Accelerate how you build, share, and run modern applications.</h1>
+                        <h1>Accelerate how you build, share, and run modern applications.</h1>
                         Docker makes development efficient and predictable. 
                     </td>
                 </tr>
@@ -75,7 +75,7 @@ See what Docker can do for you.  Sign up for a trial in the upper right or save 
                     <td valign="top" class="rightColumnContent">
                         <h1>Next up:  Wiki.js.</h1>
                         The most powerful and extensible open source Wiki software.
-                                                         <a href="https://workdojos.com/wiki">Continue</a> 
+                              <a href="https://workdojos.com/wiki">Continue</a> 
                     </td>
                 </tr>
             </table>
