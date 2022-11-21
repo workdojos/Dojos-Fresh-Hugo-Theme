@@ -113,6 +113,7 @@ Hop aboard, it's going to be a fun!
     </tr>
 </table>
 
-{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
-{{% button href="https://getgrav.org/" icon="fas fa-download" %}}Get Grav with icon{{% /button %}}
-{{% button href="https://getgrav.org/" icon="fas fa-download" icon-position="right" %}}Get Grav with icon right{{% /button %}}
+{{% button href="https://gohugo.io/" style="info" %}}Get Hugo{{% /button %}}
+{{% button href="https://gohugo.io/" style="note" %}}Get Hugo{{% /button %}}
+{{% button href="https://gohugo.io/" style="tip" %}}Get Hugo{{% /button %}}
+{{% button href="https://gohugo.io/" style="warning" %}}Get Hugo{{% /button %}}
