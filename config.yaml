@@ -96,7 +96,7 @@ params:
   - title: Log in
     url: /
   - title: Sign up
-    url: /
+    url: https://blog.workmates.live/#/portal/signup
     button: true
   sidebar:
     # Logo (from /images/logos/___.svg)
@@ -884,7 +884,7 @@ params:
         - text: Why choose us?
           link: /why
         - text: Compare pricing
-          link: /compare
+          link: /ghost
         - text: Free trial
           link: https://blog.workmates.live/#/portal/signup
       column2:

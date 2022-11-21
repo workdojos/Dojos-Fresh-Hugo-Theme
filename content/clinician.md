@@ -18,14 +18,19 @@ The best builders have all the tools!  Open-source tech makes anything possible.
 
 It costs less than a dollar a day.  What do you want to build today?
 
-Chat with a person who cares.   
+Chat with us in the same app we deploy for you.  Build your own Twitter.  With self-hosted technology, you can build whatever you want!  What do you want to build today?   
 
-<br>
+<br><br>
+
+<iframe src="https://chat.workmates.live/channel/Clinician?layout=embedded" style="width: 100%;height: 500px;box-shadow: 0 5px 10px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+
+<br><br>
 
 {{% subtitle5 "Do you work in the medical field?" %}}
 If you would like a dashboard customized to your practice or profession, if you work for a hospital or clinic that is looking for something both better and cheaper, or if you're just looking to stay in-the-know about a particular medical field, then maybe our service can be of benefit to you!
 
-<br>
+<br><br>
+
 
 {{% subtitle5 "We support small business because we are a small business." %}}
 We are an employee-owned company.  We believe in revitalizing the world through grassroots good old-fashioned teamwork.  Whoever you are, whatever you do, you are welcome here!  We believe in opportunity and fairness and our mission is to deliver value in everything that we do.  
@@ -38,7 +43,35 @@ We are an employee-owned company.  We believe in revitalizing the world through 
       <li>Do you want to get involved or just have a question and want to talk to someone? </li>
 </ul> 
 
-Hop aboard, it's going to be a fun!
+Hop aboard, it's going to be a fun ride!  Click the "Sign Up" button in the upper right (includes both a free tier and a free trial) or get 25% off for 12 consecutive months using the following link through the end of the year.  
+
+Happy holidays!
+
+ <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
+
+<table>
+    <caption>He-Man and Skeletor facts</caption>
+    <tr>
+        <td> </td>
+        <th scope="col" class="heman">He-Man</th>
+        <th scope="col" class="skeletor">Skeletor</th>
+    </tr>
+    <tr>
+        <th scope="row">Role</th>
+        <td>Hero</td>
+        <td>Villain</td>
+    </tr>
+    <tr>
+        <th scope="row">Weapon</th>
+        <td>Power Sword</td>
+        <td>Havoc Staff</td>
+    </tr>
+    <tr>
+        <th scope="row">Dark secret</th>
+        <td>Expert florist</td>
+        <td>Cries at romcoms</td>
+    </tr>
+</table>
 
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
