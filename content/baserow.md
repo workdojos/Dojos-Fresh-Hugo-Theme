@@ -9,7 +9,7 @@ include_footer: true
     <tr>
         <td> </td>
         <th scope="col" class="heman">Self-host</th>
-        <th scope="col" class="skeletor">Ghost pro</th>
+        <th scope="col" class="skeletor">Baserow pro</th>
     </tr>
     <tr>
         <th scope="row">Cheapest option</th>
@@ -57,7 +57,7 @@ A ton of templates included.  See what Baserow can do for you and your productiv
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>Open source no-code database and Airtable alternative.</h1>
+                        <h1>No-code database Airtable alternative.</h1>
                        Create your own online database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser. . 
                     </td>
                 </tr>

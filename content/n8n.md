@@ -9,7 +9,7 @@ include_footer: true
     <tr>
         <td> </td>
         <th scope="col" class="heman">Self-host</th>
-        <th scope="col" class="skeletor">Ghost pro</th>
+        <th scope="col" class="skeletor">n8n pro</th>
     </tr>
     <tr>
         <th scope="row">Cheapest option</th>
@@ -57,7 +57,7 @@ See what n8n can do for you .  Sign up for a trial in the upper right or save 25
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>The workflow automation platform that doesn't box you in, that you never outgrow.</h1>
+                        <h1>The workflow automation platform that doesn't box you in.</h1>
                         Workflows for every team. 
                     </td>
                 </tr>

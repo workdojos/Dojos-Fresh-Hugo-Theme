@@ -9,12 +9,12 @@ include_footer: true
     <tr>
         <td> </td>
         <th scope="col" class="heman">Self-host</th>
-        <th scope="col" class="skeletor">Docker Pro</th>
+        <th scope="col" class="skeletor">Wiki Pro</th>
     </tr>
     <tr>
         <th scope="row">Cheapest option</th>
         <td>About $5/month</td>
-        <td>About $5/month</td>
+        <td>About $15/month</td>
     </tr>
     <tr>
         <th scope="row">Collections</th>
@@ -22,7 +22,7 @@ include_footer: true
         <td>100</td>
     </tr>
     <tr>
-        <th scope="row">Concurrent builds</th>
+        <th scope="row">Family Wikis</th>
         <td>Nearly unlimited</td>
         <td>1</td>
     </tr>

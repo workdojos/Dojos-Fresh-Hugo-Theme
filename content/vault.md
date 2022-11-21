@@ -9,7 +9,7 @@ include_footer: true
     <tr>
         <td> </td>
         <th scope="col" class="heman">Self-host</th>
-        <th scope="col" class="skeletor">Ghost pro</th>
+        <th scope="col" class="skeletor">Bitwarden pro</th>
     </tr>
     <tr>
         <th scope="row">Cheapest option</th>
