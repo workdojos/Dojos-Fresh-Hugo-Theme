@@ -50,7 +50,7 @@ Sign up for a trial in the upper right or save 25% off a subscription with the f
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://bitwarden.com">  
-                        <img src="https://workmates.live/wp-content/uploads/2022/11/bitwarden-logo.png" class="columnImage" />
+                        <img src="https://workmates.live/wp-content/uploads/2022/11/bitwarden-logo2.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
