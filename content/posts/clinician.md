@@ -13,7 +13,7 @@ include_footer: true
 
 {{% subtitle5 "We empower people to build things." %}}
 
-The best builders have all the tools!  Open-source tech makes anything possible.  Incredible functionality for you and your life for next to nothing.
+The best builders have all the tools!  Open-source tech makes anything possible.  
 
 It costs less than a dollar a day.  What do you want to build today?
 
@@ -113,8 +113,3 @@ Hop aboard, it's going to be a fun!
     </tr>
 </table>
 
-{{% w3-button-icon  %}}Hello world{{% /w3-button-icon %}}
-{{% w3-button-icon icon="fab fa-google" href="https://google.com" %}}take me to Google{{% /w3-button-icon %}}
-{{% w3-button-icon "/blog" %}}take me to Blog{{% /w3-button-icon %}}
-{{% w3-button-icon "/faq" "far fa-question-circle" %}}take me to FAQ{{% /w3-button-icon %}}
-{{% w3-button-icon icon="fas fa-exclamation-triangle" classes="w3-button w3-circle w3-theme-d3" %}}Purge{{% /w3-button-icon %}}
