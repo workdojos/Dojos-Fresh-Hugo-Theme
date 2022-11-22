@@ -92,7 +92,7 @@ params:
       url: https://workdojos.com/politician
 
   - title: Log in
-    url: /
+    url: https://blog.workmates.live/#/portal/login
   - title: Sign up
     url: https://blog.workmates.live/#/portal/signup
     button: true
@@ -810,7 +810,9 @@ params:
       text: World's best tools, virtually free.
       url: /
       buttonText: Get started  
+
   section2:
+    image: uploads/wikijs.png
     title: You're here because you want to build something.
     subtitle: A passion project. A portfolio. A service. A billion dollar company.  A f*ckin' legacy.
     features:
@@ -823,9 +825,6 @@ params:
     - title: Empower your teams
       text: Give your teams the ultimate toolkit at a fraction of the cost of premium SaaS providers.
       icon: mobile-feed
-    - title: Start a podcast or vlog
-      text: We guide you through the process of doing your thing and captivating your audience.
-      icon: mobile-feed
     - title: Create a social network
       text: A chat app customized for you. You're the almighty Admin!  Ditch Discord, toss Twitter in the trash. Self-host your own social network!
       icon: mobile-feed
@@ -835,27 +834,27 @@ params:
 
   section3:
     title: Pick a path
-    subtitle: No matter your profession or whatever you're passionate about, we will help you chase those digital dreams on-the-cheap.
+    subtitle: No matter your profession or whatever you're passionate about, we will help you chase those dreams and save you money.
     image: logos/undraw_road_to_knowledge_m8s0.svg
     buttonText: Get started
-    buttonLink: "#"
+    buttonLink: "https://blog.workmates.live/#/portal/signup"
   section4:
-    title: What people are saying!
-    subtitle: The future of a tech-savvy, self-sufficient decentralized workforce.
+    title: Testimonials.
+    subtitle: Helping you break from the herd.
     clients:
-    - name: Irma Walter
+    - name: Irma
       quote: I never thought I would or could host my own server.  Work Dojos showed me the way..
       job: Accountant
       img: 1
-    - name: John Bradford
+    - name: John
       quote: I had always dreamed of doing something else.  I never knew where to start.  Work Dojos cares about their customers and inspired me to make a career change.
       job: Financial Analyst
       img: 2
-    - name: Gary Black
+    - name: Gary
       quote: We saved a ton of money by self-hosting.  Work Dojos guided us through the process of onboarding a chat app, wiki, and learning management system for our entire company at a fraction of the cost of other service providers.
       job: HR Manager
       img: 3
-  section5: true
+  section5: false
   footer:
     # Logo (from /images/logos/___)
     logo: workmates logo 2.svg
