@@ -6,7 +6,7 @@ include_footer: true
 
 
 
-<iframe src="https://clinician.workdojos.com" style="width: 100%;height: 600px;padding: 12px; box-shadow: 0 5px 10px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://clinician.workdojos.com" style="width: 100%;height: 700px;padding: 12px; box-shadow: 0 5px 10px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 
@@ -19,6 +19,8 @@ include_footer: true
 The best builders have all the tools!  Open-source tech makes anything possible.  The dashboard above can be yours, a self-hosted gateway to another world.  
 
 For less than a dollar a day you'll be sitting on top of a mountain of building blocks for you, your family, your business, your digital dreams, and legacy.
+
+<br>
 
 {{% subtitle5 "What do you want to build today?" %}}
 
