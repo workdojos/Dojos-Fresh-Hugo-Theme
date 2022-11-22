@@ -1,24 +1,18 @@
 ---
-
-title: Clinician's Dashboard
+title: Clinician's Dojo
 include_footer: true
 ---
-
-
-
 <iframe src="https://clinician.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
-
-
 
 {{% title3 "" %}}
 
 <br>
 {{% subtitle5 "We empower people to build things." %}}
 
-The best builders have all the tools!  Open-source tech makes anything possible.  The dashboard above can be yours, a gateway to another world.  Your world.  
+The best builders have all the tools!  Open-source tech makes anything possible.  The dashboard above can be yours, a gateway to another world.  Your world!  
 
-For less than a dollar a day you'll be sitting on top of a mountain of building blocks for you, your family, your business, your digital dreams, and legacy.
+For less than a dollar a day you'll be sitting on top of a mountain of building blocks for you, your family, your business, your digital dreams.
 
 <br>
 
