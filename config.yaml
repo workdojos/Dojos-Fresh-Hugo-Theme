@@ -60,8 +60,6 @@ params:
       url: /features/blog
     - title: Your own automation app
       url: /features/automation
-    - title: Your own media server
-      url: /features/media
     - title: Your own VoIP number
       url: /features/voip
     - title: Your own database app

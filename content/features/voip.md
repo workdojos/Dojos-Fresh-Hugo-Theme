@@ -1,54 +1,62 @@
 ---
-title: Automation by n8n
+title: Every Work Dojo has a VoIP number
 include_footer: true
 ---
-<img src="https://workmates.live/wp-content/uploads/2022/11/n8n-logo.png" 
+<img src="https://workmates.live/wp-content/uploads/2022/11/VoIP.jpg" 
      width="300" 
      height="200" />
 
-{{% title3 "Build powerful workflows, really fast." %}}
-Handle branching, merging and iteration easily.
-Pause your workflow to wait for external events..
+{{% title3 "Simplify your communications." %}}
+Ward off unwanted communications..
 
 <br>
 
-{{< video src="/uploads/n8n.mp4" type="video/webm" preload="auto" >}}
-
-
-<br>  
-
-{{% title3 "Simple debugging." %}}
-Your data is displayed alongside your settings, making edge cases easy to track down.
-
-<br>
-
-<img src="/uploads/n8n2.png" 
+<img src="/uploads/v8.svg" 
      width="600" 
      height="600" />
 
 <br>  
-
-{{% title3 "Use templates to get started fast." %}}
-1000+ workflow templates available from our core team and our community.
+{{% title3 "Voicemail." %}}
+Get voicemails forwarded to e-mail.  Enough said. 
 
 <br>
 
-<img src="/uploads/n8n3.png" 
+<img src="/uploads/v10.svg" 
+     width="600" 
+     height="600" />
+
+<br>  
+
+{{% title3 "Time Conditions." %}}
+A Time Condition is a set of rules that allows you to manage and route your incoming calls according to your business needs (e.g. to cover your working hours)..
+
+<br>
+
+<img src="/uploads/v7.svg" 
      width="600" 
      height="600" />
 
 <br>
 
-{{% title3 "Code when you need it, UI when you don't." %}}
-Your data is displayed alongside your settings, making edge cases easy to track down.
+{{% title3 "Digital Receptionist (IVR)." %}}
+An Interactive Voice Response (IVR) or Digital Receptionist is the best tool for companies that handle a high volume of incoming calls and are looking for a way to handle calls more efficiently..
 
 <br>
 
-<img src="/uploads/n8n4.png" 
+<img src="/uploads/v6.svg" 
      width="600" 
      height="600" />
 
 <br>
 
+{{% title3 "Ring groups." %}}
+A Ring Group is a call routing feature that redirects incoming calls to a designated group of extensions. You can add various types of extensions to a ring group including Main Account, Sub-Accounts, SIP URIs and Call Forwardings.
 
+<br>
+
+<img src="/uploads/v5.svg" 
+     width="600" 
+     height="600" />
+
+<br>
 

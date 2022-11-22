@@ -1,50 +1,44 @@
 ---
-title: Automation by n8n
+title: Virtual cafe by Jitsi Meet
 include_footer: true
 ---
-<img src="https://workmates.live/wp-content/uploads/2022/11/n8n-logo.png" 
+<img src="https://workmates.live/wp-content/uploads/2022/11/jitsi-logo.png" 
      width="300" 
      height="200" />
 
-{{% title3 "Build powerful workflows, really fast." %}}
-Handle branching, merging and iteration easily.
-Pause your workflow to wait for external events..
-
-<br>
-
-{{< video src="/uploads/n8n.mp4" type="video/webm" preload="auto" >}}
-
+{{% title3 "Invite users to a conference via a simple, custom URL." %}}
+Invite users to a conference via a simple, custom URL
 
 <br>  
-
-{{% title3 "Simple debugging." %}}
-Your data is displayed alongside your settings, making edge cases easy to track down.
+Share your desktop, presentations, and more
+{{% title3 "Get the most out of your meetings." %}}
+Rule the meeting as the almighty Admin.  It is YOUR cafe, your rules!
 
 <br>
 
-<img src="/uploads/n8n2.png" 
+<img src="/uploads/j1.jpg" 
      width="600" 
      height="600" />
 
 <br>  
 
-{{% title3 "Use templates to get started fast." %}}
-1000+ workflow templates available from our core team and our community.
+{{% title3 "Enhanced noise suppression." %}}
+Edit documents together using Etherpad
 
 <br>
 
-<img src="/uploads/n8n3.png" 
+<img src="/uploads/j2.png" 
      width="600" 
      height="600" />
 
 <br>
 
-{{% title3 "Code when you need it, UI when you don't." %}}
-Your data is displayed alongside your settings, making edge cases easy to track down.
+{{% title3 "Pick fun meeting URLs for every meeting." %}}
+Trade messages and emojis while you video conference, with integrated chat.
 
 <br>
 
-<img src="/uploads/n8n4.png" 
+<img src="/uploads/j3.jpg" 
      width="600" 
      height="600" />
 

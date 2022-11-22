@@ -1,50 +1,51 @@
 ---
-title: Automation by n8n
+title: Websites by Hugo
 include_footer: true
 ---
-<img src="https://workmates.live/wp-content/uploads/2022/11/n8n-logo.png" 
+<img src="https://workmates.live/wp-content/uploads/2022/11/hugo.png" 
      width="300" 
      height="200" />
 
-{{% title3 "Build powerful workflows, really fast." %}}
-Handle branching, merging and iteration easily.
-Pause your workflow to wait for external events..
+{{% title3 "Flexibility rules. Hugo is a content strategist's dream." %}}
+Hugo supports unlimited content types, taxonomies, menus, dynamic API-driven content, and more, all without plugins.
+
 
 <br>
 
-{{< video src="/uploads/n8n.mp4" type="video/webm" preload="auto" >}}
-
-
-<br>  
-
-{{% title3 "Simple debugging." %}}
-Your data is displayed alongside your settings, making edge cases easy to track down.
-
-<br>
-
-<img src="/uploads/n8n2.png" 
+<img src="/uploads/h3.svg" 
      width="600" 
      height="600" />
 
 <br>  
 
-{{% title3 "Use templates to get started fast." %}}
-1000+ workflow templates available from our core team and our community.
+{{% title3 "Capable Templating." %}}
+Hugo's Go-based templating provides just the right amount of logic to build anything from the simple to complex. .
 
 <br>
 
-<img src="/uploads/n8n3.png" 
+<img src="/uploads/hugo.jpg" 
+     width="600" 
+     height="600" />
+
+<br>  
+
+{{% title3 "Hugo has common patterns to get your work done quickly.." %}}
+Hugo ships with pre-made templates to make quick work of SEO, commenting, analytics and other functions. One line of code, and you're done. .
+
+<br>
+
+<img src="/uploads/h4.jpg" 
      width="600" 
      height="600" />
 
 <br>
 
-{{% title3 "Code when you need it, UI when you don't." %}}
-Your data is displayed alongside your settings, making edge cases easy to track down.
+{{% title3 "HTML not enough?" %}}
+Hugo allows you to output your content in multiple formats, including JSON or AMP, and makes it easy to create your own. 
 
 <br>
 
-<img src="/uploads/n8n4.png" 
+<img src="/uploads/h2.png" 
      width="600" 
      height="600" />
 

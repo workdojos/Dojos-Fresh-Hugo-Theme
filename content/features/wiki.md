@@ -1,54 +1,48 @@
 ---
-title: Automation by n8n
+title: Wiki by Wiki.js
 include_footer: true
 ---
-<img src="https://workmates.live/wp-content/uploads/2022/11/n8n-logo.png" 
+<img src="https://workmates.live/wp-content/uploads/2022/11/wikijs.png" 
      width="300" 
      height="200" />
 
-{{% title3 "Build powerful workflows, really fast." %}}
-Handle branching, merging and iteration easily.
-Pause your workflow to wait for external events..
+{{% title3 "The most powerful andextensible open source Wiki software." %}}
+Make documentation a joy to write
+using Wiki.js's beautiful and intuitive interface
 
 <br>
 
-{{< video src="/uploads/n8n.mp4" type="video/webm" preload="auto" >}}
+<img src="/uploads/w1.png" 
+     width="600" 
+     height="600" />
 
+<br>   
 
-<br>  
-
-{{% title3 "Simple debugging." %}}
-Your data is displayed alongside your settings, making edge cases easy to track down.
+{{% title3 "Install anywhere." %}}
+Works on virtually any platform and is compatible with either PostgreSQL, MySQL, MariaDB, MS SQL Server or SQLite!.
 
 <br>
 
-<img src="/uploads/n8n2.png" 
+<img src="/uploads/wa1.png" 
      width="600" 
      height="600" />
 
 <br>  
 
-{{% title3 "Use templates to get started fast." %}}
-1000+ workflow templates available from our core team and our community.
-
+{{% title3 "Scalable." %}}
+Whether it's on a tiny Raspberry Pi or on a high performance VM in the cloud, Wiki.js intelligently make use of the available resources.
 <br>
 
-<img src="/uploads/n8n3.png" 
+<img src="/uploads/wikijs.png" 
      width="600" 
      height="600" />
 
 <br>
 
-{{% title3 "Code when you need it, UI when you don't." %}}
-Your data is displayed alongside your settings, making edge cases easy to track down.
+{{% title3 "Protected." %}}
+Make your wiki public, completely private or a mix of both..
 
-<br>
 
-<img src="/uploads/n8n4.png" 
-     width="600" 
-     height="600" />
-
-<br>
 
 
 
