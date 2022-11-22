@@ -6,21 +6,23 @@ include_footer: true
 
 
 
-<iframe src="https://clinician.workdojos.com" style="width: 100%;height: 800px;box-shadow: 0 5px 10px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://clinician.workdojos.com" style="width: 100%;height: 600px;padding: 12px; box-shadow: 0 5px 10px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
+
+
 
 {{% title3 "" %}}
 
 <br>
 {{% subtitle5 "We empower people to build things." %}}
 
-The best builders have all the tools!  Open-source tech makes anything possible.  
+The best builders have all the tools!  Open-source tech makes anything possible.  The dashboard above can be yours, a self-hosted gateway to another world.  
 
-For less than a dollar a day you'll be sitting on top of a mountain of building blocks for you, your family, your business, your digital legacy.
+For less than a dollar a day you'll be sitting on top of a mountain of building blocks for you, your family, your business, your digital dreams, and legacy.
 
 What do you want to build today?
 
-Build your own Twitter.  Start a business.  Serve up the coolest family media server on the block.  Organize your digital life. Take back your data privacy and host it your way.  
+Build your own Twitter.  Start a business.  Serve up the coolest family media server on the block.  Organize your digital life. Take back your data privacy, HOST IT YOUR WAY!  
 <br>
 <table>
     <caption></caption>
@@ -74,7 +76,7 @@ Build your own Twitter.  Start a business.  Serve up the coolest family media se
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://workdojos.com/physicaltherapist">  
+                      <a href="https://workdojos.com/wiki">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/wikijs.png" class="columnImage" />
                     </td>
                 </tr>
@@ -88,7 +90,7 @@ Build your own Twitter.  Start a business.  Serve up the coolest family media se
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://workdojos.com/physicaltherapist">  
+                      <a href="https://workdojos.com/n8n">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/n8n-logo.png" class="columnImage" />
                     </td>
                 </tr>
@@ -102,7 +104,7 @@ Build your own Twitter.  Start a business.  Serve up the coolest family media se
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://workdojos.com/physicaltherapist">  
+                      <a href="https://workdojos.com/chat">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" class="columnImage" />
                     </td>
                 </tr>
@@ -116,7 +118,7 @@ Build your own Twitter.  Start a business.  Serve up the coolest family media se
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://workdojos.com/physicaltherapist">  
+                      <a href="https://workdojos.com/db">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/baserow4.png" class="columnImage" />
                     </td>
                 </tr>
@@ -130,7 +132,7 @@ Build your own Twitter.  Start a business.  Serve up the coolest family media se
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="rightColumnContent">
-                      <a href="https://workdojos.com/registerednurse">
+                      <a href="https://workdojos.com/ghost">
                         <img src="https://workmates.live/wp-content/uploads/2022/11/ghost-black-logo.png" class="columnImage" />
                     </td>
                 </tr>
