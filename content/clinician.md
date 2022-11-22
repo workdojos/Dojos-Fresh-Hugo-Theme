@@ -10,15 +10,15 @@ include_footer: true
 <br>
 {{% subtitle5 "We empower people to build things." %}}
 
-The best builders have all the tools!  Open-source tech makes anything possible.  The dashboard above can be yours, a gateway to another world.  Your world!  
+The best builders have all the tools!  Open-source tech makes anything possible.  A dashboard is the gateway to another world.  Your world!  
 
-For less than a dollar a day you'll be sitting on top of a mountain of building blocks for you, your family, your business, your digital dreams.
+For less than a dollar a day you'll atop a mountain of building blocks for you, your family, your business, your digital dreams.
 
 <br>
 
 {{% subtitle5 "What do you want to build today?" %}}
 
-Build a Twitter.  Start a business.  Dish up the coolest family server on the block.  Organize everything. HOST IT YOUR WAY!  
+Build a Twitter.  Start a business.  Dish up the coolest family media server on the block.  Organize everything. HOST IT YOUR WAY!  
 <br>
 <table>
     <caption></caption>
