@@ -22,7 +22,7 @@ For less than a dollar a day you'll be sitting on top of a mountain of building 
 
 {{% subtitle5 "What do you want to build today?" %}}
 
-Build your own Twitter.  Start a business.  Serve up the coolest family media server on the block.  Organize your digital life. Take back your data privacy, HOST IT YOUR WAY!  
+Build your own Twitter.  Start a business.  Serve up the coolest family server on the block.  Organize everything. Take back your data privacy and HOST IT YOUR WAY!  
 <br>
 <table>
     <caption></caption>
