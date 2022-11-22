@@ -66,7 +66,7 @@ Build your own Twitter.  Start a business.  Serve up the coolest family media se
     </tr>
 </table>
 
-
+<br><br>
 
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -142,10 +142,14 @@ Build your own Twitter.  Start a business.  Serve up the coolest family media se
         </td>
     </tr>
 </table>
-<br>
 
-{{% subtitle5 "Do you work in the medical field?" %}}
+
+<figure>
+    <blockquote cite="">
+        <p></p>
+    {{% subtitle5 "Do you work in the medical field?" %}}
 If you would like a dashboard customized to your practice or profession, if you work for a hospital or clinic that is looking for something both better and cheaper, or if you're just looking to stay in-the-know about a particular medical field, then maybe our service can be of benefit to you!
+</figure>
 
 <br>
 
@@ -160,7 +164,9 @@ We are an employee-owned company.  We believe in revitalizing the world through 
       <li>Do you want to get involved or just have a question and want to talk to someone? </li>
 </ul> 
 
-Hop aboard, it's going to be a fun ride!  Click the "Sign Up" button in the upper right (includes both a free tier and a free trial) or get 25% off for 12 consecutive months using the following link through the end of the year.  
+Hop aboard, it's going to be a fun ride!  Back out anytime, but we think you won't want to!  
+
+Click the "Sign Up" button in the upper right (includes both a free tier and a free trial) or get 25% off for 12 consecutive months using the following link through the end of the year.  
 
 Happy holidays!
 
