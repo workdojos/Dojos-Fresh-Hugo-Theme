@@ -16,7 +16,7 @@ include_footer: true
 <br>
 {{% subtitle5 "We empower people to build things." %}}
 
-The best builders have all the tools!  Open-source tech makes anything possible.  The dashboard above can be yours, a self-hosted gateway to another world.  
+The best builders have all the tools!  Open-source tech makes anything possible.  The dashboard above can be yours, a gateway to another world.  Your world.  
 
 For less than a dollar a day you'll be sitting on top of a mountain of building blocks for you, your family, your business, your digital dreams, and legacy.
 
@@ -24,7 +24,7 @@ For less than a dollar a day you'll be sitting on top of a mountain of building 
 
 {{% subtitle5 "What do you want to build today?" %}}
 
-Build your own Twitter.  Start a business.  Serve up the coolest family server on the block.  Organize everything. Take back your data privacy and HOST IT YOUR WAY!  
+Build a Twitter.  Start a business.  Dish up the coolest family server on the block.  Organize everything. HOST IT YOUR WAY!  
 <br>
 <table>
     <caption></caption>
