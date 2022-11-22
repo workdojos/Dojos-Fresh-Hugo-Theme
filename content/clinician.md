@@ -10,7 +10,7 @@ include_footer: true
 <br>
 {{% subtitle5 "We empower people to build things." %}}
 
-The best builders have all the tools! Open-source tech makes anything possible. A dashboard. A gateway to another world. Your world!
+The best builders have all the tools!  Open-source tech makes anything possible. A dashboard.  A gateway to another world.  Your world!
 
 For less than a dollar a day you'll sit atop a mountain of building blocks for you, your family, your business, your digital dreams.
 
@@ -18,7 +18,7 @@ For less than a dollar a day you'll sit atop a mountain of building blocks for y
 
 {{% subtitle5 "What do you want to build today?" %}}
 
-Build a Twitter.  Start a business.  Dish up the coolest family media server on the block.  Organize everything. HOST IT YOUR WAY!  
+Build a Twitter.  Start a business.  Dish up the coolest family media server on the block.  Organize.  Host it your way! 
 <br>
 <table>
     <caption></caption>
@@ -39,7 +39,7 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
     </tr>
     <tr>
         <th scope="row">Rocket.chat</th>
-        <td>Included in your Work Dojo</td>
+        <td>Included in your Dojo</td>
         <td>Slack Business $12.50/user/mo</td>
     </tr>
     <tr>
