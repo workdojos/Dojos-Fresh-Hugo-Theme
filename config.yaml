@@ -879,8 +879,10 @@ params:
       column1:
         title: "Product"
         links:
-        - text: Discover features
+        - text: Features
           link: /features
+        - text: Partners
+          link: /partners
         - text: Why choose us?
           link: /why
         - text: Compare pricing

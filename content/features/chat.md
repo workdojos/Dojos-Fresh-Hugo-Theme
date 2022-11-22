@@ -1,18 +1,52 @@
 ---
-title: AGB
+title: Chat server by Rocket.chat
 include_footer: true
 ---
+<img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" 
+     width="300" 
+     height="200" />
 
-{{% title3 "§1 Lorem" %}}
-Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak. Ball tip alcatra turkey, cupim strip steak swine short loin tenderloin pancetta corned beef ribeye cow short ribs. Turkey turducken flank filet mignon beef ribs pastrami rump, andouille prosciutto picanha kevin strip steak. Corned beef fatback landjaeger hamburger alcatra, bacon buffalo tongue cow biltong salami sirloin swine.
-
-<br>
-
-{{% title3 "§2 Bacon" %}}
-{{% subtitle5 "§2.1 Bacon1" %}}
-Buffalo cupim kielbasa spare ribs frankfurter. Ribeye pork burgdoggen tenderloin, tail strip steak bacon ham hock pork loin cupim. Bresaola biltong salami, cow ham hock doner pork chop bacon sausage short ribs. Picanha shank sausage turducken. Ham hock t-bone cupim, tri-tip biltong venison flank beef. Cupim bresaola kevin, ham hock beef hamburger tri-tip biltong sirloin filet mignon.
+{{% title3 "Let every conversation flow - without compromise." %}}
+Secure and compliant collaboration platform.
+Own your data, customize anything, integrate everything.
 
 <br>
 
-{{% subtitle5 "§2.2 Bacon2" %}}
-Beef jowl tail alcatra frankfurter bacon t-bone hamburger shankle. Ham hock ball tip spare ribs turkey fatback shank short loin buffalo meatball burgdoggen pork chop shankle. Porchetta buffalo pork belly chicken leberkas drumstick. Jerky chuck brisket spare ribs ribeye pork chop shankle beef ribs beef capicola. Boudin short ribs rump flank picanha. Brisket pork loin turducken, flank jerky pastrami pork chop spare ribs bresaola beef ribs. Cow fatback tenderloin pork loin pancetta.
+<img src="/uploads/r1.png" 
+     width="600" 
+     height="600" />
+
+<br>  
+
+{{% title3 "100% in Control." %}}
+Own your conversations. Choose from self-hosted, air-gapped or secure cloud deployment options that meet your security and compliance needs..
+
+<br>
+
+<img src="/uploads/r2.png" 
+     width="600" 
+     height="600" />
+
+<br>  
+
+{{% title3 "100% Privacy." %}}
+E2E encrypted, ISO 27001 certified, and supporting compliance with GDPR, CCPA, LGPD, and HIPAA..
+
+<br>
+
+<img src="/uploads/r3.webp" 
+     width="600" 
+     height="600" />
+
+<br>
+
+{{% title3 "100% Customizable." %}}
+Integrate with your ecosystem using our open API. Enjoy a wide range of customization and white-labeling options. Perfect as in-app or livestream chat..
+
+<br>
+
+<img src="/uploads/r5.png" 
+     width="600" 
+     height="600" />
+
+
