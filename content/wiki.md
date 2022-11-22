@@ -58,9 +58,8 @@ See what Wiki.js can do for you.  Sign up for a trial in the upper right or save
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>Make documentation a joy to write!</h1>
+                        <h1>Your digital legacy.  Your wiki.</h1>
                         A perfect way to cement your legacy online. 
-                                                 <a href="https://workdojos.com/vault">Continue</a> 
                     </td>
                 </tr>
             </table>

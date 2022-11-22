@@ -11,26 +11,143 @@ include_footer: true
 
 {{% title3 "" %}}
 
-
+<br>
 {{% subtitle5 "We empower people to build things." %}}
 
-The best builders have all the tools!  Open-source tech makes anything possible.  Incredible functionality for you and your life for next to nothing.
+The best builders have all the tools!  Open-source tech makes anything possible.  
 
-It costs less than a dollar a day.  What do you want to build today?
+For less than a dollar a day you'll be sitting on top of a mountain of building blocks for you, your family, your business, your digital legacy.
 
-Chat with us in the same app we deploy for you.  Build your own Twitter.  With self-hosted technology, you can build whatever you want!  What do you want to build today?   
+What do you want to build today?
 
-<br><br>
+Build your own Twitter.  Start a business.  Serve up the coolest family media server on the block.  Organize your digital life. Take back your data privacy and host it your way.  
+<br>
+<table>
+    <caption></caption>
+    <tr>
+        <td> </td>
+        <th scope="col" class="heman">Work Dojo</th>
+        <th scope="col" class="skeletor">Premium SaaS subscriptions</th>
+    </tr>
+    <tr>
+        <th scope="row">Website</th>
+        <td>Included in your Work Dojo</td>
+        <td>Squarespace Business $23/mo, Wix Pro $27/mo</td>
+    </tr>
+    <tr>
+        <th scope="row">Ghost blog</th>
+        <td>Included in your Work Dojo</td>
+        <td>Ghost Pro $25/mo</td>
+    </tr>
+    <tr>
+        <th scope="row">Rocket.chat</th>
+        <td>Included in your Work Dojo</td>
+        <td>Slack Business $12.50/user/mo</td>
+    </tr>
+    <tr>
+        <th scope="row">Baserow code-free db</th>
+        <td>Included in your Work Dojo</td>
+        <td>Baserow Premium $5/user/mo, , Airtable $10/user/mo</td>
+    </tr>
+    <tr>
+        <th scope="row">n8n Automation</th>
+        <td>Included in your Work Dojo</td>
+        <td>n8n Pro $50/mo</td>
+    </tr>
+    <tr>
+        <th scope="row">Wiki.js</th>
+        <td>Included in your Work Dojo</td>
+        <td>Free to host on your own server</td>
+    </tr>
+    <tr>
+        <th scope="row">Yearly costs</th>
+        <td>Work Dojos $250/yr </td>
+        <td>Premium SaaS apps $124.50/mo * 12 = $1494/yr  </td>
+    </tr>
+</table>
 
-<iframe src="https://chat.workmates.live/channel/Clinician?layout=embedded" style="width: 100%;height: 500px;box-shadow: 0 5px 10px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 
-<br><br>
+
+<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+    <tr>
+        <td align="center" valign="top" width="15%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="leftColumnContent">
+                      <a href="https://workdojos.com/physicaltherapist">  
+                        <img src="https://workmates.live/wp-content/uploads/2022/11/wikijs.png" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="leftColumnContent">
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="15%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="leftColumnContent">
+                      <a href="https://workdojos.com/physicaltherapist">  
+                        <img src="https://workmates.live/wp-content/uploads/2022/11/n8n-logo.png" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="leftColumnContent">
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="15%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="leftColumnContent">
+                      <a href="https://workdojos.com/physicaltherapist">  
+                        <img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="leftColumnContent">
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="15%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="leftColumnContent">
+                      <a href="https://workdojos.com/physicaltherapist">  
+                        <img src="https://workmates.live/wp-content/uploads/2022/11/baserow4.png" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="leftColumnContent">
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="15%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="rightColumnContent">
+                      <a href="https://workdojos.com/registerednurse">
+                        <img src="https://workmates.live/wp-content/uploads/2022/11/ghost-black-logo.png" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="rightColumnContent">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br>
 
 {{% subtitle5 "Do you work in the medical field?" %}}
 If you would like a dashboard customized to your practice or profession, if you work for a hospital or clinic that is looking for something both better and cheaper, or if you're just looking to stay in-the-know about a particular medical field, then maybe our service can be of benefit to you!
 
-<br><br>
-
+<br>
 
 {{% subtitle5 "We support small business because we are a small business." %}}
 We are an employee-owned company.  We believe in revitalizing the world through grassroots good old-fashioned teamwork.  Whoever you are, whatever you do, you are welcome here!  We believe in opportunity and fairness and our mission is to deliver value in everything that we do.  
@@ -49,29 +166,7 @@ Happy holidays!
 
  <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
 
-<table>
-    <caption>He-Man and Skeletor facts</caption>
-    <tr>
-        <td> </td>
-        <th scope="col" class="heman">He-Man</th>
-        <th scope="col" class="skeletor">Skeletor</th>
-    </tr>
-    <tr>
-        <th scope="row">Role</th>
-        <td>Hero</td>
-        <td>Villain</td>
-    </tr>
-    <tr>
-        <th scope="row">Weapon</th>
-        <td>Power Sword</td>
-        <td>Havoc Staff</td>
-    </tr>
-    <tr>
-        <th scope="row">Dark secret</th>
-        <td>Expert florist</td>
-        <td>Cries at romcoms</td>
-    </tr>
-</table>
+
 
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -147,5 +242,4 @@ Happy holidays!
     </tr>
 </table>
 
-
-
+<br><br>
