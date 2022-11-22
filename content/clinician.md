@@ -20,7 +20,7 @@ The best builders have all the tools!  Open-source tech makes anything possible.
 
 For less than a dollar a day you'll be sitting on top of a mountain of building blocks for you, your family, your business, your digital dreams, and legacy.
 
-What do you want to build today?
+{{% subtitle5 "What do you want to build today?" %}}
 
 Build your own Twitter.  Start a business.  Serve up the coolest family media server on the block.  Organize your digital life. Take back your data privacy, HOST IT YOUR WAY!  
 <br>
@@ -33,12 +33,12 @@ Build your own Twitter.  Start a business.  Serve up the coolest family media se
     </tr>
     <tr>
         <th scope="row">Website</th>
-        <td>Included in your Work Dojo</td>
+        <td>Included in your Dojo</td>
         <td>Squarespace Business $23/mo, Wix Pro $27/mo</td>
     </tr>
     <tr>
         <th scope="row">Ghost blog</th>
-        <td>Included in your Work Dojo</td>
+        <td>Included in your Dojo</td>
         <td>Ghost Pro $25/mo</td>
     </tr>
     <tr>
@@ -47,18 +47,18 @@ Build your own Twitter.  Start a business.  Serve up the coolest family media se
         <td>Slack Business $12.50/user/mo</td>
     </tr>
     <tr>
-        <th scope="row">Baserow code-free db</th>
-        <td>Included in your Work Dojo</td>
+        <th scope="row">Baserow code-free database</th>
+        <td>Included in your Dojo</td>
         <td>Baserow Premium $5/user/mo, , Airtable $10/user/mo</td>
     </tr>
     <tr>
         <th scope="row">n8n Automation</th>
-        <td>Included in your Work Dojo</td>
+        <td>Included in your Dojo</td>
         <td>n8n Pro $50/mo</td>
     </tr>
     <tr>
         <th scope="row">Wiki.js</th>
-        <td>Included in your Work Dojo</td>
+        <td>Included in your Dojo</td>
         <td>Free to host on your own server</td>
     </tr>
     <tr>
