@@ -47,6 +47,14 @@ params:
     - kromo
     - infinite
     - gutwork
+    - systek2
+    - tribe2
+    - kromo2
+    - infinite2
+    - gutwork2
+
+
+
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Features
