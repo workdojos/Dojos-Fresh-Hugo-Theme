@@ -872,7 +872,7 @@ params:
         - text: Partners
           link: /partners
         - text: Why choose us?
-          link: /ghost
+          link: /why
         - text: Free trial
           link: https://blog.workmates.live/#/portal/signup
       column2:
