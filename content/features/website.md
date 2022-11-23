@@ -13,8 +13,8 @@ Hugo supports unlimited content types, taxonomies, menus, dynamic API-driven con
 <br>
 
 <img src="/uploads/h3.svg" 
-     width="600" 
-     height="600" />
+     width="300" 
+     height="300" />
 
 <br>  
 
@@ -25,7 +25,7 @@ Hugo's Go-based templating provides just the right amount of logic to build anyt
 
 <img src="/uploads/hugo.jpg" 
      width="600" 
-     height="600" />
+     height="400" />
 
 <br>  
 
@@ -36,7 +36,7 @@ Hugo ships with pre-made templates to make quick work of SEO, commenting, analyt
 
 <img src="/uploads/h4.jpg" 
      width="600" 
-     height="600" />
+     height="400" />
 
 <br>
 
@@ -51,5 +51,12 @@ Hugo allows you to output your content in multiple formats, including JSON or AM
 
 <br>
 
+Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
 
+ <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
+
+
+
+
+ <a href="https://workdojos.com/features/automation">Next feature</a> 
 

@@ -60,3 +60,11 @@ A Ring Group is a call routing feature that redirects incoming calls to a design
 
 <br>
 
+Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
+
+ <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
+
+
+
+
+ <a href="https://workdojos.com/features/website">Next feature</a> 

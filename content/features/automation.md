@@ -50,3 +50,11 @@ Your data is displayed alongside your settings, making edge cases easy to track 
 
 <br>
 
+Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
+
+ <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
+
+
+
+
+ <a href="https://workdojos.com/features/blog">Next feature</a> 

@@ -33,7 +33,7 @@ params:
     # Main hero title
     title: Dojo. Dashboard. Small Business in a Box.
     # Hero subtitle (optional)
-    subtitle: For less than a dollar a day we help you start a business, dojo, or passion project. Using open-source technology.
+    subtitle: For less than a dollar a day we will help you start a business, dojo, or passion project using open-source tech.
     # Button text
     buttontext: Get started
     # Where the main hero button links to
@@ -103,7 +103,7 @@ params:
 
 
 
-    - title: Browse dojos
+    - title: Browse Dojos
       icon: image
       links:
       - text: 4X4S
@@ -401,12 +401,6 @@ params:
         url: https://workdojos.com/YogaInstructor
       - text: Zookeeper
         url: https://workdojos.com/Zookeeper
-
-
-
-
-
-
     - title: E-mail us
       icon: envelope
       links:
@@ -798,23 +792,23 @@ params:
     - title: Customized dashboards
       icon: mouse-globe
       text: Your info, no ads, customized to your profession.
-      url: /
+      url: https://blog.workmates.live/#/portal/signup
       buttonText: Free trial
     - title: In YOUR own private cloud
       icon: laptop-cloud
       text: Your server.  Your data.  You're in control.
-      url: /
+      url: https://blog.workmates.live/#/portal/signup
       buttonText: Get started
     - title: Apps you own and control
       icon: plug-cloud
       text: World's best tools, virtually free.
-      url: /
+      url: https://blog.workmates.live/#/portal/signup
       buttonText: Get started  
 
   section2:
     image: uploads/wikijs.png
     title: You're here because you want to build something.
-    subtitle: A passion project. A portfolio. A service. A billion dollar company.  A f*ckin' legacy.
+    subtitle: A passion project. A portfolio. A service. A billion dollar company.  A legacy.
     features:
     - title: Do what you love to do
       text: Our mission is to empower people to become self-sufficient with their technology!  This means equipping you with the wherewithal to do your own thing, whatever that is!
@@ -904,3 +898,4 @@ params:
           link: https://blog.workmates.live
         - text: Built with Ghost
           link: https://ghost.org/
+

@@ -59,7 +59,7 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
     </tr>
     <tr>
         <th scope="row">Yearly costs</th>
-        <td>Work Dojos $250/yr </td>
+        <td>Work Dojos $25/mo or $250/yr </td>
         <td>Premium SaaS apps $124.50/mo * 12 = $1494/yr  </td>
     </tr>
 </table>

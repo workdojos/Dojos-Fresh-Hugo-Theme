@@ -40,9 +40,16 @@ Software tailored to your needs instead of the other way around. Clear and acces
 <br>
 
 {{% title3 "Developer friendly" %}}
-Easily create custom plugins with our boilerplate or use third party ones. Because Baserow is built with modern and proven frameworks it feels like a breeze for developers..
+Easily create custom plugins with our boilerplate or use third party ones. Because Baserow is built with modern and proven frameworks it feels like a breeze for developers.
+
+
+Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
+
+ <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
 
 
 
+
+ <a href="https://workdojos.com/features/passwords">Next feature</a> 
 
 

@@ -67,7 +67,12 @@ Entice new subscribers with offers and promotions to grow your business. Run a 3
      height="600" />
 
 
-Happy holidays!
+Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
 
  <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
+
+
+
+
+ <a href="https://workdojos.com/features/chat">Next feature</a> 
 
