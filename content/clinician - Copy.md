@@ -172,22 +172,20 @@ Happy holidays!
 
 
 
-
-
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://workdojos.com/features">  
-                        <img src="/uploads/dev.svg" class="columnImage" />
+                      <a href="https://workdojos.com/healers">
+                        <img src="https://workmates.live/wp-content/uploads/2022/01/Healers.jpg" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>Features.</h1>
-                        Check out our open-source chat server and collaboration hub!
+                        <h1>Heal the world.</h1>
+                        Elevate your practice, level up your game, help others, start a community, heal the world.
                     </td>
                 </tr>
             </table>
@@ -196,14 +194,14 @@ Happy holidays!
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="rightColumnContent">
-                      <a href="https://workdojos.com/partners">
-                        <img src="/uploads/team3.svg" class="columnImage" />
+                      <a href="https://workdojos.com/practitioner">
+                        <img src="https://workmates.live/wp-content/uploads/2022/01/sasun-bughdaryan-RlIppR1I3E8-unsplash.jpg" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
-                        <h1>Our partners.</h1>
-                        Trailblazers in the open-source world!
+                        <h1>Start a practice.</h1>
+                        In whatever field you're in, we can customize the ultimate digital experience for you.
                     </td>
                 </tr>
             </table>
@@ -217,14 +215,14 @@ Happy holidays!
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://workdojos.com/docs/start">  
-                        <img src="/uploads/build.svg" class="columnImage" />
+                      <a href="https://workdojos.com/physicaltherapist">  
+                        <img src="https://workmates.live/wp-content/uploads/2022/01/physicaltherapist.live_.jpg" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>Get started</h1>
-                        Let's get to building!
+                        <h1>Virtual therapy.</h1>
+                        Don't stop being there because you can't be there.  Be present now.
                     </td>
                 </tr>
             </table>
@@ -233,20 +231,19 @@ Happy holidays!
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="rightColumnContent">
-                      <a href="https://chat.workmates.live">
-                        <img src="/uploads/remote.svg" class="columnImage" />
+                      <a href="https://workdojos.com/registerednurse">
+                        <img src="https://workmates.live/wp-content/uploads/2022/01/RegisteredNurse-scaled.jpg" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
-                        <h1>Collaborate from anywhere.</h1>
-                        Check out our open-source chat server and collaboration hub!
+                        <h1>Help others.</h1>
+                        Share your ideas for revolutionizing the world of healthcare.
                     </td>
                 </tr>
             </table>
         </td>
     </tr>
 </table>
-
 
 <br><br>

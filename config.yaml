@@ -42,21 +42,7 @@ params:
     image: logos/undraw_working_remotely_re_6b3a.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
-    - systek
-    - tribe
-    - kromo
-    - infinite
-    - gutwork
-    - systek2
-    - tribe2
-    - kromo2
-    - infinite3
-    - gutwork3
-    - systek3
-    - tribe3
-    - kromo3
-    - infinite3
-    - gutwork3
+
 
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
@@ -818,7 +804,6 @@ params:
       buttonText: Get started  
 
   section2:
-    image: uploads/wikijs.png
     title: You're here because you want to build something.
     subtitle: A passion project. A portfolio. A service. A billion dollar company.  A legacy.
     features:
@@ -887,8 +872,6 @@ params:
         - text: Partners
           link: /partners
         - text: Why choose us?
-          link: /why
-        - text: Compare pricing
           link: /ghost
         - text: Free trial
           link: https://blog.workmates.live/#/portal/signup
@@ -897,12 +880,10 @@ params:
         links:
         - text: Get started
           link: /docs/start
-        - text: User guides
-          link: /docs/guides
         - text: Privacy policy
           link: /docs/privacy
-        - text: Developers
-          link: /docs/developers
+          link: /why
+        - text: Compare pricing
       column3:
         title: "Blog"
         links:
