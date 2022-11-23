@@ -187,7 +187,7 @@ Happy holidays!
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Features.</h1>
-                        Check out our open-source chat server and collaboration hub!
+                        Learn about some of the cool features to be had for just $25/mo.
                     </td>
                 </tr>
             </table>
@@ -203,7 +203,7 @@ Happy holidays!
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Our partners.</h1>
-                        Trailblazers in the open-source world!
+                        Trailblazers in the open-source world!  Thank you to all developers supporting open-source initiatives!
                     </td>
                 </tr>
             </table>
