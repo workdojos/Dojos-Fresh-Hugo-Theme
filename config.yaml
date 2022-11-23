@@ -50,9 +50,13 @@ params:
     - systek2
     - tribe2
     - kromo2
-    - infinite2
-    - gutwork2
-
+    - infinite3
+    - gutwork3
+    - systek3
+    - tribe3
+    - kromo3
+    - infinite3
+    - gutwork3
 
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
