@@ -1,8 +1,8 @@
 ---
-title: Admin's Dojo
+title: Digital Marketer's Dojo
 include_footer: true
 ---
-<iframe src="https://admins.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="http://digitalmarketers.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,8 +145,12 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you want to become a system administrator?" %}}
-This dojo focuses on managing servers!  The bread and butter of what we do.  Let us guide you through the process of becoming a bonafide system admin.  There are few things better in the world than the feeling of pride of having your own cloud server, for whatever it is that you do.  Explore the world of open-source apps and become THE ALMIGHTY ADMIN in everything that you do!
+    {{% subtitle5 "Do you want to level up your digital marketing game?" %}}
+Self-hosting is a digital marketer's dream!  As anyone familiar with the marketing world, it's made up by and large of a slew of premium SaaS subscriptions.
+
+Many of these apps and services can be achieved through open-source technology.  We help any aspiring marketer reign it in.  There's nothing more useful in a marketer's toolkit than the wherewithal to deploy digital things onto their own server!
+
+Move into your Dojo today and experience digital nirvana, for you, your family, or your business!
 </figure>
 
 <br>
@@ -252,4 +256,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/admins">Next Dojo</a> 
+ <a href="https://workdojos.com/Economists">Next Dojo</a> 

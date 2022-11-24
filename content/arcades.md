@@ -1,8 +1,8 @@
 ---
-title: Admin's Dojo
+title: Arcade's Dojo
 include_footer: true
 ---
-<iframe src="https://admins.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://arcades.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,8 +145,10 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you want to become a system administrator?" %}}
-This dojo focuses on managing servers!  The bread and butter of what we do.  Let us guide you through the process of becoming a bonafide system admin.  There are few things better in the world than the feeling of pride of having your own cloud server, for whatever it is that you do.  Explore the world of open-source apps and become THE ALMIGHTY ADMIN in everything that you do!
+    {{% subtitle5 "Who doesn't miss the arcade?  We sure do!  We wish to support arcade owners." %}}
+If I asked you, what's the modern-day equivalent of the arcade?  People's living rooms?  I suppose there are still a number of arcades in the world. Asia comes to mind.  Hats off to anyone keeping the arcade dream alive.
+
+We hope that Arcade's Dojo can support the arcade industry any way we can.  For aspiring arcade owners or arcade enthusiasts, we have a really cool stack of open-source products ready to deploy to support you and your dream.
 </figure>
 
 <br>
@@ -252,4 +254,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/admins">Next Dojo</a> 
+ <a href="https://workdojos.com/Armchairexpert">Next Dojo</a> 
