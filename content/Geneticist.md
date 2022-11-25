@@ -1,8 +1,8 @@
 ---
-title: Ghostwriter's Dojo
+title: Geneticist's Dojo
 include_footer: true
 ---
-<iframe src="http://ghostwriters.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="http://geneticist.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,10 +145,14 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Ever wanted to be a writer?" %}}
-The publishing industry is like a puzzle.  The networking game a nightmare.  The logistics, lengthy waits, and costs involved in writing and publishing a book can be a very high barrier to entry.  For novelists and ghostwriters alike, there are ways to save money, to break from the herd, and provide yourself with more opportunity.
+    {{% subtitle5 "A central hub for all things genetics and genealogy." %}}
+As any genealogy and genetics expert would attest to, genetics and genealogy can be in a word, complicated.  
 
-Ghostwriter's Dojo.  A place for literary experts, literal dreamers, and aspiring entrepreneurs.  What's in your Dojo, Ghostwriter?
+On the genealogy front, we see companies like Ancestry.com commanding $40 or more a month in subscription fees.  While their product is excellent, it isn't the only way to do that sort of thing.  On the genetics front, there's a myriad of new issues popping up every day.  With big pharma, even big tech, and big money of course.
+
+We explore these topics in Geneticist's Dojo and provide building blocks to our community for sharing the best open-source tips and tricks for reiging in the complicated world of genealogy.
+
+If you have interest in genealogy or would like to participate as we build out this Dojo, please give a shout!
 </figure>
 
 <br>
@@ -254,4 +258,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/Graphicdesigner">Next Dojo</a> 
+ <a href="https://workdojos.com/Ghostwriters">Next Dojo</a> 

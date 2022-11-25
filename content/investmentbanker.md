@@ -1,8 +1,8 @@
 ---
-title: Admin's Dojo
+title: InvestmentBanker's Dojo
 include_footer: true
 ---
-<iframe src="https://admins.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="http://investmentbanker.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,8 +145,12 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you want to become a system administrator?" %}}
-This dojo focuses on managing servers!  The bread and butter of what we do.  Let us guide you through the process of becoming a bonafide system admin.  There are few things better in the world than the feeling of pride of having your own cloud server, for whatever it is that you do.  Explore the world of open-source apps and become THE ALMIGHTY ADMIN in everything that you do!
+    {{% subtitle5 "A dashboard for Investment Bankers." %}}
+Any successful investment banker will tell you the value that data and data delivered in the right way adds for themselves and their clients.  Many will tout the absurdly expensive Bloomberg systems that come with 4 screens (or even 8!) screens or swear by one large brokerage's website as being the best of the best.
+
+But few have tried to replicate what is merely a screen.  A GUI.  A dashboard.  Every Dojo comes with one.  And you can customize with all the links and useful information that will get you to the right places quickly.  
+
+And that's just the beginning.  What's in your Dojo?
 </figure>
 
 <br>
@@ -252,4 +256,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/admins">Next Dojo</a> 
+ <a href="https://workdojos.com/Jeweler">Next Dojo</a> 

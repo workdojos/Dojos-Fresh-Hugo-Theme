@@ -1,8 +1,8 @@
 ---
-title: Admin's Dojo
+title: Expat's Dojo
 include_footer: true
 ---
-<iframe src="https://admins.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="http://expatriate.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,8 +145,12 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you want to become a system administrator?" %}}
-This dojo focuses on managing servers!  The bread and butter of what we do.  Let us guide you through the process of becoming a bonafide system admin.  There are few things better in the world than the feeling of pride of having your own cloud server, for whatever it is that you do.  Explore the world of open-source apps and become THE ALMIGHTY ADMIN in everything that you do!
+    {{% subtitle5 "Are you an expat looking for some cool tech to host for yourself or looking to start an online community?" %}}
+As an expat myself I would often find myself surrouned by words I couldn't understand and I found it hard to make friends.  Living in a small town didn't make things any easier.  I wasn't able to find any local community groups geared towards expats or welcome expats.  So I created my own!
+
+Open-source tech makes anything possible and we look to help you reign it in.  It all starts with a dashboard.  Get relevant info to you, your family, your land, language, local government, and more.
+
+Every expat deserves a dashboard!  What's on yours and what do you want to build today?
 </figure>
 
 <br>
@@ -252,4 +256,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/admins">Next Dojo</a> 
+ <a href="https://workdojos.com/Expertnetwork">Next Dojo</a> 

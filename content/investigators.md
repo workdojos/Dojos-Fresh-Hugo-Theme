@@ -1,8 +1,8 @@
 ---
-title: Admin's Dojo
+title: Investigator's Dojo
 include_footer: true
 ---
-<iframe src="https://admins.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="http://investigators.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,8 +145,14 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you want to become a system administrator?" %}}
-This dojo focuses on managing servers!  The bread and butter of what we do.  Let us guide you through the process of becoming a bonafide system admin.  There are few things better in the world than the feeling of pride of having your own cloud server, for whatever it is that you do.  Explore the world of open-source apps and become THE ALMIGHTY ADMIN in everything that you do!
+    {{% subtitle5 "Do you really love research?  Are you that analytical type?  We are too!" %}}
+We built this Dojo for you!  Imagine a dashboard that distills data and other things down into just the way you like it.  Just the way you want it to be.
+
+Now imagine putting that dashboard in just the right places.  Maybe on a Google Home Hub or Amazon Echo Show.  Well, you can't.  Because they won't let you put whatever you want there!
+
+With Investigator's Dojo, you get your own dashboard to do what you want.  It's on your server.  It's your data.  And it's your API to use to connect to any and all the screens in your life.
+
+What's in your Dojo?  Want to put a dashboard to it?  We'll show you how.
 </figure>
 
 <br>
@@ -252,4 +258,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/admins">Next Dojo</a> 
+ <a href="https://workdojos.com/Investmentbanker">Next Dojo</a> 

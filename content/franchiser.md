@@ -1,8 +1,8 @@
 ---
-title: Admin's Dojo
+title: Franchiser's Dojo
 include_footer: true
 ---
-<iframe src="https://admins.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="http://franchiser.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,8 +145,10 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you want to become a system administrator?" %}}
-This dojo focuses on managing servers!  The bread and butter of what we do.  Let us guide you through the process of becoming a bonafide system admin.  There are few things better in the world than the feeling of pride of having your own cloud server, for whatever it is that you do.  Explore the world of open-source apps and become THE ALMIGHTY ADMIN in everything that you do!
+    {{% subtitle5 "Would you like to become a franchise owner?" %}}
+Would you like to be involved in creating a new model for franchise businesses!  We would too!  Franchiser's Dojo is a place for the aspiring franchiser.  For those that believe in the system.  For those that see a bright future in franchising or someone that has ideas on how the "Franchise of the Future" might look.
+
+If you have interest in franchising or would like to participate as we build out this Dojo, please give a shout!
 </figure>
 
 <br>
@@ -252,4 +254,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/admins">Next Dojo</a> 
+ <a href="https://workdojos.com/Geneticist">Next Dojo</a> 

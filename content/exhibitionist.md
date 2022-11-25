@@ -1,8 +1,8 @@
 ---
-title: Ghostwriter's Dojo
+title: Exhibitionist's Dojo
 include_footer: true
 ---
-<iframe src="http://ghostwriters.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="http://exhibitionist.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,10 +145,8 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Ever wanted to be a writer?" %}}
-The publishing industry is like a puzzle.  The networking game a nightmare.  The logistics, lengthy waits, and costs involved in writing and publishing a book can be a very high barrier to entry.  For novelists and ghostwriters alike, there are ways to save money, to break from the herd, and provide yourself with more opportunity.
-
-Ghostwriter's Dojo.  A place for literary experts, literal dreamers, and aspiring entrepreneurs.  What's in your Dojo, Ghostwriter?
+    {{% subtitle5 "Marry art and the art of the exhibition with open-source technology.!" %}}
+We help aspiring artists reign in open-source technology.  When affordability matters.  When a personal touch is important.  When wowing the world is the name of the game.  Exhibitionist's Dojo has got the gameplan.
 </figure>
 
 <br>
@@ -254,4 +252,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/Graphicdesigner">Next Dojo</a> 
+ <a href="https://workdojos.com/Expatriate">Next Dojo</a> 
