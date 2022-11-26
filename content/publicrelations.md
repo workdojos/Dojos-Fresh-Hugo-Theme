@@ -1,8 +1,8 @@
 ---
-title: Admin's Dojo
+title: Public Relations Dojo
 include_footer: true
 ---
-<iframe src="https://admins.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://publicrelations.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,8 +145,14 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you want to become a system administrator?" %}}
-This dojo focuses on managing servers!  The bread and butter of what we do.  Let us guide you through the process of becoming a bonafide system admin.  There are few things better in the world than the feeling of pride of having your own cloud server, for whatever it is that you do.  Explore the world of open-source apps and become THE ALMIGHTY ADMIN in everything that you do!
+    {{% subtitle5 "Do you want to become a PR rep or take your PR firm to the next level?" %}}
+It's hard to get a leg up in the world of public relations.  The best PR reps have decades of experience and loads of wisdom.
+
+Public Relations Dojo aims to distill information down and present it in a way that works best for you.  It all starts with a dashboard.  And the dashboard is just the beginning!
+
+Point your browser's start page to it.  Explore apps that serve the world of public relations, communications, and more.
+
+What's in your Dojo?
 </figure>
 
 <br>
@@ -252,4 +258,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/admins">Next Dojo</a> 
+ <a href="https://workdojos.com/Racers">Next Dojo</a> 

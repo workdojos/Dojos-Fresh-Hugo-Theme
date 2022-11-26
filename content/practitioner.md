@@ -1,8 +1,8 @@
 ---
-title: Admin's Dojo
+title: Practitioner's Dojo
 include_footer: true
 ---
-<iframe src="https://admins.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://practitioner.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,8 +145,12 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you want to become a system administrator?" %}}
-This dojo focuses on managing servers!  The bread and butter of what we do.  Let us guide you through the process of becoming a bonafide system admin.  There are few things better in the world than the feeling of pride of having your own cloud server, for whatever it is that you do.  Explore the world of open-source apps and become THE ALMIGHTY ADMIN in everything that you do!
+    {{% subtitle5 "Do you want to become a doctor or offer your existing service to others?" %}}
+We equip healthcare professionals with open-source tools that you own and control.  It all starts with a dashboard, customized for you and your profession.
+
+Medical info, studies, commentary, testing guidelines, education, all change rapidly in the best of times.  We aim to simplify complex subjects, put powerful tools in your hands that cost next to nothing, and we hope that can inspire you to chase your dreams.
+
+Want to become a doctor?  Great!  Hop aboard, let's get started building your future!
 </figure>
 
 <br>
@@ -252,4 +256,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/admins">Next Dojo</a> 
+ <a href="https://workdojos.com/Projectmanagers">Next Dojo</a> 

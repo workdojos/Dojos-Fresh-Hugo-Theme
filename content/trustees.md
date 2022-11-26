@@ -1,8 +1,8 @@
 ---
-title: Admin's Dojo
+title: Trustee's Dojo
 include_footer: true
 ---
-<iframe src="https://admins.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://trustees.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,8 +145,16 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you want to become a system administrator?" %}}
-This dojo focuses on managing servers!  The bread and butter of what we do.  Let us guide you through the process of becoming a bonafide system admin.  There are few things better in the world than the feeling of pride of having your own cloud server, for whatever it is that you do.  Explore the world of open-source apps and become THE ALMIGHTY ADMIN in everything that you do!
+    {{% subtitle5 "Do you and your family need to level up password management?" %}}
+This Dojo will teach you how to self-host your own password manager and more!  Built on leading open-source technology Bitwarden, take your family's organization to the next level by building your own password management system.
+
+You can do this through the Bitwarden fork called Vaultwarden.  https://github.com/dani-garcia/vaultwarden
+
+If you don't know how to deploy open-source apps, we can deploy it for you, in your own Dojo, for a flat $25/month.  This is self-hosted, not centralized hosting, meaning you are hosting your own server.  Your server, your data.  By design.
+
+Ditch centralized solutions for self-hosting solutions.  Open-source technology provides building blocks for the future.  Seize those blocks and build something!
+
+What's in your Dojo?
 </figure>
 
 <br>
@@ -252,4 +260,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/admins">Next Dojo</a> 
+ <a href="https://workdojos.com/Unions">Next Dojo</a> 

@@ -1,8 +1,8 @@
 ---
-title: Admin's Dojo
+title: Litigator's Dojo
 include_footer: true
 ---
-<iframe src="https://admins.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://litigator.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,8 +145,14 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you want to become a system administrator?" %}}
-This dojo focuses on managing servers!  The bread and butter of what we do.  Let us guide you through the process of becoming a bonafide system admin.  There are few things better in the world than the feeling of pride of having your own cloud server, for whatever it is that you do.  Explore the world of open-source apps and become THE ALMIGHTY ADMIN in everything that you do!
+    {{% subtitle5 "Open-source toolbox for lawyers." %}}
+Legal anything can be expensive!  Even SaaS apps and services that are solely focused on technology.
+
+A wise man once said, before dishing out for unnecessary things, let's take a look at the free things that are right under our nose.  Open-source apps and services that is!
+
+Litigator's Dojo is a place for aspiring lawyers and existing lawyers alike.  A collection of knowledge, a community and it all starts with a dashboard.  Your dashboard.
+
+And the dash is just the beginning.  There's a lot under the hood for $25/month.
 </figure>
 
 <br>
@@ -252,4 +258,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/admins">Next Dojo</a> 
+ <a href="https://workdojos.com/logistician">Next Dojo</a> 

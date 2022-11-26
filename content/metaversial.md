@@ -1,8 +1,8 @@
 ---
-title: Admin's Dojo
+title: Metaversial Dojo
 include_footer: true
 ---
-<iframe src="https://admins.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://metaversial.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,8 +145,16 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you want to become a system administrator?" %}}
-This dojo focuses on managing servers!  The bread and butter of what we do.  Let us guide you through the process of becoming a bonafide system admin.  There are few things better in the world than the feeling of pride of having your own cloud server, for whatever it is that you do.  Explore the world of open-source apps and become THE ALMIGHTY ADMIN in everything that you do!
+    {{% subtitle5 "How does one prepare for the metaverse?" %}}
+We've been seeing and hearing about the metaverse for some time now.  We all know it's coming.  We hear Facebook pumped tens of billions of dollars into it.  What does this all mean?
+
+It means Facebook wants to control your eyeballs so they can do what they do best, make billions in ad revenue.  And they do this without any sort of ethical compass.  As if we wanted a single billion-dollar company to control the whole metaverse thing!
+
+So what are we all to do then?  Self-host of course!  Instead of a single or a few behemoth tech companies controlling our eyeballs, we can self-host our own "screens."  Screens or pages or pictures or videos that we decide what goes on them.  That there is no trade-off between free service and a loss of data privacy into perpetuity.
+
+It all starts with a dashboard.  A simple, open-source dashboard that you control in the cloud.  It's built on top of your own server in fact.  You choose what goes on the dashboard and then point your browser's start page to it and voila!
+
+And the dashboard is just the beginning...What else is in your Dojo?
 </figure>
 
 <br>
@@ -252,4 +260,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/admins">Next Dojo</a> 
+ <a href="https://workdojos.com/mortgagebrokers">Next Dojo</a> 

@@ -1,8 +1,8 @@
 ---
-title: Mortgage Broker's Dojo
+title: Workmate's Dojo
 include_footer: true
 ---
-<iframe src="https://mortgagebrokers.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://workmates.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,12 +145,8 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Real-estate for tech pros." %}}
-It's hard to find any real-estate focused subscription service for less that hundreds of dollars!  We provide real-estate professionals with a self-hosted suite of open-source products to help them stand out.
-
-It starts with a dashboard customized for you and the real-estate industry.  And that's just the beginning.
-
-What's in your Dojo?
+    {{% subtitle5 "A co-worker.  A colleague.  A workmate.  A friend.  Sometimes all you need is someone on your side." %}}
+Let us be your workmate.  Let us be your friend.
 </figure>
 
 <br>
@@ -256,4 +252,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/Motivators">Next Dojo</a> 
+ <a href="https://workdojos.com/Worldly">Next Dojo</a> 
