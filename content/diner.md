@@ -1,8 +1,8 @@
 ---
-title: 4x4's Dojo
+title: Diner's Dojo
 include_footer: true
 ---
-<iframe src="https://4x4s.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://diner.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,14 +145,22 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you love trucks as much as we do?" %}}
-We would love to work with you!  As an off-road enthusiast, someone that digs raw horsepower, someone with a desire to elevate the world of the 4x4.  Please let us know!
+    {{% subtitle5 "Got a disco in your Dojo?" %}}
+You can put anything you want in your Dojo!  Light it up, party until you drop.  Self-hosting your own technology with open-source apps makes anything possible.
+
+It all starts with a dashboard.  And the dashboard is just the beginning.
+
+What's in your Dojo?
 </figure>
 
 <br>
 
-{{% subtitle5 "We support small business because we are a small business." %}}
-We are an employee-owned company.  We believe in revitalizing the world through grassroots good old-fashioned teamwork.  Whoever you are, whatever you do, you are welcome here!  We believe in opportunity and fairness and our mission is to deliver value in everything that we do.  
+{{% subtitle5 "Do you like to eat?  Got a diner nearby?" %}}
+We can help you start any business.  We can even help you open a diner.
+
+On the right footing, with affordable open-source technology, anything is possible.
+
+What's in your diner?
 
  <ul>
   <li>Are you looking to start a business or have a hobby that you'd like to take to the next level?</li>
@@ -252,4 +260,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://academies.workdojos.com">Next Dojo</a> 
+ <a href="https://workdojos.com/Dealerships">Next Dojo</a> 
