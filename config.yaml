@@ -832,7 +832,7 @@ params:
     subtitle: No matter who you are or what you do, your Dojo awaits!
     image: logos/undraw_road_to_knowledge_m8s0.svg
     buttonText: Get started
-    buttonLink: "https://blog.workmates.live/#/portal/signup"
+    buttonLink: "https://workdojos.com/docs/start"
   section4:
     title: Testimonials.
     subtitle: Breaking from the herd.
