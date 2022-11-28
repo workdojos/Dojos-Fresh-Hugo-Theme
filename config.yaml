@@ -835,7 +835,7 @@ params:
     buttonLink: "https://workdojos.com/docs/start"
   section4:
     title: Testimonials.
-    subtitle: Breaking from the herd.
+    subtitle: Making open-source more accessible.
     clients:
     - name: Irma
       quote: I never thought I would or could host my own server.  Work Dojos showed me the way..
