@@ -65,7 +65,7 @@ Sign up for a trial in the upper right or save 25% off a subscription with the f
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="rightColumnContent">
-                      <a href="">
+                      <a href="https://ghost.org">
                         <img src="https://workmates.live/wp-content/uploads/2022/11/ghost-black-logo.png" class="columnImage" />
                     </td>
                 </tr>
