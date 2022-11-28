@@ -888,7 +888,7 @@ params:
           link: /docs/privacy
           link: /docs/privacy
         - text: Compare pricing
-          link: /compare
+          link: https://workdojos.com/ghost/
       column3:
         title: "Blog"
         links:
