@@ -44,5 +44,13 @@ Make your wiki public, completely private or a mix of both..
 
 
 
+ <br>
+
+ <a href="https://js.wiki/">Consider supporting and subscribing to Wiki.js directly.</a> 
+
+ <br>
+
+
+ <a href="https://workdojos.com/features/passwords">Next feature</a> 
 
 

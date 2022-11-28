@@ -55,6 +55,10 @@ Sign up for our service during the holidays and save 25% with the link below!  T
  <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
 
 
+ <br>
 
+ <a href="https://www.rocket.chat/">Consider supporting and subscribing to Rocket.chat directly.</a> 
+
+ <br>
 
  <a href="https://workdojos.com/features/db">Next feature</a> 

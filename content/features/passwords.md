@@ -49,7 +49,11 @@ Sign up for our service during the holidays and save 25% with the link below!  T
  <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
 
 
+ <br>
 
+ <a href="https://bitwarden.com/">Consider supporting and subscribing to Bitwarden directly.</a> 
+
+ <br>
 
  <a href="https://workdojos.com/features/virtualcafe">Next feature</a> 
 
