@@ -838,11 +838,11 @@ params:
       job: Accountant
       img: 1
     - name: John
-      quote: I had always dreamed of doing something else.  I never knew where to start.  Work Dojos cares about their customers and inspired me to make a career change.
+      quote: I had dreamt of doing something else.  I got inspired to make a career change here.  What started as a side gig is now a viable business.
       job: Financial Analyst
       img: 2
     - name: Gary
-      quote: We saved a ton of money by self-hosting.  Work Dojos guided us through the process of onboarding a chat app, wiki, and learning management system for our entire company at a fraction of the cost of other service providers.
+      quote: We saved a ton of money with Work Dojos.  Our dojo has a chat app, wiki, website, and space left over for other open-source apps.  It's a REALLY good value if you don't a lot of technical support.
       job: HR Manager
       img: 3
   section5: false
