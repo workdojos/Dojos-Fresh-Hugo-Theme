@@ -98,12 +98,7 @@ params:
       url: https://workdojos.com/curators
     - title: Digital Marketer's Dojo
       url: https://workdojos.com/digitalmarketers
-    - title: Economist's Dojo
-      url: https://workdojos.com/economist
-    - title: Explorer's Dojo
-      url: https://workdojos.com/explorers
-    - title: Firefighter's Dojo
-      url: https://workdojos.com/firefighters
+
 
   - title: Log in
     url: https://blog.workmates.live/#/portal/login
