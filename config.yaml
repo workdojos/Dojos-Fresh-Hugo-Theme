@@ -788,8 +788,8 @@ params:
     subtitle: to rule them all.
     tiles:
     - title: Customized dojos.  Customized dashboards.
-      icon: monitor
-      text: Customized to your profession, the things you're passionate about, and your people.
+      icon: mouse-globe
+      text: Customized to your profession, passions, and your people.
       url: https://workdojos.com/admins
       buttonText: Browse dojos
     - title: Your Dojo. Your own private cloud.  With building blocks. 
