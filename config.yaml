@@ -800,7 +800,7 @@ params:
 
 
       url: https://workdojos.com/docs/start
-      buttonText: Free trial
+      buttonText: Learn more
     - title: An Entire Online Ecosystem is Yours.    Hey Admin!
       icon: plug-cloud
       text: Each Dojo includes a website, wiki, chat app, blog, and more.  All open-source.
@@ -884,11 +884,10 @@ params:
         links:
         - text: Get started
           link: /docs/start
-        - text: Privacy policy
-          link: /docs/privacy
-          link: /docs/privacy
         - text: Compare pricing
           link: https://workdojos.com/ghost/
+        - text: Privacy policy
+          link: /docs/privacy          
       column3:
         title: "Blog"
         links:
