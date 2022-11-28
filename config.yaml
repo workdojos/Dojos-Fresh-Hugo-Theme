@@ -787,12 +787,12 @@ params:
     title: A dashboard
     subtitle: to rule them all.
     tiles:
-    - title: Customized dojos with customized dashboards
+    - title: Customized dojos.  Customized dashboards.
       icon: monitor
-      text: Your info, no ads, customized to your profession.
+      text: Customized to your profession, your passion, your people.
       url: https://workdojos.com/admins
       buttonText: Browse dojos
-    - title: Your dojo is your own private cloud.
+    - title: Your dojo is your own private cloud and place for building things. 
       icon: laptop-cloud
       text: Your server.  Your data.  You're in absolute control.
       url: https://workdojos.com/docs/start
