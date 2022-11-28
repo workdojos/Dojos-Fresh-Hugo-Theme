@@ -74,20 +74,36 @@ params:
 
   - title: Featured dojos
     sublinks:
-    - title: Clinician's Dojo
-      url: https://workdojos.com/clinician
-    - title: Librarian's Dojo
-      url: https://workdojos.com/librarian
-    - title: Physicist's Dojo
-      url: https://workdojos.com/physicist
-    - title: Philosopher's Dojo
-      url: https://workdojos.com/philosopher
+    - title: Administrator's Dojo
+      url: https://workdojos.com/administrators
+    - title: Adventurer's Dojo
+      url: https://workdojos.com/adventurers
+    - title: Animators's Dojo
+      url: https://workdojos.com/animators
+    - title: Aviationist's Dojo
+      url: https://workdojos.com/aviationist
+    - title: Bankroller's Dojo
+      url: https://workdojos.com/bankroller
+    - title: Barista's Dojo
+      url: https://workdojos.com/baristas
+    - title: Bartender's Dojo
+      url: https://workdojos.com/bartenders
+    - title: Beautician's Dojo
+      url: https://workdojos.com/beauticians
+    - title: Biologist's Dojo
+      url: https://workdojos.com/biologist
+    - title: Captain's Dojo
+      url: https://workdojos.com/captains
     - title: Curator's Dojo
       url: https://workdojos.com/curators
-    - title: Logistician's Dojo
-      url: https://workdojos.com/logistician
-    - title: Politician's Dojo
-      url: https://workdojos.com/politician
+    - title: Digital Marketer's Dojo
+      url: https://workdojos.com/digitalmarketers
+    - title: Economist's Dojo
+      url: https://workdojos.com/economist
+    - title: Explorer's Dojo
+      url: https://workdojos.com/explorers
+    - title: Firefighter's Dojo
+      url: https://workdojos.com/firefighters
 
   - title: Log in
     url: https://blog.workmates.live/#/portal/login
