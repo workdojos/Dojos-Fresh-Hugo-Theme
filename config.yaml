@@ -787,19 +787,19 @@ params:
     title: A dashboard
     subtitle: to rule them all.
     tiles:
-    - title: Customized dojos.  Customized dashboards.
+    - title: Customized Dojos.  Customized Dashboards.
       icon: mouse-globe
-      text: Customized to your profession, passions, and your people.
+      text: Customized to your profession, the things you're passionate about, and your people.  The dashboard is just the beginning.
       url: https://workdojos.com/admins
       buttonText: Browse dojos
-    - title: Your Dojo. Your own private cloud.  With building blocks. 
+    - title: Your Dojo is Your Own Private Cloud.  Your portal to another world.  Another home.  Your home.
       icon: laptop-cloud
       text: Your server.  Your data.  You're in absolute control.
       url: https://workdojos.com/docs/start
       buttonText: Free trial
     - title: An entire ecosystem is yours.    Hey Admin!
       icon: plug-cloud
-      text: A website, wiki, chat app, blog, and more.
+      text: A website, wiki, chat app, blog, and more.  All open-source. All yours.
       url: https://blog.workmates.live/#/portal/signup
       buttonText: Free trial
 
