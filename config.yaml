@@ -37,7 +37,7 @@ params:
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: "https://blog.workmates.live/#/portal/signup"
+    buttonlink: "https://workdojos.com/docs/start/"
     # Hero image (from static/images/___)
     image: logos/undraw_working_remotely_re_6b3a.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -787,21 +787,21 @@ params:
     title: A dashboard
     subtitle: to rule them all.
     tiles:
-    - title: Customized dashboards
-      icon: mouse-globe
+    - title: Customized dojos with customized dashboards
+      icon: monitor
       text: Your info, no ads, customized to your profession.
+      url: https://workdojos.com/admins
+      buttonText: Browse dojos
+    - title: Your dojo is your own private cloud.
+      icon: laptop-cloud
+      text: Your server.  Your data.  You're in absolute control.
+      url: https://workdojos.com/docs/start
+      buttonText: Free trial
+    - title: An entire ecosytem that's YOURS
+      icon: plug-cloud
+      text: A website, wiki, chat app, blog, and more.
       url: https://blog.workmates.live/#/portal/signup
       buttonText: Free trial
-    - title: In YOUR own private cloud
-      icon: laptop-cloud
-      text: Your server.  Your data.  You're in control.
-      url: https://blog.workmates.live/#/portal/signup
-      buttonText: Get started
-    - title: Apps you own and control
-      icon: plug-cloud
-      text: World's best tools, virtually free.
-      url: https://blog.workmates.live/#/portal/signup
-      buttonText: Get started  
 
   section2:
     title: You're here because you want to build something.
@@ -831,7 +831,7 @@ params:
     buttonLink: "https://blog.workmates.live/#/portal/signup"
   section4:
     title: Testimonials.
-    subtitle: Helping you break from the herd.
+    subtitle: Breaking from the herd.
     clients:
     - name: Irma
       quote: I never thought I would or could host my own server.  Work Dojos showed me the way..
