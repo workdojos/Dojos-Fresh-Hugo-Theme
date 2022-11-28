@@ -33,7 +33,7 @@ params:
     # Main hero title
     title: Dashboard. Dojo.  Business in a Box.
     # Hero subtitle (optional)
-    subtitle: For less than a dollar a day we will help you start a business, dojo, or passion project using open-source tech.
+    subtitle: For less than a dollar a day we will help you start a business, dojo, or passion project using open-source technology.
     # Button text
     buttontext: Get started
     # Where the main hero button links to
@@ -848,7 +848,7 @@ params:
     title: Testimonials.
     subtitle: Making open-source more accessible.
     clients:
-    - name: Irma
+    - name: Jessie
       quote: I never thought I would or could host my own server.  Work Dojos showed me the way..
       job: Social Media Marketer
       img: 1
@@ -856,7 +856,7 @@ params:
       quote: I dreamt of doing something else.  I got inspired to make a career change here.  What started as a side gig is now a viable business.
       job: Graphic Designer
       img: 2
-    - name: Gary
+    - name: Sean
       quote: We saved a ton of money with Work Dojos.  Our dojo has a chat app, wiki, website, and space left over for more.  Work Dojos is a REALLY good value if you don't need a lot of technical support.
       job: HR Manager
       img: 3
