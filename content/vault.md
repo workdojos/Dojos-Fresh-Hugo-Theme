@@ -66,13 +66,14 @@ Sign up for a trial in the upper right or save 25% off a subscription with the f
                 <tr>
                     <td class="rightColumnContent">
                       <a href="">
-                        <img src="https://workmates.live/wp-content/uploads/2022/11/freshrss-logo.png" class="columnImage" />
+                        <img src="https://workmates.live/wp-content/uploads/2022/11/ghost-black-logo.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
-                        <h1>Next up:  Fresh RSS.</h1>
-                        Coming soon.
+                        <h1>Next up:  Ghost.</h1>
+                        Turn your audience into a business.
+                          <a href="https://workdojos.com/ghost">Continue</a> 
                     </td>
                 </tr>
             </table>

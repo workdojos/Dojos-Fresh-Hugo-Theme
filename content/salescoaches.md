@@ -1,8 +1,8 @@
 ---
-title: Admin's Dojo
+title: Sales Coach Dojo
 include_footer: true
 ---
-<iframe src="https://admins.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://salescoaches.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 
 {{% title3 "" %}}
@@ -145,8 +145,14 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you want to become a system administrator?" %}}
-This dojo focuses on managing servers!  The bread and butter of what we do.  Let us guide you through the process of becoming a bonafide system admin.  There are few things better in the world than the feeling of pride of having your own cloud server, for whatever it is that you do.  Explore the world of open-source apps and become THE ALMIGHTY ADMIN in everything that you do!
+    {{% subtitle5 "Want to be a sales coach?" %}}
+Starting any coaching business should start off on the right technical footing.  That's where a Dojo comes in.  Each Dojo comes equipped with a suite of open-source tools that any coach can use and grow a business.
+
+Dojo's start with a dashboard.  A place for the most relevant info front and center.  A screen that you can point your browser's start page to it.  This gives you a lot of flexibility where your dashboard will be presented.  On your desktop, your phone, a screen on the wall, or just pure digital.
+
+The dash is just the beginning.  Each dashboard is backed up by coaching-centric apps, backed by marketing support, and a team that cares.
+
+What's in your Dojo?
 </figure>
 
 <br>
@@ -252,4 +258,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/admins">Next Dojo</a> 
+ <a href="https://workdojos.com/Satellites">Next Dojo</a> 
