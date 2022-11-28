@@ -31,7 +31,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Dojo. Dashboard. Business in a Box.
+    title: Dashboard. Dojo.  Business in a Box.
     # Hero subtitle (optional)
     subtitle: For less than a dollar a day we will help you start a business, dojo, or passion project using open-source tech.
     # Button text
