@@ -145,8 +145,10 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <figure>
     <blockquote cite="">
         <p></p>
-    {{% subtitle5 "Do you want to become a system administrator?" %}}
-This dojo focuses on managing servers!  The bread and butter of what we do.  Let us guide you through the process of becoming a bonafide system admin.  There are few things better in the world than the feeling of pride of having your own cloud server, for whatever it is that you do.  Explore the world of open-source apps and become THE ALMIGHTY ADMIN in everything that you do!
+    {{% subtitle5 "Modern-day legislative bulletin boards for the people." %}}
+Legislator's Dojo is about empowering the people with the tools to impact legislation that affects the people.  It all starts with a dashboard.  A dashboard that distills down legislative lingo into real English, but more importantly serves as a call to action.
+
+Rock the vote and exert your influence.  Go far legislators.
 </figure>
 
 <br>
@@ -252,4 +254,4 @@ Happy holidays!
 <br><br>
 
 
- <a href="https://workdojos.com/admins">Next Dojo</a> 
+ <a href="https://workdojos.com/liaison">Next Dojo</a> 
