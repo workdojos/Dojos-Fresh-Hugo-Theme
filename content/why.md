@@ -20,12 +20,12 @@ Even the brightest minds can't do it all.  We all have something to give.  We al
 The key to confidence.  Having someone on your side.
 
 <br>
-<img src="/uploads/world.svg" 
+<img src="/uploads/mountain home.svg" 
 <br>
 
 {{% title3 "We will inspire you." %}}
 {{% subtitle5 "From intagible dreams come tangible assets" %}}
-It never hurts to dream.  It never hurts to try.  It doesn't matter how many times you have to get back up.  You will achieve your dreams, and we will help you get there.  Guaranteed or your money back!
+It never hurts to dream.  It never hurts to try.  It doesn't matter how many times you have to get back up.  You will achieve your dreams, and we will help you get there.
 
 <br>
 <img src="/uploads/inspire.svg" 
