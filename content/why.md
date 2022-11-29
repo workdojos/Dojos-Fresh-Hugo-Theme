@@ -30,3 +30,11 @@ It never hurts to dream.  It never hurts to try.  It doesn't matter how many tim
 <br>
 <img src="/uploads/inspire.svg" 
 <br>
+
+ <br>
+
+ <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
+<img src="/uploads/santa.svg" 
+<br>
+ <br>
+
