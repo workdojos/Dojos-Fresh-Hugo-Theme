@@ -29,6 +29,7 @@ Self-hosting comes with some amazing perks, like incredible bang for your buck. 
 
 <br>
 <img src="/uploads/path.svg" 
+<br>
 
 {{% title3 "We will inspire you." %}}
 {{% subtitle5 "A lot under the hood for how little you pay" %}}
@@ -38,6 +39,4 @@ It never hurts to dream.  It never hurts to try.  It doesn't matter how many tim
 <img src="/uploads/inspire.svg" 
 
  <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
-
- <br>
 
