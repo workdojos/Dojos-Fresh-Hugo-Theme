@@ -45,6 +45,8 @@ Easily create custom plugins with our boilerplate or use third party ones. Becau
 
 Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
 
+ <br>
+
  <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
 
  <br>
