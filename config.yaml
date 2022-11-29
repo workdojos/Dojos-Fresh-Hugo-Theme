@@ -21,7 +21,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: fresh-square campervan.svg
+    image: logos/workmates logo 2.svg
     link: /
     # Default width/height. Uncomment if you need to change
     # width: 112
@@ -863,7 +863,7 @@ params:
   section5: false
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-square campervan.svg
+    logo: workmates logo 2.svg
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
