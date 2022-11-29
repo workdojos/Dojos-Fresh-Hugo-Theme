@@ -39,7 +39,7 @@ params:
     # Where the main hero button links to
     buttonlink: "https://workdojos.com/docs/start/"
     # Hero image (from static/images/___)
-    image: logos/undraw_working_remotely_re_6b3a.svg
+    image: uploads/inspire.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
 
