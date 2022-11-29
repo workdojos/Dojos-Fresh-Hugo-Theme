@@ -10,7 +10,7 @@ include_footer: true
 The best and brightest builders got all the tools!  We will equip you with the best tools in your particular industry.  This includes a dashboard, up-to-date industry news, convenient automation, and more.  Give us a try, your career will thank you for it!
 
 <br>
-<img src="/uploads/tool3.svg" 
+<img src="/uploads/devices2.svg" 
 <br>
 
 {{% title3 "We will empower you." %}}
@@ -20,7 +20,7 @@ Even the brightest minds can't do it all.  We all have something to give.  We al
 The key to confidence.  Having someone on your side.
 
 <br>
-<img src="/uploads/help.svg" 
+<img src="/uploads/world.svg" 
 <br>
 
 {{% title3 "We will inspire you." %}}
