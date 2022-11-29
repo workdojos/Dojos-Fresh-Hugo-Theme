@@ -23,20 +23,21 @@ The key to confidence.  Having someone on your side.
 <img src="/uploads/mountain home.svg" 
 <br>
 
+{{% title3 "We will surprise you." %}}
+{{% subtitle5 "A lot under the hood for how little you pay!" %}}
+Self-hosting comes with some amazing perks, like incredible bang for your buck.  There's a reason big SaaS companies make big bucks.  Pay less, get more, Work Dojos will show you the way.
+
+<br>
+<img src="/uploads/path.svg" 
+
 {{% title3 "We will inspire you." %}}
-{{% subtitle5 "From intagible dreams come tangible assets" %}}
+{{% subtitle5 "A lot under the hood for how little you pay" %}}
 It never hurts to dream.  It never hurts to try.  It doesn't matter how many times you have to get back up.  You will achieve your dreams, and we will help you get there.
 
 <br>
 <img src="/uploads/inspire.svg" 
-<br>
-
- <br>
 
  <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
 
-<br>
-<img src="/uploads/santa.svg" 
-<br>
  <br>
 
