@@ -805,14 +805,14 @@ params:
       
       url: https://workdojos.com/admins
       buttonText: Browse dojos
-    - title: Your Dojo is Your Private Cloud and Portal to Another World.  
+    - title: Your Dojo is Your Own PRIVATE Cloud.  
       icon: laptop-cloud
       text: You are Admin.  Your server.  Your data.  You are in absolute control.
 
 
       url: https://workdojos.com/docs/start
       buttonText: Learn more
-    - title: An Entire Online Ecosystem is Yours.    Hey Admin!
+    - title: An Entire Ecosystem is Yours.    Hey Admin!
       icon: plug-cloud
       text: Each Dojo includes a website, wiki, chat app, blog, and more.  All open-source.
 
