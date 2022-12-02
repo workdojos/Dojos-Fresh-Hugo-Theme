@@ -849,7 +849,7 @@ params:
     subtitle: Making open-source more accessible.
     clients:
     - name: Jessie
-      quote: I never thought I would or could host my own server.  Workmates showed me the way, guided me through the essentials, and I'm now a bonafide self-hoster.
+      quote: I never thought I could host my own server.  Workmates showed me the way, guided me through the basics, and I'm now a bonafide self-hoster.
       job: Social Media Marketer
       img: 1
     - name: John
