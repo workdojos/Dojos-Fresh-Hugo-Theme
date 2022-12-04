@@ -112,7 +112,7 @@ params:
 
 
 
-    - title: Browse Dojos
+    - title: Browse dojos
       icon: image
       links:
       - text: 4X4S
