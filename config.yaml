@@ -115,8 +115,6 @@ params:
     - title: Browse dojos
       icon: image
       links:
-      - text: 4X4S
-        url: https://workdojos.com/4X4S
       - text: AccountExecutive
         url: https://workdojos.com/AccountExecutive
       - text: Actuaries
@@ -396,8 +394,6 @@ params:
       - text: Beauticians
         url: https://chat.workmates.live/channel/Beauticians
 
-      - text: Beautifully
-        url: https://chat.workmates.live/channel/Beautifully
       - text: BeerGarden
         url: https://chat.workmates.live/channel/BeerGarden
 
@@ -428,9 +424,6 @@ params:
 
       - text: Economists
         url: https://chat.workmates.live/channel/Economists
-      - text: Encapsulate
-        url: https://chat.workmates.live/channel/Encapsulate
-
       - text: Evangelist
         url: https://chat.workmates.live/channel/Evangelist
       - text: EventPlanners
@@ -478,8 +471,6 @@ params:
       - text: Importer
         url: https://chat.workmates.live/channel/Importer
 
-      - text: Incentivize
-        url: https://chat.workmates.live/channel/Incentivize
       - text: Interpreters
         url: https://chat.workmates.live/channel/Interpreters
 
@@ -492,9 +483,6 @@ params:
         url: https://chat.workmates.live/channel/Jeweler
       - text: JobSeeker
         url: https://chat.workmates.live/channel/JobSeeker
-
-      - text: Kanbans
-        url: https://chat.workmates.live/channel/Kanbans
       - text: Labtech
         url: https://chat.workmates.live/channel/Labtech
 
@@ -520,9 +508,6 @@ params:
 
       - text: Litigator
         url: https://chat.workmates.live/channel/Litigator
-      - text: Lobbying
-        url: https://chat.workmates.live/channel/Lobbying
-
       - text: Logistician
         url: https://chat.workmates.live/channel/Logistician
       - text: Lyricist
@@ -530,9 +515,6 @@ params:
 
       - text: Machinist
         url: https://chat.workmates.live/channel/Machinist
-      - text: Manufacturer
-        url: https://chat.workmates.live/channel/Manufacturer
-
       - text: Manufacturers
         url: https://chat.workmates.live/channel/Manufacturers
       - text: MediaBuyer
@@ -582,6 +564,7 @@ params:
         url: https://chat.workmates.live/channel/Philosophers
 
       - text: PhotoJournalist
+        url: https://chat.workmates.live/channel/PhotoJouornalist
       - text: PhysicalTherapist
         url: https://chat.workmates.live/channel/PhysicalTherapist
       - text: Physicist
@@ -592,8 +575,6 @@ params:
       - text: Politician
         url: https://chat.workmates.live/channel/Politician
 
-      - text: Practically
-        url: https://chat.workmates.live/channel/Practically
       - text: Practitioner
         url: https://chat.workmates.live/channel/Practitioner
 
@@ -622,18 +603,13 @@ params:
       - text: Satellites
         url: https://chat.workmates.live/channel/Satellites
 
-      - text: Schoolmates
-        url: https://chat.workmates.live/channel/Schoolmates
       - text: SchoolTeachers
         url: https://chat.workmates.live/channel/SchoolTeachers
 
       - text: Screenwriter
         url: https://chat.workmates.live/channel/Screenwriter
-      - text: Sisterly
-        url: https://chat.workmates.live/channel/Sisterly
 
-      - text: Socialites
-        url: https://chat.workmates.live/channel/Socialites
+
       - text: SocialNetworks
         url: https://chat.workmates.live/channel/SocialNetworks
 
@@ -668,9 +644,6 @@ params:
 
       - text: TownSquare
         url: https://chat.workmates.live/channel/TownSquare
-      - text: TravelAgent
-        url: https://chat.workmates.live/channel/TravelAgent
-
       - text: TravelAgents
         url: https://chat.workmates.live/channel/TravelAgents
       - text: Travelers
@@ -698,21 +671,10 @@ params:
 
       - text: Wingman
         url: https://chat.workmates.live/channel/Wingman
-      - text: Womanly
-        url: https://chat.workmates.live/channel/Womanly
-
       - text: Wordsmith
         url: https://chat.workmates.live/channel/Wordsmith
       - text: Workmates
-        url: https://chat.workmates.live/channel/Workmates
-
-      - text: Worldly
-        url: https://chat.workmates.live/channel/Worldly
-      - text: Worldsfair
-        url: https://chat.workmates.live/channel/Worldsfair
-
-      - text: Yaas
-        url: https://chat.workmates.live/channel/Yaas
+        url: https://chat.workmates.live
       - text: YogaInstructor
         url: https://chat.workmates.live/channel/YogaInstructor
       - text: Zookeeper
