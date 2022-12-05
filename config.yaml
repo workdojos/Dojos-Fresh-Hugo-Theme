@@ -117,8 +117,6 @@ params:
       links:
       - text: 4X4S
         url: https://workdojos.com/4X4S
-      - text: Academies
-        url: https://workdojos.com/Academies
       - text: AccountExecutive
         url: https://workdojos.com/AccountExecutive
       - text: Actuaries
@@ -133,14 +131,8 @@ params:
         url: https://workdojos.com/Animators
       - text: AppDeveloper
         url: https://workdojos.com/AppDeveloper
-      - text: Arcades
-        url: https://workdojos.com/Arcades
       - text: ArmchairExpert
         url: https://workdojos.com/ArmchairExpert
-      - text: ArtGalleries
-        url: https://workdojos.com/ArtGalleries
-      - text: Artistically
-        url: https://workdojos.com/Artistically
       - text: Aviationist
         url: https://workdojos.com/Aviationist
       - text: Bankroller
@@ -151,8 +143,6 @@ params:
         url: https://workdojos.com/Bartenders
       - text: Beauticians
         url: https://workdojos.com/Beauticians
-      - text: Beautifully
-        url: https://workdojos.com/Beautifully
       - text: BeerGarden
         url: https://workdojos.com/BeerGarden
       - text: Biologist
@@ -161,24 +151,14 @@ params:
         url: https://workdojos.com/Botanist
       - text: BrewMasters
         url: https://workdojos.com/BrewMasters
-      - text: BrewPub
-        url: https://workdojos.com/BrewPub
-      - text: Brotherly
-        url: https://workdojos.com/Brotherly
-      - text: Cafes
-        url: https://workdojos.com/Cafes
       - text: Captains
         url: https://workdojos.com/Captains
-      - text: Coworkers
-        url: https://workdojos.com/Coworkers
       - text: Curators
         url: https://workdojos.com/Curators
       - text: DigitalMarketers
         url: https://workdojos.com/DigitalMarketers
       - text: Economists
         url: https://workdojos.com/Economists
-      - text: Encapsulate
-        url: https://workdojos.com/Encapsulate
       - text: Evangelist
         url: https://workdojos.com/Evangelist
       - text: EventPlanners
@@ -189,8 +169,6 @@ params:
         url: https://workdojos.com/Exhibitionist
       - text: Expatriate
         url: https://workdojos.com/Expatriate
-      - text: ExpertNetwork
-        url: https://workdojos.com/ExpertNetwork
       - text: Explorers
         url: https://workdojos.com/Explorers
       - text: Exporter
@@ -211,14 +189,10 @@ params:
         url: https://workdojos.com/GraphicDesigner
       - text: Growers
         url: https://workdojos.com/Growers
-      - text: Guesthouses
-        url: https://workdojos.com/Guesthouses
       - text: Healers
         url: https://workdojos.com/Healers
       - text: Importer
         url: https://workdojos.com/Importer
-      - text: Incentivize
-        url: https://workdojos.com/Incentivize
       - text: Interpreters
         url: https://workdojos.com/Interpreters
       - text: Investigators
@@ -229,8 +203,6 @@ params:
         url: https://workdojos.com/Jeweler
       - text: JobSeeker
         url: https://workdojos.com/JobSeeker
-      - text: Kanbans
-        url: https://workdojos.com/Kanbans
       - text: Labtech
         url: https://workdojos.com/Labtech
       - text: Landowners
@@ -251,22 +223,16 @@ params:
         url: https://workdojos.com/Lighthouses
       - text: Litigator
         url: https://workdojos.com/Litigator
-      - text: Lobbying
-        url: https://workdojos.com/Lobbying
       - text: Logistician
         url: https://workdojos.com/Logistician
       - text: Lyricist
         url: https://workdojos.com/Lyricist
       - text: Machinist
         url: https://workdojos.com/Machinist
-      - text: Manufacturer
-        url: https://workdojos.com/Manufacturer
       - text: Manufacturers
         url: https://workdojos.com/Manufacturers
       - text: MediaBuyer
         url: https://workdojos.com/MediaBuyer
-      - text: Medically
-        url: https://workdojos.com/Medically
       - text: Metaversial
         url: https://workdojos.com/Metaversial
       - text: MortgageBrokers
@@ -275,16 +241,10 @@ params:
         url: https://workdojos.com/Motivators
       - text: MusicAlartist
         url: https://workdojos.com/MusicAlartist
-      - text: Musically
-        url: https://workdojos.com/Musically
       - text: Negotiator
         url: https://workdojos.com/Negotiator
-      - text: Neighborly
-        url: https://workdojos.com/Neighborly
       - text: Neurologists
         url: https://workdojos.com/Neurologists
-      - text: Nomadically
-        url: https://workdojos.com/Nomadically
       - text: Non-Profit
         url: https://workdojos.com/Non-Profit
       - text: Novelist
@@ -308,14 +268,10 @@ params:
         url: https://workdojos.com/Playwright
       - text: Politician
         url: https://workdojos.com/Politician
-      - text: Practically
-        url: https://workdojos.com/Practically
       - text: Practitioner
         url: https://workdojos.com/Practitioner
       - text: ProjectManagers
         url: https://workdojos.com/ProjectManagers
-      - text: Psychiatric
-        url: https://workdojos.com/Psychiatric
       - text: PublicRelations
         url: https://workdojos.com/PublicRelations
       - text: Racers
@@ -330,48 +286,30 @@ params:
         url: https://workdojos.com/Retailers
       - text: SalesCoaches
         url: https://workdojos.com/SalesCoaches
-      - text: Satellites
-        url: https://workdojos.com/Satellites
       - text: Schoolmates
         url: https://workdojos.com/Schoolmates
       - text: SchoolTeachers
         url: https://workdojos.com/SchoolTeachers
       - text: Screenwriter
         url: https://workdojos.com/Screenwriter
-      - text: Sisterly
-        url: https://workdojos.com/Sisterly
-      - text: Socialites
-        url: https://workdojos.com/Socialites
-      - text: SocialNetworks
-        url: https://workdojos.com/SocialNetworks
       - text: SocialWorker
         url: https://workdojos.com/SocialWorker
       - text: Sociologist
         url: https://workdojos.com/Sociologist
       - text: SpiritualCoach
         url: https://workdojos.com/SpiritualCoach
-      - text: Sponsors
-        url: https://workdojos.com/Sponsors
       - text: Statistician
         url: https://workdojos.com/Statistician
-      - text: StayLit
-        url: https://workdojos.com/StayLit
       - text: Strategists
         url: https://workdojos.com/Strategists
-      - text: SupportGroup
-        url: https://workdojos.com/SupportGroup
       - text: Telemarketer
         url: https://workdojos.com/Telemarketer
       - text: Theologian
         url: https://workdojos.com/Theologian
       - text: Thespian
         url: https://workdojos.com/Thespian
-      - text: Tokenomic
-        url: https://workdojos.com/Tokenomic
       - text: TownSquare
         url: https://workdojos.com/TownSquare
-      - text: TravelAgent
-        url: https://workdojos.com/TravelAgent
       - text: TravelAgents
         url: https://workdojos.com/TravelAgents
       - text: Travelers
@@ -390,22 +328,12 @@ params:
         url: https://workdojos.com/WeekendWarrior
       - text: Wholesalers
         url: https://workdojos.com/Wholesalers
-      - text: Winebar
-        url: https://workdojos.com/Winebar
       - text: Wingman
         url: https://workdojos.com/Wingman
-      - text: Womanly
-        url: https://workdojos.com/Womanly
       - text: Wordsmith
         url: https://workdojos.com/Wordsmith
       - text: Workmates
-        url: https://workdojos.com/Workmates
-      - text: Worldly
-        url: https://workdojos.com/Worldly
-      - text: Worldsfair
-        url: https://workdojos.com/Worldsfair
-      - text: Yaas
-        url: https://workdojos.com/Yaas
+        url: https://workmates.live
       - text: YogaInstructor
         url: https://workdojos.com/YogaInstructor
       - text: Zookeeper
@@ -455,9 +383,6 @@ params:
         url: https://chat.workmates.live/channel/ArmchairExpert
       - text: ArtGalleries
         url: https://chat.workmates.live/channel/ArtGalleries
-
-      - text: Artistically
-        url: https://chat.workmates.live/channel/Artistically
       - text: Aviationist
         url: https://chat.workmates.live/channel/Aviationist
 
