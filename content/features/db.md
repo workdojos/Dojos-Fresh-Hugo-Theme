@@ -1,6 +1,8 @@
 ---
 title: Code-free database by Baserow
 include_footer: true
+sidebar: true
+sidebarlogo: wordojos_logo
 ---
 <img src="https://workmates.live/wp-content/uploads/2022/11/baserow4.png" 
      width="300" 

@@ -1,6 +1,8 @@
 ---
 title: Chat server by Rocket.chat
 include_footer: true
+sidebar: true
+sidebarlogo: wordojos_logo
 ---
 <img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" 
      width="300" 

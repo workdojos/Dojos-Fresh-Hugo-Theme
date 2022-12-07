@@ -1,6 +1,8 @@
 ---
 title: Password management by Vaultwarden (a fork of Bitwarden)
 include_footer: true
+sidebar: true
+sidebarlogo: wordojos_logo
 ---
 <img src="https://workmates.live/wp-content/uploads/2022/11/bitwardenlogo4.png" 
      width="300" 

@@ -2,7 +2,9 @@
 title: 'Developers'
 author: Kevin
 date: '2022-11-17'
-
+sidebar: true
+sidebarlogo: wordojos_logo
+draft: true
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Docker
 include_footer: true
+sidebar: true
+sidebarlogo: wordojos_logo
 ---
 
 {{% title3 "Price comparison" %}}

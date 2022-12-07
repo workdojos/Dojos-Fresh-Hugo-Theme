@@ -1,6 +1,8 @@
 ---
 title: Features
 include_footer: true
+sidebar: true
+sidebarlogo: wordojos_logo
 ---
 
 {{% title3 "Orchestrate your triggers and actions." %}}
