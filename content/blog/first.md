@@ -2,8 +2,7 @@
 title: First
 sidebar: true
 sidebarlogo: fresh-white-alt
-
-  sidebar:
+sidebar:
     # Logo (from /images/logos/___.svg)
     logo: wordojos_logo
     sections:
