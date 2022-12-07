@@ -5,11 +5,22 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <br>
+<img src="/uploads/night.svg" 
+<br>
+{{% title3 "We support small business." %}}
+{{% subtitle5 "Because we are a small business." %}}
+We support small business because we are a small business. Put open-source building blocks to work for you and your business like we did for ours. It all starts with a dashboard and lots of possibilities powered by open-source!
+
+<br>
+<img src="/uploads/devices2.svg" 
+<br>
+
+<br>
 <img src="/uploads/herd2.svg" 
 <br>
 {{% title3 "We will equip you." %}}
 {{% subtitle5 "Open-source tools for your everyday life." %}}
-The best and brightest builders got all the tools!  We will equip you with the best tools in your particular industry.  This includes a dashboard, up-to-date industry news, convenient automation, and more.  Give us a try, your career will thank you for it!
+The best and brightest builders got all the tools!  We will equip you with the best tools in your particular industry.  This includes a dashboard, up-to-date industry news, convenient automation, and more.  Give us a try, your career and lifelong dreams will thank you for it!
 
 <br>
 <img src="/uploads/devices2.svg" 
