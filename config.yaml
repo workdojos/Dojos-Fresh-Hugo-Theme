@@ -690,7 +690,7 @@ params:
       text: Customized to your profession, passions, and people.
 
       
-      url: https://workdojos.com/automation
+      url: https://workdojos.com/features/automation
       buttonText: Browse features
     - title: Your dojo = your own private cloud.  
       icon: laptop-cloud
