@@ -692,7 +692,7 @@ params:
       
       url: https://workdojos.com/admins
       buttonText: Browse dojos
-    - title: Your dojo = your own PRIVATE cloud.  
+    - title: Your dojo = your own private cloud.  
       icon: laptop-cloud
       text: You are Admin.  Your server.  Your data.  You are in absolute control.
 
