@@ -1,6 +1,8 @@
 ---
 title: Break away from the herd.
 include_footer: true
+sidebar: true
+sidebarlogo: wordojos_logo
 ---
 <br>
 <img src="/uploads/herd2.svg" 

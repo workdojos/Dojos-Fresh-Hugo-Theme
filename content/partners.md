@@ -1,6 +1,8 @@
 ---
 title: Partners
 include_footer: true
+sidebar: true
+sidebarlogo: wordojos_logo
 ---
 
 {{% title3 "n8n." %}}
