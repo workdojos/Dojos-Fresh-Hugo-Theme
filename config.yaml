@@ -21,7 +21,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/wordojos_logo.svg
+    image: logos/inspire_flat.svg
     link: /
     # Default width/height. Uncomment if you need to change
     # width: 112
