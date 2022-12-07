@@ -91,3 +91,7 @@ Wiki.js comes loaded with your Work Dojo.  It makes Wikipedia look like pretty r
   <br>
 
  <a href="https://workdojos.com/partners">Browse partners</a> 
+
+ <br>
+
+ <a href="https://workdojos.com/why">Why us?</a> 

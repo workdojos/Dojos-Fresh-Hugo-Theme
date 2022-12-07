@@ -65,10 +65,14 @@ Wiki.js is a fantastic tool that you can play around with at your leisure since 
      width="300" 
      height="200" />
 
-      <br>
+      
 
  <a href="https://workdojos.com/features/automation">Browse features</a> 
 
-  <br>
+<br>
 
  <a href="https://workdojos.com/ghost">Compare pricing</a> 
+
+ <br>
+
+ <a href="https://workdojos.com/why">Why us?</a> 
