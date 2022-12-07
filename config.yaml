@@ -35,9 +35,9 @@ params:
     # Hero subtitle (optional)
     subtitle: For less than a dollar a day we will help you start a business, dojo, or passion project using open-source technology.
     # Button text
-    buttontext: Get started
+    buttontext: Browse dojos
     # Where the main hero button links to
-    buttonlink: "https://workdojos.com/docs/start/"
+    buttonlink: "https://workdojos.com/admins"
     # Hero image (from static/images/___)
     image: logos/inspire.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -690,15 +690,15 @@ params:
       text: Customized to your profession, passions, and people.
 
       
-      url: https://workdojos.com/admins
-      buttonText: Browse dojos
+      url: https://workdojos.com/automation
+      buttonText: Browse features
     - title: Your dojo = your own private cloud.  
       icon: laptop-cloud
       text: You are Admin.  Your server.  Your data.  You are in absolute control.
 
 
-      url: https://workdojos.com/automation
-      buttonText: Browse features
+      url: https://workdojos.com/ghost
+      buttonText: Compare pricing
     - title: An entire ecosystem is yours.    Hey Admin!
       icon: plug-cloud
       text: Each dojo includes a website, wiki, chat app, blog, and more.  All open-source.
