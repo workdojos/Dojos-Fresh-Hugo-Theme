@@ -697,8 +697,8 @@ params:
       text: You are Admin.  Your server.  Your data.  You are in absolute control.
 
 
-      url: https://workdojos.com/docs/start
-      buttonText: Learn more
+      url: https://workdojos.com/automation
+      buttonText: Browse features
     - title: An entire ecosystem is yours.    Hey Admin!
       icon: plug-cloud
       text: Each dojo includes a website, wiki, chat app, blog, and more.  All open-source.
@@ -762,7 +762,7 @@ params:
       icon: instagram
     - link: https://www.pinterest.com/workmateslive/
       icon: pinterest
-    - link: https://twitter.com/WorkmatesLive
+    - link: https://twitter.com/workdojos
       icon: twitter
     bulmalogo: false
     quicklinks:
