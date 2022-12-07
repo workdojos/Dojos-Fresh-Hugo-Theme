@@ -1,6 +1,8 @@
 ---
 title: AGB
 include_footer: true
+sidebar: true
+sidebarlogo: fresh-white-alt
 ---
 
 {{% title3 "§1 Lorem" %}}
