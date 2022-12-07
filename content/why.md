@@ -5,22 +5,18 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <br>
-<img src="/uploads/night.svg" 
+<img src="/uploads/herd2.svg" 
 <br>
 {{% title3 "We support small business." %}}
 {{% subtitle5 "Because we are a small business." %}}
-We support small business because we are a small business. Put open-source building blocks to work for you and your business like we did for ours. It all starts with a dashboard and lots of possibilities powered by open-source!
+Put open-source building blocks to work for you and your business like we did for ours. It all starts with a dashboard.  A portal to another world.  Your world.
 
 <br>
-<img src="/uploads/devices2.svg" 
-<br>
-
-<br>
-<img src="/uploads/herd2.svg" 
+<img src="/uploads/night.svg" 
 <br>
 {{% title3 "We will equip you." %}}
 {{% subtitle5 "Open-source tools for your everyday life." %}}
-The best and brightest builders got all the tools!  We will equip you with the best tools in your particular industry.  This includes a dashboard, up-to-date industry news, convenient automation, and more.  Give us a try, your career and lifelong dreams will thank you for it!
+The best and brightest builders got all the tools!  We will equip you with the best open-source tools available, beginning with a dashboard customized to your profession or passion.  Give us a try, your career will thank you for it!
 
 <br>
 <img src="/uploads/devices2.svg" 
@@ -30,14 +26,14 @@ The best and brightest builders got all the tools!  We will equip you with the b
 {{% subtitle5 "Confidence anywhere.  Anytime." %}}
 Even the brightest minds can't do it all.  We all have something to give.  We all have something to share.  We all could use some help sometimes.  We want to be your ally.  Your biggest fan.  We will help you build and we will help you grow.
 
-The key to confidence.  Having someone on your side.
+The key to confidence.  Having someone on your side!
 
 <br>
 <img src="/uploads/mountain home.svg" 
 <br>
 
 {{% title3 "We will surprise you." %}}
-{{% subtitle5 "A lot under the hood for how little you pay!" %}}
+{{% subtitle5 "A lot under the hood for $25/month!" %}}
 Self-hosting comes with some amazing perks, like incredible bang for your buck.  There's a reason big SaaS companies make big bucks.  Pay less, get more, Work Dojos will show you the way.
 
 <br>
@@ -45,11 +41,16 @@ Self-hosting comes with some amazing perks, like incredible bang for your buck. 
 <br>
 
 {{% title3 "We will inspire you." %}}
-{{% subtitle5 "A lot under the hood for how little you pay" %}}
-It never hurts to dream.  It never hurts to try.  It doesn't matter how many times you have to get back up.  You will achieve your dreams, and we will help you get there.
+{{% subtitle5 "To do what you were born to do!" %}}
+It starts with a dream, a dashboard, and a dojo.  Let your creativity run wild and may all your dreams come true.
 
-<br>
-<img src="/uploads/inspire.svg" 
+What's in your Dojo?
+
+
 
  <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
+
+
+
+<a href="https://blog.workmates.live/workmates-holiday-season-discount"><img src="/uploads/inspire.svg" /></a>
 
