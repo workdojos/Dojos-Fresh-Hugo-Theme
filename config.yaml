@@ -21,7 +21,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/workmates logo 2.svg
+    image: logos/wordojos_logo.svg
     link: /
     # Default width/height. Uncomment if you need to change
     # width: 112
@@ -39,7 +39,7 @@ params:
     # Where the main hero button links to
     buttonlink: "https://workdojos.com/docs/start/"
     # Hero image (from static/images/___)
-    image: logos/inspire.svg
+    image: logos/wordojos_logo.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
 
@@ -107,7 +107,7 @@ params:
     button: true
   sidebar:
     # Logo (from /images/logos/___.svg)
-    logo: fresh-square
+    logo: wordojos_logo
     sections:
 
 
@@ -750,7 +750,7 @@ params:
   section5: false
   footer:
     # Logo (from /images/logos/___)
-    logo: workmates logo 2.svg
+    logo: wordojos_logo.svg
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
