@@ -727,7 +727,7 @@ params:
 
   section3:
     title: Pick a path
-    subtitle: No matter who you are or what you do, your dojo awaits!
+    subtitle: No matter who you are or what you do, we got the dojo for you!
     image: logos/undraw_road_to_knowledge_m8s0.svg
     buttonText: Get started
     buttonLink: "https://workdojos.com/docs/start"
