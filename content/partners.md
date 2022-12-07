@@ -64,3 +64,11 @@ Wiki.js is a fantastic tool that you can play around with at your leisure since 
 <img src="https://workmates.live/wp-content/uploads/2022/11/wikijs.png" 
      width="300" 
      height="200" />
+
+      <br>
+
+ <a href="https://workdojos.com/features/automation">Browse features</a> 
+
+  <br>
+
+ <a href="https://workdojos.com/ghost">Compare pricing</a> 
