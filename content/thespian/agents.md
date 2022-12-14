@@ -9,7 +9,12 @@ sidebarlogo: wordojos_logo
 
 {{% title3 "" %}}
 <br>
+
+<br>
 Probably not anything you need to concern yourself with, if you’re really just getting started. But keep in mind for the future: agents are businesspeople. They very much live in the “biz” half of “showbiz.” They’ll be interested in working with you if they think they can make money with you. That means you need to be ready to work at a professional level. Ideally good training, solid credits you’ve gotten on your own, a great headshot, a reel that shows you off well, and a referral from one of their clients. You need at least a few of these things before you’ll have a chance to work with them. And they never get paid until you get paid. No money up front.
+<br>
+<br>
+{{% subtitle5 "Agents" %}}
 <br>
 {{% subtitle5 "We empower people to build things." %}}
 
