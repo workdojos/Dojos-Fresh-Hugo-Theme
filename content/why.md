@@ -9,14 +9,14 @@ sidebarlogo: wordojos_logo
 <br>
 {{% title3 "We support small business." %}}
 {{% subtitle5 "Because we are a small business." %}}
-Put open-source building blocks to work for you and your business like we did for ours. It all starts with a dashboard.  A portal to another world.  Your world.
+Put open-source building blocks to work for you and your business like we did for ours. It all starts with a dashboard. 
 
 <br>
 <img src="/uploads/night.svg" 
 <br>
 {{% title3 "We will equip you." %}}
 {{% subtitle5 "Open-source tools for your everyday life." %}}
-The best and brightest builders got all the tools!  We will equip you with the best open-source tools available, beginning with a dashboard customized to your profession or passion.  Give us a try, your career will thank you for it!
+The best and brightest builders got all the tools!  We will equip you with the best open-source tools available, beginning with a dashboard customized to you.  Give us a try, your career will thank you for it!
 
 <br>
 <img src="/uploads/devices2.svg" 
@@ -24,7 +24,7 @@ The best and brightest builders got all the tools!  We will equip you with the b
 
 {{% title3 "We will empower you." %}}
 {{% subtitle5 "Confidence anywhere.  Anytime." %}}
-Even the brightest minds can't do it all.  We all have something to give.  We all have something to share.  We all could use some help sometimes.  We want to be your ally.  Your biggest fan.  We will help you build and we will help you grow.
+Even the brightest minds can't do it all.  We all have something to give.  We all have something to share.  We all could use some help sometimes.
 
 The key to confidence.  Having someone on your side!
 
