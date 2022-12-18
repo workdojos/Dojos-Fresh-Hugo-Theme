@@ -730,7 +730,7 @@ params:
     subtitle: No matter who you are or what you do, we got the dojo for you!
     image: logos/undraw_road_to_knowledge_m8s0.svg
     buttonText: Get started
-    buttonLink: "https://workdojos.com/docs/start"
+    buttonLink: "https://workmates.live/marketplace"
   section4:
     title: Testimonials.
     subtitle: Making open-source more accessible.
