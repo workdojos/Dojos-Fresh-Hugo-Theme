@@ -35,9 +35,9 @@ params:
     # Hero subtitle (optional)
     subtitle: For less than a dollar a day we will help you start a business, dojo, or passion project using open-source technology.
     # Button text
-    buttontext: Browse dojos
+    buttontext: Get a dojo
     # Where the main hero button links to
-    buttonlink: "https://workdojos.com/admins"
+    buttonlink: "https://workmates.live/marketplace"
     # Hero image (from static/images/___)
     image: logos/inspire.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -729,7 +729,7 @@ params:
     title: Pick a path
     subtitle: No matter who you are or what you do, we got the dojo for you!
     image: logos/undraw_road_to_knowledge_m8s0.svg
-    buttonText: Get started
+    buttonText: Browse dojos
     buttonLink: "https://workmates.live/marketplace"
   section4:
     title: Testimonials.
