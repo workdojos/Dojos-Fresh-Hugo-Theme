@@ -40,11 +40,9 @@ Self-hosting comes with some amazing perks, like incredible bang for your buck. 
 <img src="/uploads/path.svg" 
 <br>
 
-{{% title3 "We will inspire you." %}}
-{{% subtitle5 "To do what you were born to do!" %}}
-It starts with a dream, a dashboard, and a dojo.  Let your creativity run wild and may all your dreams come true.
-
-What's in your Dojo?
+{{% title3 "Your server." %}}
+{{% subtitle5 "Your data." %}}
+Take back your data privacy.  We will teach you how to manager your own server, wherever you want to host it.  VPS's can get as low as $5/month in some places.
 
 
 
