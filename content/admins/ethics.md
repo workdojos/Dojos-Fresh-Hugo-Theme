@@ -1,5 +1,5 @@
 ---
-title: Grow as a
+title: An Ethical Framework for System Administrators
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

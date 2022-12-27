@@ -1,5 +1,5 @@
 ---
-title: Grow as a
+title: System Administrator Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,5 @@
 ---
-title: Grow as a
+title: Recommendations
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

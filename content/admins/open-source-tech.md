@@ -1,5 +1,5 @@
 ---
-title: Grow as a
+title: Open-Source Tech for System Administrators
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

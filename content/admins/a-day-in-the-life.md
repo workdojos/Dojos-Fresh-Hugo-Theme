@@ -1,5 +1,5 @@
 ---
-title: Grow as a
+title: A Day in the Life of a System Administrator
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
