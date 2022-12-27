@@ -76,8 +76,6 @@ params:
     sublinks:
     - title: Administrator's Dojo
       url: https://workdojos.com/administrators
-    - title: Adventurer's Dojo
-      url: https://workdojos.com/adventurers
     - title: Animators's Dojo
       url: https://workdojos.com/animators
     - title: Aviationist's Dojo
@@ -94,10 +92,10 @@ params:
       url: https://workdojos.com/biologist
     - title: Captain's Dojo
       url: https://workdojos.com/captains
-    - title: Curator's Dojo
-      url: https://workdojos.com/curators
     - title: Digital Marketer's Dojo
       url: https://workdojos.com/digitalmarketers
+    - title: Sys Admin's Dojo
+      url: https://workdojos.com/admins
 
 
   - title: Log in
@@ -300,6 +298,8 @@ params:
         url: https://workdojos.com/Statistician
       - text: Strategists
         url: https://workdojos.com/Strategists
+      - text: System Administrators
+        url: https://workdojos.com/Admins
       - text: Telemarketer
         url: https://workdojos.com/Telemarketer
       - text: Theologian
