@@ -4,9 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-<br>
+
 <br>
 <img src="/uploads/admins/admins (5).jpg"> 
+<br>
 <br>
 As a philosopher, I would approach the task of developing an ethical framework for starting a business as a system administrator working in the server administration industry by first examining the fundamental principles that underlie ethical behavior. These principles might include respect for the autonomy and dignity of individuals, the promotion of the common good, and the avoidance of harm or exploitation.
 

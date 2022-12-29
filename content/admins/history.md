@@ -4,17 +4,14 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-<br>
+
 <br>
 <img src="/uploads/admins/admins (7).jpg"> 
 <br>
-System administrator:
-
+<br>
 The term "system administrator" is derived from the Latin word "systema", meaning "system" or "order". It was first used in the late 19th century to refer to a person responsible for managing and maintaining the systems and networks within an organization.
 
 The role of a system administrator has evolved over time, and today it generally refers to a person who is responsible for the installation, configuration, and maintenance of computer systems, including hardware, software, and networks.
-
-Server administration:
 
 The term "server administration" is derived from the Latin word "servus", meaning "servant" or "slave". It was first used in the early 20th century to refer to the management and maintenance of servers, which are computers that provide services to other computers or devices.
 

@@ -4,9 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-<br>
+
 <br>
 <img src="/uploads/admins/admins (10).jpg"> 
+<br>
 <br>
 As a career counselor, it is important to consider a variety of factors when determining what career path is best suited for an individual. In the case of someone interested in pursuing a career as a system administrator working in the server administration industry, there are several key skills and qualities that are important to consider.
 

@@ -4,9 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-<br>
+
 <br>
 <img src="/uploads/admins/admins (12).jpg"> 
+<br>
 <br>
 Idea Name: Server-Solutions
 

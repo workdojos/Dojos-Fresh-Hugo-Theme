@@ -4,9 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-<br>
+
 <br>
 <img src="/uploads/admins/admins (8).jpg"> 
+<br>
 <br>
 The server administration industry is an integral part of our modern economy, as it plays a crucial role in the smooth functioning of businesses of all sizes. In recent years, there has been a growing trend towards the use of open-source technology in the server administration industry, and this shift has brought with it numerous benefits.
 
