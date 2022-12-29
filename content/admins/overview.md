@@ -5,11 +5,10 @@ sidebar: true
 sidebarlogo: wordojos_logo
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
-
-<br>
-<img src="/uploads/admins/admins (9).jpg"> 
-<br>
-<br>
+<figure>
+    <img src='/uploads/admins/admins (9).jpg' alt='Dojo' style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle";/>
+    <figcaption>A day in the life.  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
+</figure>
 The server administration industry is a vital part of the modern tech world, responsible for managing and maintaining the servers that power websites, applications, and other online services. According to data from the U.S. Bureau of Labor Statistics, the demand for server administrators is expected to grow by 7% between 2019 and 2029, outpacing the average growth rate for all occupations.
 
 To find opportunities in the server administration industry, it is helpful to start by networking with those already working in the field. This can be done through professional organizations such as the Association of Internet Professionals or the International Association of Computer Science and Information Technology. Attending industry conferences and events can also be a great way to connect with others in the field and learn about job openings.

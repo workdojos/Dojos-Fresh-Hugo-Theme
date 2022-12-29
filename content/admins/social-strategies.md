@@ -4,11 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
-<br>
-<img src="/uploads/admins/admins (11).jpg"> 
-<br>
-
+<figure>
+    <img src='/uploads/admins/admins (11).jpg' alt='Dojo' />
+    <figcaption>A day in the life.  Enjoy our AI-generated content using the latest from OpenAI's large AI language models:  ChatGPT.  The future of search.</figcaption>
+</figure>
 <br>
 Twitter:
 <br>

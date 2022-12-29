@@ -4,11 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
-<br>
-<img src="/uploads/admins/admins (6).jpg"> 
-<br>
-<br>
+<figure>
+    <img src='/uploads/admins/admins (6).jpg' alt='Dojo' style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle";/>
+    <figcaption>A day in the life.  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
+</figure>
 First and foremost, congratulations on wanting to start your own business in the server administration industry! This is a field that is constantly growing and evolving, and there are many amazing benefits to working as a system administrator.
 
 One key strategy to consider is to do your research and learn as much as you can about the industry and the specific role of a system administrator. This can include reading industry publications, attending conferences and networking events, and speaking with professionals who are already successful in this field.

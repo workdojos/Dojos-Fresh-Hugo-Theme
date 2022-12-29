@@ -4,11 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
-<br>
-<img src="/uploads/admins/admins (4).jpg"> 
-<br>
-<br>
+<figure>
+    <img src='/uploads/admins/admins (4).jpg' alt='Dojo' style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle";/>
+    <figcaption>A day in the life.  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
+</figure>
 As a Talent Coach for system administrators, here are some suggestions for things to include in a curriculum, websites with resources for learning, and companies to work for:
 
 In a curriculum, it would be helpful to include topics such as:
@@ -36,7 +35,7 @@ Stay up to date on the latest technologies and best practices in the field
 Learn as much as you can about different operating systems and server management tools
 Practice scripting and automation skills to increase efficiency
 Stay organized and keep detailed documentation of your work
-Some questions a candidate should be able to answer in an interview for a system administrator position include:
+Some quest5ions a candidate should be able to answer in an interview for a system administrator position include:
 
 How do you troubleshoot and resolve issues with servers and networks?
 How do you implement and maintain security measures for data and systems?
