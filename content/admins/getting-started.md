@@ -5,6 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <br>
+<br>
 <img src="/uploads/admins/admins (6).jpg"> 
 <br>
 First and foremost, congratulations on wanting to start your own business in the server administration industry! This is a field that is constantly growing and evolving, and there are many amazing benefits to working as a system administrator.
