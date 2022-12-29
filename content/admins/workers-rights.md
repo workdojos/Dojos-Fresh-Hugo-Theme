@@ -7,7 +7,7 @@ sidebarlogo: wordojos_logo
 
 <figure>
     <img src='/uploads/admins/admins (115).jpg' alt='Dojo' />
-    <figcaption>A day in the life.  Enjoy our AI-generated content using the latest from OpenAI's large AI language models:  ChatGPT.  The future of search.</figcaption>
+    <figcaption>A day in the life of us all.  Enjoy our AI-generated content using the latest from OpenAI's large AI language models:  ChatGPT.  The future of search.</figcaption>
 </figure>
 <br>
 One of the major trends in the server administration industry in recent years has been the increasing demand for skilled professionals to manage and maintain complex systems. This has led to a competitive job market and, unfortunately, has also resulted in some companies taking advantage of their workers by offering low wages and unfair work practices.

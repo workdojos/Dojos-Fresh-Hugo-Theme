@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 ---
 <figure>
     <img src='/uploads/admins/admins (4).jpg' alt='Dojo' style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle";/>
-    <figcaption>A day in the life.  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
+    <figcaption>A day in the life of leveling up.  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
 </figure>
 As a Talent Coach for system administrators, here are some suggestions for things to include in a curriculum, websites with resources for learning, and companies to work for:
 
