@@ -25,6 +25,7 @@ Conclusion:
 
 In conclusion, the server administration industry is facing several controversies and challenges that need to be addressed to ensure the well-being of system administrators and the future of the industry. We need to make it easier for system administrators to find work, pay them more, and improve the industry as a whole by promoting diversity and inclusion, training and educating more skilled professionals, and recognizing their value. By addressing these issues, we can create a better future for the server administration industry and the professionals who work in it.
 <br>
+<br>
 <a href="https://workdojos.com/admins/history">next: history</a>
 <br>
 <br>

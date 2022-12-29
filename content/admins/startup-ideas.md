@@ -35,6 +35,7 @@ Estimated 1st Year Cost of Operation: $100,000 - $200,000
 
 Potential Business Challenges: Competition from established server administration platforms, difficulty attracting and retaining skilled employees, maintaining a high level of customer satisfaction.
 <br>
+<br>
 <a href="https://workdojos.com/admins/open-source-tech">next: open-source tech</a>
 <br>
 <br>

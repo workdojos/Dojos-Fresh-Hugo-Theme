@@ -19,7 +19,10 @@ There are a number of useful websites where one can learn more about the server 
 When it comes to the best and worst jobs in the server administration industry, it is important to consider factors such as job satisfaction, salary, and job security. According to a survey by the Association of Internet Professionals, the best jobs in the industry include positions such as lead server administrator, senior systems engineer, and IT director. On the other hand, entry-level positions such as junior server administrator and technical support specialist may not be as highly regarded due to lower salaries and less job security.
 
 Overall, the server administration industry is a dynamic and exciting field with plenty of opportunities for those who are interested in pursuing a career in tech. With the right skills and resources, anyone can find success in this growing industry.
-
+<br>
+<br>
+<a href="https://workdojos.com/admins/curriculum">next: curriculum</a>
+<br>
 <br>
 <iframe src="https://admins.workdojos.com
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
