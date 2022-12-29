@@ -16,7 +16,9 @@ Another helpful strategy is to identify your strengths and leverage them in your
 It's also important to surround yourself with a supportive network of people who can help you achieve your goals. This could include mentors, colleagues, and friends who are passionate about the server administration industry and can provide encouragement and guidance as you navigate the challenges of starting a business.
 
 Finally, don't be afraid to get excited about your new career path and share your enthusiasm with others. The more you can convey the benefits and excitement of working as a system administrator, the more likely you are to inspire others to consider this field as a rewarding career choice.
-
+<br>
+<a href="https://workdojos.com/admins/recommendations">next: recommendations</a>
+<br>
 <br>
 <iframe src="https://admins.workdojos.com
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>

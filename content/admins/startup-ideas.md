@@ -34,7 +34,9 @@ Idea Validation Steps: Conduct market research to understand the needs and pain 
 Estimated 1st Year Cost of Operation: $100,000 - $200,000
 
 Potential Business Challenges: Competition from established server administration platforms, difficulty attracting and retaining skilled employees, maintaining a high level of customer satisfaction.
-
+<br>
+<a href="https://workdojos.com/admins/open-source-tech">next: open-source tech</a>
+<br>
 <br>
 <iframe src="https://admins.workdojos.com
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>

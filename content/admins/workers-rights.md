@@ -16,7 +16,9 @@ Additionally, many companies in the server administration industry have been cri
 Another important issue is the lack of job security in the industry. Many workers are employed on a contract basis, which means that they do not have the same protections and benefits as permanent employees. This can lead to unstable work environments and make it difficult for workers to plan for the future.
 
 In conclusion, it is important for system administrators and other workers in the server administration industry to advocate for fair work practices, including fair wages, job security, and equal treatment. These issues are not only important for the well-being of individual workers, but also for the overall health and stability of the industry. By promoting worker’s rights and fair treatment, we can create a more sustainable and equitable industry for all.
-
+<br>
+<a href="https://workdojos.com/admins/branding">next: branding</a>
+<br>
 <br>
 <iframe src="https://admins.workdojos.com
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
