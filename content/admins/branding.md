@@ -4,6 +4,9 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<br>
+<img src="/uploads/admins/admins (2).jpg" 
+<br>
 To start, I would recommend creating a consistent brand identity across all platforms. This includes using the same profile picture, bio, and hashtags on each platform. This will help followers easily recognize and connect with your brand.
 
 On Instagram, I suggest creating visually appealing posts featuring your work as a system administrator. This could include behind-the-scenes photos of you working in the server room, screenshots of your computer screen while you work, and before-and-after photos of servers you have successfully managed. You can also use Instagram Stories to give followers a more personal glimpse into your daily life as a system administrator.

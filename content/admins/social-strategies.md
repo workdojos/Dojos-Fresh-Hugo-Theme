@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+
+<br>
+<img src="/uploads/admins/admins (11).jpg" 
+<br>
 Sure, I can certainly help with that! Here are a few strategies I would suggest implementing:
 
 Twitter:

@@ -4,6 +4,9 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<br>
+<img src="/uploads/admins/admins (4).jpg" 
+<br>
 As a Talent Coach for system administrators, here are some suggestions for things to include in a curriculum, websites with resources for learning, and companies to work for:
 
 In a curriculum, it would be helpful to include topics such as:

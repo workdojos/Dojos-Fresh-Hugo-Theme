@@ -4,6 +4,9 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<br>
+<img src="/uploads/admins/admins (7).jpg" 
+<br>
 System administrator:
 
 The term "system administrator" is derived from the Latin word "systema", meaning "system" or "order". It was first used in the late 19th century to refer to a person responsible for managing and maintaining the systems and networks within an organization.
