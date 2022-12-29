@@ -1,5 +1,5 @@
 ---
-title: System Administrator Challenges
+title: Managed Services Industry Challenges
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

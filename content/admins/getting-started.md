@@ -1,5 +1,5 @@
 ---
-title: Begin as a System Administrator
+title: Getting Started as a System Administrator
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

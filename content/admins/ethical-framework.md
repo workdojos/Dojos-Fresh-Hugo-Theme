@@ -1,5 +1,5 @@
 ---
-title: An Ethical Framework for System Administrators
+title: Ethical Framework for System Administrators
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

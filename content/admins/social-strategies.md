@@ -1,5 +1,5 @@
 ---
-title: System Administrator Social Strategy
+title: System Administrator Social Strategies
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,5 @@
 ---
-title: System Administrator Website
+title: Websites for System Administrators
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

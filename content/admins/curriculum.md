@@ -1,5 +1,5 @@
 ---
-title: System Administrator Curriculum
+title: Curriculum for System Administrators
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

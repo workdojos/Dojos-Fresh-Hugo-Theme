@@ -1,5 +1,5 @@
 ---
-title: System Administrator Startup Idea
+title: System Administrator Startup Ideas
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

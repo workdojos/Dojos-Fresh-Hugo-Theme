@@ -1,5 +1,5 @@
 ---
-title:  System Administrator Etymology
+title:  System Administrator History
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
