@@ -8,12 +8,8 @@ sidebarlogo: wordojos_logo
 <br>
 <figure>
     <img src='/uploads/admins/admins (1).jpg' alt='Dojo' />
-    <figcaption>A day in the life.  Enjoy our AI-generated content using the latest from OpenAI's large language models:  ChatGPT (prototype launched November 30, 2022). </figcaption>
+    <figcaption>A day in the life.  Enjoy our AI-generated content using the latest from OpenAI's large language models:  ChatGPT. </figcaption>
 </figure>
-
-<br>
-<img src="/uploads/admins/admins (1).jpg">
-<br>
 
 Once upon a time, in a world filled with computers and servers, there was a group of people known as system administrators. These hardworking individuals were responsible for maintaining and troubleshooting the systems that kept businesses running smoothly.
 
