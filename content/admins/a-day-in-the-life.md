@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/admins/admins (1).jpg' alt='Dojo' style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle";/>
+    <img src='/uploads/admins/admins (1).jpg' alt='Dojo' style="width: 100%;height: 300px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle";/>
     <figcaption>A day in the life.  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
 </figure>
 Once upon a time, in a world filled with computers and servers, there was a group of people known as system administrators. These hardworking individuals were responsible for maintaining and troubleshooting the systems that kept businesses running smoothly.
