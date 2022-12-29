@@ -1,5 +1,5 @@
 ---
-title: System Administrators: An Overview
+title: An Overview for System Administrators
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
