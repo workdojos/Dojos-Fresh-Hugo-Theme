@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <br>
-<img src="/uploads/admins/admins (1).jpg" 
+<img src="/uploads/admins/admins (1).jpg">
 <br>
 
 Once upon a time, in a world filled with computers and servers, there was a group of people known as system administrators. These hardworking individuals were responsible for maintaining and troubleshooting the systems that kept businesses running smoothly.
@@ -23,6 +23,9 @@ These and other system administrators have helped shape the industry and make it
 So the next time you use a computer or access a website, take a moment to think about the hardworking system administrators who keep everything running smoothly behind the scenes. Without them, the digital world we know and rely on would not be possible.
 
 <br>
+<a href="https://workdojos.com/admins/challenges">Next:  Challenges</a>
+<br>
+
 <iframe src="https://admins.workdojos.com
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>

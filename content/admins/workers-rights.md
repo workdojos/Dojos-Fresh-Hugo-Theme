@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <br>
-<img src="/uploads/admins/admins (14).jpg" 
+<img src="/uploads/admins/admins (14).jpg"> 
 <br>
 One of the major trends in the server administration industry in recent years has been the increasing demand for skilled professionals to manage and maintain complex systems. This has led to a competitive job market and, unfortunately, has also resulted in some companies taking advantage of their workers by offering low wages and unfair work practices.
 

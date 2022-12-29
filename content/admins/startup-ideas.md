@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <br>
-<img src="/uploads/admins/admins (12).jpg" 
+<img src="/uploads/admins/admins (12).jpg"> 
 <br>
 Idea Name: Server-Solutions
 
