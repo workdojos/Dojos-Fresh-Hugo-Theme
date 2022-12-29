@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 ---
 
 <figure>
-    <img src='/uploads/admins/admins (115).jpg' alt='Dojo' />
+    <img src='/uploads/admins/admins (15).jpg' alt='Dojo' />
     <figcaption>A day in the life of us all.  Enjoy our AI-generated content using the latest from OpenAI's large AI language models:  ChatGPT.  The future of search.</figcaption>
 </figure>
 <br>
