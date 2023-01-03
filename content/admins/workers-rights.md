@@ -9,7 +9,7 @@ sidebarlogo: wordojos_logo
     <img src='/uploads/workers-rights.svg' height="100%" width="500px"; alt='a cityscape of workers and office buildings';/>
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-<br>
+<p>
 One of the major trends in the server administration industry in recent years has been the increasing demand for skilled professionals to manage and maintain complex systems. This has led to a competitive job market and, unfortunately, has also resulted in some companies taking advantage of their workers by offering low wages and unfair work practices.
 <br>
 As a system administrator, it is important to advocate for fair treatment and proper wages in the industry. One key issue is the use of unpaid internships or low-paying entry-level positions as a means of training new hires. While these may seem like a good opportunity for workers to gain experience and skills, they often end up being exploitative and do not provide a fair wage for the work being performed.
@@ -27,3 +27,4 @@ In conclusion, it is important for system administrators and other workers in th
 <iframe src="https://admins.workdojos.com
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
+</p>

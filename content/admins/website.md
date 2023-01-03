@@ -8,7 +8,7 @@ sidebarlogo: wordojos_logo
     <img src='/uploads/website.svg' height="100%" width="500px"; alt='desktop computer opened to a beautiful website';/>
     <figcaption>"Hey Admin!".  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-<p>
+<br>
 As a web design consultant, I would suggest that having your own website is essential for any business, especially in today's digital age. A website can serve as an online storefront, providing information about your business, products or services, and allowing potential customers to learn more about what you have to offer.
 
 There are several benefits to having your own website:
@@ -40,4 +40,3 @@ Overall, I would recommend that you invest in creating a website for your busine
 <iframe src="https://admins.workdojos.com
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
-</p>

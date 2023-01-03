@@ -8,6 +8,7 @@ sidebarlogo: wordojos_logo
     <img src='/uploads/ethical-framework.svg' height="100%" width="500px"; alt='namaste hands';/>
     <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+<p>
 As a philosopher, I would approach the task of developing an ethical framework for starting a business as a system administrator working in the server administration industry by first examining the fundamental principles that underlie ethical behavior. These principles might include respect for the autonomy and dignity of individuals, the promotion of the common good, and the avoidance of harm or exploitation.
 
 Next, I would consider the specific challenges and opportunities that a system administrator working in the server administration industry might face when starting a business. For example, the administrator might need to consider issues related to data privacy and security, as well as the impact of their business practices on the environment and society as a whole.
@@ -23,3 +24,4 @@ Overall, the key to developing an ethical framework for starting a business as a
 <iframe src="https://admins.workdojos.com
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
+</p>

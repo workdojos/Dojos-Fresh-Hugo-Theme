@@ -9,6 +9,7 @@ featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5
     <img src='/uploads/overview.svg' height="100%" width="500px"; alt='remote worker at his desk with a cup of coffee';/>
     <figcaption>An overview of this growing industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+<p>
 The server administration industry is a vital part of the modern tech world, responsible for managing and maintaining the servers that power websites, applications, and other online services. According to data from the U.S. Bureau of Labor Statistics, the demand for server administrators is expected to grow by 7% between 2019 and 2029, outpacing the average growth rate for all occupations.  
 <br>
 <br>
@@ -30,3 +31,4 @@ Overall, the server administration industry is a dynamic and exciting field with
 <iframe src="https://admins.workdojos.com
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
+</p>

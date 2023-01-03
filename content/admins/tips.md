@@ -8,6 +8,7 @@ sidebarlogo: wordojos_logo
     <img src='/uploads/recommendations.svg' height="100%" width="500px"; alt='firecracker';/>
     <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+<p>
 As a career counselor, it is important to consider a variety of factors when determining what career path is best suited for an individual. In the case of someone interested in pursuing a career as a system administrator working in the server administration industry, there are several key skills and qualities that are important to consider.
 
 First and foremost, it is essential that this individual has strong technical skills, including knowledge of various operating systems, networking technologies, and server hardware. They should also be able to troubleshoot and solve complex technical problems, and have excellent problem-solving and analytical skills.
@@ -27,3 +28,4 @@ Overall, a career as a system administrator working in the server administration
 <iframe src="https://admins.workdojos.com
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
+</p>

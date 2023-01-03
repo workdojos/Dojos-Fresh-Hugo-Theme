@@ -8,7 +8,7 @@ sidebarlogo: wordojos_logo
     <img src='/uploads/startup-ideas.svg' height="100%" width="500px"; alt='new storefront and startup open for business';/>
     <figcaption>It all starts with an idea.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-<br>
+<p>
 Idea Name: Server-Solutions
 
 One Liner: A comprehensive server administration platform for system administrators and IT professionals.
@@ -44,3 +44,4 @@ Potential Business Challenges: Competition from established server administratio
 <iframe src="https://admins.workdojos.com
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
+</p>

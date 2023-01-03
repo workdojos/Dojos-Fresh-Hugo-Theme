@@ -5,16 +5,18 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/social-media.svg' height="100%" width="500px"; alt='social media selfie';/>
+    <img src='/uploads/social-media.svg' height="100%" width="500px"; alt='social media';/>
     <figcaption>Gain presence in the world of social media.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-<br>
 Twitter:
 <br>
-Tweet about industry news, updates, and events related to server administration. This will help establish your organization as a thought leader in the industry.555555555
+
+<p>
+Tweet about industry news, updates, and events related to server administration. This will help establish your organization as a thought leader in the industry.
 Share relevant content from other sources, such as articles, blog posts, and podcasts, and include relevant hashtags to expand your reach.
 Engage with other users in the server administration industry by retweeting their content, replying to their tweets, and participating in Twitter chats.
 Utilize Twitter analytics to track the success of your tweets and identify what content is resonating most with your followers.
+<br>
 <br>
 Instagram:
 <br>
@@ -22,6 +24,7 @@ Share visually appealing and informative content, such as behind-the-scenes look
 Use Instagram Stories to share more casual, real-time content and engage with your followers by asking questions and hosting polls.
 Utilize Instagram hashtags to expand your reach and connect with other users in the server administration industry.
 Use Instagram analytics to track the success of your posts and identify what content is performing best.
+<br>
 <br>
 Pinterest:
 <br>
@@ -38,3 +41,4 @@ By implementing these strategies and regularly engaging with your audience on so
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 5
+</p>

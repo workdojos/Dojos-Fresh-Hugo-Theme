@@ -8,6 +8,7 @@ sidebarlogo: wordojos_logo
     <img src='/uploads/curriculum.svg' height="100%" width="500px"; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+<p>
 As a Talent Coach for system administrators, here are some suggestions for things to include in a curriculum, websites with resources for learning, and companies to work for:
 
 In a curriculum, it would be helpful to include topics such as:
@@ -49,3 +50,4 @@ How do you stay up to date on the latest technologies and best practices in the 
 <iframe src="https://admins.workdojos.com
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
+</p>

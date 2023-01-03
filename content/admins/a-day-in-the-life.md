@@ -8,6 +8,7 @@ sidebarlogo: wordojos_logo
     <img src='/uploads/a-day-in-the-life.svg' height="100%" width="500px"; alt='sunny day working abroad in an exotic locale';/>
     <figcaption>What it's like living a day in the life.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+<p>
 Once upon a time, in a world filled with computers and servers, there was a group of people known as system administrators. These hardworking individuals were responsible for maintaining and troubleshooting the systems that kept businesses running smoothly.
 
 
@@ -33,3 +34,4 @@ So the next time you use a computer or access a website, take a moment to think 
 <br>
 <a href="https://workdojos.com/baristas">next: dojo</a>
 <br>
+</p>

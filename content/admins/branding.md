@@ -8,6 +8,7 @@ sidebarlogo: wordojos_logo
     <img src='/uploads/branding.svg' height="100%" width="500px"; alt='tools to brand your new business';/>
     <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+<p>
 To start, I would recommend creating a consistent brand identity across all platforms. This includes using the same profile picture, bio, and hashtags on each platform. This will help followers easily recognize and connect with your brand.
 
 On Instagram, I suggest creating visually appealing posts featuring your work as a system administrator. This could include behind-the-scenes photos of you working in the server room, screenshots of your computer screen while you work, and before-and-after photos of servers you have successfully managed. You can also use Instagram Stories to give followers a more personal glimpse into your daily life as a system administrator.
@@ -29,3 +30,4 @@ Overall, the key to a successful social media campaign is to create engaging and
 <iframe src="https://admins.workdojos.com
 " style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
+</p>
