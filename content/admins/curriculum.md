@@ -43,7 +43,6 @@ How do you implement and maintain security measures for data and systems?
 How do you use automation tools and scripts to streamline tasks?
 How do you stay up to date on the latest technologies and best practices in the field?
 <br>
-<br>
 <a href="https://workdojos.com/admins/getting-started">next: getting started</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">

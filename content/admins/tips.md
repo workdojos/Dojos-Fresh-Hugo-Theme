@@ -21,7 +21,6 @@ In terms of qualifications, it is generally beneficial for this individual to ha
 
 Overall, a career as a system administrator working in the server administration industry can be a rewarding and challenging path for those with strong technical skills and excellent problem-solving and communication abilities. With the right qualifications and experience, this individual can pursue a variety of career opportunities in a variety of industries.
 <br>
-<br>
 <a href="https://workdojos.com/admins/workers-rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">

@@ -15,7 +15,6 @@ The server administration industry is a vital part of the modern tech world, res
 <br>
 To find opportunities in the server administration industry, it is helpful to start by networking with those already working in the field. This can be done through professional organizations such as the Association of Internet Professionals or the International Association of Computer Science and Information Technology. Attending industry conferences and events can also be a great way to connect with others in the field and learn about job openings.
 <br>
-<br>
 One of the exciting things about working in the server administration industry is the opportunity to be at the forefront of new technologies and innovations. As the digital landscape continues to evolve, server administrators will play a crucial role in ensuring that systems are running smoothly and efficiently.
 
 There are a number of useful websites where one can learn more about the server administration industry, including the Association of Internet Professionals and the International Association of Computer Science and Information Technology. These organizations offer resources such as training programs, certification exams, and job boards to help aspiring server administrators get started in their careers.

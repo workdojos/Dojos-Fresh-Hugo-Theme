@@ -24,12 +24,9 @@ These and other system administrators have helped shape the industry and make it
 
 So the next time you use a computer or access a website, take a moment to think about the hardworking system administrators who keep everything running smoothly behind the scenes. Without them, the digital world we know and rely on would not be possible.
 <br>
-<br>
 <a href="https://workdojos.com/admins/overview">next: overview</a>
 <br>
 </p>
-
-
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
