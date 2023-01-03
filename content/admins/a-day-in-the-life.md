@@ -4,7 +4,6 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-<br>
 <figure>
     <img src='/uploads/a-day-in-the-life.svg' alt='Dojo';/>
     <figcaption>A day in the life.  AI-generated content from OpenAI's ChatGPT.  The future of search?</figcaption>
@@ -26,7 +25,7 @@ These and other system administrators have helped shape the industry and make it
 So the next time you use a computer or access a website, take a moment to think about the hardworking system administrators who keep everything running smoothly behind the scenes. Without them, the digital world we know and rely on would not be possible.
 <br>
 <br>
-<a href="https://workdojos.com/admins/challenges">next: challenges</a>
+<a href="https://workdojos.com/admins/overview">next: overview</a>
 <br>
 <br>
 <iframe src="https://admins.workdojos.com

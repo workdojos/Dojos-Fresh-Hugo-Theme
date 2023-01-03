@@ -9,8 +9,8 @@ featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5
     <img src='/uploads/overview.svg' alt='Dojo';/>
     <figcaption>An overview. AI-generated content from OpenAI's ChatGPT.  The future of search?</figcaption>
 </figure>
-The server administration industry is a vital part of the modern tech world, responsible for managing and maintaining the servers that power websites, applications, and other online services. According to data from the U.S. Bureau of Labor Statistics, the demand for server administrators is expected to grow by 7% between 2019 and 2029, outpacing the average growth rate for all occupations.
-<br>
+The server administration industry is a vital part of the modern tech world, responsible for managing and maintaining the servers that power websites, applications, and other online services. According to data from the U.S. Bureau of Labor Statistics, the demand for server administrators is expected to grow by 7% between 2019 and 2029, outpacing the average growth rate for all occupations.  
+
 To find opportunities in the server administration industry, it is helpful to start by networking with those already working in the field. This can be done through professional organizations such as the Association of Internet Professionals or the International Association of Computer Science and Information Technology. Attending industry conferences and events can also be a great way to connect with others in the field and learn about job openings.
 
 One of the exciting things about working in the server administration industry is the opportunity to be at the forefront of new technologies and innovations. As the digital landscape continues to evolve, server administrators will play a crucial role in ensuring that systems are running smoothly and efficiently.
@@ -22,7 +22,7 @@ When it comes to the best and worst jobs in the server administration industry, 
 Overall, the server administration industry is a dynamic and exciting field with plenty of opportunities for those who are interested in pursuing a career in tech. With the right skills and resources, anyone can find success in this growing industry.
 <br>
 <br>
-<a href="https://workdojos.com/admins/curriculum">next: curriculum</a>
+<a href="https://workdojos.com/admins/challenges">next: challenges</a>
 <br>
 <br>
 <iframe src="https://admins.workdojos.com
