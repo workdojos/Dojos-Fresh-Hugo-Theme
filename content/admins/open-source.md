@@ -18,11 +18,7 @@ Small businesses are particularly well-suited to take advantage of the benefits 
 
 In conclusion, the server administration industry is an essential part of our modern economy, and the use of open-source technology will play a crucial role in its future growth. By providing businesses with customizable and cost-effective solutions, and by enabling system administrators to stay up-to-date and grow their skills, open-source technology will help to ensure that the server administration industry continues to thrive. Small businesses, in particular, will play an integral role in this thriving economy, as they are able to take advantage of the benefits of open-source technology to keep their costs down and stay competitive.
 <br>
-<br>
 <a href="https://workdojos.com/admins/website">next: website</a>
-<br>
-<iframe src="https://admins.workdojos.com
-" style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>

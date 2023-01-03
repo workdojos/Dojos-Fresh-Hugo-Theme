@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/social-media.svg' height="100%" width="500px"; alt='social media';/>
+    <img src='/uploads/socialmedia.svg' height="100%" width="500px"; alt='social media';/>
     <figcaption>Gain presence in the world of social media.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 Twitter:
@@ -32,6 +32,7 @@ Create boards with visually appealing and informative pins related to server adm
 Collaborate with other users in the server administration industry by sharing their pins and inviting them to contribute to your boards.
 Utilize Pinterest analytics to track the success of your pins and identify what content is resonating with your audience.
 By implementing these strategies and regularly engaging with your audience on social media, you should see an increase in brand awareness, website traffic, and conversions, as well as potential opportunities for collaboration with others in the server administration industry.
+<br>
 <br>
 <a href="https://workdojos.com/admins/startup-ideas">next: startup ideas</a>
 </p>
