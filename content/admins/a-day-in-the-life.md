@@ -28,3 +28,4 @@ So the next time you use a computer or access a website, take a moment to think 
 <a href="https://workdojos.com/admins/overview">next: overview</a>
 <br>
 </p>
+<img src='/uploads/random dojo small.svg' alt='Dojo' style="width: 30%;height: 200px;align: left;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 35px;overflow: hidden;border: none;" align="middle";/>
