@@ -46,7 +46,7 @@ So the next time you use a computer or access a website, take a moment to think 
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
-                      <a href="">
+                      <a href="https://biologist.workdojos.com">
                         <img src="/uploads/randomdojo.svg" class="columnImage" />
                     </td>
             </table>
