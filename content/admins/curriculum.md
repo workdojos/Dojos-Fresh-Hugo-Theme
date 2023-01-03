@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/curriculum.svg' alt='Dojo';/>
+    <img src='/uploads/curriculum.svg' height="100%" width="500px"; alt='Dojo';/>
     <figcaption>A day in the pursuit of knowledge.  AI-generated content from OpenAI's ChatGPT.  The future of search?</figcaption>
 </figure>
 As a Talent Coach for system administrators, here are some suggestions for things to include in a curriculum, websites with resources for learning, and companies to work for:

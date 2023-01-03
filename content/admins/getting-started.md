@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/getting-started.svg' alt='Dojo';/>
+    <img src='/uploads/getting-started.svg' height="100%" width="500px"; alt='Dojo';/>
     <figcaption>Dive right in.  AI-generated content from OpenAI's ChatGPT.  The future of search?</figcaption>
 </figure>
 First and foremost, congratulations on wanting to start your own business in the server administration industry! This is a field that is constantly growing and evolving, and there are many amazing benefits to working as a system administrator.

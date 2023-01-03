@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/open-source-tech.svg' alt='Dojo';/>
+    <img src='/uploads/open-source-tech.svg' height="100%" width="500px"; alt='Dojo';/>
     <figcaption>A day in the life of a techie.  AI-generated content from OpenAI's ChatGPT.  The future of search?</figcaption>
 </figure>
 The server administration industry is an integral part of our modern economy, as it plays a crucial role in the smooth functioning of businesses of all sizes. In recent years, there has been a growing trend towards the use of open-source technology in the server administration industry, and this shift has brought with it numerous benefits.
