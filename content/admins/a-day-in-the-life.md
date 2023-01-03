@@ -47,7 +47,7 @@ So the next time you use a computer or access a website, take a moment to think 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="">
-                        <img src="/uploads/d3.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.svg" class="columnImage" />
                     </td>
             </table>
         </td>
