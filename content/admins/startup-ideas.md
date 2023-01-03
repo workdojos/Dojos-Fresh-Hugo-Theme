@@ -5,8 +5,8 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/startup-ideas.svg' height="100%" width="500px"; alt='Dojo';/>
-    <figcaption>A day in the life of the startup.  AI-generated content from OpenAI's ChatGPT.  The future of search?</figcaption>
+    <img src='/uploads/startup-ideas.svg' height="100%" width="500px"; alt='new storefront and startup open for business';/>
+    <figcaption>It all starts with an idea.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <br>
 Idea Name: Server-Solutions
