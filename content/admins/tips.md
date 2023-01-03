@@ -1,12 +1,12 @@
 ---
-title: System Administrator Recommendations
+title: System Administrator Tips
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
     <img src='/uploads/recommendations.svg' height="100%" width="500px"; alt='firecracker';/>
-    <figcaption>Some tips and recommendations.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+    <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 As a career counselor, it is important to consider a variety of factors when determining what career path is best suited for an individual. In the case of someone interested in pursuing a career as a system administrator working in the server administration industry, there are several key skills and qualities that are important to consider.
 

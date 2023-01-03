@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 ---
 <figure>
     <img src='/uploads/history.svg' height="100%" width="500px"; alt='old sailing vessel';/>
-    <figcaption>History and etymology.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+    <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 The term "system administrator" is derived from the Latin word "systema", meaning "system" or "order". It was first used in the late 19th century to refer to a person responsible for managing and maintaining the systems and networks within an organization.
 

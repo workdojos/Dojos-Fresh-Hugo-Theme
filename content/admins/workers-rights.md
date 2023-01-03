@@ -7,7 +7,7 @@ sidebarlogo: wordojos_logo
 
 <figure>
     <img src='/uploads/workers-rights.svg' height="100%" width="500px"; alt='a cityscape of workers and office buildings';/>
-    <figcaption>Our rights.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+    <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <br>
 One of the major trends in the server administration industry in recent years has been the increasing demand for skilled professionals to manage and maintain complex systems. This has led to a competitive job market and, unfortunately, has also resulted in some companies taking advantage of their workers by offering low wages and unfair work practices.
