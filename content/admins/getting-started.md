@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 ---
 <figure>
     <img src='/uploads/getting-started.svg' height="100%" width="500px"; alt='rocketship';/>
-    <figcaption>How to get started?  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+    <figcaption>How to get going?  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
 First and foremost, congratulations on wanting to start your own business in the server administration industry! This is a field that is constantly growing and evolving, and there are many amazing benefits to working as a system administrator.
@@ -20,7 +20,7 @@ It's also important to surround yourself with a supportive network of people who
 Finally, don't be afraid to get excited about your new career path and share your enthusiasm with others. The more you can convey the benefits and excitement of working as a system administrator, the more likely you are to inspire others to consider this field as a rewarding career choice.
 <br>
 <br>
-<a href="https://workdojos.com/admins/recommendations">next: recommendations</a>
+<a href="https://workdojos.com/admins/tips">next: tips</a>
 <br>
 <br>
 <iframe src="https://admins.workdojos.com
