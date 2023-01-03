@@ -28,4 +28,28 @@ So the next time you use a computer or access a website, take a moment to think 
 <a href="https://workdojos.com/admins/overview">next: overview</a>
 <br>
 </p>
-<img src='/uploads/random dojo small.svg' alt='Dojo' style="width: 100%;height: 150px;align: center;overflow: hidden;border: none;" align="middle";/>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+    <tr>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="leftColumnContent">
+                      <a href="https://workdojos.com/healers">
+                        <img src="/uploads/dashboard.svg" class="columnImage" />
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="rightColumnContent">
+                      <a href="">
+                        <img src="/uploads/random dojo small.svg" class="columnImage" />
+                    </td>
+            </table>
+        </td>
+    </tr>
+</table>
