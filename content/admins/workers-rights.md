@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 ---
 
 <figure>
-    <img src='/uploads/admins/admins (15).jpg' alt='Dojo' />
+    <img src='/uploads/workers-rights.svg' alt='Dojo' />
     <figcaption>Our rights.  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
 </figure>
 <br>
