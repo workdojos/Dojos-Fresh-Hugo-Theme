@@ -42,7 +42,7 @@ In conclusion, the server administration industry is facing several controversie
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
-                      <a href="https://curators.workdojos.com">
+                      <a href="https://animators.workdojos.com">
                         <img src="/uploads/randomdojo.svg" class="columnImage" />
                     </td>
             </table>
