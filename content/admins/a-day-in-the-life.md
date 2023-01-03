@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 ---
 <br>
 <figure>
-    <img src='/uploads/a-day-in-the-life.svg' alt='Dojo' style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle";/>
+    <img src='/uploads/a-day-in-the-life.svg' alt='Dojo';/>
     <figcaption>A day in the life.  AI-generated content by OpenAI's ChatGPT.  The future of search?</figcaption>
 </figure>
 <br>
