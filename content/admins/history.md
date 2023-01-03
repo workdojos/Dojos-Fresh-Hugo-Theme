@@ -8,6 +8,7 @@ sidebarlogo: wordojos_logo
     <img src='/uploads/history.svg' height="100%" width="500px"; alt='old sailing vessel';/>
     <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+<p>
 The term "system administrator" is derived from the Latin word "systema", meaning "system" or "order". It was first used in the late 19th century to refer to a person responsible for managing and maintaining the systems and networks within an organization.
 
 The role of a system administrator has evolved over time, and today it generally refers to a person who is responsible for the installation, configuration, and maintenance of computer systems, including hardware, software, and networks.
@@ -19,7 +20,4 @@ The role of a server administrator has also evolved over time, and today it gene
 <br>
 <a href="https://workdojos.com/admins/curriculum">next: curriculum</a>
 <br>
-<br>
-<iframe src="https://admins.workdojos.com
-" style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
-<br>
+</p>

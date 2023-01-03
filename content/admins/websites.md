@@ -35,9 +35,4 @@ Overall, I would recommend that you invest in creating a website for your busine
 <br>
 <br>
 <a href="https://workdojos.com/admins/overview">next: overview</a>
-<br>
-<br>
-<iframe src="https://admins.workdojos.com
-" style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
-<br>
 </p>
