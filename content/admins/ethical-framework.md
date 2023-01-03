@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/ethical-framework.svg' alt='Dojo' style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle";/>
+    <img src='/uploads/ethical-framework.svg' alt='Dojo';/>
     <figcaption>A day in the life doing what's right.  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
 </figure>
 As a philosopher, I would approach the task of developing an ethical framework for starting a business as a system administrator working in the server administration industry by first examining the fundamental principles that underlie ethical behavior. These principles might include respect for the autonomy and dignity of individuals, the promotion of the common good, and the avoidance of harm or exploitation.

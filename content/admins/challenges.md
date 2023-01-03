@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/challenges.svg' alt='Dojo' style="width: 100%;height: 700px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle";/>
+    <img src='/uploads/challenges.svg' alt='Dojo';/>
     <figcaption>A day in the life overcoming challenge.  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
 </figure>
 The server administration industry is a crucial part of the modern technological world, as it is responsible for the smooth functioning of servers and networks that support various businesses and organizations. However, the industry is facing several controversies and challenges, which have raised concerns about the well-being of system administrators and the future of the industry. In this essay, we will explore some of these controversies and challenges, and argue why we need to make it easier for system administrators to find work, pay them more, and improve the industry as a whole.
