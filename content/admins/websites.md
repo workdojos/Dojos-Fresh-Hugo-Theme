@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 ---
 <figure>
     <img src='/uploads/website.svg' alt='Dojo' />
-    <figcaption>A day in the life of the Admin  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
+    <figcaption>A day in the life of the Admin  AI-generated content from OpenAI's ChatGPT.  The future of search?</figcaption>
 </figure>
 <br>
 As a web design consultant, I would suggest that having your own website is essential for any business, especially in today's digital age. A website can serve as an online storefront, providing information about your business, products or services, and allowing potential customers to learn more about what you have to offer.

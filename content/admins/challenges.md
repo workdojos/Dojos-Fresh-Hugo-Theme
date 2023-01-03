@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 ---
 <figure>
     <img src='/uploads/challenges.svg' alt='Dojo';/>
-    <figcaption>A day in the life overcoming challenge.  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
+    <figcaption>A day in the life overcoming challenge.  AI-generated content from OpenAI's ChatGPT.  The future of search?</figcaption>
 </figure>
 The server administration industry is a crucial part of the modern technological world, as it is responsible for the smooth functioning of servers and networks that support various businesses and organizations. However, the industry is facing several controversies and challenges, which have raised concerns about the well-being of system administrators and the future of the industry. In this essay, we will explore some of these controversies and challenges, and argue why we need to make it easier for system administrators to find work, pay them more, and improve the industry as a whole.
 <br>
@@ -15,7 +15,7 @@ One of the controversies facing the server administration industry is the lack o
 <br>
 <br>
 Another challenge facing the server administration industry is the lack of skilled professionals. With the increasing demand for IT professionals, there is a shortage of qualified system administrators who can handle the complex tasks and responsibilities of the job. This has led to a higher workload for existing professionals, and a higher risk of errors and failures. To address this issue, we need to invest in training and education programs that can help produce more skilled professionals and meet the demand for qualified workers.
-
+<br>
 Furthermore, system administrators are often underpaid and undervalued, which leads to low job satisfaction and high turnover rates. According to a survey by the System Administrator Appreciation Day website, more than half of system administrators are not satisfied with their salary, and many are considering leaving their jobs. This is a significant concern, as it could lead to a shortage of qualified professionals and disrupt the functioning of businesses and organizations. To address this issue, we need to pay system administrators more, and recognize their contributions and value to the industry.
 
 Finally, the server administration industry as a whole can get a lot better in the years to come if we address these controversies and challenges. By promoting diversity and inclusion, training and educating more skilled professionals, and paying system administrators more, we can create a more sustainable and successful industry that benefits everyone.

@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 ---
 <figure>
     <img src='/uploads/branding.svg' alt='Dojo';/>
-    <figcaption>A day in the life branding whatever it is you do.  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
+    <figcaption>A day in the life branding whatever it is you do.  AI-generated content from OpenAI's ChatGPT.  The future of search?</figcaption>
 </figure>
 To start, I would recommend creating a consistent brand identity across all platforms. This includes using the same profile picture, bio, and hashtags on each platform. This will help followers easily recognize and connect with your brand.
 

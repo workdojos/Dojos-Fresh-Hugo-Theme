@@ -7,10 +7,11 @@ sidebarlogo: wordojos_logo
 <br>
 <figure>
     <img src='/uploads/a-day-in-the-life.svg' alt='Dojo';/>
-    <figcaption>A day in the life.  AI-generated content by OpenAI's ChatGPT.  The future of search?</figcaption>
+    <figcaption>A day in the life.  AI-generated content from OpenAI's ChatGPT.  The future of search?</figcaption>
 </figure>
 <br>
 Once upon a time, in a world filled with computers and servers, there was a group of people known as system administrators. These hardworking individuals were responsible for maintaining and troubleshooting the systems that kept businesses running smoothly.
+
 
 One such system administrator was Jane, a bright and capable young woman who had been working in the industry for a few years. Every day, Jane would wake up early and head to her job at a large corporation, where she spent her days fixing problems and keeping the servers running smoothly.
 

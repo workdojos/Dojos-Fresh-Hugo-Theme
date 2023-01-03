@@ -7,7 +7,7 @@ sidebarlogo: wordojos_logo
 
 <figure>
     <img src='/uploads/workers-rights.svg' alt='Dojo' />
-    <figcaption>Our rights.  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
+    <figcaption>Our rights.  AI-generated content from OpenAI's ChatGPT.  The future of search?</figcaption>
 </figure>
 <br>
 One of the major trends in the server administration industry in recent years has been the increasing demand for skilled professionals to manage and maintain complex systems. This has led to a competitive job market and, unfortunately, has also resulted in some companies taking advantage of their workers by offering low wages and unfair work practices.

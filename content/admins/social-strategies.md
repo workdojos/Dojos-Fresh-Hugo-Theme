@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 ---
 <figure>
     <img src='/uploads/social-media.svg' alt='Dojo';/>
-    <figcaption>A day in the life of social media.  Enjoy AI-generated content using OpenAI's latest:  ChatGPT.  The future of search?</figcaption>
+    <figcaption>A day in the life of social media.  AI-generated content from OpenAI's ChatGPT.  The future of search?</figcaption>
 </figure>
 <br>
 Twitter:
