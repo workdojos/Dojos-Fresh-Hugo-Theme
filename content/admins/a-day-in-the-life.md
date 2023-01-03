@@ -37,7 +37,7 @@ So the next time you use a computer or access a website, take a moment to think 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://admins.workdojos.com">
-                        <img src="/uploads/dashboard.svg" class="columnImage" />
+                        <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>
             </table>
