@@ -1,5 +1,5 @@
 ---
-title: Startup Ideas for XXs and Entrepreneurs in the Y Industry
+title: Startup Ideas for Actuaries and Entrepreneurs in the Risk Assessment  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -68,7 +68,7 @@ Keeping up with industry regulations and trends
 Ensuring data security and privacy for clients
 
 <br>
-<a href="https://workdojos.com/X/open-source">next: open-source tech</a>
+<a href="https://workdojos.com/actuaries/open-source">next: open-source tech</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -76,7 +76,7 @@ Ensuring data security and privacy for clients
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://actuaries.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

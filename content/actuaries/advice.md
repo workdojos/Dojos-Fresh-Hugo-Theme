@@ -1,5 +1,5 @@
 ---
-title: Advice for XXs
+title: Advice for Actuaries
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -22,7 +22,7 @@ To increase your chances of success in this field, it may be beneficial to gain 
 Overall, a career as an actuary in the risk assessment industry appears to be a good fit for you based on your interests and skills. With the right education and professional development, you can be well-prepared for a successful and fulfilling career in this field.
 
 <br>
-<a href="https://workdojos.com/X/rights">next: workers' rights</a>
+<a href="https://workdojos.com/actuaries/rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -30,7 +30,7 @@ Overall, a career as an actuary in the risk assessment industry appears to be a 
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://actuaries.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

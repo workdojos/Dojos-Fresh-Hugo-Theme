@@ -1,5 +1,5 @@
 ---
-title:  History and Etymology of XXs and the Y Industry
+title:  History and Etymology of Actuaries and the Risk Assessment  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -14,7 +14,7 @@ The word "actuary" has its roots in the Latin word "actuarius," which means "acc
 The term "risk assessment" can be traced back to the late 19th century, when it was first used to describe the process of evaluating the potential risks associated with a particular activity or decision. The concept of risk assessment has evolved over time, and today it is a common practice in many industries to evaluate and manage risk in order to make informed decisions and protect against potential losses. Risk assessment involves identifying and analyzing potential risks, evaluating the likelihood and impact of those risks, and implementing strategies to mitigate or minimize those risks.
 
 <br>
-<a href="https://workdojos.com/X/learning">next: learning</a>
+<a href="https://workdojos.com/actuaries/learning">next: learning</a>
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
@@ -23,7 +23,7 @@ The term "risk assessment" can be traced back to the late 19th century, when it 
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://actuaries.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

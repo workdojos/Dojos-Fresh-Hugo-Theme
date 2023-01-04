@@ -1,5 +1,5 @@
 ---
-title: Getting Started in the Y Industry
+title: Getting Started in the Risk Assessment  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -26,7 +26,7 @@ Get excited about the amazing benefits of a career as an actuary. This can be a 
 Remember, starting a business can be challenging, but with hard work and determination, you can achieve your goal. Don't be afraid to ask for help when you need it, and always stay positive and focused on your end goal.
 
 <br>
-<a href="https://workdojos.com/X/advice">next: advice</a>
+<a href="https://workdojos.com/actuaries/advice">next: advice</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -34,7 +34,7 @@ Remember, starting a business can be challenging, but with hard work and determi
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://actuaries.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

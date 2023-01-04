@@ -1,5 +1,5 @@
 ---
-title: Y Industry Controversies and Challenges
+title: Risk Assessment  Industry Controversies and Challenges
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -24,7 +24,7 @@ Finally, the risk assessment industry as a whole can improve in the coming years
 In conclusion, the risk assessment industry is facing a number of challenges, including the need to make it easier for actuarieto find work, the need to pay them more, and the need to focus on innovation and continuous learning. By addressing these issues, we can ensure that the risk assessment industry continues to thrive and provide valuable insights and services to individuals, businesses, and society as a whole.
 
 <br>
-<a href="https://workdojos.com/X/history">next: history</a>
+<a href="https://workdojos.com/actuaries/history">next: history</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -32,7 +32,7 @@ In conclusion, the risk assessment industry is facing a number of challenges, in
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://actuaries.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

@@ -1,5 +1,5 @@
 ---
-title: XX Branding Strategy
+title: Actuary Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -21,7 +21,7 @@ On Pinterest, I would create boards featuring relevant industry content as well 
 In addition to creating and sharing content, I would also utilize community management tools to monitor conversations and respond to questions and comments from followers in a timely manner. I would also use analytics to measure the success of our campaigns and make data-driven decisions to continuously improve our social media strategy.
 
 <br>
-<a href="https://workdojos.com/X/ethical-framework">next: ethical framework</a>
+<a href="https://workdojos.com/actuaries/ethical-framework">next: ethical framework</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -29,7 +29,7 @@ In addition to creating and sharing content, I would also utilize community mana
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://actuaries.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

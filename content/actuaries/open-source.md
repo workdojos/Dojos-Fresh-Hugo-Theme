@@ -1,5 +1,5 @@
 ---
-title: Open-Source Tech for XXs and Others in the Y Industry
+title: Open-Source Tech for Actuaries and Others in the Risk Assessment  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -20,7 +20,7 @@ Small businesses will also play an integral role in a thriving economy, and the 
 Overall, the risk assessment industry is vital to the stability and prosperity of any economy, and the use of open-source technology and the involvement of small businesses will be integral to its success. Actuaries who are able to adapt to these developments and use them to their advantage will thrive in this field, and help contribute to a healthy and thriving economy.
 
 <br>
-<a href="https://workdojos.com/X/website">next: website</a>
+<a href="https://workdojos.com/actuaries/website">next: website</a>
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
@@ -29,7 +29,7 @@ Overall, the risk assessment industry is vital to the stability and prosperity o
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://actuaries.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

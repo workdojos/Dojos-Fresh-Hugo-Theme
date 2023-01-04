@@ -1,5 +1,5 @@
 ---
-title: XX Social Media Strategy
+title: Actuary Social Media Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -27,7 +27,7 @@ Use Pinterest to create visually appealing boards featuring infographics, charts
 Collaborate with other industry experts to create Pinterest boards featuring their content, which will help you reach a larger audience and establish yourself as a thought leader in the field.
 
 <br>
-<a href="https://workdojos.com/X/startup-ideas">next: startup ideas</a>
+<a href="https://workdojos.com/actuaries/startup-ideas">next: startup ideas</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -35,7 +35,7 @@ Collaborate with other industry experts to create Pinterest boards featuring the
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://actuaries.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

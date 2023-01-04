@@ -1,5 +1,5 @@
 ---
-title: Ethical Framework for XXs Working in the Y Industry
+title: Ethical Framework for Actuaries Working in the Risk Assessment  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -20,7 +20,7 @@ It may also be helpful to consider the principles of virtue ethics, which emphas
 Ultimately, it is important to consider the various ethical perspectives and develop a framework that is grounded in your own values and beliefs, while also taking into account the needs and interests of all stakeholders involved. This may involve seeking input from others, engaging in ongoing reflection and self-evaluation, and being open to making adjustments as needed.
 
 <br>
-<a href="https://workdojos.com/X/social-media">next: social media</a>
+<a href="https://workdojos.com/actuaries/social-media">next: social media</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -28,7 +28,7 @@ Ultimately, it is important to consider the various ethical perspectives and dev
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://actuaries.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

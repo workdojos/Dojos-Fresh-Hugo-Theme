@@ -1,5 +1,5 @@
 ---
-title: The Y Industry and XX Workers' Rights
+title: The Risk Assessment  Industry and Actuary Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -21,7 +21,7 @@ One recent event that has shed light on these issues is the global pandemic, whi
 In conclusion, fair work practices are essential for the well-being and success of actuaries and all workers in the risk assessment industry. As an actuary, I strongly support worker's rights, fair treatment, and proper wages, and encourage all industry stakeholders to prioritize these values.
 
 <br>
-<a href="https://workdojos.com/X/branding">next: branding</a>
+<a href="https://workdojos.com/actuaries/branding">next: branding</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>

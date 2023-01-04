@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of a XX
+title: A Day in the Life of an Actuary
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -20,7 +20,7 @@ Jane's work as an actuary was crucial to the success of the insurance company, a
 As the day came to a close, Jane packed up her things and headed home, proud of the important work she had done. She knew that her skills as an actuary were helping to protect people from unexpected risks and uncertainties, and that made her feel good about the work she was doing.
 
 <br>
-<a href="https://workdojos.com/X/overview">next: overview</a>
+<a href="https://workdojos.com/actuaries/overview">next: overview</a>
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
@@ -29,7 +29,7 @@ As the day came to a close, Jane packed up her things and headed home, proud of 
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://actuaries.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

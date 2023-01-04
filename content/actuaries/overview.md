@@ -1,5 +1,5 @@
 ---
-title: An Overview for XXs and the Y Industry
+title: An Overview for Actuaries and the Risk Assessment  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -21,7 +21,7 @@ Some useful websites for learning more about the risk assessment industry includ
 When it comes to the best and worst jobs in the risk assessment industry, it really depends on an individual's interests and skills. Some of the best jobs in the industry might include working as a safety engineer, environmental consultant, or risk management specialist. These positions often involve working with a variety of clients and projects, and may offer a high level of job satisfaction. On the other hand, some of the worst jobs in the industry might include positions that are highly specialized or require a lot of repetitive work. It's important to carefully consider your own strengths and interests when choosing a career in the risk assessment industry.
 
 <br>
-<a href="https://workdojos.com/X/challenges">next: challenges</a>
+<a href="https://workdojos.com/actuaries/challenges">next: challenges</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -29,7 +29,7 @@ When it comes to the best and worst jobs in the risk assessment industry, it rea
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://actuaries.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

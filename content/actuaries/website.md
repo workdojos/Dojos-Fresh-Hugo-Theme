@@ -1,5 +1,5 @@
 ---
-title: Websites for XXs in the Y Industry
+title: Websites for Actuaries in the Risk Assessment  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -28,7 +28,7 @@ Ultimately, the best web builder for your business will depend on your specific 
 
 <br>
 
-<a href="https://workdojos.com/X/overview">next: overview</a>
+<a href="https://workdojos.com/actuaries/overview">next: overview</a>
 <br>
 <br>
 </p>
@@ -39,7 +39,7 @@ Ultimately, the best web builder for your business will depend on your specific 
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://actuaries.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

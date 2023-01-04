@@ -1,5 +1,5 @@
 ---
-title: Learning & Development for XXs
+title: Learning & Development for Actuaries
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -42,7 +42,7 @@ How do you stay up-to-date on industry developments and trends?
 What are some common pitfalls in actuarial work, and how do you avoid them?
 
 <br>
-<a href="https://workdojos.com/X/get-started">next: getting started</a>
+<a href="https://workdojos.com/actuaries/get-started">next: getting started</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -50,7 +50,7 @@ What are some common pitfalls in actuarial work, and how do you avoid them?
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://actuaries.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>
