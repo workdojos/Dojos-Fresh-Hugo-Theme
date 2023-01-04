@@ -15,7 +15,7 @@ There are several reasons why it is important to make it easier for academic pro
 
 There are several ways in which the higher education industry can improve and address these controversies and challenges. One solution is to increase funding for academic research and education, which would allow institutions to hire more faculty and support their work. Additionally, institutions should prioritize diversity and inclusion in their hiring practices, as a more diverse faculty will bring a wider range of perspectives and ideas to the table. Finally, institutions should work to create a more supportive and collaborative environment for academic professionals, which will encourage them to stay in academia and contribute to the advancement of knowledge.
 
-In conclusion, the higher education industry is facing numerous c
+In conclusion, the higher education industry is facing numerous controversies and challenges that are affecting the academic community. It is important to make it easier for academic professionalto find work and pay them more, as academia plays a vital role in the advancement of knowledge and the development of new ideas. By increasing funding, prioritizing diversity and inclusion, and creating a more supportive and collaborative environment, the higher education industry can improve and thrive in the years to come.
 <br>
 <a href="https://workdojos.com/academies/history">next: history</a>
 </p>

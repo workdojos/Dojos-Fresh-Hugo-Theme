@@ -18,7 +18,10 @@ First and foremost, it is simply a matter of basic fairness. Academic workers, l
 
 Second, fair work practices are essential to the long-term sustainability of academia and higher education. If academic workers are not treated fairly, it is difficult to attract and retain top talent, which means that the quality of education and research will suffer. This, in turn, undermines the very purpose of academia, which is to advance knowledge and educate the next generation. By promoting fair work practices, academia can ensure that it continues to be a beacon of excellence and a source of intellectual inquiry and innovation.
 
-Finally, fair work practices are critical to the overall health and well-being of academic workers. When academic workers are overworked and underpaid, it can take a significant toll on their physical and menta
+Finally, fair work practices are critical to the overall health and well-being of academic workers. When academic workers are overworked and underpaid, it can take a significant toll on their physical and mental health. This is not only bad for the workers themselves, but it also has negative consequences for the broader society, as academic workers are an essential part of the intellectual and cultural fabric of our communities. By promoting fair work practices, we can help to ensure that academic workers are able to thrive and contribute their full potential to the world.
+
+In conclusion, the argument for fair work practices in academia and higher education is a clear and compelling one. Academic workers deserve to be treated with respect and to receive fair compensation for their labor, and by promoting fair work practices, we can help to ensure that academia and higher education continue to be a source of intellectual inquiry and innovation. It is time for academia to step up and do better by its workers, and to demonstrate its commitment to fairness, justice, and equality.
+
 <br>
 <a href="https://workdojos.com/academies/branding">next: branding</a>
 </p>

@@ -22,7 +22,8 @@ Key Resources: Technology and development team, marketing and advertising budget
 Key Partners: Higher education institutions, academic societies and organizations, relevant industry partners.
 Idea Validation Steps: Conduct market research to understand the needs and pain points of academic researchers, test the platform with a small group of academics to gather feedback and refine features, gather testimonials and case studies from early users to demonstrate the value of the platform.
 Estimated 1st Year Cost of Operation: $200,000-$300,000
-Potential Business Challenges to Look For: Competition from existing net
+Potential Business Challenges to Look For: Competition from existing networking and collaboration platforms, difficulty in acquiring and retaining premium subscribers, need to constantly update and improve the platform to meet the evolving needs of academic researchers.
+
 <br>
 <a href="https://workdojos.com/academies/open-source">next: open-source tech</a>
 </p>
