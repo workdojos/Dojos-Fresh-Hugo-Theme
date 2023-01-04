@@ -25,7 +25,7 @@ Fairness: It is important to ensure that all business activities are conducted i
 
 By considering these and other ethical considerations, it is possible to develop a framework for starting a business as an academic that is both responsible and sustainable.
 <br>
-<a href="https://workdojos.com/Academic/social-media">next: social media</a>
+<a href="https://workdojos.com/academies/social-media">next: social media</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -33,7 +33,7 @@ By considering these and other ethical considerations, it is possible to develop
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://Academic.workdojos.com">
+                      <a href="https://academies.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

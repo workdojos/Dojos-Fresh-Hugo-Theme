@@ -15,7 +15,7 @@ The word "academia" has been used to refer to the world of higher education and 
 
 The term "higher education" refers to the education that is provided at colleges and universities, which are institutions of higher learning that offer advanced degrees such as bachelor's, master's, and doctoral degrees. The word "higher" in this context refers to the level of education being offered, which is more advanced than the education provided at primary and secondary schools. The concept of higher education has a long history, dating back to the ancient Greeks and Romans, who established institutions of higher learning such as the Academy and the University of Alexandria. Today, higher education is considered an important part of a person's education and is often necessary for certain careers and professional advancement.
 <br>
-<a href="https://workdojos.com/Academic/learning">next: learning</a>
+<a href="https://workdojos.com/academies/learning">next: learning</a>
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
@@ -24,7 +24,7 @@ The term "higher education" refers to the education that is provided at colleges
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://Academic.workdojos.com">
+                      <a href="https://academies.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

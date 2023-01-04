@@ -22,7 +22,7 @@ Utilize analytics: Use social media analytics tools to track the performance of 
 
 Overall, the goal of these strategies will be to increase brand awareness, recruit followers, drive traffic to the organization's website, and facilitate collaboration with others in the academia and higher education industry.
 <br>
-<a href="https://workdojos.com/Academic/ethical-framework">next: ethical framework</a>
+<a href="https://workdojos.com/academies/ethical-framework">next: ethical framework</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -30,7 +30,7 @@ Overall, the goal of these strategies will be to increase brand awareness, recru
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://Academic.workdojos.com">
+                      <a href="https://academies.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

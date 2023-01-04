@@ -19,7 +19,7 @@ However, if you have a specific vision for your website and want more control ov
 Ultimately, the choice of web builder will depend on your specific needs and goals for your website. It is important to consider factors such as budget, design preferences, and the level of customization you require. I would recommend researching and comparing different options to find the best fit for your academic business.
 <br>
 
-<a href="https://workdojos.com//overview">next: overview</a>
+<a href="https://workdojos.com/academies/overview">next: overview</a>
 <br>
 <br>
 </p>
@@ -30,7 +30,7 @@ Ultimately, the choice of web builder will depend on your specific needs and goa
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://Academic.workdojos.com">
+                      <a href="https://academies.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

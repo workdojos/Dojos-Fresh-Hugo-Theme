@@ -19,7 +19,7 @@ In terms of qualifications, a doctoral degree is typically required for academic
 
 Overall, a career in academia and higher education can be very rewarding for those who are passionate about teaching, learning, and research. If you have the necessary skills, interests, and experience, and are willing to put in the time and effort to pursue the necessary qualifications, this may be an excellent career path for you. Good luck!
 <br>
-<a href="https://workdojos.com/Academic/rights">next: workers' rights</a>
+<a href="https://workdojos.com/academies/rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -27,7 +27,7 @@ Overall, a career in academia and higher education can be very rewarding for tho
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://Academic.workdojos.com">
+                      <a href="https://academies.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

@@ -26,7 +26,7 @@ Networking is an important aspect of success in the academic industry, and there
 
 One exciting aspect of working in the academic industry is the opportunity to make a real difference in the world. Researchers and educators have the power to create new knowledge and ideas, and to inspire and educate future generations. Whether it is discovering a new medical treatment or creating innova
 <br>
-<a href="https://workdojos.com/Academic/challenges">next: challenges</a>
+<a href="https://workdojos.com/academies/challenges">next: challenges</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -34,7 +34,7 @@ One exciting aspect of working in the academic industry is the opportunity to ma
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://Academic.workdojos.com">
+                      <a href="https://academies.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

@@ -24,7 +24,7 @@ Idea Validation Steps: Conduct market research to understand the needs and pain 
 Estimated 1st Year Cost of Operation: $200,000-$300,000
 Potential Business Challenges to Look For: Competition from existing net
 <br>
-<a href="https://workdojos.com/Academic/open-source">next: open-source tech</a>
+<a href="https://workdojos.com/academies/open-source">next: open-source tech</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -32,7 +32,7 @@ Potential Business Challenges to Look For: Competition from existing net
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://Academic.workdojos.com">
+                      <a href="https://academies.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

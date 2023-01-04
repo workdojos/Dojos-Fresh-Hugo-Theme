@@ -17,7 +17,7 @@ There are several ways in which the higher education industry can improve and ad
 
 In conclusion, the higher education industry is facing numerous c
 <br>
-<a href="https://workdojos.com/Academic/history">next: history</a>
+<a href="https://workdojos.com/academies/history">next: history</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -25,7 +25,7 @@ In conclusion, the higher education industry is facing numerous c
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://Academic.workdojos.com">
+                      <a href="https://academies.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

@@ -21,7 +21,7 @@ Finally, for Pinterest, you can create boards featuring resources and inspiratio
 
 Overall, the key to creating an engaging campaign is to consistently share valuable and interesting content, and be proactive in engaging with your followers. By doing so, you can establish yourself as a trusted resource in your field and effectively promote your business.
 <br>
-<a href="https://workdojos.com/Academic/startup-ideas">next: startup ideas</a>
+<a href="https://workdojos.com/academies/startup-ideas">next: startup ideas</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -29,7 +29,7 @@ Overall, the key to creating an engaging campaign is to consistently share valua
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://Academic.workdojos.com">
+                      <a href="https://academies.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

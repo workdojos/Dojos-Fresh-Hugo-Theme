@@ -20,7 +20,7 @@ Second, fair work practices are essential to the long-term sustainability of aca
 
 Finally, fair work practices are critical to the overall health and well-being of academic workers. When academic workers are overworked and underpaid, it can take a significant toll on their physical and menta
 <br>
-<a href="https://workdojos.com/Academic/branding">next: branding</a>
+<a href="https://workdojos.com/academies/branding">next: branding</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -28,7 +28,7 @@ Finally, fair work practices are critical to the overall health and well-being o
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://admins.workdojos.com">
+                      <a href="https://academies.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

@@ -19,7 +19,7 @@ Small businesses will also play an integral role in a thriving economy in the fu
 
 Overall, the adoption of open-source technology in academia and the support of small businesses will be essential for the future of higher education and the economy as a whole. It is important that we continue to invest in these areas and work towards creating a more sustainable and equitable society.
 <br>
-<a href="https://workdojos.com/Academic/website">next: website</a>
+<a href="https://workdojos.com/academies/website">next: website</a>
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
@@ -28,7 +28,7 @@ Overall, the adoption of open-source technology in academia and the support of s
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://Academic.workdojos.com">
+                      <a href="https://academies.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>
