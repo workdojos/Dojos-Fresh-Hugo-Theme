@@ -1,5 +1,5 @@
 ---
-title: XX Social Media Strategy
+title: Academic Social Media Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

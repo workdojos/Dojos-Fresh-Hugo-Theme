@@ -1,5 +1,5 @@
 ---
-title: XX Branding Strategy
+title: Academic Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

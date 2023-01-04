@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of a XX
+title: A Day in the Life of a Academic
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

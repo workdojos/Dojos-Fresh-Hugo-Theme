@@ -1,5 +1,5 @@
 ---
-title: Getting Started as a XX in the Y Industry
+title: Getting Started as a Academic in the Y Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

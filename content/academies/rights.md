@@ -1,5 +1,5 @@
 ---
-title: The Academia And Higher Education Industry and XX Workers' Rights
+title: The Academia And Higher Education Industry and Academic Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
