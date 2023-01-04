@@ -44,7 +44,7 @@ All the apps that we deploy for your are deployed with Docker.  Let us guide you
 
 See what Docker can do for you.  Sign up for a trial in the upper right or save 25% off a year's subscription with the following link:
 
- <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
+ <a href="https://blog.workmates.live/deal-on-a-dojo">Deal on a Dojo</a> 
 
  
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">

@@ -173,9 +173,9 @@ Hop aboard, it's going to be a fun ride!  Back out anytime, but we think you won
 
 Click the "Sign Up" button in the upper right (includes both a free tier and a free trial) or get 25% off for 12 consecutive months using the following link through the end of the year.  
 
-Happy holidays!
 
- <a href="https://blog.workmates.live/workmates-holiday-season-discount">25% holiday discount</a> 
+
+ <a href="https://blog.workmates.live/deal-on-a-dojo">Deal on a Dojo</a> 
 
 
 
