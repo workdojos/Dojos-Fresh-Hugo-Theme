@@ -34,7 +34,7 @@ Each of these web builders has its own pros and cons, so it's important to consi
 Overall, I would recommend that you invest in creating a website for your business as it can help you reach a wider audience, establish a professional image, and provide convenient access to information about your business, products, and services.
 <br>
 <br>
-<a href="https://workdojos.com/admins/overview">next: overview</a>
+<a href="https://workdojos.com/admins/day-in-the-life">next: a day in the life</a>
 <br>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
