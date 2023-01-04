@@ -17,7 +17,7 @@ The term "server administration" is derived from the Latin word "servus", meanin
 
 The role of a server administrator has also evolved over time, and today it generally refers to a person who is responsible for the installation, configuration, and maintenance of servers and their associated software, including operating systems, databases, and applications. This may also include tasks such as setting up user accounts, managing backups, and monitoring server performance.
 <br>
-<a href="https://workdojos.com/admins/curriculum">next: curriculum</a>
+<a href="https://workdojos.com/admins/learning">next: learning</a>
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
