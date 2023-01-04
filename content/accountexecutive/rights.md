@@ -1,5 +1,5 @@
 ---
-title: The Y Industry and Account Executive Workers' Rights
+title: The Sales Industry and Account Executive Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

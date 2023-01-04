@@ -1,5 +1,5 @@
 ---
-title: Startup Ideas for Account Executives and Entrepreneurs in the Y Industry
+title: Startup Ideas for Account Executives and Entrepreneurs in the Sales Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

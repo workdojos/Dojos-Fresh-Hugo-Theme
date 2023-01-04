@@ -1,5 +1,5 @@
 ---
-title:  History and Etymology of Account Executives and the Y Industry
+title:  History and Etymology of Account Executives and the Sales Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

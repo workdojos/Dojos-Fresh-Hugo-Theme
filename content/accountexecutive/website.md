@@ -1,5 +1,5 @@
 ---
-title: Websites for Account Executives in the Y Industry
+title: Websites for Account Executives in the Sales Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

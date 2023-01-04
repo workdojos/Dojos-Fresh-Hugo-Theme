@@ -1,5 +1,5 @@
 ---
-title: Y Industry Controversies and Challenges
+title: Sales Industry Controversies and Challenges
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

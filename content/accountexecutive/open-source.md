@@ -1,5 +1,5 @@
 ---
-title: Open-Source Tech for Account Executives and Others in the Y Industry
+title: Open-Source Tech for Account Executives and Others in the Sales Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

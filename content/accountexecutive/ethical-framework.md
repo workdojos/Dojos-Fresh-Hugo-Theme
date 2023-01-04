@@ -1,5 +1,5 @@
 ---
-title: Ethical Framework for Account Executives Working in the Y Industry
+title: Ethical Framework for Account Executives Working in the Sales Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
