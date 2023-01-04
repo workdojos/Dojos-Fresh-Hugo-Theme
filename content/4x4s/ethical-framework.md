@@ -1,3 +1,4 @@
+---
 title: Ethical Framework for 4X4 Business Owners Working in the 4X4 Industry
 include_footer: true
 sidebar: true
