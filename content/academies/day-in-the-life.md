@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of a Academic
+title: A Day in the Life of an Academic
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -20,7 +20,7 @@ Throughout history, there have been many notable academics who have made signifi
 As Sarah continued to make her mark on the world of academia, she knew that she was following in the footsteps of these great minds. And although the path of an academic is often challenging and demanding, Sarah knew that it was worth it, for the love of learning and the pursuit of knowledge.
 
 <br>
-<a href="https://workdojos.com/X/overview">next: overview</a>
+<a href="https://workdojos.com/academies/overview">next: overview</a>
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">

@@ -1,5 +1,5 @@
 ---
-title: Getting Started as a Academic in the Y Industry
+title: Getting Started as an Academic in the Y Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -20,7 +20,7 @@ Lastly, consider sharing your goals and vision with others around you. This can 
 Remember, starting a startup as an academic requires dedication and hard work, but it can also be incredibly rewarding and fulfilling. By focusing on the benefits of this career path, seeking out resources and support, and sharing your goals with others, you can overcome any challenges and achieve your dream of starting a startup in the academia and higher education industry.
 
 <br>
-<a href="https://workdojos.com/X/advice">next: advice</a>
+<a href="https://workdojos.com/academies/advice">next: advice</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
