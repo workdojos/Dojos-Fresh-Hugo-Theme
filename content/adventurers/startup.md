@@ -23,7 +23,7 @@ Key partners: Outdoor gear companies, adventure tour companies, travel agencies
 Idea validation steps: Conduct market research to assess demand for customizable adventure experiences, gather feedback from potential customers through surveys and focus groups, test pilot program with select guides and customers
 Estimated 1st year cost of operation: $50,000 - $70,000
 Potential business challenges: Competition from established adventure tour companies, difficulty in acquiring and retaining experienced guides, navigating liability issues for outdoor activities
-
+<br>
 <br>
 <a href="https://workdojos.com/adventurers/tech">next: open-source tech</a>
 </p>
