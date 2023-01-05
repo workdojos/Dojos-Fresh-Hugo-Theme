@@ -17,7 +17,7 @@ Based on this analysis, I would then propose an ethical framework that takes int
 
 Overall, the key to developing an ethical framework for starting a business as a system administrator is to recognize the complex moral dimensions of this work and to take a proactive and thoughtful approach to ethical decision-making. By considering the principles that underpin ethical behavior, and by being mindful of the specific challenges and opportunities that a system administrator may face, it is possible to create a framework that guides the administrator in acting with integrity and in making decisions that are in the best interests of all stakeholders.
 <br>
-<a href="https://workdojos.com/admins/social-media">next: social media</a>
+<a href="https://workdojos.com/admins/social">next: social media</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
