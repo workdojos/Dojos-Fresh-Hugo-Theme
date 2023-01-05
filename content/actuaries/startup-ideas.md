@@ -68,7 +68,7 @@ Keeping up with industry regulations and trends
 Ensuring data security and privacy for clients
 
 <br>
-<a href="https://workdojos.com/actuaries/open-source">next: open-source tech</a>
+<a href="https://workdojos.com/actuaries/tech">next: open-source tech</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>

@@ -24,7 +24,7 @@ Estimated 1st Year Cost of Operation$50,000
 Potential Business ChallengesCompetition from other 4x4 business directories, difficulty in building a strong user base and attracting local 4x4 businesses to advertise on the platform
 
 <br>
-<a href="https://workdojos.com/4X4s/open-source">next: open-source tech</a>
+<a href="https://workdojos.com/4X4s/tech">next: open-source tech</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>

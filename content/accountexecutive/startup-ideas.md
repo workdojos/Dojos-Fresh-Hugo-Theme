@@ -38,7 +38,7 @@ Estimated 1st Year Cost of Operation: $500,000
 Potential Business Challenges: Competition in the artificial intelligence sales industry, difficulties in implementing and integrating artificial intelligence technology into existing sales processes.
 
 <br>
-<a href="https://workdojos.com/accountexecutive/open-source">next: open-source tech</a>
+<a href="https://workdojos.com/accountexecutive/tech">next: open-source tech</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>

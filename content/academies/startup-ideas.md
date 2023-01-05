@@ -25,7 +25,7 @@ Estimated 1st Year Cost of Operation: $200,000-$300,000
 Potential Business Challenges to Look For: Competition from existing networking and collaboration platforms, difficulty in acquiring and retaining premium subscribers, need to constantly update and improve the platform to meet the evolving needs of academic researchers.
 
 <br>
-<a href="https://workdojos.com/academies/open-source">next: open-source tech</a>
+<a href="https://workdojos.com/academies/tech">next: open-source tech</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
