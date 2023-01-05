@@ -1,5 +1,5 @@
 ---
-title: Getting Started as an Academic in the Y Industry
+title: Getting Started as an Academic in the Higher Education Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

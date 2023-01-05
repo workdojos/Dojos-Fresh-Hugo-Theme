@@ -42,7 +42,7 @@ How have you collaborated with colleagues or led a team in the past?
 What is your approach to staying up to date with the latest research and trends in your field?
 
 <br>
-<a href="https://workdojos.com/academies/get-started">next: getting started</a>
+<a href="https://workdojos.com/academies/start">next: getting started</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
