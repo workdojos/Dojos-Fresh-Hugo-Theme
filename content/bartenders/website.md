@@ -1,5 +1,5 @@
 ---
-title: Websites for bartendersbartenderss in the Bartending And Hospitality  Industry
+title: Websites for Bartenders in the Bartending And Hospitality  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

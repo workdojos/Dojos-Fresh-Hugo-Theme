@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of a bartendersbartenders
+title: A Day in the Life of a Bartender
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,5 @@
 ---
-title: Ethical Framework for bartendersbartenderss Working in the Bartending And Hospitality  Industry
+title: Ethical Framework for Bartenders Working in the Bartending And Hospitality  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

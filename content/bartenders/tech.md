@@ -1,5 +1,5 @@
 ---
-title: Open-Source Tech for bartendersbartenderss and Others in the Bartending And Hospitality  Industry
+title: Open-Source Tech for Bartenders and Others in the Bartending And Hospitality  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

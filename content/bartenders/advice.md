@@ -1,5 +1,5 @@
 ---
-title: Advice for bartendersbartenderss
+title: Advice for Bartenders
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

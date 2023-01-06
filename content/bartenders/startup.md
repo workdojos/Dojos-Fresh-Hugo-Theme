@@ -1,5 +1,5 @@
 ---
-title: Startup Ideas for bartendersbartenderss and Entrepreneurs in the Bartending And Hospitality  Industry
+title: Startup Ideas for Bartenders and Entrepreneurs in the Bartending And Hospitality  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

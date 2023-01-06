@@ -1,5 +1,5 @@
 ---
-title:  History and Etymology of bartendersbartenderss and the Bartending And Hospitality  Industry
+title:  History and Etymology of Bartenders and the Bartending And Hospitality  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

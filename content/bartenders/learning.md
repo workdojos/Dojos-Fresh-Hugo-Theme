@@ -1,5 +1,5 @@
 ---
-title: Learning & Development for bartendersbartenderss
+title: Learning & Development for Bartenders
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

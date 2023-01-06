@@ -1,5 +1,5 @@
 ---
-title: The Bartending And Hospitality  Industry and bartendersbartenders Workers' Rights
+title: The Bartending And Hospitality  Industry and Bartender Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

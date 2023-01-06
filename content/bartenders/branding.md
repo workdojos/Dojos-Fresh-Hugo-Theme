@@ -1,5 +1,5 @@
 ---
-title: bartendersbartenders Branding Strategy
+title: Bartender Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

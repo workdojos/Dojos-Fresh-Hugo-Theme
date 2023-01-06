@@ -1,5 +1,5 @@
 ---
-title: An Overview for bartendersbartenderss and the Bartending And Hospitality  Industry
+title: An Overview for Bartenders and the Bartending And Hospitality  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

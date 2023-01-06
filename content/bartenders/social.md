@@ -1,5 +1,5 @@
 ---
-title: bartendersbartenders Social Media Strategy
+title: Bartender Social Media Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
