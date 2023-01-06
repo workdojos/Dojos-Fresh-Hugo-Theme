@@ -47,7 +47,7 @@ How do you stay organized and manage your time effectively when working on multi
 What are your long-term goals in a sales career?
 
 <br>
-<a href="https://workdojos.com/accountexecutive/get-started">next: getting started</a>
+<a href="https://workdojos.com/accountexecutive/start">next: getting started</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>

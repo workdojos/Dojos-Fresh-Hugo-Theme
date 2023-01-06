@@ -39,7 +39,7 @@ How do you approach marketing and sales for your business?
 How do you ensure excellent customer service in your business?
 
 <br>
-<a href="https://workdojos.com/4X4s/get-started">next: getting started</a>
+<a href="https://workdojos.com/4X4s/start">next: getting started</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>

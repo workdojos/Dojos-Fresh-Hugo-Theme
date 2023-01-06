@@ -42,7 +42,7 @@ How do you stay up-to-date on industry developments and trends?
 What are some common pitfalls in actuarial work, and how do you avoid them?
 
 <br>
-<a href="https://workdojos.com/actuaries/get-started">next: getting started</a>
+<a href="https://workdojos.com/actuaries/start">next: getting started</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
