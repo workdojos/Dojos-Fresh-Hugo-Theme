@@ -1,5 +1,5 @@
 ---
-title: Advice for XXs
+title: Advice for Castle Owners
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -20,7 +20,7 @@ In terms of qualifications, it is likely that a degree in a related field such a
 Overall, a career as a castle owner can be a rewarding and exciting option for those with the right skills, interests, and experience. With the right qualifications and a passion for history and tourism, you may be well-suited for this type of career.
 
 <br>
-<a href="https://workdojos.com/X/start">next: get started</a>
+<a href="https://workdojos.com/castles/start">next: get started</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -28,7 +28,7 @@ Overall, a career as a castle owner can be a rewarding and exciting option for t
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

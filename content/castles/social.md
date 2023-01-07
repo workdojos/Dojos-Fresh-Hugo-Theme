@@ -1,5 +1,5 @@
 ---
-title: XX Social Media Strategy
+title: Castle Owner Social Media Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -22,7 +22,7 @@ Pinterest: Create a Pinterest board dedicated to your castle and use it to curat
 I hope these ideas help you create an engaging social media campaign for your new business as a castle owner. Good luck!
 
 <br>
-<a href="https://workdojos.com/X/startup">next: startup ideas</a>
+<a href="https://workdojos.com/castles/startup">next: startup ideas</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -30,7 +30,7 @@ I hope these ideas help you create an engaging social media campaign for your ne
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

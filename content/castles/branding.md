@@ -1,5 +1,5 @@
 ---
-title: XX Branding Strategy
+title: Castle Owner Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -23,7 +23,7 @@ Use analytics tools to track the success of the campaign and make adjustments as
 Overall, the goal of the campaign should be to build a strong, engaged community of followers who are interested in the castle organization and its offerings. By consistently posting engaging content, responding to questions and comments, and collaborating with others in the industry, we can help to increase brand awareness and drive traffic to the website.
 
 <br>
-<a href="https://workdojos.com/X/ethics">next: ethical framework</a>
+<a href="https://workdojos.com/castles/ethics">next: ethical framework</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -31,7 +31,7 @@ Overall, the goal of the campaign should be to build a strong, engaged community
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

@@ -1,5 +1,5 @@
 ---
-title: Websites for XXs in the Y Industry
+title: Websites for Castle Owners in the Castle  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -24,7 +24,7 @@ Overall, using open-source technology to build your website has several benefits
 
 <br>
 
-<a href="https://workdojos.com/X/overview">next: overview</a>
+<a href="https://workdojos.com/castles/overview">next: overview</a>
 <br>
 <br>
 </p>
@@ -35,7 +35,7 @@ Overall, using open-source technology to build your website has several benefits
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

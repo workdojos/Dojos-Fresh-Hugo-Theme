@@ -1,5 +1,5 @@
 ---
-title: An Overview for XXs and the Y Industry
+title: An Overview for Castle Owners and the Castle  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -21,7 +21,7 @@ There are a variety of useful websites where you can learn more about the castle
 When it comes to the best and worst jobs in the castle industry, it ultimately depends on your personal interests and skills. Some of the best jobs in the industry might include curatorial positions, where you can work with and preserve historical artifacts, or education positions, where you can share the stories of the past with visitors. On the other hand, some of the worst jobs in the industry might include positions with high levels of physical labor or customer service, which can be demanding and challenging. Ultimately, it's important to consider your strengths and interests when choosing a job in the castle industry.
 
 <br>
-<a href="https://workdojos.com/X/day-in-the-life">next: day in the life</a>
+<a href="https://workdojos.com/castles/day-in-the-life">next: day in the life</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -29,7 +29,7 @@ When it comes to the best and worst jobs in the castle industry, it ultimately d
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

@@ -1,5 +1,5 @@
 ---
-title: Y Industry Controversies and Challenges
+title: Castle  Industry Controversies and Challenges
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -18,7 +18,7 @@ Additionally, the castle industry as a whole can be improved by implementing mor
 In conclusion, the castle industry is facing several controversies and challenges that are affecting castle owners and the industry as a whole. By addressing these issues and working to make the industry more sustainable and profitable, we can ensure that castle owners can continue to thrive and preserve these important cultural landmarks for future generations.
 
 <br>
-<a href="https://workdojos.com/X/history">next: history</a>
+<a href="https://workdojos.com/castles/history">next: history</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -26,7 +26,7 @@ In conclusion, the castle industry is facing several controversies and challenge
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

@@ -1,5 +1,5 @@
 ---
-title: The Y Industry and XX Workers' Rights
+title: The Castle  Industry and Castle Owner Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -23,7 +23,7 @@ To address these issues, it is necessary to advocate for fair work practices in 
 In conclusion, fair work practices for castle owners are not only ethical, but they are also necessary for the long-term success of the castle industry. By promoting worker’s rights, fair treatment, and proper wages, we can create a more sustainable and thriving industry for all involved.
 
 <br>
-<a href="https://workdojos.com/X/branding">next: branding</a>
+<a href="https://workdojos.com/castles/branding">next: branding</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -31,7 +31,7 @@ In conclusion, fair work practices for castle owners are not only ethical, but t
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of a XX
+title: A Day in the Life of a Castle Owner
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -24,7 +24,7 @@ There was the fierce warrior queen who used her castle as a base of operations a
 No matter who the castle owner was, or what their purpose was, one thing remained the same - the castle was a place of wonder and magic, a place where anything was possible. And it is this sense of magic that continues to captivate us to this day, as we look back on the history of these grand and magnificent structures.
 
 <br>
-<a href="https://workdojos.com/X/history">next: history</a>
+<a href="https://workdojos.com/castles/history">next: history</a>
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
@@ -33,7 +33,7 @@ No matter who the castle owner was, or what their purpose was, one thing remaine
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

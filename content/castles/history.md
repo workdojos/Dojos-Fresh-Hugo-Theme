@@ -1,5 +1,5 @@
 ---
-title:  History and Etymology of XXs and the Y Industry
+title:  History and Etymology of Castle Owners and the Castle  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -16,7 +16,7 @@ The word "owner" is derived from the Old English word "agana", which means "poss
 In terms of the phrase "castle owner", it simply refers to someone who owns a castle. This could be a noble or royal family, or it could be an individual who has purchased a castle as a residence or for other purposes. The castle owner would have had control over the castle and all of its lands and resources.
 
 <br>
-<a href="https://workdojos.com/X/advice">next: advice</a>
+<a href="https://workdojos.com/castles/advice">next: advice</a>
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
@@ -25,7 +25,7 @@ In terms of the phrase "castle owner", it simply refers to someone who owns a ca
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

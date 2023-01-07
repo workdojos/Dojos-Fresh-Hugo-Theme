@@ -1,5 +1,5 @@
 ---
-title: Open-Source Tech for XXs and Others in the Y Industry
+title: Open-Source Tech for Castle Owners and Others in the Castle  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -20,7 +20,7 @@ Another way that castle owners can thrive in the castle industry is by embracing
 Overall, the castle industry is facing a number of challenges in the modern world, but with the right approach and the right tools, castle owners can thrive and succeed. By embracing open-source technology and small business, castle owners can stay competitive, innovative, and relevant in today's dynamic and fast-paced economy.
 
 <br>
-<a href="https://workdojos.com/X/website">next: website</a>
+<a href="https://workdojos.com/castles/website">next: website</a>
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
@@ -29,7 +29,7 @@ Overall, the castle industry is facing a number of challenges in the modern worl
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

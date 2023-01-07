@@ -1,5 +1,5 @@
 ---
-title: Startup Ideas for XXs and Entrepreneurs in the Y Industry
+title: Startup Ideas for Castle Owners and Entrepreneurs in the Castle  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -39,7 +39,7 @@ Potential Business Challenges: Competition from existing vacation rental platfor
 
 <br>
 <br>
-<a href="https://workdojos.com/X/tech">next: open-source tech</a>
+<a href="https://workdojos.com/castles/tech">next: open-source tech</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -47,7 +47,7 @@ Potential Business Challenges: Competition from existing vacation rental platfor
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

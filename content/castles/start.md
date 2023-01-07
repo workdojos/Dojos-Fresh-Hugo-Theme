@@ -1,5 +1,5 @@
 ---
-title: Getting Started in the Y Industry
+title: Getting Started in the Castle  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -24,7 +24,7 @@ The Castle Studies Group (https://www.castlestudiesgroup.org/) - This organizati
 I hope these resources help you get excited about a career as a castle owner in the castle industry! Remember, this is a dynamic and growing industry with lots of upside potential, and as a castle owner, you will have the opportunity to be a part of something truly special. So don't be afraid to go for it and chase your dream of becoming a castle owner!
 
 <br>
-<a href="https://workdojos.com/X/learning">next: learning</a>
+<a href="https://workdojos.com/castles/learning">next: learning</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -32,7 +32,7 @@ I hope these resources help you get excited about a career as a castle owner in 
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

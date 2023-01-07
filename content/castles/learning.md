@@ -1,5 +1,5 @@
 ---
-title: Learning & Development for XXs
+title: Learning & Development for Castle Owners
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -42,7 +42,7 @@ How would you approach preserving the historical significance of the castle whil
 How do you plan on marketing and promoting the castle to attract visitors?
 
 <br>
-<a href="https://workdojos.com/X/rights">next: workers' rights</a>
+<a href="https://workdojos.com/castles/rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -50,7 +50,7 @@ How do you plan on marketing and promoting the castle to attract visitors?
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>

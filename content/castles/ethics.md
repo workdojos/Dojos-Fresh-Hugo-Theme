@@ -1,5 +1,5 @@
 ---
-title: Ethical Framework for XXs Working in the Y Industry
+title: Ethical Framework for Castle Owners Working in the Castle  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -18,7 +18,7 @@ Finally, it is important to consider the ethical implications of one's actions o
 In order to develop an ethical framework for starting a career as a castle owner working in the castle industry, it is important to consider these and other ethical considerations, and to continually reflect on one's actions and decisions to ensure that they align with one's ethical values.
 
 <br>
-<a href="https://workdojos.com/X/social">next: social media</a>
+<a href="https://workdojos.com/castles/social">next: social media</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
@@ -26,7 +26,7 @@ In order to develop an ethical framework for starting a career as a castle owner
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://X.workdojos.com">
+                      <a href="https://castles.workdojos.com">
                         <img src="/uploads/d.svg" class="columnImage" />
                     </td>
                 </tr>
