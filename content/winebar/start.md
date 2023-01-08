@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 draft: true
 ---
 <figure>
-    <img src='/uploads/getting-started.svg' height="100%" width="500px"; alt='rocketship';/>
+    <img src='/uploads/getting-started.jpg' height="100%" width="500px"; alt='rocketship';/>
     <figcaption>How to get going?  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>

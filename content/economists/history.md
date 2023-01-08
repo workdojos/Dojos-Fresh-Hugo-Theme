@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 draft: true
 ---
 <figure>
-    <img src='/uploads/history.svg' height="100%" width="500px"; alt='old sailing vessel';/>
+    <img src='/uploads/history.jpg' height="100%" width="500px"; alt='old sailing vessel';/>
     <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>

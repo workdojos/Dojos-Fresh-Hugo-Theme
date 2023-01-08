@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/curriculum.svg' height="100%" width="500px"; alt='student in hoody with laptop';/>
+    <img src='/uploads/curriculum.jpg' height="100%" width="500px"; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>

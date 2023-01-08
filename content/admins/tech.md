@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/open-source-tech.svg' height="100%" width="500px"; alt='desktop computer and open-source code';/>
+    <img src='/uploads/open-source-tech.jpg' height="100%" width="500px"; alt='desktop computer and open-source code';/>
     <figcaption>Open-source tech, the best bang-for-your-buck in the digital world.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 The server administration industry is an integral part of our modern economy, as it plays a crucial role in the smooth functioning of businesses of all sizes. In recent years, there has been a growing trend towards the use of open-source technology in the server administration industry, and this shift has brought with it numerous benefits.

@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo 
 draft: true
 ---
-<figure><img src='/uploads/branding.svg' height="100%" width="500px"; alt='tools to brand your new business';/>
+<figure><img src='/uploads/branding.jpg' height="100%" width="500px"; alt='tools to brand your new business';/>
     <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>

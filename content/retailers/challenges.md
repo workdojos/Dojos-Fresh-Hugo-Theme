@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 draft: true
 ---
 <figure>
-    <img src='/uploads/challenges.svg' height="100%" width="500px"; alt='warrior's spear';/>
+    <img src='/uploads/challenges.jpg' height="100%" width="500px"; alt='warrior's spear';/>
     <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>

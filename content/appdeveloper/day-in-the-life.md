@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/a-day-in-the-life.svg' height="100%" width="500px"; alt='sunny day working abroad in an exotic locale';/>
+    <img src='/uploads/a-day-in-the-life.jpg' height="100%" width="500px"; alt='sunny day working abroad in an exotic locale';/>
     <figcaption>What it's like living a day in the life.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>

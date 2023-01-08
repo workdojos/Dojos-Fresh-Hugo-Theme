@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 draft: true
 ---
 <figure>
-    <img src='/uploads/ethical-framework.svg' height="100%" width="500px"; alt='namaste hands';/>
+    <img src='/uploads/ethical-framework.jpg' height="100%" width="500px"; alt='namaste hands';/>
     <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>

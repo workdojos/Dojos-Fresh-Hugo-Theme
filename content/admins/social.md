@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/socialmedia.svg' height="100%" width="500px"; alt='social media';/>
+    <img src='/uploads/socialmedia.jpg' height="100%" width="500px"; alt='social media';/>
     <figcaption>Gain presence in the world of social media.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 Twitter:

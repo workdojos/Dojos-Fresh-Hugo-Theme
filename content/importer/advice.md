@@ -6,7 +6,7 @@ sidebarlogo: wordojos_logo
 draft: true
 ---
 <figure>
-    <img src='/uploads/recommendations.svg' height="100%" width="500px"; alt='firecracker';/>
+    <img src='/uploads/recommendations.jpg' height="100%" width="500px"; alt='firecracker';/>
     <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
