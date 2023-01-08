@@ -5,8 +5,8 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/history.jpg' width: 100%;height: 630px;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker
-    <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+    <img src='/uploads/a-day-in-the-life.jpg' style="width: 100%;height: 630px;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecrackersunny day working abroad in an exotic locale';/>
+    <figcaption>What it's like living a day in the life.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
 The word "coffee" can be traced back to the Arabic word "qahwah," which refers to a type of beverage made from roasted and ground coffee beans. The word "coffee" was first recorded in English in the early 17th century and is believed to have been introduced to the English language through the Dutch word "koffie," which was borrowed from the Ottoman Turkish word "kahve."
