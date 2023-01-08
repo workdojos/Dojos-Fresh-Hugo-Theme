@@ -1,12 +1,12 @@
 ---
-title: An Overview for Web Designers and the Digital Services  Industry
+title: An Overview for Web Designers and the Digital Services Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 draft: true
 ---
 <figure>
-    <img src='/uploads/overview.svg' height="100%" width="500px"; alt='remote worker at his desk with a cup of coffee';/>
+    <img src='/uploads/small/webdesigners.jpg' height="100%" width="500px"; alt='remote worker at his desk with a cup of coffee';/>
     <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
