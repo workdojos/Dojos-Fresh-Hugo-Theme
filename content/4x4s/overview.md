@@ -3,12 +3,12 @@ title: An Overview for 4X4 Business Owners and the 4X4 Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 <figure>
-    <img src='/uploads/overview.svg' height="100%" width="500px"; alt='remote worker at his desk with a cup of coffee';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+    <img src="/uploads/small/4x4s.jpg" style="width: 100%;height: 630px;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
+    <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+<p>
 <p>
 As a journalist, it is my duty to bring you the latest and most accurate information about the 4x4 industry. Here are the facts:
 
