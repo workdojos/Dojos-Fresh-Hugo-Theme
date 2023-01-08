@@ -20,7 +20,7 @@ Finally, it is important to consider the concept of fairness in developing an et
 Overall, building an ethical framework for starting a business in the sales industry requires a combination of integrity, transparency, and fairness. By considering these concepts and incorporating them into our business practices, we can ensure that we are operating in a responsible and ethical manner, and contributing to a more just and fair society.
 
 <br>
-<a href="https://workdojos.com/accountexecutive/social-media">next: social media</a>
+<a href="https://workdojos.com/accountexecutive/social">next: social media</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>

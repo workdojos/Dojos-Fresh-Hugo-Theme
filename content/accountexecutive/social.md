@@ -22,7 +22,7 @@ Pinterest: Create a Pinterest board that showcases your sales expertise and show
 Overall, the key to a successful social media campaign is to be authentic, engaging, and consistent. By sharing valuable content and interacting with your followers, you can build a loyal following and effectively promote your business as an account executive in the sales industry.`
 
 <br>
-<a href="https://workdojos.com/accountexecutive/startup-ideas">next: startup ideas</a>
+<a href="https://workdojos.com/accountexecutive/startup">next: startup ideas</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>

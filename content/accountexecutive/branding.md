@@ -27,7 +27,7 @@ Update your social media profiles regularly to keep your audience engaged and in
 By following these steps, you should be able to effectively manage your sales organization's presence on Twitter, Instagram, and Pinterest and increase brand awareness, recruit followers, drive traffic to your website, and make opportunities for collaboration with others in the sales industry.
 
 <br>
-<a href="https://workdojos.com/accountexecutive/ethical-framework">next: ethical framework</a>
+<a href="https://workdojos.com/accountexecutive/ethics">next: ethical framework</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
