@@ -3,7 +3,7 @@ title: The Digital Marketing Services  Industry and Web Jedi Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

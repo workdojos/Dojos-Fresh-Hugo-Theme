@@ -3,7 +3,7 @@ title: The Wholesale  Industry and Wholesaler Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>
