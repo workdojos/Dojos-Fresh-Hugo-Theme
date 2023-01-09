@@ -3,7 +3,7 @@ title: The Wine  Industry and Wine Bar Owner Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>
