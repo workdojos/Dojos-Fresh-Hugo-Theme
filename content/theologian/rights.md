@@ -3,7 +3,7 @@ title: The Religious Organizations  Industry and Theologian Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

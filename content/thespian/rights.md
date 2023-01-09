@@ -3,7 +3,7 @@ title: The Perfoming Arts  Industry and Thespian Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

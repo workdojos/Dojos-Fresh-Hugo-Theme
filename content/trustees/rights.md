@@ -3,7 +3,7 @@ title: The Fiduciary & Security Services  Industry and Trustee Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

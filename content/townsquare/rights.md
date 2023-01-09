@@ -3,7 +3,7 @@ title: The Tourism  Industry and Business Owner Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>
