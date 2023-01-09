@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/open-source-tech.jpg' style="width: 100%;height: 630px;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecrackerdesktop computer and open-source code';/>
+    <img src='/uploads/open-source-tech.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecrackerdesktop computer and open-source code';/>
     <figcaption>Open-source tech, the best bang-for-your-buck in the digital world.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
