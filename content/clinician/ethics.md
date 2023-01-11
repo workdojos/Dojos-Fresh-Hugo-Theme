@@ -1,5 +1,5 @@
 ---
-title: Ethical Framework for XXs Working in the Medical  Industry
+title: Ethical Framework for Doctors Working in the Medical Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

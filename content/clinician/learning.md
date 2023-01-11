@@ -1,5 +1,5 @@
 ---
-title: Learning & Development for XXs
+title: Learning & Development for Doctors
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,5 @@
 ---
-title: Medical  Industry Controversies and Challenges
+title: Medical Industry Controversies and Challenges
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

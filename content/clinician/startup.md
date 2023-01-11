@@ -1,5 +1,5 @@
 ---
-title: Startup Ideas for XXs and Entrepreneurs in the Medical  Industry
+title: Startup Ideas for Doctors and Entrepreneurs in the Medical Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

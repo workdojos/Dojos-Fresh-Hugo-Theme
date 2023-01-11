@@ -1,5 +1,5 @@
 ---
-title: Open-Source Tech for XXs and Others in the Medical  Industry
+title: Open-Source Tech for Doctors and Others in the Medical Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

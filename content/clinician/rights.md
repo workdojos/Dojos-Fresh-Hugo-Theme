@@ -1,5 +1,5 @@
 ---
-title: The Medical  Industry and Clinician Workers' Rights
+title: The Medical Industry and Clinician Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

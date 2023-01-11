@@ -1,5 +1,5 @@
 ---
-title: Advice for XXs
+title: Advice for Doctors
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

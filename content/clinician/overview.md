@@ -1,5 +1,5 @@
 ---
-title: An Overview for XXs and the Medical  Industry
+title: An Overview for Doctors and the Medical Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

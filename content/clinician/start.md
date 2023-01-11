@@ -1,5 +1,5 @@
 ---
-title: Getting Started in the Medical  Industry
+title: Getting Started in the Medical Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

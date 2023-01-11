@@ -1,5 +1,5 @@
 ---
-title:  History and Etymology of XXs and the Medical  Industry
+title:  History and Etymology of Doctors and the Medical Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

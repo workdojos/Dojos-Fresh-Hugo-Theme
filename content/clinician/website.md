@@ -1,5 +1,5 @@
 ---
-title: Websites for XXs in the Medical  Industry
+title: Websites for Doctors in the Medical Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
