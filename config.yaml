@@ -2,7 +2,7 @@ baseURL: https://workdojos.com
 languageCode: en-us
 title: Work Dojos
 theme: hugo-fresh
-googleTagManager: G-M8MTX31YJH
+googleAnalytics:: G-M8MTX31YJH
 # Disables warnings
 disableKinds:
 - taxonomy
