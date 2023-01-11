@@ -3,7 +3,7 @@ title: The Sales & Marketing  Industry and Social Media Manager Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

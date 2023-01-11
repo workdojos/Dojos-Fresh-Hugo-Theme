@@ -3,7 +3,7 @@ title: The Writing & Publishing  Industry and Novelist Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

@@ -3,7 +3,7 @@ title: The Behavioral Health  Industry and Social Worker Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

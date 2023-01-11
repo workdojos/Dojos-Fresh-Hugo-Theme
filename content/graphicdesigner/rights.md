@@ -3,7 +3,7 @@ title: The Graphic Design And Graphic Arts  Industry and Graphic Designer Worker
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

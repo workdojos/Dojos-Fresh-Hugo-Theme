@@ -3,7 +3,7 @@ title: The Executive Coaching  Industry and Sales Coach Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

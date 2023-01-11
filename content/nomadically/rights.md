@@ -3,7 +3,7 @@ title: The Freelance  Industry and Digital Nomad Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

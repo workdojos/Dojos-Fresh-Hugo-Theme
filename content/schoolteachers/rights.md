@@ -3,7 +3,7 @@ title: The Education  Industry and School Teacher Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

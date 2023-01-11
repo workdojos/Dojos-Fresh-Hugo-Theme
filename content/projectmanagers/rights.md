@@ -3,7 +3,7 @@ title: The Broader Business  Industry and Project Manager Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

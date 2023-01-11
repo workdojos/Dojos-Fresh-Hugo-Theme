@@ -3,7 +3,7 @@ title: Startup Ideas for Healers and Entrepreneurs in the Complementary And Alte
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 <figure>
     <img src='/uploads/startup-ideas.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='new storefront and startup open for business';/>

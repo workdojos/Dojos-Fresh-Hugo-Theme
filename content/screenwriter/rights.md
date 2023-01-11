@@ -3,7 +3,7 @@ title: The Film  Industry and Screenwriter Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

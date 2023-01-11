@@ -3,7 +3,7 @@ title: The Neurology & Mental Health Services  Industry and Neurologist Workers'
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

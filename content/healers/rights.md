@@ -3,7 +3,7 @@ title: The Complementary And Alternative Medicine  Industry and Healer Workers' 
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

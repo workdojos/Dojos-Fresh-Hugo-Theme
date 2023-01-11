@@ -3,7 +3,7 @@ title: The Laboratory Testing  Industry and Lab Tech Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

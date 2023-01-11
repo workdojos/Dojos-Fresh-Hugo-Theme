@@ -3,7 +3,7 @@ title: Thespian's Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 {{% title3 "" %}}

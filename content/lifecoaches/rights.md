@@ -3,7 +3,7 @@ title: The Life Coaching  Industry and Life Coach Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

@@ -3,7 +3,7 @@ title: The Social Sciences  Industry and Sociologist Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

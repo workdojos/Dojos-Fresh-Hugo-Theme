@@ -3,7 +3,7 @@ title: The Infectious Diseases  Industry and Pathologist Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

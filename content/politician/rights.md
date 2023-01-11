@@ -3,7 +3,7 @@ title: The Government & Political Campaign  Industry and Politician Workers' Rig
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

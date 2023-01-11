@@ -3,7 +3,7 @@ title: The International Relations  Industry and Liaison Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

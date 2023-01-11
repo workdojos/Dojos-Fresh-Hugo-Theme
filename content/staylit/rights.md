@@ -3,7 +3,7 @@ title: The Digital Preservation  Industry and Digital Preservation Specialist Wo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

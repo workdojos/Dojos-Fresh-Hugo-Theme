@@ -3,7 +3,7 @@ title: The Journalism, News, And Media  Industry and Photo Journalist Workers' R
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

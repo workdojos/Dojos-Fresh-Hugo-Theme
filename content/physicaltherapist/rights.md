@@ -3,7 +3,7 @@ title: The Physical Therapy  Industry and Physical Therapist Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

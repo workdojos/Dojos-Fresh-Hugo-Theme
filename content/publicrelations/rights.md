@@ -3,7 +3,7 @@ title: The Public Relations  Industry and PR Rep Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

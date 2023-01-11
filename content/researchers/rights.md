@@ -3,7 +3,7 @@ title: The Scientific Research & Development  Industry and Researcher Workers' R
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

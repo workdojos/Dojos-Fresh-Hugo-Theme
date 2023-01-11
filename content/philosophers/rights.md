@@ -3,7 +3,7 @@ title: The Philosophy And Higher Education  Industry and Philosopher Workers' Ri
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

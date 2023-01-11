@@ -3,7 +3,7 @@ title: The Distilled Spirits  Industry and Distiller Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

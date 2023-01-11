@@ -3,7 +3,7 @@ title: The Historical Properties  Industry and Lighthouse Manager Workers' Right
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

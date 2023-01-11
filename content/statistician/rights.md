@@ -3,7 +3,7 @@ title: The Statistical Research & Development  Industry and Statistician Workers
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

@@ -3,7 +3,7 @@ title: The Writing And Publishing  Industry and Ghostwriter Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>

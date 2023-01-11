@@ -3,7 +3,7 @@ title: The Translation & Interpretation  Industry and Interpreter Workers' Right
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-draft: true
+
 ---
 
 <figure>
