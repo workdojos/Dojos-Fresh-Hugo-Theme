@@ -75,10 +75,6 @@ params:
 
   - title: Featured dojos
     sublinks:
-    - title: 4x4 Dojo
-      url: https://workdojos.com/4x4s
-    - title: Academy Dojo
-      url: https://workdojos.com/academies
     - title: Account Executive Dojo
       url: https://workdojos.com/accountexecutive
     - title: Actuary Dojo
@@ -95,10 +91,94 @@ params:
       url: https://workdojos.com/appdeveloper
     - title: Arcade Dojo
       url: https://workdojos.com/arcades
+    - title: Account Executive Dojo
+      url: https://workdojos.com/accountexecutive
+    - title: Biologist Dojo
+      url: https://workdojos.com/biologist
+    - title: Cinematographer Dojo
+      url: https://workdojos.com/cinematographer
+    - title: Clinician Dojo
+      url: https://workdojos.com/clinician
+    - title: Cofounder Dojo
+      url: https://workdojos.com/cofounder
+    - title: Economist Dojo
+      url: https://workdojos.com/economists
+    - title: Explorer Dojo
+      url: https://workdojos.com/explorers
+    - title: Exporter Dojo
+      url: https://workdojos.com/exporter
+    - title: Firefighter Dojo
+      url: https://workdojos.com/firefighters
+    - title: Ghostwriter Dojo
+      url: https://workdojos.com/ghostwriters
+    - title: Grower Dojo
+      url: https://workdojos.com/growers
+    - title: Importer Dojo
+      url: https://workdojos.com/importer
+    - title: Interpreter Dojo
+      url: https://workdojos.com/interpreters
+    - title: Investigator Dojo
+      url: https://workdojos.com/investigators
+    - title: Jeweler Dojo
+      url: https://workdojos.com/jeweler
+    - title: Law Enforcement Dojo
+      url: https://workdojos.com/lawenforcement
+    - title: Life Coach Dojo
+      url: https://workdojos.com/lifecoaches
+    - title: Lyricist Dojo
+      url: https://workdojos.com/lyricist
+    - title: Novelist Dojo
+      url: https://workdojos.com/novelist
+    - title: Manufacturer Dojo
+      url: https://workdojos.com/manufacturers
+    - title: Metaversial Dojo
+      url: https://workdojos.com/metaversial
+    - title: Musical Artist Dojo
+      url: https://workdojos.com/musicalartist
+    - title: Non-Profit Dojo
+      url: https://workdojos.com/non-profit
+    - title: Novelist Dojo
+      url: https://workdojos.com/novelist
+    - title: Park Ranger Dojo
+      url: https://workdojos.com/parkranger
+    - title: Pathologist Dojo
+      url: https://workdojos.com/pathologist
+    - title: Pharmacist Dojo
+      url: https://workdojos.com/pharmacists
+    - title: Philosopher Dojo
+      url: https://workdojos.com/philosophers
+    - title: Physicist Dojo
+      url: https://workdojos.com/physicist
+    - title: Project Manager Dojo
+      url: https://workdojos.com/projectmanagers
+    - title: Researcher Dojo
+      url: https://workdojos.com/researchers
+    - title: Retailer Dojo
+      url: https://workdojos.com/retailers
+    - title: School Teacher Dojo
+      url: https://workdojos.com/schoolteachers
+    - title: Social Worker Dojo
+      url: https://workdojos.com/socialworker
+    - title: Theologian Dojo
+      url: https://workdojos.com/theologian
     - title: System Admin Dojo
       url: https://workdojos.com/admins
-
-
+    - title: Thespian Dojo
+      url: https://workdojos.com/thespian
+    - title: Travel Agent Dojo
+      url: https://workdojos.com/travelagents
+    - title: Union Dojo
+      url: https://workdojos.com/unions
+    - title: Gamer Dojo
+      url: https://workdojos.com/videogamers
+    - title: Influencer Dojo
+      url: https://workdojos.com/webcasters
+    - title: Web Designer Dojo
+      url: https://workdojos.com/webdesigners
+    - title: Web Jedi Dojo
+      url: https://workdojos.com/webjedi
+    - title: Yoga Instructor Dojo
+      url: https://workdojos.com/yogainstructor
   - title: Log in
     url: https://blog.workmates.live/#/portal/login
   - title: Sign up
