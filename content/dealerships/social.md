@@ -1,5 +1,5 @@
 ---
-title: Dealership Owner Social Media Strategy
+title: Car Dealer Social Media Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

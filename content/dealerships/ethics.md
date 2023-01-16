@@ -1,5 +1,5 @@
 ---
-title: Ethical Framework for Dealership Owners Working in the Automotive Sales  Industry
+title: Ethical Framework for Car Dealers Working in the Automotive Sales  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

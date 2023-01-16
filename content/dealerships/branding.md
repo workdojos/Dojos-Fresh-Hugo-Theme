@@ -1,5 +1,5 @@
 ---
-title: Dealership Owner Branding Strategy
+title: Car Dealer Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

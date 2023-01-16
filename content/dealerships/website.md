@@ -1,5 +1,5 @@
 ---
-title: Websites for Dealership Owners in the Automotive Sales  Industry
+title: Websites for Car Dealers in the Automotive Sales  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

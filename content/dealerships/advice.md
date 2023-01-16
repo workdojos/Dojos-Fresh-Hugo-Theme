@@ -1,5 +1,5 @@
 ---
-title: Advice for Dealership Owners
+title: Advice for Car Dealers
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

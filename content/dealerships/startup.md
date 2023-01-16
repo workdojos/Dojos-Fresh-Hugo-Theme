@@ -1,5 +1,5 @@
 ---
-title: Startup Ideas for Dealership Owners and Entrepreneurs in the Automotive Sales  Industry
+title: Startup Ideas for Car Dealers and Entrepreneurs in the Automotive Sales  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

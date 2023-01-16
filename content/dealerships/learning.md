@@ -1,5 +1,5 @@
 ---
-title: Learning & Development for Dealership Owners
+title: Learning & Development for Car Dealers
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

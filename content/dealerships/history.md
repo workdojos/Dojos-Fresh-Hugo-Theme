@@ -1,5 +1,5 @@
 ---
-title:  History and Etymology of Dealership Owners and the Automotive Sales  Industry
+title:  History and Etymology of Car Dealers and the Automotive Sales  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

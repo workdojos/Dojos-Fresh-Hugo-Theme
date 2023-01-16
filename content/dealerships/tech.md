@@ -1,5 +1,5 @@
 ---
-title: Open-Source Tech for Dealership Owners and Others in the Automotive Sales  Industry
+title: Open-Source Tech for Car Dealers and Others in the Automotive Sales  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

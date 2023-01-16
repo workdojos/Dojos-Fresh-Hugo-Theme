@@ -1,5 +1,5 @@
 ---
-title: The Automotive Sales  Industry and Dealership Owner Workers' Rights
+title: The Automotive Sales  Industry and Car Dealer Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

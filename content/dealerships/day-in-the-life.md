@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of a Dealership Owner
+title: A Day in the Life of a Car Dealer
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

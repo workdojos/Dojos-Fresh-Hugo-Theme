@@ -1,5 +1,5 @@
 ---
-title: An Overview for Dealership Owners and the Automotive Sales  Industry
+title: An Overview for Car Dealers and the Automotive Sales  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
