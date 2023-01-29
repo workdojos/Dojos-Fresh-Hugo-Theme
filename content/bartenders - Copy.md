@@ -4,20 +4,8 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
-<iframe src="https://accounting-finance.workdojos.com/" style="width:1500px; height:925px;-moz-transform: scale(0.9, 0.9); 
-  -webkit-transform: scale(0.9, 0.9); 
-  -o-transform: scale(0.9, 0.9);
-  -ms-transform: scale(0.9, 0.9);
-  transform: scale(0.9, 0.9); 
-  -moz-transform-origin: top left;
-  -webkit-transform-origin: top left;
-  -o-transform-origin: top left;
-  -ms-transform-origin: top left;
-  transform-origin: top left;padding: 9px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;">
-  <p>Your browser does not support iframes.</p>
-</iframe>
-
+<iframe src="https://players.workdojos.com" style="width: 100%;height: 100%;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<br>
 
 {{% title3 "" %}}
 
