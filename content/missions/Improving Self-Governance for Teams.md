@@ -18,7 +18,7 @@ The goal of this project is to improve the self-governance of a team of committe
 To identify common problems and challenges that arise in remote work teams.
 To develop and implement solutions to those problems.
 To create a self-governance plan that will help the team run more efficiently and effectively.
-Stakes:
+**Stakes**:
 The success of this project is crucial because it will have real-world consequences for the self-governance of teams working remotely. The stakes are high because if the team fails to find solutions, it will negatively impact the efficiency and effectiveness of remote teams, leading to decreased productivity and morale.
 
 **Reserves**:
@@ -28,10 +28,10 @@ Successful completion grants all contributing members XP and unlocks a new chall
 
 ---
 
-* **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: https://openai.com/blog/chatgpt/
+* **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link https://openai.com/blog/chatgpt/
 
-* Missions are to the lower left of your screen, co-pilots to the right. Get a [**Dojo**](https://workmates.live/marketplace) with the co-pilot of your choice for $25/mo: [::](https://workmates.live/marketplace)  Claim this character and join the world's first [**Office AARG**](https://dojos.world) (Augmented Alternate Reality Game). Build real-world things with a dash of fantasy! [**25% off**](https://blog.workmates.live/deal-on-a-dojo) for a limited time, via the following link: [::](https://blog.workmates.live/deal-on-a-dojo) 
+* Missions are to the lower left of your screen, co-pilots to the right. Get a [**Dojo**](https://workmates.live/marketplace) with the co-pilot of your choice for $25/mo: [::](https://workmates.live/marketplace)  Claim this character and join the world's first [**Office AARG**](https://dojos.world) (Augmented Alternate Reality Game). Build real-world things with a dash of fantasy! [**25% off**](https://blog.workmates.live/deal-on-a-dojo) for a limited time, via the following link [::](https://blog.workmates.live/deal-on-a-dojo) 
 
-* What's a [**Dojo?**](https://workdojos.com): [::](https://workdojos.com)  Go to [**Dojo's World**](https://dojos.world): [::](https://dojos.world)  Learn about [**Foundry Virtual Tabletop (VTT)**](https://foundryvtt.com): [::](https://foundryvtt.com/)
+* What's a [**Dojo?**](https://workdojos.com) [::](https://workdojos.com)  Go to [**Dojo's World**](https://dojos.world): [::](https://dojos.world)  Learn about [**Foundry Virtual Tabletop (VTT)**](https://foundryvtt.com) [::](https://foundryvtt.com/)
 
-* [**Chat now**](https://chat.workmates.live/channel/support): [::](https://chat.workmates.live/channel/support)
+* [**Chat now**](https://chat.workmates.live/channel/support) [::](https://chat.workmates.live/channel/support)

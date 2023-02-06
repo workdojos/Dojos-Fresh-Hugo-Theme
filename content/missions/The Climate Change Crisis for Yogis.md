@@ -18,7 +18,7 @@ Research and analyze the causes and effects of climate change.
 Identify sustainable solutions to reduce the impact of climate change on the environment.
 Create a plan of action to educate and raise awareness about the crisis.
 Collaborate with international organizations to implement the solutions globally.
-Stakes:
+**Stakes**:
 The stakes of this project are high as the consequences of climate change will impact the future of our planet. The team's efforts will determine whether future generations will have access to clean air, water, and food. Failure to take action will result in a world of increased natural disasters, famine, and displacement of people.
 
 **Reserves**:
@@ -29,10 +29,10 @@ The yoga instructors are being called upon to use their skills of mindfulness, m
 
 ---
 
-* **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: https://openai.com/blog/chatgpt/
+* **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link https://openai.com/blog/chatgpt/
 
-* Missions are to the lower left of your screen, co-pilots to the right. Get a [**Dojo**](https://workmates.live/marketplace) with the co-pilot of your choice for $25/mo: [::](https://workmates.live/marketplace)  Claim this character and join the world's first [**Office AARG**](https://dojos.world) (Augmented Alternate Reality Game). Build real-world things with a dash of fantasy! [**25% off**](https://blog.workmates.live/deal-on-a-dojo) for a limited time, via the following link: [::](https://blog.workmates.live/deal-on-a-dojo) 
+* Missions are to the lower left of your screen, co-pilots to the right. Get a [**Dojo**](https://workmates.live/marketplace) with the co-pilot of your choice for $25/mo: [::](https://workmates.live/marketplace)  Claim this character and join the world's first [**Office AARG**](https://dojos.world) (Augmented Alternate Reality Game). Build real-world things with a dash of fantasy! [**25% off**](https://blog.workmates.live/deal-on-a-dojo) for a limited time, via the following link [::](https://blog.workmates.live/deal-on-a-dojo) 
 
-* What's a [**Dojo?**](https://workdojos.com): [::](https://workdojos.com)  Go to [**Dojo's World**](https://dojos.world): [::](https://dojos.world)  Learn about [**Foundry Virtual Tabletop (VTT)**](https://foundryvtt.com): [::](https://foundryvtt.com/)
+* What's a [**Dojo?**](https://workdojos.com) [::](https://workdojos.com)  Go to [**Dojo's World**](https://dojos.world): [::](https://dojos.world)  Learn about [**Foundry Virtual Tabletop (VTT)**](https://foundryvtt.com) [::](https://foundryvtt.com/)
 
-* [**Chat now**](https://chat.workmates.live/channel/support): [::](https://chat.workmates.live/channel/support)
+* [**Chat now**](https://chat.workmates.live/channel/support) [::](https://chat.workmates.live/channel/support)

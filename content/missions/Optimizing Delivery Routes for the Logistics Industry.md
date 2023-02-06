@@ -17,7 +17,7 @@ sidebarlogo: wordojos_logo
 To reduce delivery times by 20%
 To reduce fuel consumption by 15%
 To reduce the number of delivery errors by 10%
-Stakes:
+**Stakes**:
 
 The logistics industry is highly competitive, and any delay or inefficiency can result in loss of business and revenue.
 Improving delivery routes can lead to a better customer experience, leading to repeat business and increased brand loyalty.
@@ -30,10 +30,10 @@ Successful completion of this project will grant all contributing members XP and
 
 ---
 
-* **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: https://openai.com/blog/chatgpt/
+* **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link https://openai.com/blog/chatgpt/
 
-* Missions are to the lower left of your screen, co-pilots to the right. Get a [**Dojo**](https://workmates.live/marketplace) with the co-pilot of your choice for $25/mo: [::](https://workmates.live/marketplace)  Claim this character and join the world's first [**Office AARG**](https://dojos.world) (Augmented Alternate Reality Game). Build real-world things with a dash of fantasy! [**25% off**](https://blog.workmates.live/deal-on-a-dojo) for a limited time, via the following link: [::](https://blog.workmates.live/deal-on-a-dojo) 
+* Missions are to the lower left of your screen, co-pilots to the right. Get a [**Dojo**](https://workmates.live/marketplace) with the co-pilot of your choice for $25/mo: [::](https://workmates.live/marketplace)  Claim this character and join the world's first [**Office AARG**](https://dojos.world) (Augmented Alternate Reality Game). Build real-world things with a dash of fantasy! [**25% off**](https://blog.workmates.live/deal-on-a-dojo) for a limited time, via the following link [::](https://blog.workmates.live/deal-on-a-dojo) 
 
-* What's a [**Dojo?**](https://workdojos.com): [::](https://workdojos.com)  Go to [**Dojo's World**](https://dojos.world): [::](https://dojos.world)  Learn about [**Foundry Virtual Tabletop (VTT)**](https://foundryvtt.com): [::](https://foundryvtt.com/)
+* What's a [**Dojo?**](https://workdojos.com) [::](https://workdojos.com)  Go to [**Dojo's World**](https://dojos.world): [::](https://dojos.world)  Learn about [**Foundry Virtual Tabletop (VTT)**](https://foundryvtt.com) [::](https://foundryvtt.com/)
 
-* [**Chat now**](https://chat.workmates.live/channel/support): [::](https://chat.workmates.live/channel/support)
+* [**Chat now**](https://chat.workmates.live/channel/support) [::](https://chat.workmates.live/channel/support)

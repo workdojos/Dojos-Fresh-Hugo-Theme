@@ -18,7 +18,7 @@ Identify and assess all potential financial risks that the finance industry is e
 Develop a financial risk management framework that can be implemented by CFOs in their respective organizations.
 Provide practical recommendations and best practices for managing financial risks in the finance industry.
 Evaluate the effectiveness of the risk management framework through simulations and stress tests.
-Stakes: The finance industry is heavily dependent on stability and predictability, and any unexpected events or risks can have far-reaching consequences. The successful completion of this project will help the finance industry proactively mitigate financial risks and ensure stability, which will help to build confidence among investors and customers.
+**Stakes**: The finance industry is heavily dependent on stability and predictability, and any unexpected events or risks can have far-reaching consequences. The successful completion of this project will help the finance industry proactively mitigate financial risks and ensure stability, which will help to build confidence among investors and customers.
 
 **Reserves**: The team will have access to the latest financial risk management tools, models, and software, as well as industry experts who can provide guidance and support. The team will also have access to financial data and historical information to help them better understand and assess the risks that the finance industry is exposed to.
 
@@ -26,10 +26,10 @@ Successful completion of this project will grant all contributing members XP and
 
 ---
 
-* **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: https://openai.com/blog/chatgpt/
+* **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link https://openai.com/blog/chatgpt/
 
-* Missions are to the lower left of your screen, co-pilots to the right. Get a [**Dojo**](https://workmates.live/marketplace) with the co-pilot of your choice for $25/mo: [::](https://workmates.live/marketplace)  Claim this character and join the world's first [**Office AARG**](https://dojos.world) (Augmented Alternate Reality Game). Build real-world things with a dash of fantasy! [**25% off**](https://blog.workmates.live/deal-on-a-dojo) for a limited time, via the following link: [::](https://blog.workmates.live/deal-on-a-dojo) 
+* Missions are to the lower left of your screen, co-pilots to the right. Get a [**Dojo**](https://workmates.live/marketplace) with the co-pilot of your choice for $25/mo: [::](https://workmates.live/marketplace)  Claim this character and join the world's first [**Office AARG**](https://dojos.world) (Augmented Alternate Reality Game). Build real-world things with a dash of fantasy! [**25% off**](https://blog.workmates.live/deal-on-a-dojo) for a limited time, via the following link [::](https://blog.workmates.live/deal-on-a-dojo) 
 
-* What's a [**Dojo?**](https://workdojos.com): [::](https://workdojos.com)  Go to [**Dojo's World**](https://dojos.world): [::](https://dojos.world)  Learn about [**Foundry Virtual Tabletop (VTT)**](https://foundryvtt.com): [::](https://foundryvtt.com/)
+* What's a [**Dojo?**](https://workdojos.com) [::](https://workdojos.com)  Go to [**Dojo's World**](https://dojos.world): [::](https://dojos.world)  Learn about [**Foundry Virtual Tabletop (VTT)**](https://foundryvtt.com) [::](https://foundryvtt.com/)
 
-* [**Chat now**](https://chat.workmates.live/channel/support): [::](https://chat.workmates.live/channel/support)
+* [**Chat now**](https://chat.workmates.live/channel/support) [::](https://chat.workmates.live/channel/support)

@@ -16,7 +16,7 @@ To identify and eliminate all forms of scams and fraudulent activities within th
 To establish new security protocols and measures to prevent similar activities from taking place in the future.
 To educate digital marketing professionals on how to identify and avoid scams and fraudulent activities.
 To restore the credibility of the digital marketing services industry.
-Stakes: The digital marketing industry is facing a crisis of trust as clients are becoming increasingly wary of scams and fraudulent activities. If the puzzle is not solved, the digital marketing industry will continue to decline, leading to a decline in revenue and the loss of many jobs.
+**Stakes**: The digital marketing industry is facing a crisis of trust as clients are becoming increasingly wary of scams and fraudulent activities. If the puzzle is not solved, the digital marketing industry will continue to decline, leading to a decline in revenue and the loss of many jobs.
 
 **Reserves**: The team will be working remotely from their PCs at home and will have access to the following resources:
 
@@ -27,10 +27,10 @@ Successful completion of the puzzle grants all contributing members XP and unloc
 
 ---
 
-* **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: https://openai.com/blog/chatgpt/
+* **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link https://openai.com/blog/chatgpt/
 
-* Missions are to the lower left of your screen, co-pilots to the right. Get a [**Dojo**](https://workmates.live/marketplace) with the co-pilot of your choice for $25/mo: [::](https://workmates.live/marketplace)  Claim this character and join the world's first [**Office AARG**](https://dojos.world) (Augmented Alternate Reality Game). Build real-world things with a dash of fantasy! [**25% off**](https://blog.workmates.live/deal-on-a-dojo) for a limited time, via the following link: [::](https://blog.workmates.live/deal-on-a-dojo) 
+* Missions are to the lower left of your screen, co-pilots to the right. Get a [**Dojo**](https://workmates.live/marketplace) with the co-pilot of your choice for $25/mo: [::](https://workmates.live/marketplace)  Claim this character and join the world's first [**Office AARG**](https://dojos.world) (Augmented Alternate Reality Game). Build real-world things with a dash of fantasy! [**25% off**](https://blog.workmates.live/deal-on-a-dojo) for a limited time, via the following link [::](https://blog.workmates.live/deal-on-a-dojo) 
 
-* What's a [**Dojo?**](https://workdojos.com): [::](https://workdojos.com)  Go to [**Dojo's World**](https://dojos.world): [::](https://dojos.world)  Learn about [**Foundry Virtual Tabletop (VTT)**](https://foundryvtt.com): [::](https://foundryvtt.com/)
+* What's a [**Dojo?**](https://workdojos.com) [::](https://workdojos.com)  Go to [**Dojo's World**](https://dojos.world): [::](https://dojos.world)  Learn about [**Foundry Virtual Tabletop (VTT)**](https://foundryvtt.com) [::](https://foundryvtt.com/)
 
-* [**Chat now**](https://chat.workmates.live/channel/support): [::](https://chat.workmates.live/channel/support)
+* [**Chat now**](https://chat.workmates.live/channel/support) [::](https://chat.workmates.live/channel/support)
