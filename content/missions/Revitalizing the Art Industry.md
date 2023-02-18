@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Revitalizing the Art Industry
 
 **Project Brief**: Revitalizing the Art Industry
@@ -24,7 +28,7 @@ If the project is not completed successfully, the galleries might face closure, 
 
 All team members will have access to online tools and resources to support their work remotely.
 The team leader will provide weekly check-ins and provide guidance and support when needed.
-A budget of $10,000 will be allocated for the project to cover the costs of marketing, software, and technical support.
+A budget of $50 will be allocated for the project to cover the costs of marketing, software, and technical support.
 Successful completion of the project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for art gallery owners worldwide.
 
 ---

@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Remote Botanical Project
 
 **Project Brief**: Remote Botanical Project
@@ -27,7 +31,7 @@ The consequences of not controlling the spread of invasive species are severe an
 The team will have access to a research database that contains information on invasive species and their methods of spread.
 Each member will receive a budget to purchase the necessary materials to implement their solution.
 The team will have access to remote monitoring and testing equipment to monitor the effectiveness of their solution.
-Successful Completion:
+**Successful Completion**:
 If the team successfully completes the project within 90 days, they will be granted XP and will unlock a new challenge in their quest to revolutionize the workplace for botanists worldwide. This project will serve as a model for future botanical projects and will demonstrate the effectiveness of remote collaboration in solving complex botanical problems.
 
 ---

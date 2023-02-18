@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Improving Communication and Collaboration in Remote Teams
 
 **Project Brief**: Improving Communication and Collaboration in Remote Teams
@@ -25,10 +29,10 @@ Failure to meet the goals of the project could result in decreased productivity,
 Inefficient communication and collaboration can lead to costly mistakes and a decrease in customer satisfaction.
 **Reserves**:
 
-A budget of $100,000 has been allocated for the project.
+A budget of $100 has been allocated for the project.
 The team will have 90 days to complete the project, working remotely from their PC's at home.
 The team will have access to the latest technology and tools to aid in their efforts.
-Successful Completion:
+**Successful Completion**:
 
 Upon completion of the project, all contributing members will earn XP points, demonstrating their expertise in improving communication and collaboration in remote teams.
 Successful completion of the project will unlock a new challenge in the ultimate quest to revolutionize the workplace for project managers worldwide.

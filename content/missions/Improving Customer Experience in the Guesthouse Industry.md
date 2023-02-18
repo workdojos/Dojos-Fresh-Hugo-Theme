@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Improving Customer Experience in the Guesthouse Industry
 
 **Project Brief**: Improving Customer Experience in the Guesthouse Industry
@@ -23,7 +27,7 @@ Increase guest engagement through the creation of a guest directory and social m
 **Reserves**:
 
 All team members will work remotely, and will be required to dedicate a minimum of 20 hours per week to the project.
-A budget of $10,000 will be allocated for the implementation of the project, including the purchase of necessary materials and tools, and the compensation of any external consultants or experts.
+A budget of $50 will be allocated for the implementation of the project, including the purchase of necessary materials and tools, and the compensation of any external consultants or experts.
 All team members will be required to submit a weekly report to Gertrude outlining their progress and any issues they have encountered.
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for guesthouse owners worldwide.
 

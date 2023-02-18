@@ -22,7 +22,7 @@ Educate clients about the importance of using environmentally friendly products 
 The beauty and wellness industry is facing an increasing number of clients who are concerned about the environmental impact of their beauty routines. The stakes are high as failure to address this issue could lead to a loss of clients, increased competition, and potential damage to the reputation of the industry.
 
 **Reserves**:
-The team will be provided with a budget of $10,000 to research, develop, and market the new range of products. The team will also be provided with access to a network of industry experts and a team of marketing specialists to assist with the launch of the new range of products.
+The team will be provided with a budget of $50 to research, develop, and market the new range of products. The team will also be provided with access to a network of industry experts and a team of marketing specialists to assist with the launch of the new range of products.
 
 Successful completion of the project will grant all contributing members XP and unlock a new challenge in the ultimate quest to revolutionize the workplace for beauticians worldwide.
 

@@ -26,7 +26,7 @@ To explore new revenue streams for the castle industry, such as events, weddings
 The stakes are high for the castle industry. With declining revenue, castle owners are facing financial difficulties and may be forced to close their doors permanently. The success of this project will not only benefit individual castle owners, but also the local communities and economies that rely on the tourism industry.
 
 **Reserves**:
-The team will have access to a budget of $100,000 to support the implementation of their solutions. In addition, they will have access to industry experts and resources to assist with their research and planning.
+The team will have access to a budget of $100 to support the implementation of their solutions. In addition, they will have access to industry experts and resources to assist with their research and planning.
 
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for castle owners worldwide. With hard work and creativity, the Castle Industry Crisis Management Team can help secure a bright future for the castle industry.
 

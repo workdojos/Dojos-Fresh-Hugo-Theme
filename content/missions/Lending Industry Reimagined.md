@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Lending Industry Reimagined
 
 **Project Brief**: Lending Industry Reimagined
@@ -26,7 +30,7 @@ A dedicated team of financiers to work on the project.
 Access to relevant market research and data analysis tools.
 Access to the latest technology and software to develop the platform.
 A budget to cover operational costs such as software licenses, team expenses, and marketing efforts.
-Successful Completion: Upon successful completion of the project, all contributing members will be granted XP and will unlock a new challenge in the ultimate quest to revolutionize the workplace for financiers worldwide. This project will be a testament to the team's capability to tackle complex challenges and to bring about positive change to the financial sector.
+**Successful Completion**: Upon successful completion of the project, all contributing members will be granted XP and will unlock a new challenge in the ultimate quest to revolutionize the workplace for financiers worldwide. This project will be a testament to the team's capability to tackle complex challenges and to bring about positive change to the financial sector.
 
 ---
 

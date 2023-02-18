@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Sustainability in the Coffee Industry
 
 **Project Brief**: "Sustainability in the Coffee Industry"
@@ -27,7 +31,7 @@ The coffee industry is facing increasing challenges due to climate change
 Consumers are becoming more environmentally conscious and are looking for sustainable options
 **Reserves**:
 
-A budget of $50,000 for research and development
+A budget of $50 for research and development
 Access to industry experts and specialists
 A 90-day timeline for the completion of the project
 A virtual platform for team collaboration and communication

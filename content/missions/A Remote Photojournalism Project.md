@@ -1,5 +1,5 @@
 ---
-title: 4x4 Industry Solutions
+title: Academic Workplace Revolution
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
@@ -18,11 +18,13 @@ To create a project that leverages technology and innovation to improve the qual
 To enhance the quality of photojournalism by exploring new techniques, tools and technologies.
 To create new standards for ethical photojournalism.
 To increase public trust in photojournalism by demonstrating transparency and accountability in news coverage.
+
 **Stakes**:
 
 Improving the reputation of the journalism industry as a whole.
 Attracting new talent to the field.
 Promoting the role of photojournalists as critical thinkers and storytellers.
+
 **Reserves**:
 
 Access to a range of innovative tools and technologies, including software for image editing, image management, and virtual collaboration.

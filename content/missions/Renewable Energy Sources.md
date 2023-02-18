@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Renewable Energy Sources
 
 **Project Brief**:
@@ -23,7 +27,7 @@ The success of the project will result in a new technology that will revolutioni
 Failure to complete the project successfully will result in a loss of credibility for the team and the organization.
 **Reserves**:
 
-Each team member will be given a budget of $10,000 to purchase equipment and materials needed for the project.
+Each team member will be given a budget of $50 to purchase equipment and materials needed for the project.
 The team will have access to the organization's laboratory facilities for testing and validation.
 Access to the organization's database of research and development will be granted to the team.
 Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for physicists worldwide.

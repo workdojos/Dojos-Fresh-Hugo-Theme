@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/mechs/Barista.png' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ The success of this project has real-world consequences for baristas and coffee 
 **Reserves**:
 The team will have access to relevant industry data, expert insights, and the latest technological tools to support their work. The team will also receive support from experienced baristas and coffee industry experts to help them achieve their goals.
 
-Successful Completion:
+**Successful Completion**:
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for baristas worldwide. The results of this project will also be shared with baristas and coffee shops around the world to help them overcome the challenges they face and to create a brighter future for the industry.
 
 ---
@@ -40,5 +40,3 @@ Successful completion of this project will grant all contributing members XP and
 * What's a [**Dojo?**](https://workdojos.com) [::](https://workdojos.com)  Go to [**Dojo's World**](https://dojos.world): [::](https://dojos.world)  Learn about [**Foundry Virtual Tabletop (VTT)**](https://foundryvtt.com) [::](https://foundryvtt.com/)
 
 * [**Chat now**](https://chat.workmates.live/channel/support) [::](https://chat.workmates.live/channel/support)
-
-Reserves:

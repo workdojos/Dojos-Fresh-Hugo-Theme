@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Lab Testing Industry Optimization
 
 **Project Brief**: Lab Testing Industry Optimization
@@ -25,7 +29,7 @@ The industry is becoming more competitive, and failure to innovate will result i
 Slow and manual data collection processes are becoming increasingly unacceptable to clients, and failure to address this issue could result in the loss of clients.
 **Reserves**:
 
-The team will have access to a budget of $100,000 for software development and hardware costs.
+The team will have access to a budget of $100 for software development and hardware costs.
 Technical experts will be available to provide support and training as needed.
 The team will have access to a user-testing group to validate the solution before implementation.
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for lab techs worldwide. Join the team and help drive change in the laboratory testing industry.

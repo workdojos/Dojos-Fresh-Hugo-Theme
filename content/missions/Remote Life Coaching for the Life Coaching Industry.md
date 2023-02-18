@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Remote Life Coaching for the Life Coaching Industry
 
 **Project Brief**: Remote Life Coaching for the Life Coaching Industry
@@ -27,7 +31,7 @@ If the remote life coaching program is not successful, life coaches may miss out
 **Reserves**:
 
 Access to a team of experts in the fields of life coaching, technology, and remote work.
-A budget of $100,000 to be used for research, development, and marketing of the remote life coaching program.
+A budget of $100 to be used for research, development, and marketing of the remote life coaching program.
 90 days to complete the project, with regular check-ins and progress updates from the team leader, Destiny.
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for life coaches worldwide.\
 

@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Marketing Strategy for Small Town Tourism
 
 **Project Brief**:
@@ -25,7 +29,7 @@ Failure to attract more tourists could result in a decline in the tourism indust
 **Reserves**:
 
 The team will have access to the latest marketing and technology tools to help with their efforts.
-A budget of $10,000 will be provided for the team to use for marketing and promotional purposes.
+A budget of $50 will be provided for the team to use for marketing and promotional purposes.
 The team will have access to expert advice and guidance from experienced marketing professionals.
 Successful completion of the project will grant all contributing members XP and unlock a new challenge in the ultimate quest to revolutionize tourism for small town business owners worldwide.
 

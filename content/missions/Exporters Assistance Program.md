@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Exporters Assistance Program
 
 **Project Brief**: Exporters Assistance Program
@@ -53,7 +57,7 @@ Utilization of advanced technologies and tools to analyze and optimize trade pro
 Collaboration with relevant government agencies and organizations to ensure compliance with international trade regulations
 Timeline: 90 days working remotely.
 
-Successful Completion: Upon successful completion of this project, all contributing members will receive XP and unlock a new challenge in the quest to revolutionize the workplace for exporters worldwide. The project will also demonstrate the commitment of the export industry to continuously improve and enhance the international trade process.
+**Successful Completion**: Upon successful completion of this project, all contributing members will receive XP and unlock a new challenge in the quest to revolutionize the workplace for exporters worldwide. The project will also demonstrate the commitment of the export industry to continuously improve and enhance the international trade process.
 
 ---
 

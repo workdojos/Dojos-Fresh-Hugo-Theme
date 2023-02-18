@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Improving Small Business Sales through E-Commerce Solutions
 
 **Project Brief**: Improving Small Business Sales through E-Commerce Solutions
@@ -24,7 +28,7 @@ Successful completion of the project will improve the reputation of the team and
 Failure to meet the goals will result in a decrease in customer trust and a decrease in the company's reputation.
 **Reserves**:
 
-The team will be provided with a budget of $10,000 to cover the costs of research and development.
+The team will be provided with a budget of $50 to cover the costs of research and development.
 The team will be granted access to existing e-commerce platforms to ensure the implementation of the best solution.
 The team will have access to technical support from the company's IT department.
 Successful completion of the project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for clerks worldwide.

@@ -28,7 +28,7 @@ Improved employee satisfaction through more efficient processes
 Increased profitability through reduced costs and improved efficiency
 **Reserves**:
 
-A budget of $100,000 for software development and testing
+A budget of $100 for software development and testing
 Access to existing quality control software and data
 A team of experienced software developers and quality control professionals
 90 days of remote work time for the team to complete the project

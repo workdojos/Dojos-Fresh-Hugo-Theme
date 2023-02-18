@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Improving Restaurant Operations in the New Normal
 
 **Project Brief**: Improving Restaurant Operations in the New Normal
@@ -26,7 +30,7 @@ The health and safety of diners and employees are also at stake, as the new norm
 
 Each team member will have access to their PC's at home to work remotely.
 The team will have access to industry-leading software and tools to improve restaurant operations.
-A budget of $50,000 has been allocated for the project, to be used for purchasing necessary tools and resources.
+A budget of $50 has been allocated for the project, to be used for purchasing necessary tools and resources.
 Successful completion of the project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for diner owners worldwide.
 
 ---

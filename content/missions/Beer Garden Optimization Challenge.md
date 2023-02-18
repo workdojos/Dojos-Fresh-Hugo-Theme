@@ -23,7 +23,7 @@ Improve customer satisfaction by 20% by enhancing the overall beer garden experi
 
 Data analytics software to track sales and customer behavior.
 Access to industry experts and consultants for advice and guidance.
-A budget of $50,000 to invest in upgrades, promotions, and marketing initiatives.
+A budget of $50 to invest in upgrades, promotions, and marketing initiatives.
 Successful completion of this challenge will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize beer gardens worldwide. The team will have the opportunity to demonstrate their expertise and drive change in the industry, making a lasting impact on the future of beer gardens.
 
 ---

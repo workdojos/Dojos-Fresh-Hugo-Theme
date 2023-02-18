@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Virology Study
 
 **Project Brief**: Virology Study
@@ -27,7 +31,7 @@ If the team is unable to present credible findings, it may harm their reputation
 The team will have access to the latest research and technology, including access to a database of virology case studies.
 Regular progress reports will be submitted to the team leader to ensure that the study stays on track.
 The team will have access to any additional resources they may require.
-Successful Completion:
+**Successful Completion**:
 
 Upon successful completion, all contributing members will receive XP and unlock a new challenge in the ultimate quest to revolutionize the workplace for pathologists worldwide.
 The team will have the opportunity to present their findings to a panel of experts, giving them a chance to share their work with the world and potentially shape the future of virology.

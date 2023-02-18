@@ -4,6 +4,11 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/4x4 Business Owner.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
+
 # Mission // #4x4 Industry Solutions
 
 **Project Brief**: 4x4 Industry Solutions
@@ -19,10 +24,12 @@ Identify the key challenges facing the 4x4 industry.
 Develop innovative solutions to tackle these challenges.
 Implement the solutions in a way that benefits all 4x4 business owners.
 Evaluate the impact of the solutions and make necessary improvements.
+
 **Stakes**:
 
 Successful completion of the project will help the 4x4 industry become more profitable and sustainable.
 Unsuccessful completion could result in continued struggles for the industry, affecting the livelihoods of all 4x4 business owners.
+
 **Reserves**:
 
 Access to industry data and resources

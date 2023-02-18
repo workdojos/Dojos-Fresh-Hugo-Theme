@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Impact of Programmatic Advertising on Consumer Trust
 
 **Project Brief**: Impact of Programmatic Advertising on Consumer Trust and Brand Perception
@@ -23,7 +27,7 @@ Decreased consumer trust and negative brand perception can result in decreased e
 Failure to address this issue may also lead to increased regulation and oversight, which could impact the industry as a whole.
 **Reserves**:
 
-A budget of $10,000 will be allocated for research and analysis.
+A budget of $50 will be allocated for research and analysis.
 Access to industry experts and thought leaders will be made available to the team.
 The team will have access to all relevant data, reports, and research related to the impact of programmatic advertising on consumer trust and brand perception.
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for media buyers worldwide. The results of this project will be shared with the media buying community and will serve as a reference for future initiatives aimed at improving the reputation of the advertising industry.

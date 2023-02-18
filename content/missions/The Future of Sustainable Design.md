@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #The Future of Sustainable Design
 
 **Project Brief**: The Future of Sustainable Design
@@ -27,7 +31,7 @@ The project must be completed within 90 days in order to meet production deadlin
 
 The team must work remotely due to the COVID-19 pandemic, but regular virtual meetings will be scheduled to ensure progress and collaboration.
 The team will have access to industry experts, research databases, and cutting-edge technologies to support their work.
-A budget of $50,000 has been allocated for materials, equipment, and other resources necessary to complete the project.
+A budget of $50 has been allocated for materials, equipment, and other resources necessary to complete the project.
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for graphic designers worldwide.
 
 ---

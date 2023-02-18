@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Remote Study of Mental Health
 
 **Project Brief**: Remote Study of Mental Health
@@ -28,7 +32,7 @@ Improving access to mental health resources and services, reducing barriers and 
 90 days to complete the project.
 Access to a comprehensive database of mental health resources, including literature, case studies, and other relevant materials.
 Technical support and training to help team members complete their tasks effectively.
-Successful Completion:
+**Successful Completion**:
 
 Upon successful completion of the project, all contributing members will receive XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for neurologists worldwide.
 The study will have real-world consequences, providing valuable insights and recommendations for improving mental health outcomes for individuals and communities.

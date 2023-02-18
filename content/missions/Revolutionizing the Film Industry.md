@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Revolutionizing the Film Industry
 
 **Project Brief**:
@@ -23,7 +27,7 @@ The cost-saving measures identified in this project could have a significant imp
 The success of this project could help to establish a new standard for film production, providing animators with better working conditions and greater opportunities.
 **Reserves**:
 
-A budget of $100,000 has been allocated for this project to cover expenses such as software and equipment upgrades, as well as research and development.
+A budget of $100 has been allocated for this project to cover expenses such as software and equipment upgrades, as well as research and development.
 The team will have access to the latest technology and software for animators, including 3D animation software, motion graphics, and video editing tools.
 Each team member will receive a training program in these tools to ensure that they are fully equipped for the task at hand.
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for animators worldwide.

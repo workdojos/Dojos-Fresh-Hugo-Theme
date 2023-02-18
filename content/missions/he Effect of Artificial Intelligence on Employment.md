@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #The Effect of Artificial Intelligence on Employment
 
 **Project Brief**:
@@ -29,7 +33,7 @@ Data on the current and projected use of AI in various industries.
 Studies on the impact of AI on employment and the workforce.
 Experts in the field of AI and employment.
 A survey of individuals and organizations to understand their attitudes towards AI and employment.
-Successful Completion:
+**Successful Completion**:
 All contributing members will receive XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for economists worldwide. The results of this project will be published in leading economic journals, and the recommendations will be presented to policymakers and stakeholders in the private sector to drive change.
 
 ---

@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Improving Advisor Productivity
 
 **Project Brief**: Improving Consultant Productivity
@@ -24,7 +28,7 @@ Low productivity levels among consultants can lead to delays in project completi
 The impact of low productivity levels can also affect the reputation of the consulting firm in the market
 **Reserves**:
 
-A budget of $50,000 has been set aside to cover any expenses incurred during the project
+A budget of $50 has been set aside to cover any expenses incurred during the project
 The team will have access to all relevant data and resources necessary to complete the project
 The team will also have access to expert consultants within the firm for guidance and support
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in the quest to revolutionize the workplace for consultants worldwide. The team is expected to present their findings and solutions within 90 days of the project start date.

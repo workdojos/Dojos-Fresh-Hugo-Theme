@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Revolutionize the Automotive Industry for Dealership Owners
 
 **Project Brief**:
@@ -26,7 +30,7 @@ The automotive industry is highly competitive and rapidly changing, and dealersh
 
 To achieve these goals, the team will have 90 days to work remotely from their PCs at home. They will have access to a variety of tools and resources, including collaboration software, market research data, and industry experts. They will also be required to maintain clear communication and regularly update each other on their progress.
 
-Successful Completion:
+**Successful Completion**:
 
 Upon successful completion of this project, all contributing members will receive XP, which can be used to unlock new challenges in the ultimate quest to revolutionize the workplace for dealership owners worldwide. Additionally, the team will have the opportunity to showcase their work and share their findings with other dealership owners, which will help to spread the best practices and techniques for success in the automotive industry.
 

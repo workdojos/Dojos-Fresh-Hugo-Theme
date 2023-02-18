@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Consequences for the Aviation Industry
 
 **Project Brief**: Dire Consequences for the Aviation Industry
@@ -23,7 +27,7 @@ The aviation industry is facing numerous challenges such as declining passenger 
 **Reserves**:
 The team has access to the latest research and data on the aviation industry, as well as access to experts in the field. The team also has access to technology and tools to help them analyze data and collaborate effectively.
 
-Successful Completion:
+**Successful Completion**:
 Upon successful completion of the project, all contributing members will receive XP and unlock a new challenge in the ultimate quest to revolutionize the workplace for pilots worldwide. The impact of their work will be felt throughout the industry, helping to secure its future and the future of all those who depend on it.
 
 ---

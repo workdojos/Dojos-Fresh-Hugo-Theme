@@ -4,7 +4,11 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-# Mission // #Remote Sales Coaching Initiative
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
+ # Mission // #Remote Sales Coaching Initiative
 
 **Project Brief**: Remote Sales Coaching Initiative
 
@@ -19,7 +23,7 @@ To enhance the knowledge of sales coaches on the latest sales techniques and str
 To create a platform that connects sales coaches with potential clients, providing them with a wider audience.
 **Stakes**: The sales coaching industry is facing major challenges due to the COVID-19 pandemic, with a significant decrease in client engagement and sales. By successfully completing this project, we aim to re-energize the sales coaching industry and provide sales coaches with new opportunities to increase their income and help their clients succeed.
 
-**Reserves**: The team will have access to online training resources and will be able to utilize the latest communication tools to collaborate and communicate with each other. A budget of $10,000 has been allocated for the project to cover any expenses related to training materials, software, and marketing.
+**Reserves**: The team will have access to online training resources and will be able to utilize the latest communication tools to collaborate and communicate with each other. A budget of $50 has been allocated for the project to cover any expenses related to training materials, software, and marketing.
 
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for sales coaches worldwide. This project is crucial for the growth and success of the sales coaching industry and will provide a much-needed boost to the sales coaching community.
 

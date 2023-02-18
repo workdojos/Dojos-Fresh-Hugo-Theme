@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #The Remote Startup Industry Challenge
 
 **Project Brief**: The Remote Startup Industry Challenge
@@ -25,7 +29,7 @@ Startups that fail to adapt to the changing landscape of remote work risk losing
 **Reserves**:
 
 Time: 90 days to complete the project.
-Budget: The team will be provided with a budget of $50,000 to invest in technology and other resources to achieve their goals.
+Budget: The team will be provided with a budget of $50 to invest in technology and other resources to achieve their goals.
 Expertise: The team will have access to expert mentors and advisors in the startup industry to guide their progress.
 Successful completion of the project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for cofounders worldwide. The solution developed will not only benefit the startup industry, but also serve as a model for other industries looking to improve their remote work processes.
 

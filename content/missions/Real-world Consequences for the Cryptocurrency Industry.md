@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Real-Estate Industry Solutions
 
 **Project Brief**:
@@ -12,7 +16,7 @@ sidebarlogo: wordojos_logo
 **Assignment**: Real-world Consequences for the Cryptocurrency Industry
 **Goals**: To solve a real-world problem in the cryptocurrency industry in 90 days, working remotely from home.
 **Stakes**: The successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for token developers worldwide.
-**Reserves**: A budget of $100,000 will be allocated to cover any necessary expenses for the project, including software, hardware, and team member salaries.
+**Reserves**: A budget of $100 will be allocated to cover any necessary expenses for the project, including software, hardware, and team member salaries.
 
 Project Summary:
 
@@ -20,7 +24,7 @@ The cryptocurrency industry is facing real-world consequences that threaten its 
 
 The stakes of the project are high, as the successful completion will grant all contributing members XP and unlock a new challenge in the team's ultimate quest to revolutionize the workplace for token developers worldwide. In order to achieve these goals, the team will need to work closely together, leveraging their combined expertise and knowledge to find creative solutions to the problem at hand.
 
-The budget for the project has been set at $100,000, which will be used to cover any necessary expenses, including software, hardware, and team member salaries. The team leader, Pim, will be responsible for overseeing the project, ensuring that all team members are on track to meet the project goals and deadlines.
+The budget for the project has been set at $100, which will be used to cover any necessary expenses, including software, hardware, and team member salaries. The team leader, Pim, will be responsible for overseeing the project, ensuring that all team members are on track to meet the project goals and deadlines.
 
 In conclusion, this project represents a unique opportunity for the team of token developers to demonstrate their expertise, creativity, and problem-solving skills in the cryptocurrency industry. The successful completion of the project will not only help to drive innovation and growth in the field, but will also help to advance the team's ultimate goal of revolutionizing the workplace for token developers worldwide.
 

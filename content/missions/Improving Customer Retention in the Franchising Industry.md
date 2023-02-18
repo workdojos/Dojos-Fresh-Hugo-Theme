@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Improving Customer Retention in the Franchising Industry
 
 **Project Brief**: Improving Customer Retention in the Franchising Industry
@@ -28,7 +32,7 @@ A successful customer retention plan can lead to increased profits, customer loy
 
 Each team member will be given access to industry reports, customer surveys, and other relevant data to support their research.
 Paul will provide guidance and support to the team to ensure the success of the project.
-A budget of $10,000 will be allocated for the project to cover costs for tools, resources, and marketing materials needed for implementation.
+A budget of $50 will be allocated for the project to cover costs for tools, resources, and marketing materials needed for implementation.
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for franchise business owners worldwide.
 
 ---

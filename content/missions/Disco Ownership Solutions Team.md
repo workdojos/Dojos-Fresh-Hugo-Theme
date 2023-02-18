@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Disco Ownership Solutions Team
 
 **Project Brief**: Disco Ownership Solutions Team
@@ -21,7 +25,7 @@ To monitor and measure the impact of the solutions and make any necessary adjust
 
 **Reserves**: The team will have access to relevant industry research and data, as well as support from expert consultants in the field of hospitality. The team will also have access to a budget to support any necessary expenditures for the project.
 
-Successful Completion: Upon successful completion of the project, all contributing members will receive XP and unlock a new challenge in the ultimate quest to bring back discos worldwide. This success will demonstrate the team's ability to work effectively in a remote setting, as well as their expertise in addressing challenges in the hospitality industry.
+**Successful Completion**: Upon successful completion of the project, all contributing members will receive XP and unlock a new challenge in the ultimate quest to bring back discos worldwide. This success will demonstrate the team's ability to work effectively in a remote setting, as well as their expertise in addressing challenges in the hospitality industry.
 
 ---
 

@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Remote R&D Solutions for the R&D Industry
 
 **Project Brief**: Remote R&D Solutions for the R&D Industry
@@ -25,7 +29,7 @@ The R&D industry is facing increasing pressure from clients and investors to red
 The success of this project will also have an impact on the quality of life of remote researchers and their families, as well as on the environment.
 **Reserves**:
 
-A budget of $100,000 has been allocated for the project.
+A budget of $100 has been allocated for the project.
 The team will have access to all necessary software, tools, and equipment to complete the project.
 Selma will lead the project and manage the team, but all members will be expected to contribute their expertise and ideas to the project.
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for researchers worldwide.

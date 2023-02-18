@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Improving the Efficiency of Remote Consulting Teams
 
 **Project Brief**: Improving the Impact of Spiritual Coaching in the Workplace
@@ -23,7 +27,7 @@ If the project is not completed successfully, the reputation of spiritual coache
 Failure to meet the goals may result in a loss of business for spiritual coaches and a decline in the coaching industry as a whole.
 **Reserves**:
 
-A budget of $10,000 to be used for research and development.
+A budget of $50 to be used for research and development.
 Access to a team of experts in the field of coaching and spirituality.
 Access to the latest technology and tools for remote collaboration.
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for spiritual coaches worldwide. The team is expected to work remotely from their PCs at home and must maintain regular communication with each other and the team leader. The project will be considered a success if all of the goals are met within the specified 90-day timeline.

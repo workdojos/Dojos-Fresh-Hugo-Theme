@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
+    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
 # Mission // #Improving Crop Yields for the Cannabis Industry
 
 **Project Brief**: Improving Crop Yields for the Cannabis Industry
@@ -22,7 +26,7 @@ Research and implement new technology to streamline the growing process.
 The success of your operation is at stake. With the cannabis industry growing rapidly, meeting demand is essential in order to remain competitive. Failure to meet the goals set forth in this project could result in decreased profitability and a loss of market share.
 
 **Reserves**:
-The team has a budget of $50,000 to invest in new technology, equipment, and resources. Any unused funds will be credited towards the next project.
+The team has a budget of $50 to invest in new technology, equipment, and resources. Any unused funds will be credited towards the next project.
 
 Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for growers worldwide.
 
