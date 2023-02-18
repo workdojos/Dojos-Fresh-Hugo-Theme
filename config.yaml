@@ -38,7 +38,7 @@ params:
     # Button text
     buttontext: Get a dojo
     # Where the main hero button links to
-    buttonlink: "https://workmates.live/marketplace"
+    buttonlink: "https://workdojos.com/marketplace"
     # Hero image (from static/images/___)
     image: logos/inspire.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -393,17 +393,17 @@ params:
     subtitle: dashboard.
     tiles:
     - title: A dashboard to rule them all.
-      icon: mouse-globe
+      icon: 
       text: Because it's all yours (including a personalized URL)      
       url: https://admins.workdojos.com
       buttonText: See it live
     - title: Your kingdom front and center.  
-      icon: laptop-cloud
+      icon: 
       text: Set your browser's start page to it.  Completely ad-free.
       url: https://workdojos.com/ghost
       buttonText: See apps
     - title: Hey Admin!
-      icon: plug-cloud
+      icon: 
       text: Experience the thrill of being the almighty Admin!
 
 
@@ -439,11 +439,11 @@ params:
     subtitle: Making open-source more accessible.
     clients:
     - name: Jessie
-      quote: I never thought I could host my own server.  Dojos showed me the way and it's been fun.
+      quote: I never thought I could host my own server.  Dojos showed me the way and it's been a fun ride!
       job: Social Media Marketer
       img: 1
     - name: John
-      quote: I dreamt of doing something else.  I got inspired to make a career change here.  What started as a side gig is now a real business.
+      quote: Linux used to freak me out.  Now I kind of like it.  Even as a non-dev I can make it do what I want.  Most of the time I don't have to do anything, it's all pretty plug n play and very user-friendly.  
       job: Graphic Designer
       img: 2
     - name: Sean
