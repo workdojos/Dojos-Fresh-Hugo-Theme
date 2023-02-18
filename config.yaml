@@ -393,17 +393,17 @@ params:
     subtitle: dashboard.
     tiles:
     - title: A dashboard to rule them all.
-      icon: 
+      icon: mouse-globe
       text: Because it's all yours (including a personalized URL)      
       url: https://admins.workdojos.com
       buttonText: See it live
     - title: Your kingdom front and center.  
-      icon: 
+      icon: laptop-cloud
       text: Set your browser's start page to it.  Completely ad-free.
       url: https://workdojos.com/ghost
       buttonText: See apps
     - title: Hey Admin!
-      icon: 
+      icon: plug-cloud
       text: Experience the thrill of being the almighty Admin!
 
 
@@ -416,16 +416,16 @@ params:
     features:
     - title: Your server, your data, your kingdom.
       text: For as little as $8/month you can create an entire digital ecosystem for yourself, passions, projects, and people.
-      icon: mobile-feed
+      icon: plug-cloud
     - title: The dojo.
       text: A Japanese word meaning “the place of the way.” An honored place for deliberate practice and building things.  The ultimate sandbox.
-      icon: mobile-feed
+      icon: laptop-cloud
     - title: To be dependent on Big Tech is to be at a disadvantage.
       text: Prepare for your digital future by hosting your own AND save money.  $100/month in value for less than the cost of a cup of coffee a day.
       icon: mobile-feed
     - title: Build the next big thing.
       text: With millions of open-source apps and micro-services at your disposal, you CAN build the next big thing!
-      icon: mobile-feed
+      icon: mouse-globe
 
 
   section3:
