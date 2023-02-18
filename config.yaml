@@ -396,7 +396,7 @@ params:
       icon: mouse-globe
       text: Because it's all yours (including a personalized URL)      
       url: https://admins.workdojos.com
-      buttonText: See it live.
+      buttonText: See it live
     - title: Your kingdom front and center.  
       icon: laptop-cloud
       text: Set your browser's start page to it.  Completely ad-free.
@@ -404,27 +404,27 @@ params:
       buttonText: See apps
     - title: Hey Admin!
       icon: plug-cloud
-      text: Experience the thrill of being the almighty admin!
+      text: Experience the thrill of being the almighty Admin!
 
 
       url: https://blog.workmates.live/#/portal/signup
       buttonText: Free trial
 
   section2:
-    title: You're here because you want to build something.
-    subtitle: A passion project. A portfolio. A service. A billion dollar company.  A legacy.
+    title: The ultimate sandbox for building real things.
+    subtitle: A gateway to everything open-source.
     features:
-    - title: Do what you love.
-      text: Our mission is to empower people to be self-sufficient with technology!  In whatever it is that you do, in whatever it is that you love to do, we will equip you with the ultimate dojo!
+    - title: Your server, your data, your kingdom.
+      text: For as little as $8/month you can create an entire digital ecosystem for yourself, passions, projects, and people.
       icon: mobile-feed
-    - title: A place to build things.
-      text: Use open-source building blocks to buff your dojo and create new things!
+    - title: The dojo.
+      text: A Japanese word meaning “the place of the way.” An honored place for deliberate practice and building things.  The ultimate sandbox.
       icon: mobile-feed
-    - title: A place to empower your people.
-      text: Gift your family.  Inspire your friends.  And save money.
+    - title: To be dependent on Big Tech is to be at a disadvantage.
+      text: Prepare for your digital future by hosting your own AND save money.  $100/month in value for less than the cost of a cup of coffee a day.
       icon: mobile-feed
     - title: Build the next big thing.
-      text: Ditch Discord, toss Twitter. Create your own!  Make your dojo the next big thing!
+      text: With millions of open-source apps and micro-services at your disposal, you CAN build the next big thing!
       icon: mobile-feed
 
 
@@ -433,7 +433,7 @@ params:
     subtitle: 500 areas of expertise in over 100 different industries.
     image: logos/undraw_road_to_knowledge_m8s0.svg
     buttonText: Browse dojos
-    buttonLink: "https://workmates.live/marketplace"
+    buttonLink: "https://workdojos.com/marketplace"
   section4:
     title: Testimonials.
     subtitle: Making open-source more accessible.
