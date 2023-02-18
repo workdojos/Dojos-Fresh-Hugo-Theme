@@ -34,7 +34,7 @@ params:
     # Main hero title
     title: Dashboard. Dojo.  Business in a Box.
     # Hero subtitle (optional)
-    subtitle: Hooked on Big Tech?  Join the open-source revolution in whatever it is that you do.  Create your own kingdom on your own server 
+    subtitle: Hooked on Big Tech?  Join the open-source revolution in whatever it is that you do.  Create your own kingdom on your own server. 
     # Button text
     buttontext: Get a dojo
     # Where the main hero button links to
@@ -392,23 +392,19 @@ params:
     title: It all starts with a
     subtitle: dashboard.
     tiles:
-    - title: Customized dojos and dashboards.
+    - title: A dashboard to rule them all.
       icon: mouse-globe
-      text: Customized to your profession, passions, and people.
-
-      
-      url: https://workdojos.com/features/automation
-      buttonText: Browse features
-    - title: Your dojo = your own private cloud.  
+      text: Because it's all yours (including a personalized URL)      
+      url: https://admins.workdojos.com
+      buttonText: See it live.
+    - title: Your kingdom front and center.  
       icon: laptop-cloud
-      text: You are Admin.  Your server.  Your data.  You are in absolute control.
-
-
+      text: Set your browser's start page to it.  Completely ad-free.
       url: https://workdojos.com/ghost
-      buttonText: Compare pricing
-    - title: An entire ecosystem is yours.    Hey Admin!
+      buttonText: See apps
+    - title: Hey Admin!
       icon: plug-cloud
-      text: Each dojo includes a website, wiki, chat app, blog, and more.  All open-source.
+      text: Experience the thrill of being the almighty admin!
 
 
       url: https://blog.workmates.live/#/portal/signup
