@@ -49,7 +49,7 @@ Sign up for our service during the holidays and save 25% with the link below!  T
 
  <br>
 
-[Deal on a dojo.](https://blog.workmates.live/deal-on-a-dojo)
+[Deal on a dojo.](https://blog.workdojos.com/deal-on-a-dojo)
 
  <br>
 

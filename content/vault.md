@@ -42,7 +42,7 @@ Premium plans with Bitwarden are still a worthy (and wise) option.  Self-hosting
 
 Sign up for a trial in the upper right or save 25% off a subscription with the following link:
 
- <a href="https://blog.workmates.live/deal-on-a-dojo">Deal on a Dojo</a> 
+ <a href="https://blog.workdojos.com/deal-on-a-dojo">Deal on a Dojo</a> 
 
  
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">

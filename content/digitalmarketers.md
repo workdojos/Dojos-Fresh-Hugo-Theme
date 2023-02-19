@@ -174,7 +174,7 @@ Click the "Sign Up" button in the upper right (includes both a free tier and a f
 
 
 
- <a href="https://blog.workmates.live/deal-on-a-dojo">Deal on a Dojo</a> 
+ <a href="https://blog.workdojos.com/deal-on-a-dojo">Deal on a Dojo</a> 
 
 
 

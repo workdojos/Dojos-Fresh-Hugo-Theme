@@ -71,7 +71,7 @@ params:
       url: /features/wiki
 
   - title: Pricing
-    url: https://blog.workmates.live/#/portal/signup
+    url: https://blog.workdojos.com/#/portal/signup
   
 
   - title: Featured dojos
@@ -131,9 +131,9 @@ params:
     - title: Yogi Dojo
       url: https://workdojos.com/yogainstructor
   - title: Log in
-    url: https://blog.workmates.live/#/portal/login
+    url: https://blog.workdojos.com/#/portal/login
   - title: Sign up
-    url: https://blog.workmates.live/#/portal/signup
+    url: https://blog.workdojos.com/#/portal/signup
     button: true
   sidebar:
     # Logo (from /images/logos/___.svg)
@@ -410,7 +410,7 @@ params:
     - title: Self-hosting's never been easier.
       icon: plug-cloud
       text: Experience the thrill of being the almighty ADMIN!
-      url: https://blog.workmates.live/#/portal/signup
+      url: https://blog.workdojos.com/#/portal/signup
       buttonText: Free trial
 
   section2:
@@ -482,7 +482,7 @@ params:
         - text: Why choose us?
           link: /why
         - text: Free trial
-          link: https://blog.workmates.live/#/portal/signup
+          link: https://blog.workdojos.com/#/portal/signup
       column2:
         title: "Docs"
         links:
@@ -498,7 +498,7 @@ params:
         title: "Company"
         links:
         - text: Blog
-          link: https://blog.workmates.live
+          link: https://blog.workdojos.com
         - text: Pitch
           link: https://workdojos.com/pitch
         - text: Investors
