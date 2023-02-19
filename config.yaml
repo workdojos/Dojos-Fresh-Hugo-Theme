@@ -34,7 +34,7 @@ params:
     # Main hero title
     title: Dashboard. Dojo.  Business in a Box.
     # Hero subtitle (optional)
-    subtitle: Ditch your dependency on Big Tech.  Join the open-source revolution in whatever it is that you do.  Build your own kingdom on your own server. 
+    subtitle: Ditch your dependency on Big Tech.  Join the open-source revolution.  Build your own kingdom on your own server. 
     # Button text
     buttontext: Get a dojo
     # Where the main hero button links to
