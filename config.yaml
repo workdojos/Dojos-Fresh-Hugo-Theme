@@ -423,7 +423,7 @@ params:
       text: “The place of the way” in Japanenese. An honored place for deliberate practice and building things.  The ultimate sandbox.
       icon: laptop-cloud
     - title: To be dependent on Big Tech is to be at a disadvantage.
-      text: Prepare for the digital future AND save money.  $100/month in value for less than the cost of a cup of coffee a day.
+      text: Prepare for the digital future AND save money.  $100/month in value for just $25/month.
       icon: mobile-feed
     - title: Build the next big thing.
       text: With millions of open-source apps and micro-services at your disposal, you CAN build the next big thing!
@@ -441,15 +441,15 @@ params:
     subtitle: To make open-source more accessible.
     clients:
     - name: Jessie
-      quote: I never thought I could host my own server.  Dojos showed me the way and it's been a fun ride!
+      quote: I never thought I could host my own server.  I didn't even know what "self-hosting" meant (I do now and it's changed everything). Dojos showed me the way and it's been a fun ride!
       job: Social Media Marketer
       img: 1
     - name: John
-      quote: Linux used to freak me out.  Now I kind of like it.  Even as a non-dev I can make it do what I want.  Most of the time I don't have to do anything, it's all pretty plug n play and very user-friendly.  
+      quote: Linux used to freak me out.  Now I kind of like it.  Even as a non-dev I can make it do what I want (kinda sorta, but sometime's that's just enough!).  Most of the time I don't have to do anything, it's all pretty plug 'n play and very user-friendly (and cost-friendly) overall.  
       job: Graphic Designer
       img: 2
     - name: Sean
-      quote: We saved a ton of money over expensive SaaS subs.  Our dojo has a chat app, wiki, website, and space left over for more.  A lot of horsepower under the hood in every dojo.
+      quote: We saved a ton of money over expensive SaaS subscriptions.  Why pay for things when there are open-source alternatives for free in the wild?  Our dojo has a chat app, wiki, a whopping 20 websites, and a little space left over for more.  A lot of horsepower under the hood to drive intensive apps or just a lot of apps.  Wished I had joined sooner and learned what open-source has to offer to anyone who cares to look.
       job: HR Manager
       img: 3
   section5: false
