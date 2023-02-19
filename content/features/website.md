@@ -55,7 +55,7 @@ Hugo allows you to output your content in multiple formats, including JSON or AM
 
 Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
 
- <a href="https://blog.workmates.live/deal-on-a-dojo">Deal on a Dojo</a> 
+[Deal on a dojo.](https://blog.workmates.live/deal-on-a-dojo)
 
  <br>
 

@@ -3,6 +3,7 @@ title: AGB
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+draft: true
 ---
 
 {{% title3 "§1 Lorem" %}}
