@@ -406,9 +406,9 @@ params:
       text: Set your browser's start page to it.  An uncluttered space for you and your apps.
       url: https://workdojos.com/ghost
       buttonText: See apps
-    - title: Self-hosting.  Never been easier.
+    - title: Self-hosting's never been easier.
       icon: plug-cloud
-      text: Experience the thrill of being the almighty Admin!
+      text: Experience the thrill of being the almighty ADMIN!
       url: https://blog.workmates.live/#/portal/signup
       buttonText: Free trial
 
@@ -440,18 +440,18 @@ params:
     title: Our mission.
     subtitle: To make open-source more accessible.
     clients:
-    - name: Jessie
+    - name: Sean
       quote: I never thought I could host my own server.  I didn't even know what "self-hosting" meant (I do now ... and it's changed everything). Dojos showed me the way and it's been a fun ride!
       job: Social Media Marketer
-      img: 1
+      img: 3
     - name: John
       quote: Linux used to freak me out.  Now I kind of like it.  Even as a non-dev I can make it do what I want (kinda sorta, but sometime's that's just enough!).  Most of the time I don't have to do anything, it's all pretty plug 'n play and very user-friendly (and cost-friendly) overall.  
       job: Graphic Designer
       img: 2
-    - name: Sean
-      quote: We saved a ton of money over expensive SaaS apps predatory webhost pricing by going open-source.  We deployed a whopping 20 websites in a single dojo with space left over for more.  Along with a chat app and company wiki.  Our teams like the autonomy they get with having there own server.
+    - name: Jessi
+      quote: We saved a ton of money over expensive SaaS apps (and predatory webhost pricing that goes way up after the first year) by simply going open-source.  We deployed a whopping 20 websites in a single dojo with space left over for more, as well as a chat app and company wiki.  Our teams also like the autonomy they get by having their own private dojo.
       job: HR Manager
-      img: 3
+      img: 1
   section5: false
   footer:
     # Logo (from /images/logos/___)
