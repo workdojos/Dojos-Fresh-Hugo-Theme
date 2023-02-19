@@ -394,7 +394,7 @@ params:
 
   section1:
     title: Every dojo starts with a dashboard.
-    subtitle: And the dashboard's just the beginning.
+    subtitle: And that's just the beginning.
     tiles:
     - title: A dashboard to rule them all.
       icon: mouse-globe
@@ -403,10 +403,10 @@ params:
       buttonText: See it live
     - title: Your kingdom front and center.  
       icon: laptop-cloud
-      text: Set your browser's start page to it.  An uncluttered space for you, your apps, your kingdom.
+      text: Set your browser's start page to it.  An uncluttered space for you and your apps.
       url: https://workdojos.com/ghost
       buttonText: See apps
-    - title: Self-hosting has never been easier.
+    - title: Self-hosting.  Never been easier.
       icon: plug-cloud
       text: Experience the thrill of being the almighty Admin!
       url: https://blog.workmates.live/#/portal/signup
@@ -416,17 +416,17 @@ params:
     title: The ultimate sandbox.
     subtitle: A gateway to everything open-source.
     features:
-    - title: Your server, your data, your kingdom.
+    - title: Your server, your data.
       text: For as little as $8/month you can create an entire digital ecosystem for yourself, your passions, projects, and people.
       icon: plug-cloud
     - title: Dojo.
-      text: “The place of the way” in Japanenese. An honored place for deliberate practice and building things.  The ultimate sandbox.
+      text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  The ultimate sandbox.
       icon: laptop-cloud
     - title: To be dependent on Big Tech is to be at a disadvantage.
-      text: Prepare for the digital future AND save money.  $100/month in value for just $25/month.
+      text: Prepare for the digital future AND save money.  $100/month in value and utility for as little as $8/month.  
       icon: mobile-feed
     - title: Build the next big thing.
-      text: With millions of open-source apps and micro-services at your disposal, you CAN build the next big thing!
+      text: With millions of open-source apps and micro-services at your beck and call, you CAN build the next big thing!
       icon: mouse-globe
 
 
