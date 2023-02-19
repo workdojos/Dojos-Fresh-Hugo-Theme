@@ -449,7 +449,7 @@ params:
       job: Graphic Designer
       img: 2
     - name: Jessi
-      quote: We saved a ton of money over expensive SaaS apps (and predatory webhost pricing that goes way up after the first year) by simply going open-source.  We deployed a whopping 20 websites in a single dojo with space left over for more, as well as a chat app and company wiki.  Our teams also like the autonomy they get by having their own private dojo.
+      quote: We saved a ton of money over expensive SaaS apps (and predatory webhost pricing that goes way up after the first year) by simply going open-source.  We deployed a whopping 20 websites in a single dojo with space left over for more, as well as a chat app and company wiki.  Our teams also like the autonomy they get by having their own private dojos.
       job: HR Manager
       img: 1
   section5: false
