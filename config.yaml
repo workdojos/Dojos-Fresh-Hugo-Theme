@@ -403,7 +403,7 @@ params:
       buttonText: See it live
     - title: Your kingdom front and center.  
       icon: laptop-cloud
-      text: Set your browser's start page to it.  Completely ad-free.
+      text: Set your browser's start page to it.  An uncluttered space for you, your apps, your kingdom.
       url: https://workdojos.com/ghost
       buttonText: See apps
     - title: Self-hosting has never been easier.
