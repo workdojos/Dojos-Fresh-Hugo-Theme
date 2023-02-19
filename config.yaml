@@ -441,7 +441,7 @@ params:
     subtitle: To make open-source more accessible.
     clients:
     - name: Jessie
-      quote: I never thought I could host my own server.  I didn't even know what "self-hosting" meant (I do now and it's changed everything). Dojos showed me the way and it's been a fun ride!
+      quote: I never thought I could host my own server.  I didn't even know what "self-hosting" meant (I do now ... and it's changed everything). Dojos showed me the way and it's been a fun ride!
       job: Social Media Marketer
       img: 1
     - name: John
@@ -449,7 +449,7 @@ params:
       job: Graphic Designer
       img: 2
     - name: Sean
-      quote: We saved a ton of money over expensive SaaS subscriptions.  Why pay for things when there are open-source alternatives for free in the wild?  Our dojo has a chat app, wiki, a whopping 20 websites, and a little space left over for more.  A lot of horsepower under the hood to drive intensive apps or just a lot of apps.  Wished I had joined sooner and learned what open-source has to offer to anyone who cares to look.
+      quote: We saved a ton of money over expensive SaaS apps predatory webhost pricing by going open-source.  We deployed a whopping 20 websites in a single dojo with space left over for more.  Along with a chat app and company wiki.  Our teams like the autonomy they get with having there own server.
       job: HR Manager
       img: 3
   section5: false
