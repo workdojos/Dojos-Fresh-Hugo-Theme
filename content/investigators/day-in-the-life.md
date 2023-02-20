@@ -33,7 +33,7 @@ Sarah's work as an investigator had made a real difference in the world, and she
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://investigators.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ Sarah's work as an investigator had made a real difference in the world, and she
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

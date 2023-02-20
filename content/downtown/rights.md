@@ -33,7 +33,7 @@ By taking a stand for workers' rights and fair treatment, we can create a more s
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://downtown.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ By taking a stand for workers' rights and fair treatment, we can create a more s
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -28,7 +28,7 @@ The meaning of the word "data" has remained relatively stable over time, althoug
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://datascientists.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ The meaning of the word "data" has remained relatively stable over time, althoug
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

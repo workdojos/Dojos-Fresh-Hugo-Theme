@@ -32,7 +32,7 @@ So, if you're excited about the potential for a fulfilling and successful career
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ So, if you're excited about the potential for a fulfilling and successful career
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

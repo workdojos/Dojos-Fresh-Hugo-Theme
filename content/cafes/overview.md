@@ -30,7 +30,7 @@ Overall, the cafe industry is a vibrant and growing industry with numerous job o
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://cafes.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ Overall, the cafe industry is a vibrant and growing industry with numerous job o
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://videogamers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

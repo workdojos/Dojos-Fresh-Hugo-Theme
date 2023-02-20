@@ -34,7 +34,7 @@ Overall, the consulting industry is likely to continue to grow and evolve in the
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://armchairexpert.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ Overall, the consulting industry is likely to continue to grow and evolve in the
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -32,7 +32,7 @@ In conclusion, pursuing a career as a neurologist is a challenging but rewarding
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://neurologists.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ In conclusion, pursuing a career as a neurologist is a challenging but rewarding
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

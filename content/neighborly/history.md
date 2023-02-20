@@ -27,7 +27,7 @@ Community services, on the other hand, refer to services provided by a community
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://neighborly.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -37,7 +37,7 @@ Community services, on the other hand, refer to services provided by a community
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

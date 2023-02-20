@@ -32,7 +32,7 @@ So don't let the stigma of telemarketing hold you back! Embrace the exciting and
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://telemarketer.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ So don't let the stigma of telemarketing hold you back! Embrace the exciting and
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -37,7 +37,7 @@ I hope these resources are helpful and that you are feeling excited about the po
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://couriers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -47,7 +47,7 @@ I hope these resources are helpful and that you are feeling excited about the po
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

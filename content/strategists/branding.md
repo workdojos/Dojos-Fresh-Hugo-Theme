@@ -35,7 +35,7 @@ Overall, it's important to regularly post engaging content, engage with your aud
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://strategists.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ Overall, it's important to regularly post engaging content, engage with your aud
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

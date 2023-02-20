@@ -29,7 +29,7 @@ Overall, my approach as the social media manager for your performing arts organi
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://playwright.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -39,7 +39,7 @@ Overall, my approach as the social media manager for your performing arts organi
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

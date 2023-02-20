@@ -31,7 +31,7 @@ Remember, being a disco owner in the nightlife industry can be an exciting and r
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://discos.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Remember, being a disco owner in the nightlife industry can be an exciting and r
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

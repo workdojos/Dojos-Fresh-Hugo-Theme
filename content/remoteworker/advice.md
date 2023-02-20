@@ -38,7 +38,7 @@ Overall, working as a remote worker in the freelance industry can be a fulfillin
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://remoteworker.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -48,7 +48,7 @@ Overall, working as a remote worker in the freelance industry can be a fulfillin
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

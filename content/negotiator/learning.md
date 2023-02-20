@@ -70,7 +70,7 @@ How do you approach negotiations with people from different cultural backgrounds
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://negotiator.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -80,7 +80,7 @@ How do you approach negotiations with people from different cultural backgrounds
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -61,7 +61,7 @@ How do you ensure compliance with laws and regulations in your work?
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://trustees.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -71,7 +71,7 @@ How do you ensure compliance with laws and regulations in your work?
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -33,7 +33,7 @@ So that was just a typical day in the life of a PR representative - always busy,
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://publicrelations.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ So that was just a typical day in the life of a PR representative - always busy,
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

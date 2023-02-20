@@ -31,7 +31,7 @@ So don't be afraid to pursue your dream of becoming a bankroller in the money le
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://bankroller.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ So don't be afraid to pursue your dream of becoming a bankroller in the money le
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

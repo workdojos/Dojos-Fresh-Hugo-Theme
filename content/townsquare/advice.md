@@ -30,7 +30,7 @@ Overall, I believe that a career as a business owner in the tourism industry wou
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://townsquare.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ Overall, I believe that a career as a business owner in the tourism industry wou
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

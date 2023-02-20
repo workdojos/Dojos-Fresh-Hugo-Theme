@@ -29,7 +29,7 @@ Ultimately, the restaurant industry has the potential to be a major economic for
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://diner.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -39,7 +39,7 @@ Ultimately, the restaurant industry has the potential to be a major economic for
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://animators.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

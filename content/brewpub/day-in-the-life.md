@@ -32,7 +32,7 @@ And so, the day in the life of a brew pub owner came to a close, with Jack looki
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://brewpub.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ And so, the day in the life of a brew pub owner came to a close, with Jack looki
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

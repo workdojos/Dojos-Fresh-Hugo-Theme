@@ -29,7 +29,7 @@ In order to promote fair work practices in the performing arts industry, it is c
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://playwright.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -39,7 +39,7 @@ In order to promote fair work practices in the performing arts industry, it is c
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

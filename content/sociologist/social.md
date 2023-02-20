@@ -32,7 +32,7 @@ Overall, my goal with this campaign would be to showcase my expertise as a socio
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://sociologist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ Overall, my goal with this campaign would be to showcase my expertise as a socio
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

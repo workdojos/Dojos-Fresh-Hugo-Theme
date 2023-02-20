@@ -48,7 +48,7 @@ Can you give an example of a project you've led or organized in your community?
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://neighborly.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -58,7 +58,7 @@ Can you give an example of a project you've led or organized in your community?
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

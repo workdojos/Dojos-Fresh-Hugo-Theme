@@ -29,7 +29,7 @@ To thrive in the advertising industry, media buyers need to embrace open-source 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://mediabuyer.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -39,7 +39,7 @@ To thrive in the advertising industry, media buyers need to embrace open-source 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

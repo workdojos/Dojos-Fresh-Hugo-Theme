@@ -31,7 +31,7 @@ Use analytics to measure success: It's important to track the success of your so
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://thespian.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Use analytics to measure success: It's important to track the success of your so
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -65,7 +65,7 @@ How have you prepared for this interview and what have you learned about the com
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://jobseeker.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -75,7 +75,7 @@ How have you prepared for this interview and what have you learned about the com
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

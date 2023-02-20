@@ -31,7 +31,7 @@ In conclusion, as a headhunter, it is my belief that fair work practices are ess
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://executivesearch.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ In conclusion, as a headhunter, it is my belief that fair work practices are ess
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

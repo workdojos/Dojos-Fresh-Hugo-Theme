@@ -32,7 +32,7 @@ I'm looking forward to connecting with my followers and providing valuable infor
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://pharmacists.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ I'm looking forward to connecting with my followers and providing valuable infor
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

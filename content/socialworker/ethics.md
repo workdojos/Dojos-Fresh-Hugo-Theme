@@ -36,7 +36,7 @@ It may be helpful to consult existing ethical guidelines and codes of conduct, s
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://socialworker.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -46,7 +46,7 @@ It may be helpful to consult existing ethical guidelines and codes of conduct, s
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

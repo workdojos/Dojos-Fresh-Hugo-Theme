@@ -33,7 +33,7 @@ And so, day after day, Dr. Maria continued to work tirelessly in her laboratory,
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://pathologist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ And so, day after day, Dr. Maria continued to work tirelessly in her laboratory,
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

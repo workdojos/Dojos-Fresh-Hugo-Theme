@@ -37,7 +37,7 @@ The day in the life of a media buyer is never dull, as there is always something
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://mediabuyer.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -47,7 +47,7 @@ The day in the life of a media buyer is never dull, as there is always something
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

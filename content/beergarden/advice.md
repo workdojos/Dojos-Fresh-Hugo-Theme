@@ -27,7 +27,7 @@ Overall, a career as a beer garden owner can be a rewarding and enjoyable path f
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://beergarden.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -37,7 +37,7 @@ Overall, a career as a beer garden owner can be a rewarding and enjoyable path f
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

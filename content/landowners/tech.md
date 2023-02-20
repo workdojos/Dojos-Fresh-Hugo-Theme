@@ -31,7 +31,7 @@ Ultimately, the real-estate industry is at a crossroads when it comes to the ado
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://landowners.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Ultimately, the real-estate industry is at a crossroads when it comes to the ado
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

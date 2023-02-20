@@ -32,7 +32,7 @@ On the other hand, some of the worst jobs to have in the luxury goods industry i
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://jeweler.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ On the other hand, some of the worst jobs to have in the luxury goods industry i
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://videogamers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

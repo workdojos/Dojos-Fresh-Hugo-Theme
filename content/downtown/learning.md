@@ -65,7 +65,7 @@ What strategies have you implemented to adapt to changes in the market or indust
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://downtown.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -75,7 +75,7 @@ What strategies have you implemented to adapt to changes in the market or indust
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

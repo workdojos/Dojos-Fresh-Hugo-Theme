@@ -51,7 +51,7 @@ How do you build and maintain relationships with suppliers and partners in the i
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://importer.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -61,7 +61,7 @@ How do you build and maintain relationships with suppliers and partners in the i
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

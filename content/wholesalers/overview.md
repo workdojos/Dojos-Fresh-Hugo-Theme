@@ -32,7 +32,7 @@ Overall, the wholesale industry is a vital and thriving part of the U.S. economy
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://wholesalers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ Overall, the wholesale industry is a vital and thriving part of the U.S. economy
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://videogamers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

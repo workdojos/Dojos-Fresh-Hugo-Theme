@@ -35,7 +35,7 @@ So, as you can see, the life of a franchise business owner can be both challengi
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://franchiser.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ So, as you can see, the life of a franchise business owner can be both challengi
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

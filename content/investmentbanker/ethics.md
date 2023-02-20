@@ -26,7 +26,7 @@ Ultimately, the ethical framework that I would propose for a career in investmen
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://investmentbanker.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -36,7 +36,7 @@ Ultimately, the ethical framework that I would propose for a career in investmen
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

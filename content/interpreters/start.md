@@ -32,7 +32,7 @@ Finally, don't forget to stay motivated and inspired as you embark on your journ
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://interpreters.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ Finally, don't forget to stay motivated and inspired as you embark on your journ
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

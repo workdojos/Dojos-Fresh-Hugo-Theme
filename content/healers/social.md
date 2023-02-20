@@ -52,7 +52,7 @@ Utilize hashtags and participate in Pinterest group boards to reach a wider audi
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://healers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -62,7 +62,7 @@ Utilize hashtags and participate in Pinterest group boards to reach a wider audi
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

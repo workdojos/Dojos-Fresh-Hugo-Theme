@@ -35,7 +35,7 @@ These are just a few examples of the countless police officers and protective se
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://lawenforcement.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ These are just a few examples of the countless police officers and protective se
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

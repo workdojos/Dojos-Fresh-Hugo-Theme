@@ -38,7 +38,7 @@ Overall, the use of open-source technology can be a cost-effective and reliable 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -48,7 +48,7 @@ Overall, the use of open-source technology can be a cost-effective and reliable 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://cosmonaut.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

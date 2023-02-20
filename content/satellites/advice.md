@@ -28,7 +28,7 @@ Overall, it seems that someone with strong analytical and problem-solving skills
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://satellites.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ Overall, it seems that someone with strong analytical and problem-solving skills
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

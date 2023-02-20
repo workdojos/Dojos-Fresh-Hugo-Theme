@@ -38,7 +38,7 @@ These committees and countless others have played a vital role in shaping the wo
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://committee.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -48,7 +48,7 @@ These committees and countless others have played a vital role in shaping the wo
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -31,7 +31,7 @@ Ultimately, the choice of web builder will depend on your specific needs and goa
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://academies.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Ultimately, the choice of web builder will depend on your specific needs and goa
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://cosmonaut.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

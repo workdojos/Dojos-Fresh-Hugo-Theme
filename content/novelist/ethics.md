@@ -30,7 +30,7 @@ One way to develop an ethical framework for a career as a novelist would be to c
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://novelist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ One way to develop an ethical framework for a career as a novelist would be to c
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

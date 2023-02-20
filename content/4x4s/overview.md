@@ -38,7 +38,7 @@ Overall, the 4x4 industry is a dynamic and exciting field with endless opportuni
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://4X4s.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -48,7 +48,7 @@ Overall, the 4x4 industry is a dynamic and exciting field with endless opportuni
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://videogamers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

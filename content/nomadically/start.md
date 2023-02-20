@@ -29,7 +29,7 @@ Remember, starting any new career can be intimidating, but with hard work, dedic
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://nomadically.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -39,7 +39,7 @@ Remember, starting any new career can be intimidating, but with hard work, dedic
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

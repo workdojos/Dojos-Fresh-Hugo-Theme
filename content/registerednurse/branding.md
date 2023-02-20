@@ -29,7 +29,7 @@ Throughout the campaign, I would use community management tools to monitor conve
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://registerednurse.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -39,7 +39,7 @@ Throughout the campaign, I would use community management tools to monitor conve
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

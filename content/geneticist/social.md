@@ -51,7 +51,7 @@ Utilize Pinterest's "Promote" feature to increase the reach of your pins and rea
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://geneticist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -61,7 +61,7 @@ Utilize Pinterest's "Promote" feature to increase the reach of your pins and rea
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -29,7 +29,7 @@ In conclusion, it is clear that fair work practices are essential for ghostwrite
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://ghostwriters.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -39,7 +39,7 @@ In conclusion, it is clear that fair work practices are essential for ghostwrite
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

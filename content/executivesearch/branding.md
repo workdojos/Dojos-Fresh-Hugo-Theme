@@ -35,7 +35,7 @@ Overall, the goal of these strategies is to increase brand awareness, recruit fo
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://executivesearch.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ Overall, the goal of these strategies is to increase brand awareness, recruit fo
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

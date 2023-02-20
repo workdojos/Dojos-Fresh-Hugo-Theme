@@ -24,7 +24,7 @@ The word "consulting" is derived from the Latin word "consultāre," which means 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://armchairexpert.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -34,7 +34,7 @@ The word "consulting" is derived from the Latin word "consultāre," which means 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

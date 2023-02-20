@@ -35,7 +35,7 @@ As she prepared to go to bed, Maria smiled to herself, knowing that the next day
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ As she prepared to go to bed, Maria smiled to herself, knowing that the next day
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -31,7 +31,7 @@ Overall, the CAM industry is an important part of our healthcare system, and ope
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://healers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Overall, the CAM industry is an important part of our healthcare system, and ope
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

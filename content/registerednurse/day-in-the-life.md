@@ -33,7 +33,7 @@ In the end, Maria's hard work and dedication paid off, as she became known as on
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://registerednurse.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ In the end, Maria's hard work and dedication paid off, as she became known as on
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

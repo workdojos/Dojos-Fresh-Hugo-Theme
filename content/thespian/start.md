@@ -34,7 +34,7 @@ And finally, don't forget to keep a positive and excited attitude about your car
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://thespian.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ And finally, don't forget to keep a positive and excited attitude about your car
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

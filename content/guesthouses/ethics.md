@@ -30,7 +30,7 @@ Overall, a strong ethical framework for starting a career as a guesthouse owner 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://guesthouses.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ Overall, a strong ethical framework for starting a career as a guesthouse owner 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -37,7 +37,7 @@ As Alice drifted off to sleep that night, she knew that the next day would bring
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://nomadically.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -47,7 +47,7 @@ As Alice drifted off to sleep that night, she knew that the next day would bring
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

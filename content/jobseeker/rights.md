@@ -31,7 +31,7 @@ Overall, it is crucial for job seekers in the recruitment industry to advocate f
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://jobseeker.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Overall, it is crucial for job seekers in the recruitment industry to advocate f
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

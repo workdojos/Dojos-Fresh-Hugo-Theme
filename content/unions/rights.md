@@ -31,7 +31,7 @@ As a union organizer, it is my belief that workers deserve fair treatment, prope
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://unions.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ As a union organizer, it is my belief that workers deserve fair treatment, prope
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

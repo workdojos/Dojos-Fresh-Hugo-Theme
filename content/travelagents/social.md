@@ -34,7 +34,7 @@ I can't wait to connect with all of you and help you plan your dream vacations! 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://travelagents.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ I can't wait to connect with all of you and help you plan your dream vacations! 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

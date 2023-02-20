@@ -31,7 +31,7 @@ In conclusion, a career as a courier working in the supply-chain industry could 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://couriers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ In conclusion, a career as a courier working in the supply-chain industry could 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

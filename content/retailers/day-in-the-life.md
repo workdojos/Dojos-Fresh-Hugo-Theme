@@ -37,7 +37,7 @@ Sarah knew that she had a long way to go before she reached the level of success
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -47,7 +47,7 @@ Sarah knew that she had a long way to go before she reached the level of success
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

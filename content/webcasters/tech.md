@@ -31,7 +31,7 @@ Overall, the social media industry is a complex and ever-evolving field that has
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://webcasters.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Overall, the social media industry is a complex and ever-evolving field that has
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

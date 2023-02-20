@@ -27,7 +27,7 @@ Ultimately, developing an ethical framework for a career as a college professor 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://collegeprofessor.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -37,7 +37,7 @@ Ultimately, developing an ethical framework for a career as a college professor 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

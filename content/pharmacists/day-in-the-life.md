@@ -33,7 +33,7 @@ And so, she worked hard every day, always striving to be the best pharmacist she
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://pharmacists.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ And so, she worked hard every day, always striving to be the best pharmacist she
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

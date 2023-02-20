@@ -31,7 +31,7 @@ Sarah loved being a spiritual coach and knew that it was her calling in life. Sh
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://spiritualcoaches.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Sarah loved being a spiritual coach and knew that it was her calling in life. Sh
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

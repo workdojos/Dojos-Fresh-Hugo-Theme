@@ -49,7 +49,7 @@ Engage with your followers by commenting on their pins and re-pinning their cont
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -59,7 +59,7 @@ Engage with your followers by commenting on their pins and re-pinning their cont
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

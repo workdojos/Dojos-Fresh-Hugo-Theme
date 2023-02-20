@@ -26,7 +26,7 @@ Since then, the use of chatbots has expanded significantly, and they are now use
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://chatbots.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -36,7 +36,7 @@ Since then, the use of chatbots has expanded significantly, and they are now use
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

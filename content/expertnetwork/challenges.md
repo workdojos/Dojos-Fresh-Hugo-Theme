@@ -40,7 +40,7 @@ In conclusion, the consulting industry is facing a number of challenges that are
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://expertnetwork.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -50,7 +50,7 @@ In conclusion, the consulting industry is facing a number of challenges that are
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://animators.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -31,7 +31,7 @@ Ultimately, fair work practices are not just good for workers, they are also goo
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://logistician.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Ultimately, fair work practices are not just good for workers, they are also goo
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

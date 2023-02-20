@@ -30,7 +30,7 @@ In conclusion, fair work practices are essential for the nightlife industry, and
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://discos.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ In conclusion, fair work practices are essential for the nightlife industry, and
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

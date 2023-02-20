@@ -34,7 +34,7 @@ Ultimately, it is important to carefully consider the ethical implications of yo
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://eventplanners.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ Ultimately, it is important to carefully consider the ethical implications of yo
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

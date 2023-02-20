@@ -32,7 +32,7 @@ I hope this information is helpful in guiding you towards the best career path f
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://non-profit.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ I hope this information is helpful in guiding you towards the best career path f
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

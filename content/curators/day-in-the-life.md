@@ -32,7 +32,7 @@ As the years went on, Rachel's career continued to thrive. She became one of the
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://curators.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ As the years went on, Rachel's career continued to thrive. She became one of the
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

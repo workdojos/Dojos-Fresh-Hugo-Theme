@@ -51,7 +51,7 @@ Can you discuss a situation in which you had to work on a team to achieve a fina
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://financier.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -61,7 +61,7 @@ Can you discuss a situation in which you had to work on a team to achieve a fina
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

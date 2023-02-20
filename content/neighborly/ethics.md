@@ -34,7 +34,7 @@ One possible approach to developing an ethical framework for a career as a neigh
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://neighborly.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ One possible approach to developing an ethical framework for a career as a neigh
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

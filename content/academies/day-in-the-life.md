@@ -30,7 +30,7 @@ As Sarah continued to make her mark on the world of academia, she knew that she 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://X.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ As Sarah continued to make her mark on the world of academia, she knew that she 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

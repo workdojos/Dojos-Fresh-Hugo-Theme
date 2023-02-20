@@ -33,7 +33,7 @@ As the sun began to set, Sarah reflected on all of the amazing people she had me
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://downtown.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ As the sun began to set, Sarah reflected on all of the amazing people she had me
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

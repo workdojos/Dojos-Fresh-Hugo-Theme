@@ -28,7 +28,7 @@ Based on the individual's skills, interests, and experience, I would recommend p
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://pharmacists.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ Based on the individual's skills, interests, and experience, I would recommend p
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

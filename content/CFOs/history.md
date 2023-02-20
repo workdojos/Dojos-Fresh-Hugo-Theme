@@ -24,7 +24,7 @@ The term "finance" comes from the Latin "finis," which means end or finish. It w
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://CFOs.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -34,7 +34,7 @@ The term "finance" comes from the Latin "finis," which means end or finish. It w
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

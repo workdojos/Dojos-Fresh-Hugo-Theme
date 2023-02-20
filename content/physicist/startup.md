@@ -49,7 +49,7 @@ Potential Business Challenges: Competition with existing resources and platforms
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -59,7 +59,7 @@ Potential Business Challenges: Competition with existing resources and platforms
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://clinician.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

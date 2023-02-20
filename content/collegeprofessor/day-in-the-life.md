@@ -34,7 +34,7 @@ Dr. Emma knew that she had big shoes to fill, but she was determined to make a l
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://collegeprofessor.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ Dr. Emma knew that she had big shoes to fill, but she was determined to make a l
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

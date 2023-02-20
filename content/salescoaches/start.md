@@ -32,7 +32,7 @@ Take action! Don't just sit around waiting for opportunities to come to you - ta
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://salescoaches.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ Take action! Don't just sit around waiting for opportunities to come to you - ta
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

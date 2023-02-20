@@ -32,7 +32,7 @@ Throughout history, there have been many notable clerks who have made a signific
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://clerk.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ Throughout history, there have been many notable clerks who have made a signific
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -27,7 +27,7 @@ Overall, it is clear that the agriculture industry is facing a number of challen
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://agriculturist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -37,7 +37,7 @@ Overall, it is clear that the agriculture industry is facing a number of challen
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://animators.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

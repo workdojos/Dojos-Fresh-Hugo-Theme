@@ -33,7 +33,7 @@ In the early 20th century, "film" was used to refer specifically to motion pictu
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ In the early 20th century, "film" was used to refer specifically to motion pictu
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

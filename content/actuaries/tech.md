@@ -30,7 +30,7 @@ Overall, the risk assessment industry is vital to the stability and prosperity o
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://actuaries.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ Overall, the risk assessment industry is vital to the stability and prosperity o
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

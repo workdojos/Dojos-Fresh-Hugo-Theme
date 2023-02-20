@@ -34,7 +34,7 @@ As the chatbot industry continues to grow and evolve, we can expect to see even 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://chatbots.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ As the chatbot industry continues to grow and evolve, we can expect to see even 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -29,7 +29,7 @@ Initially, social media was used primarily as a way for people to connect with f
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://webcasters.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -39,7 +39,7 @@ Initially, social media was used primarily as a way for people to connect with f
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

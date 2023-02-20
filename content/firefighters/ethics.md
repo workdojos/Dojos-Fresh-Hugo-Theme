@@ -36,7 +36,7 @@ By examining these and other questions, you can begin to build a comprehensive e
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://firefighters.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -46,7 +46,7 @@ By examining these and other questions, you can begin to build a comprehensive e
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

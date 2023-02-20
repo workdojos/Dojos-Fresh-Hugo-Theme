@@ -84,7 +84,7 @@ Keeping up with constantly evolving digital marketing trends and technologies.
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://digitalmarketers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -94,7 +94,7 @@ Keeping up with constantly evolving digital marketing trends and technologies.
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://clinician.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

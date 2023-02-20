@@ -28,7 +28,7 @@ Finally, to make opportunities for collaboration with others in the software dev
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://appdeveloper.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ Finally, to make opportunities for collaboration with others in the software dev
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

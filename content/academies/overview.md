@@ -34,7 +34,7 @@ In conclusion, the academic industry is constantly evolving and offers many exci
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://academies.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ In conclusion, the academic industry is constantly evolving and offers many exci
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://videogamers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

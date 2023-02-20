@@ -32,7 +32,7 @@ Don't forget about the little-known perks: There are also many little-known perk
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ Don't forget about the little-known perks: There are also many little-known perk
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

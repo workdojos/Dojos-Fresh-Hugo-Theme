@@ -34,7 +34,7 @@ Overall, the physics and higher education industry is a rewarding and impactful 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ Overall, the physics and higher education industry is a rewarding and impactful 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://videogamers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

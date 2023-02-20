@@ -31,7 +31,7 @@ Lead generators deserve to be treated with the same respect and dignity as any o
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://leadgenerator.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Lead generators deserve to be treated with the same respect and dignity as any o
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

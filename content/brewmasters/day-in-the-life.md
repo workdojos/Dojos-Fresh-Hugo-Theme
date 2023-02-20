@@ -32,7 +32,7 @@ And as the sun began to set on another day in the life of Hans the brew master, 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://brewmasters.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ And as the sun began to set on another day in the life of Hans the brew master, 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

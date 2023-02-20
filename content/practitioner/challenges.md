@@ -28,7 +28,7 @@ Ultimately, it is up to all of us to work towards a healthcare system that is be
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://practitioner.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ Ultimately, it is up to all of us to work towards a healthcare system that is be
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://animators.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

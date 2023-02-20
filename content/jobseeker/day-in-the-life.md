@@ -33,7 +33,7 @@ Feeling inspired, Jack returned to his job search with renewed vigor and determi
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://jobseeker.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ Feeling inspired, Jack returned to his job search with renewed vigor and determi
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

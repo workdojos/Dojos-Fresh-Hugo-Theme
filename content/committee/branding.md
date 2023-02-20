@@ -36,7 +36,7 @@ Overall, my goal would be to create a strong and engaged presence on all three p
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://committee.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -46,7 +46,7 @@ Overall, my goal would be to create a strong and engaged presence on all three p
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -30,7 +30,7 @@ Overall, pursuing a career as a travel agent or in the travel and tours industry
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://travelagents.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ Overall, pursuing a career as a travel agent or in the travel and tours industry
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

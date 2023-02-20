@@ -33,7 +33,7 @@ Today, the logistics industry plays a vital role in our daily lives, making it p
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://logistician.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ Today, the logistics industry plays a vital role in our daily lives, making it p
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

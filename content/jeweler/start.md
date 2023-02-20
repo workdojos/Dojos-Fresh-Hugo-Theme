@@ -32,7 +32,7 @@ I hope these strategies help you achieve your goal and get excited about a caree
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://jeweler.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ I hope these strategies help you achieve your goal and get excited about a caree
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

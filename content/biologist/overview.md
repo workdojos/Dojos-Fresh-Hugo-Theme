@@ -32,7 +32,7 @@ Overall, the biosciences industry is a dynamic and rewarding field with numerous
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ Overall, the biosciences industry is a dynamic and rewarding field with numerous
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://videogamers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

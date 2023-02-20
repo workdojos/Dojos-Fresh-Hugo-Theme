@@ -30,7 +30,7 @@ Update regularly: Finally, it's important to consistently update our social medi
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://artgalleries.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ Update regularly: Finally, it's important to consistently update our social medi
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -28,7 +28,7 @@ Finally, it is important to remember that small businesses will play a vital rol
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ Finally, it is important to remember that small businesses will play a vital rol
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -35,7 +35,7 @@ Alice knew that she was just a small piece of a much larger puzzle, and she was 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://webcasters.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ Alice knew that she was just a small piece of a much larger puzzle, and she was 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

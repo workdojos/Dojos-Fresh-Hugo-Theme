@@ -34,7 +34,7 @@ By considering these moral principles, researchers can develop an ethical framew
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://researchers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ By considering these moral principles, researchers can develop an ethical framew
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

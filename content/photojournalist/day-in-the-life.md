@@ -33,7 +33,7 @@ Sarah's journey as a photojournalist was filled with adventure, excitement, and 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://photojournalist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ Sarah's journey as a photojournalist was filled with adventure, excitement, and 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

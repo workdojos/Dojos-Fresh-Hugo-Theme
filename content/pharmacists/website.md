@@ -37,7 +37,7 @@ In summary, using open-source technology to build your website can offer a high 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://pharmacists.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -47,7 +47,7 @@ In summary, using open-source technology to build your website can offer a high 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://cosmonaut.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

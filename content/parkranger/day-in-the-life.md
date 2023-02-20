@@ -33,7 +33,7 @@ Thanks to the hard work of dedicated park rangers like John, we can continue to 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://parkranger.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ Thanks to the hard work of dedicated park rangers like John, we can continue to 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

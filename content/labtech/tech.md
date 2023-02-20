@@ -31,7 +31,7 @@ As a lab tech, it is important to not only stay current on the latest technology
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://labtech.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ As a lab tech, it is important to not only stay current on the latest technology
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

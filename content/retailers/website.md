@@ -39,7 +39,7 @@ Overall, using open-source technology to build your own website can be a cost-ef
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -49,7 +49,7 @@ Overall, using open-source technology to build your own website can be a cost-ef
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://cosmonaut.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

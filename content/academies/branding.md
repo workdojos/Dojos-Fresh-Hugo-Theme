@@ -31,7 +31,7 @@ Overall, the goal of these strategies will be to increase brand awareness, recru
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://academies.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Overall, the goal of these strategies will be to increase brand awareness, recru
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -31,7 +31,7 @@ Remember, starting a business is not always easy, but it can be an incredibly re
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://artgalleries.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Remember, starting a business is not always easy, but it can be an incredibly re
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

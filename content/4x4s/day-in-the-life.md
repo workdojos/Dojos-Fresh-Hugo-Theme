@@ -32,7 +32,7 @@ Jake was proud to be part of the 4x4 industry, and he knew that there were many 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://4X4s.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ Jake was proud to be part of the 4x4 industry, and he knew that there were many 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

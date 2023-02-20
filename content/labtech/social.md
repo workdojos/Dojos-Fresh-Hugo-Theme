@@ -43,7 +43,7 @@ Collaborate with other lab techs or industry experts to create shared boards or 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://labtech.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -53,7 +53,7 @@ Collaborate with other lab techs or industry experts to create shared boards or 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

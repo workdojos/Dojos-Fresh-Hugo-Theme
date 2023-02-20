@@ -36,7 +36,7 @@ Remember, pursuing a career as an operations specialist in the clandestine servi
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://operatives.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -46,7 +46,7 @@ Remember, pursuing a career as an operations specialist in the clandestine servi
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

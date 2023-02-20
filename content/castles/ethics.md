@@ -27,7 +27,7 @@ In order to develop an ethical framework for starting a career as a castle owner
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://castles.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -37,7 +37,7 @@ In order to develop an ethical framework for starting a career as a castle owner
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -39,7 +39,7 @@ Remember, working as a logistics manager can be an exciting and rewarding career
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://logistician.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -49,7 +49,7 @@ Remember, working as a logistics manager can be an exciting and rewarding career
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

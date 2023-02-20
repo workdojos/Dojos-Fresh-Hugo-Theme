@@ -30,7 +30,7 @@ The meaning of the term "business owner" has remained relatively constant over t
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://4X4s.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ The meaning of the term "business owner" has remained relatively constant over t
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -28,7 +28,7 @@ Finally, we need to work to improve the social media industry as a whole by find
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://webcasters.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ Finally, we need to work to improve the social media industry as a whole by find
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://animators.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

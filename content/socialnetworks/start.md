@@ -32,7 +32,7 @@ Overall, working as a social media manager in the sales and marketing industry c
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://socialnetworks.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ Overall, working as a social media manager in the sales and marketing industry c
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -30,7 +30,7 @@ Overall, it is crucial that we stand up for the rights and fair treatment of med
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://clinician.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ Overall, it is crucial that we stand up for the rights and fair treatment of med
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

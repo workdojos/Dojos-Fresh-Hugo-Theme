@@ -33,7 +33,7 @@ So, the next time you buy a product from a foreign land, remember the hard work 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://exporter.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ So, the next time you buy a product from a foreign land, remember the hard work 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

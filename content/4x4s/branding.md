@@ -28,7 +28,7 @@ Overall, my goal as the social media manager for the 4x4 organization would be t
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://4X4s.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ Overall, my goal as the social media manager for the 4x4 organization would be t
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

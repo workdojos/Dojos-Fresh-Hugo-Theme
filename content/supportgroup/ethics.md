@@ -30,7 +30,7 @@ These are just a few examples of philosophical frameworks that could be useful i
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://supportgroup.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ These are just a few examples of philosophical frameworks that could be useful i
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

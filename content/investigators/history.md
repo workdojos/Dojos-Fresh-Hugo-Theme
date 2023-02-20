@@ -30,7 +30,7 @@ The term "security services" is a relatively recent one, and it refers to a rang
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://investigators.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ The term "security services" is a relatively recent one, and it refers to a rang
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

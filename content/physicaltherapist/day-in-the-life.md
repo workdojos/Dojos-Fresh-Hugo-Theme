@@ -35,7 +35,7 @@ In conclusion, the day in the life of a physical therapist is filled with challe
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://physicaltherapist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ In conclusion, the day in the life of a physical therapist is filled with challe
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

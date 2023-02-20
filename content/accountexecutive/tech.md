@@ -28,7 +28,7 @@ However, it is important to note that open-source technology is not a one-size-f
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://accountexecutive.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ However, it is important to note that open-source technology is not a one-size-f
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -32,7 +32,7 @@ When it comes to the best and worst jobs in the satellite services industry, it 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://satellites.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ When it comes to the best and worst jobs in the satellite services industry, it 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://videogamers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

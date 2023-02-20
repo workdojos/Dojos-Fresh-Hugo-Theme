@@ -28,7 +28,7 @@ Overall, my strategy for managing your finance organization's presence on social
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://CFOs.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ Overall, my strategy for managing your finance organization's presence on social
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

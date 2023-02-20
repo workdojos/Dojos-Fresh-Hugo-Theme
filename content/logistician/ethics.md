@@ -28,7 +28,7 @@ Ultimately, the most effective ethical framework for a logistics manager will li
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://logistician.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ Ultimately, the most effective ethical framework for a logistics manager will li
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

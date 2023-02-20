@@ -31,7 +31,7 @@ Collaborate with others in your industry: Finally, consider reaching out to othe
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://guesthouses.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Collaborate with others in your industry: Finally, consider reaching out to othe
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

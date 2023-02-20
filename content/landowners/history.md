@@ -27,7 +27,7 @@ The word "real-estate" is a combination of two words: "real," which means "perta
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://landowners.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -37,7 +37,7 @@ The word "real-estate" is a combination of two words: "real," which means "perta
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

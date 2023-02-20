@@ -38,7 +38,7 @@ Remember, as a negotiator in the international arbitration industry, you have th
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://negotiator.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -48,7 +48,7 @@ Remember, as a negotiator in the international arbitration industry, you have th
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

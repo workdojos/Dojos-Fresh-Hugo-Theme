@@ -32,7 +32,7 @@ Overall, the key to success in this campaign will be to create consistent, high-
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ Overall, the key to success in this campaign will be to create consistent, high-
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

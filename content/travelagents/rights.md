@@ -31,7 +31,7 @@ In conclusion, as a travel agent and advocate for fair work practices, I believe
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://travelagents.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ In conclusion, as a travel agent and advocate for fair work practices, I believe
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

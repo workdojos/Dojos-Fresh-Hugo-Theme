@@ -29,7 +29,7 @@ In terms of the word "exporter," it was first used in the early 17th century to 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://exporter.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -39,7 +39,7 @@ In terms of the word "exporter," it was first used in the early 17th century to 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

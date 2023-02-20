@@ -29,7 +29,7 @@ Overall, the support group industry is a vital resource for those seeking suppor
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://supportgroup.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -39,7 +39,7 @@ Overall, the support group industry is a vital resource for those seeking suppor
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

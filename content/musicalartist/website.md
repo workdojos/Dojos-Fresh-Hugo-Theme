@@ -35,7 +35,7 @@ Ultimately, the best solution for your business will depend on your specific nee
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ Ultimately, the best solution for your business will depend on your specific nee
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://cosmonaut.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

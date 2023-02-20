@@ -35,7 +35,7 @@ Regularly update your social media profiles with fresh content to keep your foll
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://distiller.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ Regularly update your social media profiles with fresh content to keep your foll
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

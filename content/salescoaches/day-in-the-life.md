@@ -33,7 +33,7 @@ As the day came to a close, Jenny reflected on her busy and fulfilling day as a 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://salescoaches.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ As the day came to a close, Jenny reflected on her busy and fulfilling day as a 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -52,7 +52,7 @@ There are several steps that the supply-chain industry can take to improve in th
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://couriers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -62,7 +62,7 @@ There are several steps that the supply-chain industry can take to improve in th
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://animators.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

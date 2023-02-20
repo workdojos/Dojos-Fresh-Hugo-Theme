@@ -28,7 +28,7 @@ In my opinion, fair work practices for college professors in the higher educatio
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://collegeprofessor.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ In my opinion, fair work practices for college professors in the higher educatio
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

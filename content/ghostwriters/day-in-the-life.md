@@ -33,7 +33,7 @@ And so, Sarah continued to write and ghostwrite, always striving to bring the be
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://ghostwriters.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ And so, Sarah continued to write and ghostwrite, always striving to bring the be
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

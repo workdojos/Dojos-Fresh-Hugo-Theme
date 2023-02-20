@@ -34,7 +34,7 @@ Remember, working as a barista in the coffee and hospitality industry is more th
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://baristas.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ Remember, working as a barista in the coffee and hospitality industry is more th
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -31,7 +31,7 @@ Overall, the freelance industry is a dynamic and exciting place to work, and ope
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://remoteworker.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Overall, the freelance industry is a dynamic and exciting place to work, and ope
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

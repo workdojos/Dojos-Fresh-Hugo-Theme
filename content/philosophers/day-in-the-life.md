@@ -33,7 +33,7 @@ So if you're ever feeling lost or uncertain, remember the wisdom of these great 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://philosophers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ So if you're ever feeling lost or uncertain, remember the wisdom of these great 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

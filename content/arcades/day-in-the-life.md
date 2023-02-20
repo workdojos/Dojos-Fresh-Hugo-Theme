@@ -36,7 +36,7 @@ And Jack? Well, he was left with a sense of pride and accomplishment, knowing th
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://arcades.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -46,7 +46,7 @@ And Jack? Well, he was left with a sense of pride and accomplishment, knowing th
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

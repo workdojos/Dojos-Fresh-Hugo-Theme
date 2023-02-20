@@ -27,7 +27,7 @@ Finally, the medical industry as a whole needs to focus on finding ways to impro
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://clinician.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -37,7 +37,7 @@ Finally, the medical industry as a whole needs to focus on finding ways to impro
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://animators.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

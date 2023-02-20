@@ -28,7 +28,7 @@ By considering these ethical principles, the franchise business owner can develo
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://franchiser.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ By considering these ethical principles, the franchise business owner can develo
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

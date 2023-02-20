@@ -30,7 +30,7 @@ As the day came to a close, Sarah couldn't help but feel grateful for the life s
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://cafes.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ As the day came to a close, Sarah couldn't help but feel grateful for the life s
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

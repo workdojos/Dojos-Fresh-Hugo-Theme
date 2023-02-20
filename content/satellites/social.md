@@ -34,7 +34,7 @@ I hope these tips are helpful as you start planning your social media campaign. 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://satellites.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ I hope these tips are helpful as you start planning your social media campaign. 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -56,7 +56,7 @@ What are your strategies for building strong relationships with sources and expe
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://correspondents.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -66,7 +66,7 @@ What are your strategies for building strong relationships with sources and expe
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

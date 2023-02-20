@@ -57,7 +57,7 @@ How have you stayed current on the latest software and techniques in the animati
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://animators.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -67,7 +67,7 @@ How have you stayed current on the latest software and techniques in the animati
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

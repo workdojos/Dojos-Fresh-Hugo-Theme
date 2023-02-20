@@ -40,7 +40,7 @@ Overall, I believe that the benefits of using open-source technology to build yo
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://curators.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -50,7 +50,7 @@ Overall, I believe that the benefits of using open-source technology to build yo
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://cosmonaut.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

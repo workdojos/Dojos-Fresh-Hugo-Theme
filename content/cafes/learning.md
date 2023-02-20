@@ -58,7 +58,7 @@ How do you motivate and engage your employees?
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://cafes.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -68,7 +68,7 @@ How do you motivate and engage your employees?
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

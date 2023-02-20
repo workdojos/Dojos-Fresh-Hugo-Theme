@@ -27,7 +27,7 @@ In order to address these challenges and improve the nightlife industry, we need
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://discos.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -37,7 +37,7 @@ In order to address these challenges and improve the nightlife industry, we need
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://animators.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

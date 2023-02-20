@@ -35,7 +35,7 @@ And so, the day in the life of Dr. Sarah was one filled with hard work, dedicati
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://practitioner.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ And so, the day in the life of Dr. Sarah was one filled with hard work, dedicati
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

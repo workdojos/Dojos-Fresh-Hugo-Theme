@@ -34,7 +34,7 @@ So, dear listeners, remember that even a day in the life of an account executive
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://accountexecutive.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ So, dear listeners, remember that even a day in the life of an account executive
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

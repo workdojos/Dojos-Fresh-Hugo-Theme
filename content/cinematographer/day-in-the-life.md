@@ -32,7 +32,7 @@ As the day came to a close, David knew that he had just lived out his dream. He 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://cinematographer.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ As the day came to a close, David knew that he had just lived out his dream. He 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -27,7 +27,7 @@ The term "spiritual coach" is a more recent invention, and refers to someone who
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://spiritualcoaches.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -37,7 +37,7 @@ The term "spiritual coach" is a more recent invention, and refers to someone who
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

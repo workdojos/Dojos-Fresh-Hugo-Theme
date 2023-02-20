@@ -34,7 +34,7 @@ As Sarah continues to grow and learn in the world of animation, she knows that s
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://animators.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ As Sarah continues to grow and learn in the world of animation, she knows that s
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -31,7 +31,7 @@ It is clear that fair work practices are essential for the well-being and satisf
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://operatives.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ It is clear that fair work practices are essential for the well-being and satisf
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

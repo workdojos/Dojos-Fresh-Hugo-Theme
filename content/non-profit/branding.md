@@ -31,7 +31,7 @@ Regularly update and post: To keep your followers engaged, we will make sure to 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://non-profit.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Regularly update and post: To keep your followers engaged, we will make sure to 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

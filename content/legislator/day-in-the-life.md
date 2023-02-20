@@ -35,7 +35,7 @@ So the next time you hear about a legislator, remember that they have an importa
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://legislator.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ So the next time you hear about a legislator, remember that they have an importa
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

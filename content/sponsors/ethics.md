@@ -28,7 +28,7 @@ Finally, I would consider the potential impact of the ethical framework on all s
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://sponsors.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ Finally, I would consider the potential impact of the ethical framework on all s
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

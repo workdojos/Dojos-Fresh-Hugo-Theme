@@ -27,7 +27,7 @@ Both "sponsor" and "sponsorship" have been in use in English since the 16th cent
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://sponsors.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -37,7 +37,7 @@ Both "sponsor" and "sponsorship" have been in use in English since the 16th cent
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

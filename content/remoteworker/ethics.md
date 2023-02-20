@@ -30,7 +30,7 @@ To address these questions and develop an ethical framework for starting a caree
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://remoteworker.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ To address these questions and develop an ethical framework for starting a caree
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -34,7 +34,7 @@ And so, Jack continued to deliver packages and packages of goods, always knowing
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://couriers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ And so, Jack continued to deliver packages and packages of goods, always knowing
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

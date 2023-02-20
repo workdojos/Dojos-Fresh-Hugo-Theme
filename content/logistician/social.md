@@ -32,7 +32,7 @@ In addition to these ideas, make sure to engage with your followers by respondin
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://logistician.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ In addition to these ideas, make sure to engage with your followers by respondin
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

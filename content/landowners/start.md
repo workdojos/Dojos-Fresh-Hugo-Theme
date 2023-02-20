@@ -34,7 +34,7 @@ Remember, the key to success in any career is to stay motivated and driven. With
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://landowners.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ Remember, the key to success in any career is to stay motivated and driven. With
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -28,7 +28,7 @@ In the context of a coffee shop, the owner is the person who has control or auth
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://coffeeshops.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ In the context of a coffee shop, the owner is the person who has control or auth
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

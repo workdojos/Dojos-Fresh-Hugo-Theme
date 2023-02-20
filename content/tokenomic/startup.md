@@ -48,7 +48,7 @@ Potential Business Challenges: competition from other token creation platforms, 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://tokenomic.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -58,7 +58,7 @@ Potential Business Challenges: competition from other token creation platforms, 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://clinician.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

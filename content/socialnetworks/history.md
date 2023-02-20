@@ -27,7 +27,7 @@ The word "sales" comes from the Old French word "sale," which means "sale." The 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://socialnetworks.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -37,7 +37,7 @@ The word "sales" comes from the Old French word "sale," which means "sale." The 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

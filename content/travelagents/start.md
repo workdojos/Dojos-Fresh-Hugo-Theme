@@ -42,7 +42,7 @@ With all of these resources at your disposal, you'll be well on your way to lear
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://travelagents.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -52,7 +52,7 @@ With all of these resources at your disposal, you'll be well on your way to lear
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

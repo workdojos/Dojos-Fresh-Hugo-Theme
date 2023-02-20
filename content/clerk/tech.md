@@ -30,7 +30,7 @@ Ultimately, small businesses will play a crucial role in a thriving economy in t
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://clerk.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ Ultimately, small businesses will play a crucial role in a thriving economy in t
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

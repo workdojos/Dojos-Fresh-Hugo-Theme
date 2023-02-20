@@ -33,7 +33,7 @@ In conclusion, the need for open-source technology in the legislative industry i
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://legislator.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ In conclusion, the need for open-source technology in the legislative industry i
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

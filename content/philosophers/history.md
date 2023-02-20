@@ -31,7 +31,7 @@ Over time, the meaning of higher education has evolved to refer to formal educat
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://philosophers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -41,7 +41,7 @@ Over time, the meaning of higher education has evolved to refer to formal educat
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

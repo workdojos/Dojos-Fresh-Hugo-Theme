@@ -34,7 +34,7 @@ No matter who the castle owner was, or what their purpose was, one thing remaine
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://castles.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ No matter who the castle owner was, or what their purpose was, one thing remaine
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

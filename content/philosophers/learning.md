@@ -51,7 +51,7 @@ How do you think your philosophical training and perspective can contribute to t
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://philosophers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -61,7 +61,7 @@ How do you think your philosophical training and perspective can contribute to t
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

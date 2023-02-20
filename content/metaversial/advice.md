@@ -32,7 +32,7 @@ Overall, a career as a developer in the metaverse and VR industry can be very re
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://metaversial.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ Overall, a career as a developer in the metaverse and VR industry can be very re
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

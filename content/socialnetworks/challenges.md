@@ -28,7 +28,7 @@ In conclusion, the sales and marketing industry needs to make it easier for soci
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://socialnetworks.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -38,7 +38,7 @@ In conclusion, the sales and marketing industry needs to make it easier for soci
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://animators.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

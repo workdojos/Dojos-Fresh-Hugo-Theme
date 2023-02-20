@@ -47,7 +47,7 @@ Use Pinterest analytics to see which pins are getting the most engagement and fo
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://telemarketer.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -57,7 +57,7 @@ Use Pinterest analytics to see which pins are getting the most engagement and fo
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

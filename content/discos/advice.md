@@ -29,7 +29,7 @@ Overall, if you have a passion for the nightlife industry and possess the necess
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://discos.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -39,7 +39,7 @@ Overall, if you have a passion for the nightlife industry and possess the necess
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

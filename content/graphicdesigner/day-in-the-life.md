@@ -35,7 +35,7 @@ And so, Sarah's day in the life of a graphic designer was full of creativity, ha
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://graphicdesigner.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ And so, Sarah's day in the life of a graphic designer was full of creativity, ha
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

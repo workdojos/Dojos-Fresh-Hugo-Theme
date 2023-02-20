@@ -30,7 +30,7 @@ Remember, as a token developer, you are not only building a career in an excitin
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://tokenomic.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ Remember, as a token developer, you are not only building a career in an excitin
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

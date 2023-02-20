@@ -32,7 +32,7 @@ As Alice continued to work as a correspondent, she hoped to one day be remembere
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://correspondents.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ As Alice continued to work as a correspondent, she hoped to one day be remembere
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

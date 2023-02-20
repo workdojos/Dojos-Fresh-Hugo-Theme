@@ -30,7 +30,7 @@ Overall, a career as a CFO in the finance industry can be rewarding and challeng
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://CFOs.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ Overall, a career as a CFO in the finance industry can be rewarding and challeng
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

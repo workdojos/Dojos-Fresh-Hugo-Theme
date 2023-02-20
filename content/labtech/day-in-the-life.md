@@ -35,7 +35,7 @@ Sarah knew that she was a part of this proud tradition, and that her work was ma
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://labtech.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ Sarah knew that she was a part of this proud tradition, and that her work was ma
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

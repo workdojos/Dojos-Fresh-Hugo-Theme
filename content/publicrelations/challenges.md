@@ -30,7 +30,7 @@ Overall, the public relations industry has a lot of potential for improvement in
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://publicrelations.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -40,7 +40,7 @@ Overall, the public relations industry has a lot of potential for improvement in
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://animators.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

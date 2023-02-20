@@ -29,7 +29,7 @@ It is clear that small businesses will play an integral role in a thriving econo
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://exhibitionist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -39,7 +39,7 @@ It is clear that small businesses will play an integral role in a thriving econo
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://dealerships.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

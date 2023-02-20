@@ -25,7 +25,7 @@ Finally, I would suggest that it might be helpful to consult with experts in the
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://aviationist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -35,7 +35,7 @@ Finally, I would suggest that it might be helpful to consult with experts in the
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

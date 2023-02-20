@@ -34,7 +34,7 @@ So, the next time you look up at the stars and wonder what lies beyond, remember
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://cosmonaut.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -44,7 +44,7 @@ So, the next time you look up at the stars and wonder what lies beyond, remember
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -32,7 +32,7 @@ Overall, a career as a lawyer can be a challenging and rewarding choice for indi
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://litigator.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ Overall, a career as a lawyer can be a challenging and rewarding choice for indi
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

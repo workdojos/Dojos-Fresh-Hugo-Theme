@@ -33,7 +33,7 @@ It's important to consider the pros and cons of each option, as well as the cost
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -43,7 +43,7 @@ It's important to consider the pros and cons of each option, as well as the cost
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://cosmonaut.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

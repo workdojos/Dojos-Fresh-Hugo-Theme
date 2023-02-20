@@ -226,7 +226,7 @@ Click the "Sign Up" button in the upper right (includes both a free tier and a f
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/docs/start">  
-                        <img src="/uploads/build.svg" class="columnImage" />
+                        <img src="/uploads/buildash.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>

@@ -35,7 +35,7 @@ As the sun began to set on this day in the life of a sponsor, Marcus and Catheri
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://sponsors.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ As the sun began to set on this day in the life of a sponsor, Marcus and Catheri
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

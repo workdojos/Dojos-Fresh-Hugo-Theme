@@ -32,7 +32,7 @@ Overall, the performing arts industry is a vibrant and exciting field that offer
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://playwright.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -42,7 +42,7 @@ Overall, the performing arts industry is a vibrant and exciting field that offer
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://videogamers.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

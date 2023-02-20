@@ -29,7 +29,7 @@ Over time, the word "outdoor" has come to be associated with activities or event
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://explorers.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -39,7 +39,7 @@ Over time, the word "outdoor" has come to be associated with activities or event
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -35,7 +35,7 @@ As you can see, there are so many exciting perks and benefits to working as a do
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://downtown.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -45,7 +45,7 @@ As you can see, there are so many exciting perks and benefits to working as a do
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

@@ -44,7 +44,7 @@ I hope these resources help you get excited about a career as a lab tech in the 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://labtech.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -54,7 +54,7 @@ I hope these resources help you get excited about a career as a lab tech in the 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

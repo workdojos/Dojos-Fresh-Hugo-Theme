@@ -45,7 +45,7 @@ I hope these resources help you get excited about a career as a bartender in the
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        <img src="/uploads/d.svg" class="columnImage" />
+                        <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
@@ -55,7 +55,7 @@ I hope these resources help you get excited about a career as a bartender in the
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.svg" class="columnImage" />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
