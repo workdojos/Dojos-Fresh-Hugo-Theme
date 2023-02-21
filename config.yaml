@@ -366,6 +366,12 @@ params:
         url: https://workdojos.com/YogaInstructor
       - text: Zookeeper
         url: https://workdojos.com/Zookeeper
+    - title: Around the world
+      icon: globe
+      links:
+      - text: Afghanistan
+        url: https://workdojos.com/afghanistan
+
     - title: E-mail us
       icon: envelope
       links:
