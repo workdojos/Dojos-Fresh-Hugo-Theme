@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/countries/Afghanistan.jpg' style="width: 70%;height: 70%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <img src='/uploads/countries/Afghanistan.jpg' style="width: 80%;height: 80%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
 Learning about open-source tech in Afghanistan can be an exciting journey, and there are various resources available online. Here are some ways to get started:
@@ -34,6 +34,6 @@ Learning about open-source tech in Afghanistan can be an exciting journey, and t
 By joining open-source communities, attending tech conferences, reading blogs and articles, and learning from notable technologists, you can gain a better understanding of open-source tech in Afghanistan.
 
 ---
-**Traveler Town.**  An open-source app we built in-house, one chat room per country (powered by <a href="https://rocket.chat" >Rocket.Chat</a>) and **included in every dojo**):  
+**Traveler Town.**  Our open-source chat app, one chat room per country (powered by <a href="https://rocket.chat" >Rocket.Chat</a>) and **included in every dojo**):  
 
 <iframe src="https://chat.traveler.town/channel/Afghanistan" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
