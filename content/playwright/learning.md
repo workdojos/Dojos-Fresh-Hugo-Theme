@@ -19,7 +19,7 @@ Proficiency in script formatting and writing for stage
 Some good websites for learning about playwriting include:
 
 Playwrights' Center: https://www.pwcenter.org/
-Playwriting 101: http://playwriting101.com/
+Playwriting 101: https://playwriting101.com/
 Playwrights Guild of Canada: https://www.playwrightsguild.ca/resources
 Some great companies to work for as a playwright include:
 

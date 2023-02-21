@@ -22,7 +22,7 @@ Websites with resources:
 
 International Trade Centre (https://www.intracen.org/)
 Export.gov (https://www.export.gov/)
-Logistics World (http://www.logisticsworld.com/)
+Logistics World (https://www.logisticsworld.com/)
 Best companies to work for:
 
 DHL Global Forwarding

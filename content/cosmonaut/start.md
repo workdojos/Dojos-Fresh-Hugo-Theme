@@ -11,7 +11,7 @@ sidebarlogo: wordojos_logo
 <p>
 Congratulations on your desire to pursue a career as a cosmonaut in the space industry! This is an exciting and growing field with lots of potential for growth and success. Here are some tips and resources to help you on your journey to becoming a cosmonaut:
 
-Research the requirements and qualifications for becoming a cosmonaut. Some websites that can help with this include NASA's website (https://www.nasa.gov/astronauts/become) and the Russian Federal Space Agency's website (http://www.federalspace.ru/5367/).
+Research the requirements and qualifications for becoming a cosmonaut. Some websites that can help with this include NASA's website (https://www.nasa.gov/astronauts/become) and the Russian Federal Space Agency's website (https://www.federalspace.ru/5367/).
 
 Learn about the various perks and benefits of working as a cosmonaut. These might include the opportunity to travel to space and experience weightlessness, the chance to contribute to the advancement of space exploration, and the possibility of making a positive impact on humanity.
 

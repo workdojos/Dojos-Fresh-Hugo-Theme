@@ -18,7 +18,7 @@ Experience with qualitative and quantitative research techniques
 Strong understanding of social and cultural issues
 Websites for learning:
 
-American Sociological Association: http://www.asanet.org/
+American Sociological Association: https://www.asanet.org/
 The Sociological Imagination: https://thesociologicalimagination.org/
 Society Pages: https://thesocietypages.org/
 Best companies to work for:
