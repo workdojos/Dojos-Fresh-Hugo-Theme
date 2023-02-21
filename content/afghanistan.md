@@ -36,7 +36,7 @@ By joining open-source communities, attending tech conferences, reading blogs an
 ---
 **Traveler Town:**   our in-house open-source chat app.  One chat room per country (powered by <a href="https://rocket.chat" >Rocket.Chat </a>  (**included in every dojo**):  
 
-<iframe src="https://chat.traveler.town/channel/Afghanistan" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://chat.traveler.town/channel/Afghanistan" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 
 <br><br>
 

@@ -369,7 +369,7 @@ params:
     - title: Around the world
       icon: globe
       links:
-      - text: Afghanistan
+      - text: **coming soon**
         url: https://workdojos.com/afghanistan
 
     - title: E-mail us
