@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/countries/Lithuania.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Lithuanian Open Source Association (LOSA) - This is a non-profit organization that promotes the use of open-source software and open standards in Lithuania. They organize events, provide training and consultancy services, and advocate for the benefits of open-source technology.
     
 2.  Open Lithuanian Education (OLE) - OLE is an open-source platform for sharing educational resources in Lithuania. It provides free access to a wide range of educational materials, including textbooks, videos, and interactive tools.

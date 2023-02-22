@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/United Arab Emirates.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source technology in the United Arab Emirates, here are some resources and notable technologists to explore:
 
 1.  Open Source UAE: This is a community that promotes the use of open-source technology in the UAE. They organize events, meetups, and workshops to encourage learning and collaboration among developers, engineers, and tech enthusiasts. You can follow them on Twitter at @OpenSourceUAE or visit their website at opensourceuae.org.

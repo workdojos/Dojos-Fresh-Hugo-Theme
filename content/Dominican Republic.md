@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Dominican Republic.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source tech in the Dominican Republic can be done by utilizing a variety of resources. Here are some ways to get started:
 
 1.  Join the Dominican Republic Open Source Community: The Dominican Republic Open Source Community is a group of developers, designers, and tech enthusiasts who are passionate about open source. They regularly hold meetups and events, where you can connect with like-minded people and learn more about the latest open-source tech developments.

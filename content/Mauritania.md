@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Mauritania.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Mauritania, there are various resources available online that you can explore, including:
 
 1.  Mauritania Open Source Community: This is a community of developers and technology enthusiasts who share knowledge and collaborate on open-source projects. You can visit their website at [https://mauritaniaopensource.org/](https://mauritaniaopensource.org/) or follow their Twitter handle @mauritaniaos.

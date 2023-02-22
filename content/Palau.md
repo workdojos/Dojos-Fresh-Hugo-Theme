@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/countries/Palau.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Visit Palau Open Source Technology (POST) website: The POST website is a community platform that promotes open-source technologies and solutions in Palau. The website is a great resource for learning about the latest trends and developments in the open-source tech space.
     
 2.  Join Palau Open Source Technology Facebook Group: This is a community group where people interested in open-source technology in Palau can share ideas, ask questions, and collaborate on projects.

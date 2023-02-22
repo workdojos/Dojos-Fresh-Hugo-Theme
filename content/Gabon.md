@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Gabon.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning more about open-source tech in Gabon can be done through various resources, including online platforms, local organizations, and government initiatives. Here are some resources with links to help you get started:
 
 1.  Open Source Africa: This is an online community dedicated to promoting open-source technologies in Africa. It offers a range of resources and tools, including forums, webinars, and training sessions on open-source software development. You can visit the website at [https://www.opensourceafrica.org/](https://www.opensourceafrica.org/).

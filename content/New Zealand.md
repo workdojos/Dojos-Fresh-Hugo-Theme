@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/countries/New Zealand.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in New Zealand, here are some resources and links to get you started:
 
 1.  NZOSS (New Zealand Open Source Society) - A community of open-source advocates and developers in New Zealand. They provide resources, events, and networking opportunities for individuals and organizations interested in open-source technology. Their website is [https://nzoss.org.nz/](https://nzoss.org.nz/).

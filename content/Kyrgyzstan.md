@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Kyrgystan.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Kyrgyzstan, here are some resources and notable technologists from Kyrgyzstan throughout history:
 
 1.  Kyrgyzstan Open Source Community - an online community where developers, software engineers, and IT enthusiasts come together to share ideas, knowledge, and collaborate on open-source projects.

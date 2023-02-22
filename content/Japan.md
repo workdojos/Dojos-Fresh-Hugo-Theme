@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Japan.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Join online communities: Joining online communities like Open Source Community Japan, Linux User Group (LUG), Open Source Forum, and other tech-focused communities can help you learn more about open-source tech in Japan. These communities provide a platform to connect with like-minded people, share knowledge, and stay up-to-date with the latest trends in the field.
     
 2.  Attend conferences and events: Attending conferences and events related to open-source technology can help you learn more about the latest developments in the field. The Open Source Conference, Open Source Summit Japan, and Open Source Forum are some of the popular events in Japan that you can attend.

@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Australia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source technology in Australia, you can start by exploring the following resources and websites:
 
 1.  Linux Australia: Linux Australia is a community-driven organization that promotes and supports the use of Linux and open-source software in Australia. They organize conferences and events, provide resources and advocacy, and promote education and collaboration.

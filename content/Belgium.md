@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Belgium.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Belgium has a vibrant open-source tech community, and there are various resources available to learn more about it. Here are some of the best resources and notable technologists from Belgium throughout history:
 
 1.  Open Knowledge Belgium: Open Knowledge Belgium is a non-profit organization that promotes open knowledge and open data. They organize various events and workshops to educate people about open-source technologies.

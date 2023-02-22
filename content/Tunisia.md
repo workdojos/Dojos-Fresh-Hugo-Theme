@@ -1,13 +1,13 @@
-Model: Default
-
 ---
-
-> 37 / 37
-> 
-> how to learn more about open-source tech in Tunisia, include resources with links and some notable technologists from Tunisia throughout history.
-
+title: Tunisia Dojo
+include_footer: true
+sidebar: true
+sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Tunisia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 There are several ways to learn more about open-source technology in Tunisia, including the following:
 
 1.  Attend Open-Source Events: Tunisia has a vibrant open-source community, with several events and conferences taking place throughout the year. Attending such events will provide you with an opportunity to meet like-minded people and learn from experts in the field. One such event is the annual Tunisia Open Source Days (TOSD), which brings together developers, enthusiasts, and experts from around the country.
@@ -30,4 +30,56 @@ Notable Technologists from Tunisia throughout History:
 5.  Mehdi Jomaa: A Tunisian engineer and politician, Mehdi Jomaa served as the Prime Minister of Tunisia from 2014 to 2015. He is also a strong advocate for the use of open-source technology in the public sector.
     
 
+<br>
+<html>
+  <head>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 20px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #FDC858;
+        border-radius: 33px;
+        outline: none;
+        line-height:  0%;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://blog.workdojos.com/Tunisia" target="_blank">Claim this Dojo</a>
+  </body>
+</html>
+<br>
+
 ---
+
+
+**Traveler Town:**   our in-house open-source chat app.  One chat room per country (powered by <a href="https://rocket.chat" >Rocket.Chat </a>  (**Included in every Dojo**):  
+
+<iframe src="https://chat.traveler.town/channel/Tunisia" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+
+
+<br><br>
+
+<html>
+  <head>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 20px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #FDC858;
+        border-radius: 33px;
+        outline: none;
+        line-height:  %;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://workdojos.com/Turkey">Next dojo:  Turkey</a>
+  </body>
+</html>

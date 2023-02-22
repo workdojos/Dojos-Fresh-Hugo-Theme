@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Iraq.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Join the Iraqi Open Source community: The Iraqi Open Source community is a platform that brings together open source enthusiasts from all over Iraq. They share information and knowledge about open source technology, provide training and resources, and organize events to promote the use of open source technology in Iraq. You can join their Facebook group or follow them on Twitter to stay up-to-date with their activities.
     
 2.  Read online resources: There are many online resources available that provide information about open source technology in Iraq. These resources include blogs, forums, and websites that cover topics related to open source technology. Here are some websites to get started with:

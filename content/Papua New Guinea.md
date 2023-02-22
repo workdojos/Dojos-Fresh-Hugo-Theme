@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Papua New Guinea.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Papua New Guinea, there are several resources and notable technologists to consider:
 
 1.  Papua New Guinea Open Source Network: The Papua New Guinea Open Source Network is an online community of IT professionals and enthusiasts who promote the use of open-source software in the country. Their website offers resources, news, and events related to open-source tech.

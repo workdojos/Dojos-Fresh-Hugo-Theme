@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Central African Republic.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source tech in Central African Republic can be challenging due to limited access to technology and internet infrastructure. However, there are still some resources available to gain knowledge about open-source technology in the country.
 
 Here are some resources with links to learn more about open-source technology in Central African Republic:

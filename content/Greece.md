@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Greece.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source tech in Greece can be done through various resources such as attending meetups, joining online communities, and participating in hackathons and conferences. Here are some resources and notable technologists from Greece:
 
 1.  Hellenic Linux Users Group - A community of Linux enthusiasts in Greece, they organize regular events, talks, and workshops.

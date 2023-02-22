@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/countries/Algeria.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Join Open Source Communities: One of the best ways to learn more about open-source tech in Algeria is by joining communities. Algerian tech communities such as the Algerian Linux User Group, JUG Algeria, and Open Algeria are great places to start. You can learn about events, workshops, and meetups where you can network with other open source enthusiasts.
     
 2.  Attend Tech Conferences: Attending conferences is another way to learn about open-source tech in Algeria. Some of the notable tech conferences in Algeria include the Algerian PHP Conference, the Algerian Tech Day, and the Global Azure Bootcamp.

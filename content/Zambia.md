@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Zambia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source technology in Zambia can be a challenging task, but there are several resources available to help you. Some of these resources include online forums, open-source communities, tech meetups, and hackathons. Additionally, several technologists from Zambia have made significant contributions to the development of open-source technology. In this article, we will explore some of these resources and notable technologists from Zambia throughout history.
 
 Resources for learning about open-source technology in Zambia

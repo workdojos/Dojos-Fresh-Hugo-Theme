@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Panama.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Join the Open Source Community in Panama: The Panama Open Source Community is a group of developers, entrepreneurs, and IT professionals who collaborate to promote the use of open-source software and technology. Join their Facebook group to stay updated on their events and discussions.
     
 2.  Attend Meetups and Conferences: Attend tech meetups and conferences in Panama to learn about open-source tech and network with other like-minded individuals. Check out events on Meetup.com or Eventbrite.

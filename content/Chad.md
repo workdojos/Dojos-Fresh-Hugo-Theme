@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Chad.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Join the Chad Open Source Community: The Chad Open Source Community is a group of tech enthusiasts who work on open-source projects. Joining this community can help you learn more about open-source tech in Chad and connect with other tech professionals. You can find them on Facebook or Telegram.
     
 2.  Follow Chad's Open Source Blog: The Open Source Blog is a great resource for learning about open-source tech in Chad. The blog features news, updates, and tutorials on open-source projects in Chad.

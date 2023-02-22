@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Burundi.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Burundi, here are some resources with links and notable technologists from Burundi throughout history:
 
 1.  Burundi Open Data: This website provides open data on various topics related to Burundi, including education, health, population, and more. It can help you understand the country's open-source tech scene and the data that is available for developers to use in their projects.

@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Brazil.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Open Source Brazil (OSBr): OSBr is a non-profit organization that promotes the use and development of open source software in Brazil. Their website offers various resources, including news, events, and a directory of open source software projects in Brazil.
     
 2.  Linux Professional Institute Brazil (LPI): LPI is a non-profit organization that offers certification and training programs for open source technologies, including Linux. They have a network of partners and affiliates throughout Brazil, providing education and training for IT professionals.

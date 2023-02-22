@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Botswana.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source technology in Botswana, one can start by exploring the following resources:
 
 1.  The Botswana Innovation Hub: The Botswana Innovation Hub is a technology and innovation hub that provides support to start-ups, researchers, and innovators in Botswana. It offers access to funding, resources, and mentorship programs that are designed to support the development of open-source technology.

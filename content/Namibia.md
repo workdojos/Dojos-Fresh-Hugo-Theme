@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Namibia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Namibia, there are several resources with links that can be useful:
 
 1.  The Namibian Linux Users Group (NaLUG): This is a community of Linux enthusiasts in Namibia who are dedicated to promoting and sharing open-source technologies. Their website ([https://www.nalug.org/](https://www.nalug.org/)) contains a wealth of information on Linux and open-source technologies, as well as forums for discussion and collaboration.

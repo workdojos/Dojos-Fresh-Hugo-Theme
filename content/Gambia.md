@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Gambia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source tech in Gambia can be an exciting and enlightening journey. Here are some resources with links that can help you dive deeper into the subject.
 
 1.  The Gambia Open Data Portal: This portal provides access to various data sets, including health, education, agriculture, and more. The data is open-source and can be used for research and development.

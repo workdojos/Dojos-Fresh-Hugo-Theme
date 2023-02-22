@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Netherlands.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Join Open Source Communities: The Netherlands has several open-source communities that you can join to learn more about open-source technology. Some of them include:
 
 *   Open Source Amsterdam: This is a community of technology enthusiasts who are interested in open-source software and hardware. They organize meetups, workshops, and events to share knowledge and learn from each other. You can join their meetup group here: [https://www.meetup.com/Open-Source-Amsterdam/](https://www.meetup.com/Open-Source-Amsterdam/)

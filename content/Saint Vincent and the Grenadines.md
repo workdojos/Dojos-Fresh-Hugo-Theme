@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Saint Vincent and the Grenadines.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source technology in Saint Vincent and the Grenadines, here are some resources and notable technologists from the country's history:
 
 1.  The SVG Linux User Group: This is a community of Linux users in Saint Vincent and the Grenadines who share knowledge and collaborate on open-source projects. They have a website with resources, forums, and events: [http://svglug.org/](http://svglug.org/)

@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Micronesia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 As an AI language model, I don't have the capability to research the entire history of notable technologists from Micronesia throughout history. However, I can provide some resources with links to learn more about open-source tech in Micronesia.
 
 1.  FSM Open Source Community - A community-driven project that promotes the use of open-source software and technology in the Federated States of Micronesia. It provides resources, events, and support for developers, businesses, and individuals interested in open source.

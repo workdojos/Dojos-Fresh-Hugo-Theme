@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/North Macedonia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in North Macedonia, one can explore various online resources and attend tech conferences and meetups. Some of the resources with links are:
 
 1.  Open Source Macedonia - It is an online community of tech enthusiasts, developers, and students who share their knowledge and experience in open-source technology. They also organize meetups, workshops, and conferences.

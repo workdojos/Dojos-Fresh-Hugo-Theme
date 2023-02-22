@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Hungary.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 There are several ways to learn more about open-source tech in Hungary. Here are some resources with links and notable technologists from Hungary throughout history:
 
 1.  Open Source Community Hungary - This is a community of open source enthusiasts in Hungary who share knowledge and experience, organize events, and promote open source technologies.

@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/China.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Join local open-source communities: Joining local open-source communities can help you connect with like-minded people and gain insight into the open-source landscape in China. Some popular communities in China include Open Source China (OSC) and Open Source Beijing (OSBJ).
     
 2.  Attend open-source events and conferences: Attending open-source events and conferences is an excellent way to learn more about open-source tech in China. Some notable events include the Open Source Summit China and the China Open Source Conference.

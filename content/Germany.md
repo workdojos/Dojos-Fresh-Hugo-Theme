@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Germany.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Joining local open source communities: One of the best ways to learn about open source tech in Germany is to join local open source communities. There are several such groups in Germany, such as the Open Source Business Alliance (OSB Alliance) and Open Source Network.
     
 2.  Attending open source conferences: Attending open source conferences is another great way to learn about open source tech in Germany. Some of the notable open source conferences held in Germany are LinuxTag, FrOSCon, and Open Source Summit Europe.

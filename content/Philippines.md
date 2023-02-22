@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Phillippines.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source tech in the Philippines can be a challenging task, especially for those who are new to the tech industry. However, there are several resources available that can help individuals explore the various aspects of open-source technology in the country. Here are some ways to learn more about open-source tech in the Philippines:
 
 1.  Join online communities and forums: Several online communities and forums focus on open-source technology in the Philippines. These communities and forums allow individuals to connect with other like-minded people, share ideas, and collaborate on projects. Some of the popular online communities and forums in the Philippines include:

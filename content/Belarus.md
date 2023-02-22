@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Belarus.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Belarus, one can refer to the following resources:
 
 1.  The Open Source Initiative: The Open Source Initiative (OSI) is a non-profit organization that advocates for the benefits of open-source software and provides a platform for promoting and protecting the open-source movement. The website provides a list of open-source projects, events, and resources related to open-source software.

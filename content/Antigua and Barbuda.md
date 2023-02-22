@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Antigua and Barbuda.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Antigua-and-Barbuda, you can explore various resources and online communities that focus on technology and innovation. Here are some useful links:
 
 1.  Antigua Computer Technology (ACT) - This is a local tech community in Antigua and Barbuda that provides resources, training, and support for individuals interested in technology. They organize workshops, coding boot camps, and networking events to connect tech enthusiasts in the region.

@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Austria.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Open Source Community Austria: This is a non-profit organization that promotes and supports open-source technology in Austria. They organize events, workshops, and meetups for the community. Website: [https://www.osc.at/](https://www.osc.at/)
     
 2.  Linuxwochen: This is the largest open-source event in Austria. It is held annually in several cities across the country. The event provides an opportunity for developers, users, and enthusiasts to meet and share their knowledge. Website: [https://www.linuxwochen.at/](https://www.linuxwochen.at/)

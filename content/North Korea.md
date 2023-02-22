@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/North Korea.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source technology in North Korea can be a challenging task, given the country's isolation and limited access to information. However, here are some resources that can help you to start exploring this topic:
 
 1.  The North Korean Technology Forum: This online forum provides a platform for North Korean technologists and enthusiasts to share information and discuss open-source projects. You can find threads on various topics, such as programming languages, operating systems, and software development tools.

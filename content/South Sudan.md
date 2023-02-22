@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/South Sudan.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Join local tech communities: Joining local tech communities in South Sudan is a great way to learn more about open-source technology. The South Sudanese Tech Community is a group of young tech enthusiasts who are working to improve the tech ecosystem in South Sudan. They organize events, workshops, and hackathons, which can provide opportunities to learn about open-source tech.
     
 2.  Online resources: There are a number of online resources that can help you learn more about open-source technology. Some popular ones include GitHub, Stack Overflow, and GitLab. These platforms provide tutorials, code examples, and other resources that can help you get started with open-source tech.

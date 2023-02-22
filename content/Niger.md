@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Niger.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning more about open-source tech in Niger can be done through various online resources, attending tech events, and joining local tech communities. Here are some useful resources and notable technologists from Niger throughout history:
 
 1.  Tech Community in Niger: The Nigerien Tech community is a great place to start learning about open-source technology in Niger. Joining their online platform and attending their events can help you connect with other developers and tech enthusiasts.

@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Cuba.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source technology in Cuba, you can follow the below resources with links and some notable technologists from Cuba throughout history.
 
 1.  Cuba's Open-Source Revolution - This is a documentary that explores the open-source technology movement in Cuba. The film features interviews with Cuban software developers, academics, and government officials who are working to create a more independent and self-reliant tech industry.

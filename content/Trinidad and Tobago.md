@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Trinidad and Tobago.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source technology in Trinidad and Tobago can be done through several resources, including online communities, meetups, conferences, and tech organizations. Here are some of the resources and notable technologists from Trinidad and Tobago:
 
 1.  TTCS - The Trinidad and Tobago Computer Society is a non-profit organization that promotes the use of technology in the country. The organization hosts meetups, workshops, and seminars on various tech topics, including open-source technology.

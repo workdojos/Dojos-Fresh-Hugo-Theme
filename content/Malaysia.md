@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/countries/Malaysia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Open Source Malaysia - This website is a great resource for learning about open-source tech in Malaysia. It provides news, events, and updates on open-source projects and initiatives in the country. Link: [https://opensource.org.my/](https://opensource.org.my/)
     
 2.  Malaysia Open Source Community - This is a community-driven platform that promotes open-source technology and provides resources for individuals and organizations to get involved. Link: [https://opensource.com.my/](https://opensource.com.my/)

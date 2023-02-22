@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Vanuatu.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Vanuatu, you can access various resources available online. Here are some of the resources and notable technologists from Vanuatu:
 
 1.  The Vanuatu Linux Users Group (VLUG) is a group of Linux enthusiasts in Vanuatu that offers support and resources for people interested in open-source software. You can visit their website at [https://www.linux.org.vu/](https://www.linux.org.vu/).

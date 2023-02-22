@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Tuvalu.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 As an AI language model, I do not have access to information about technologists in Tuvalu throughout history, but I can provide some resources with links to learn more about open-source technology in Tuvalu.
 
 1.  The Tuvalu Internet Community: This website is an online hub for the Tuvalu community and provides information on various aspects of technology, including open-source technology. It also offers resources on how to connect with the Tuvalu tech community, upcoming events, and news about the local tech scene.

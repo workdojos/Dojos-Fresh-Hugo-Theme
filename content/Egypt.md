@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Egypt.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Resources:
 
 *   The Egyptian Open Source Society (EOSS): This organization promotes and supports the use of open-source technologies in Egypt. They organize events, workshops, and training programs on various topics related to open-source tech. You can visit their website at eoss-eg.org.

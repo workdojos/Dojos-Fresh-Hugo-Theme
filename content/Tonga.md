@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Tonga.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source tech in Tonga can be an exciting journey. Here are some resources with links that can help you gain more knowledge about open-source tech in Tonga:
 
 1.  The Tonga Open Source Society: This organization was founded to promote and advocate for open-source technologies in Tonga. They regularly organize events, workshops, and training sessions to educate the public on the benefits of open-source technologies. You can visit their website to learn more about their mission and upcoming events.

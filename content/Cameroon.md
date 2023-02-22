@@ -1,13 +1,13 @@
-Model: Default
-
 ---
-
-> 24 / 24
-> 
-> how to learn more about open-source tech in Cameroon, include resources with links and some notable technologists from Cameroon throughout history.
-
+title: Cameroon Dojo
+include_footer: true
+sidebar: true
+sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Cameroon.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source technology in Cameroon can be an exciting journey. Here are some resources with links that can help you learn more:
 
 1.  The Open Source Community Cameroon (OSCC): This is a community of open-source enthusiasts in Cameroon. They organize meetups, workshops, and other events to promote the use and development of open-source technology. Their website has resources, including news and a blog.

@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Guyana.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source technology in Guyana can be a challenging task, but there are various resources and notable technologists to explore. Here are some resources to help you get started:
 
 1.  Open Source Guyana (OSG): This organization aims to promote the use of open-source software and technology in Guyana. They provide resources, workshops, and events to help developers and enthusiasts learn more about open-source technology. Visit their website to learn more: [https://www.opensourceguyana.com/](https://www.opensourceguyana.com/)

@@ -4,8 +4,11 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
-As an AI language model, I don't have any information about open-source tech in Nauru specifically, but I can provide some general tips on how to learn more about open-source technology and notable technologists from Nauru.
+<figure>
+    <img src='/uploads/countries/Nauru.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
+I can provide some general tips on how to learn more about open-source technology and notable technologists from Nauru.
 
 1.  Research online: A good starting point is to research online about open-source technology and its development in Nauru. Some resources include GitHub, open source software directories, and websites like Opensource.com, Linux.com, and the Open Source Initiative.
     

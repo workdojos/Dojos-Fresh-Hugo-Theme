@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Ethiopia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Ethiopia, there are various resources and notable technologists you can explore. Below are some links and names you can check out:
 
 1.  Ethiopian Tech Community - This is a platform where Ethiopian technologists and entrepreneurs come together to network, collaborate and share knowledge. The community aims to promote tech innovation and growth in Ethiopia.

@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Grenada.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Attend Tech Meetups: Attend technology meetups in Grenada, such as Grenada ICT Association and SpiceCon, to learn more about open-source technology.
     
 2.  Join Online Communities: Join online communities, such as the Grenada Open Source Community on Facebook, to connect with other open-source tech enthusiasts and learn more about the latest trends and technologies.

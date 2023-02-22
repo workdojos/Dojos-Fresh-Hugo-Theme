@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Kazakhstan.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Join local open-source tech communities: There are several communities in Kazakhstan that focus on open-source technology. You can join these communities to learn more about open-source technology and connect with like-minded individuals. Here are some of the communities to join:
 
 *   Open Source Community Kazakhstan: This community promotes open-source technology and encourages individuals and businesses to adopt open-source solutions. They organize meetups and conferences to share knowledge and best practices.

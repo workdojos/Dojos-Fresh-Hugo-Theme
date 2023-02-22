@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Canada.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Attend Meetups and Conferences: Open-source Meetups and Conferences are a great way to connect with the community and learn about the latest trends and technologies in open source. Some popular open source events in Canada include Open Source Summit, Foss4g, and PyCon.
     
 2.  Join Online Communities: There are numerous online communities for open source enthusiasts where you can connect with like-minded people, ask questions, and share ideas. Some popular online communities in Canada include the Open Source Hardware Group, Open Source Canada, and the Open Source Software Institute.

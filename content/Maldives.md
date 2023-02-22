@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Maldives.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning more about open-source technology in Maldives can be a challenging task, as the country is relatively small and its tech scene is still in its infancy. However, there are a few resources and notable technologists from the country's past and present that can be of help.
 
 1.  Maldives Open Source Society: This is a non-profit organization dedicated to promoting and supporting open-source technology in Maldives. They offer various programs, events, and resources for individuals and organizations interested in open-source tech.

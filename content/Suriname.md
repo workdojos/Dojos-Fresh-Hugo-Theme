@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Suriname.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source technology in Suriname can be a great way to gain insight into the country's tech industry and its potential for growth. Here are some resources and notable technologists that can help you get started:
 
 1.  Surinamese Open Source Foundation (SOSF) - This organization is dedicated to promoting open-source technology in Suriname. They offer workshops, training programs, and events to help people learn more about open-source software and its potential uses. Their website also provides useful resources and links to other open-source tools and organizations in the country.

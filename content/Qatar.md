@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Qatar.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Qatar, there are several resources and notable technologists that you can explore. Here are some suggestions:
 
 1.  Qatar Free and Open Source Software (QFOSS): QFOSS is a community of developers and users in Qatar who support and promote the use of free and open-source software. They organize events and provide resources for learning and networking. You can visit their website at [https://qfoss.org/](https://qfoss.org/).

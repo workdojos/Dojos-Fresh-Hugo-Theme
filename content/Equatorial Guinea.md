@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Equatorial Guinea.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Explore open-source communities: One of the best ways to learn more about open-source technology in Equatorial Guinea is to join online communities and forums. Some of the notable communities include the Open Source Community Equatorial Guinea (OSCEG), the Africa Open Data and Internet Research Foundation (AODIRF), and the Open Source Initiative (OSI).
     
 2.  Attend local tech events: Attending local tech events is a great way to connect with like-minded individuals and learn about new technologies. Some notable tech events in Equatorial Guinea include the African Open Source Convention (AOSC), the Equatorial Guinea Digital Summit, and the Africa Open Data Conference.

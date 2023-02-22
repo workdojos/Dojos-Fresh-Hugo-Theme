@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Montenegro.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source tech in Montenegro can be done through various resources online and offline. Here are some of the ways to learn more about it:
 
 1.  Attend Tech Conferences and Events: The best way to learn about open-source tech in Montenegro is to attend conferences and events. These gatherings bring together tech experts, developers, and enthusiasts to discuss new and innovative ideas. Some of the notable tech conferences held in Montenegro are Web Summit, Code Camp, and the Montenegro Tech Meetup. Attending these events gives you a chance to meet with tech leaders, gain insight into their experiences, and learn about new technologies.

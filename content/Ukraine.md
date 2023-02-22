@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Ukraine.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Resources for learning about open-source tech in Ukraine:
 
 *   The Open Source Ukraine Community: A community of open-source enthusiasts and developers in Ukraine. They organize events, share knowledge and resources, and promote the use of open-source software in Ukraine. Their website is a good starting point for anyone interested in learning about open-source tech in Ukraine.

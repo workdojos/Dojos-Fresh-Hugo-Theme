@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Ghana.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Ghana, you can explore the following resources and notable technologists:
 
 1.  Ghana Open Source Roadmap: This website provides a comprehensive overview of the open-source ecosystem in Ghana, including resources, events, and projects. The roadmap is maintained by the Ghana Open Source Network (GOSN), a community-driven initiative to promote and support the use of open-source software in Ghana.

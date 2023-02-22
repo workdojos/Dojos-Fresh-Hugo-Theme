@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Georgia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source technology in the Republic of Georgia, one can take the following steps:
 
 1.  Check out the website of the Georgian Open Source Initiative (GOSI), a community-driven organization that promotes open-source software in Georgia. The website provides resources, news, and events related to open-source technology in the country.

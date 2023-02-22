@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Bahamas.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Join the Bahamas Open Source User Group (BOSUG) BOSUG is a community of open-source enthusiasts in the Bahamas. They meet regularly to discuss open-source technologies and share knowledge about open-source projects. Joining this group is a great way to learn more about open-source tech in the Bahamas. You can find their website here: [https://www.bosug.org/](https://www.bosug.org/)
     
 2.  Attend Tech Conferences in the Bahamas Attending tech conferences in the Bahamas is another great way to learn more about open-source tech. Many conferences have sessions and talks focused on open-source technologies. Some notable conferences to attend include the Bahamas Tech Summit, Techstars Startup Weekend Bahamas, and Bahamas Blockchain & Cryptocurrency Conference.

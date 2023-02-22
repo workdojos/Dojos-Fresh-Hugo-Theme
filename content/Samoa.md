@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Samoa.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning more about open-source tech in Samoa can be a challenging task due to limited resources and exposure. However, the following resources can provide an insight into the open-source tech scene in Samoa:
 
 1.  Samoa Coding Academy: It is a non-profit organization established to provide affordable coding education to Samoan students. The academy teaches various programming languages, including Python, JavaScript, and HTML/CSS.

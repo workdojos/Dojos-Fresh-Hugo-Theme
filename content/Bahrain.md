@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Bahrain.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Bahrain, you can explore the following resources:
 
 1.  Bahrain Open Source Society: The Bahrain Open Source Society (BOSS) is a community-driven organization that promotes open-source technologies and advocates for the use of open-source software in Bahrain. You can visit their website to learn more about their initiatives, events, and projects.

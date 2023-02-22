@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Norway.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 There are several ways to learn more about open-source tech in Norway, including attending events, participating in online communities, and following industry leaders. Here are some resources and notable technologists from Norway throughout history:
 
 1.  Meetups and Events: Joining a local community is a great way to learn from peers and stay up-to-date on the latest trends. Some of the popular events in Norway include:

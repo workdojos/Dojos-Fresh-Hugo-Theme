@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Nicaragua.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source technology in Nicaragua can be done through several resources, including:
 
 1.  Nicaragua Open Source Community - This is a community of open-source enthusiasts in Nicaragua that promotes the use of open-source technology in the country. They provide resources, events, and forums for Nicaraguan developers to collaborate and share knowledge.

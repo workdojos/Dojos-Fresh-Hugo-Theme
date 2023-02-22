@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Andorra.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Andorra is a small country, and the tech community is relatively small as well. However, there are a few notable technologists from Andorra throughout history. Here are some resources and links to learn more about open-source tech in Andorra:
 
 1.  Join the Andorra Tech Community: The Andorra Tech Community is a group of professionals, entrepreneurs, and students interested in technology. They organize meetups, workshops, and conferences to discuss the latest trends in technology. You can join their Facebook group to stay updated on their events: [https://www.facebook.com/groups/andorratech/](https://www.facebook.com/groups/andorratech/)

@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Tajikistan.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Resources with links:
 
 a) Open Source Initiative (OSI): The OSI is a global non-profit organization that promotes open-source software, and its website provides useful resources, including licensing information, events, and news. The OSI also offers a list of open-source licenses that are approved by the organization, and it is an excellent place to start learning more about the concept of open-source technology.

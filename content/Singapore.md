@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Singapore.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source tech in Singapore can be an exciting journey for tech enthusiasts. Here are some resources and notable technologists to help you get started:
 
 1.  Singapore Open Source Software: The Singapore government has been promoting the use of open-source software for several years. The Singapore Open Source Software website provides a comprehensive list of open-source projects, communities, and events in Singapore.

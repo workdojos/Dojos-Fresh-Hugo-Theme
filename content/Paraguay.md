@@ -1,10 +1,13 @@
 ---
-title:  Dojo
+title:  Paraguay Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Paraguay.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Paraguay, here are some resources and notable technologists from Paraguay throughout history:
 
 Resources:
@@ -43,7 +46,7 @@ Notable Technologists:
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/Paraguay" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>
@@ -53,7 +56,7 @@ Notable Technologists:
 
 **Traveler Town:**   our in-house open-source chat app.  One chat room per country (powered by <a href="https://rocket.chat" >Rocket.Chat </a>  (**Included in every Dojo**):  
 
-<iframe src="https://chat.traveler.town/channel/" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://chat.traveler.town/channel/Paraguay" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 
 
 <br><br>

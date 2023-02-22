@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Cambodia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Resources with Links:
 
 a. Open Institute Cambodia: The Open Institute is a non-profit organization based in Cambodia that works to promote and develop open-source technology in the country. Their website contains a wealth of resources on open-source software, including tutorials, forums, and information on upcoming events. You can find their website here: [https://open.org.kh/](https://open.org.kh/).

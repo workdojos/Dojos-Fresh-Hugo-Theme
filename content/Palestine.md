@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Palestine.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 There are various ways to learn more about open-source technology in Palestine. Here are some resources with links and notable technologists from Palestine throughout history:
 
 1.  Open Source Palestine: This is an organization that promotes and supports open-source technology in Palestine. They offer training, workshops, and other resources to help individuals and organizations adopt open-source software. You can learn more about their work by visiting their website: [https://opensource.ps/](https://opensource.ps/).

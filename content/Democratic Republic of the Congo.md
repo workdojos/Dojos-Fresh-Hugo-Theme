@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Democratic Republic of the Congo.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Explore online communities and forums: Join online communities such as GitHub, GitLab, or Stack Overflow to learn more about open-source technologies in the Democratic Republic of Congo. You can also search for forums and discussion groups dedicated to open-source technologies in the country.
     
 2.  Attend local meetups and events: Look for local tech events and meetups in the Democratic Republic of Congo. This will allow you to meet and network with like-minded individuals and learn about new open-source projects and initiatives.

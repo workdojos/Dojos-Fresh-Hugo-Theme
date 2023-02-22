@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Oman.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source technology in Oman can be a challenging task, especially since the community is relatively small compared to other countries. However, there are several resources available that can help interested individuals learn more about the topic. Here are some of the best resources:
 
 1.  Oman Open Source Community (OOSC): This is a community of open-source enthusiasts in Oman that is dedicated to promoting the use of open-source technology. The group hosts regular meetups and events where members can share ideas and collaborate on projects. The OOSC website also provides information on the latest developments in open-source technology.

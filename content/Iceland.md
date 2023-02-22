@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Iceland.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Iceland, there are various resources available online that provide information about the subject. Here are some of the resources and notable technologists from Iceland throughout history:
 
 1.  Open Iceland - Open Iceland is a non-profit organization that promotes the use of open-source technologies in Iceland. They provide various resources, including a directory of open-source tools and services, a blog with news and updates about the open-source community in Iceland, and a community forum where users can share their knowledge and experiences.

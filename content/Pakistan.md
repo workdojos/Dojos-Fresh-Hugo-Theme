@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Pakistan.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Join Open Source Communities: One of the best ways to learn about open source tech in Pakistan is to join open source communities such as Open Source Pakistan, Open Source Foundation of Pakistan, and Pakistan Open Source Summit. These communities hold regular events, conferences, and meetups to discuss open source tech, share knowledge and connect with like-minded individuals.
     
 2.  Participate in Online Forums: Online forums such as Stack Overflow, GitHub, and Reddit are great resources for learning about open source tech in Pakistan. You can post questions, share your work, and collaborate with other developers on projects.

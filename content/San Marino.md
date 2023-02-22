@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/San Marino.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  The best resource for learning more about open-source tech in San Marino is the San Marino Innovation website. This website provides detailed information on the latest technologies and innovations in San Marino, including open-source software.
     
 2.  Another great resource for learning about open-source tech in San Marino is the University of the Republic of San Marino. The university has a computer science department that provides education and research opportunities in open-source software.

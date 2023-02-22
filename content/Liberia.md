@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Liberia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source tech in Liberia can be a rewarding and exciting experience. Here are some resources and notable technologists from Liberia throughout history that can help you get started:
 
 1.  Liberia Open Data Portal: This platform provides access to a vast range of data, statistics, and information about various aspects of Liberia, including open-source technology. It is an excellent resource for those who want to learn more about how open-source tech is being used in Liberia.

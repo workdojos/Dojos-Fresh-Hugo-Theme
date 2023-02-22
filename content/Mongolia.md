@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Mongolia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Mongolia, you can check out the following resources with links:
 
 1.  Mongolian Open Source Community: This is a community of open-source enthusiasts in Mongolia who promote and support the use of open-source software and technologies. You can join their Facebook group or follow their Twitter account to stay up to date with their activities.

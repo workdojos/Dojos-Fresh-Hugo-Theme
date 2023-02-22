@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Djibouti.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Djibouti, here are some resources with links and notable technologists from Djibouti throughout history:
 
 1.  Djibouti Open Data Portal: The Djibouti Open Data Portal is a platform that provides access to data sets and information on various topics such as agriculture, education, health, and transportation. The portal is an excellent resource for developers, researchers, and policymakers who want to use open data to develop innovative solutions.

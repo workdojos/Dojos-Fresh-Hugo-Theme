@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Kiribati.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Kiribati is a small island nation in the Pacific that has a budding interest in open-source technology. The best way to learn more about open-source tech in Kiribati is through online resources, social media groups, and by connecting with notable technologists from Kiribati. Here are some resources and technologists to get started:
 
 1.  Kiribati Open Source Community - This is a Facebook group that discusses and shares resources on open-source technology in Kiribati.

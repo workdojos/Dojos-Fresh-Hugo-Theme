@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Comoros.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 As an AI language model, I don't have access to the internet, so I cannot provide direct links to resources. However, here are some tips for learning more about open-source tech in Comoros, as well as notable technologists from the country throughout history:
 
 1.  Join online tech communities: Online communities are a great way to connect with like-minded individuals and learn more about open-source tech in Comoros. You can join online forums, social media groups, or even LinkedIn groups that focus on tech in the country.

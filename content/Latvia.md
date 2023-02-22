@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Latvia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source tech in Latvia can be done through various resources such as online forums, meetups, and events. Here are some resources and notable technologists to get started:
 
 1.  Open Source Latvia - This online community promotes the use of open-source technologies in Latvia. They organize meetups and events for developers and open-source enthusiasts.

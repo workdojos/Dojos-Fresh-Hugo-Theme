@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Nigeria.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source tech in Nigeria can be a challenging task, but with the right resources and information, you can easily get started. Here are some tips to get you started:
 
 1.  Join the Nigerian Open Source Community: The Nigerian Open Source Community is a group of tech enthusiasts who are passionate about open-source technologies. By joining this community, you will have access to resources, knowledge, and support from other members.

@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Mexico.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source technology in Mexico can be an enriching experience. The country has a vibrant technology community, with many developers and entrepreneurs dedicated to creating and promoting open-source technology. Here are some resources to help you learn more:
 
 1.  Mexican Free Software Community (Comunidad de Software Libre México) - This community is dedicated to promoting free and open-source software in Mexico. Their website provides news, forums, and resources related to open-source technology.

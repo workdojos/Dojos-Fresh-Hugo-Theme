@@ -1,10 +1,13 @@
 ---
-title: Afghanistan Dojo
+title: Estonia Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Estonia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Open-source tech resources in Estonia:
 
 *   Open Knowledge Estonia: This is a non-profit organisation that promotes open data and open-source technology in Estonia. They offer events, workshops and training sessions to educate and empower people to use open data and technology. Their website also features a blog with updates on open-source initiatives in Estonia.
@@ -45,7 +48,7 @@ sidebarlogo: wordojos_logo
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Afghanistan" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/Estonia" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>
@@ -55,7 +58,7 @@ sidebarlogo: wordojos_logo
 
 **Traveler Town:**   our in-house open-source chat app.  One chat room per country (powered by <a href="https://rocket.chat" >Rocket.Chat </a>  (**Included in every Dojo**):  
 
-<iframe src="https://chat.traveler.town/channel/Afghanistan" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://chat.traveler.town/channel/Estonia" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 
 
 <br><br>

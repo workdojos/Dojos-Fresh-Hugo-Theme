@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Solomon Islands.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source technology in Solomon Islands, the following resources and notable technologists can be helpful:
 
 1.  ICT4SI: ICT4SI is a community organization in Solomon Islands that focuses on ICT education and open-source software. Their website provides access to resources such as tutorials and training materials, and they organize events and workshops to promote open-source technology.

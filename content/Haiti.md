@@ -1,10 +1,13 @@
 ---
-title: Afghanistan Dojo
+title: Haiti Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Haiti.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Haiti, here are some resources with links and notable technologists from Haiti throughout history:
 
 1.  Haitian Open Source Community (HOSC): The HOSC is a group of Haitian tech enthusiasts and professionals working towards advancing open-source technology in Haiti. They organize events, workshops, and hackathons to promote the use of open-source software in Haiti.
@@ -41,7 +44,7 @@ These are just a few examples of notable technologists from Haiti who have contr
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Afghanistan" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/Haiti" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>
@@ -51,7 +54,7 @@ These are just a few examples of notable technologists from Haiti who have contr
 
 **Traveler Town:**   our in-house open-source chat app.  One chat room per country (powered by <a href="https://rocket.chat" >Rocket.Chat </a>  (**Included in every Dojo**):  
 
-<iframe src="https://chat.traveler.town/channel/Afghanistan" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://chat.traveler.town/channel/Haiti" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 
 
 <br><br>

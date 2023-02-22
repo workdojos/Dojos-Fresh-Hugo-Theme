@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/AfghaniBruneistan.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Brunei Open Source Community - The Brunei Open Source Community is a group of developers and enthusiasts who are passionate about open-source technologies. They regularly host events and meetups to share their knowledge and promote the use of open-source software.
     
 2.  Brunei Geek Meet - Brunei Geek Meet is a tech community that aims to bring together technologists, entrepreneurs, and enthusiasts to share knowledge and collaborate on projects. They regularly host events and meetups to discuss various topics related to tech, including open-source technologies.

@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Vietnam.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source technology in Vietnam, here are some resources and notable technologists to check out:
 
 1.  FOSS Vietnam: A community of people in Vietnam who promote and support Free and Open Source Software (FOSS) development. They organize events and workshops to educate and engage people in open-source technology. You can find their website here: [https://www.foss.vn/](https://www.foss.vn/)

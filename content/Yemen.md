@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Yemen.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source tech in Yemen can be challenging due to the limited resources available online. However, there are a few resources that one can access to gain more insight into the subject. Below are some links and notable technologists from Yemen throughout history.
 
 1.  Yemen Open Source Community: This is a platform that brings together open-source enthusiasts in Yemen. It's an excellent place to start learning about open-source tech in Yemen. The platform provides resources and information on open-source projects in Yemen.

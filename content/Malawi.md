@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Malawi.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 1.  Open Source Malawi: This is a community of open-source enthusiasts in Malawi. Their website provides a lot of information on open source technologies, events, and resources for people who want to learn more.
     
 2.  Malawi Linux User Group: This is a community of Linux users in Malawi. They hold regular meetups, workshops, and conferences to promote the use of open-source software.

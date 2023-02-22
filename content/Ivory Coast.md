@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Ivory Coast.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source tech in Côte-d'Ivoire, here are some resources and notable technologists from the country's history:
 
 1.  AfriStack: AfriStack is a tech community in Côte-d'Ivoire that supports and promotes open-source technology in the country. They organize workshops, hackathons, and meetups to teach and share knowledge about open-source tech.

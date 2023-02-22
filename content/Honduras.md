@@ -4,7 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Honduras.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning about open-source tech in Honduras can be an exciting and fulfilling journey. There are several resources available online to help you get started. Here are some of the most useful ones:
 
 1.  Open Source Initiative Honduras - The Open Source Initiative Honduras is a local chapter of the global Open Source Initiative. The group promotes open-source technologies and provides education and support to local communities. Their website ([https://www.opensource.org/affiliates/honduras](https://www.opensource.org/affiliates/honduras)) has a list of upcoming events, resources, and links to other organizations in the area.

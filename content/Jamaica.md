@@ -4,6 +4,10 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
+<figure>
+    <img src='/uploads/countries/Jamaica.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 To learn more about open-source technology in Jamaica, there are several resources and notable technologists to explore. Here are some suggestions:
 
 1.  Open Source Jamaica - This is a community of open-source enthusiasts in Jamaica. The group meets regularly to discuss various aspects of open-source technology and share knowledge. Check out their Facebook page for updates on upcoming events.

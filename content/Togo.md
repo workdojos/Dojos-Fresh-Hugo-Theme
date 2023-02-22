@@ -1,13 +1,13 @@
-Model: Default
-
 ---
-
-> 34 / 34
-> 
-> how to learn more about open-source tech in Togo, include resources with links and some notable technologists from Togo throughout history.
-
+title: Togo Dojo
+include_footer: true
+sidebar: true
+sidebarlogo: wordojos_logo
 ---
-
+<figure>
+    <img src='/uploads/countries/Togo.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
 Learning more about open-source tech in Togo can be done through the following resources:
 
 1.  Togo Open Source: This is a community that promotes and supports the use of open-source software in Togo. They provide information on open-source technologies, events, and training opportunities. Website: [https://togoopensource.org/](https://togoopensource.org/)
@@ -32,4 +32,56 @@ Some notable technologists from Togo throughout history include:
 
 Overall, Togo has a growing community of open-source technologists who are working to promote and advance the use of open-source technologies in the country.
 
+<br>
+<html>
+  <head>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 20px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #FDC858;
+        border-radius: 33px;
+        outline: none;
+        line-height:  0%;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://blog.workdojos.com/Togo" target="_blank">Claim this Dojo</a>
+  </body>
+</html>
+<br>
+
 ---
+
+
+**Traveler Town:**   our in-house open-source chat app.  One chat room per country (powered by <a href="https://rocket.chat" >Rocket.Chat </a>  (**Included in every Dojo**):  
+
+<iframe src="https://chat.traveler.town/channel/Togo" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+
+
+<br><br>
+
+<html>
+  <head>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 20px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #FDC858;
+        border-radius: 33px;
+        outline: none;
+        line-height:  %;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://workdojos.com/Tonga">Next dojo:  Tonga</a>
+  </body>
+</html>
