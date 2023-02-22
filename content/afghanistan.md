@@ -38,14 +38,14 @@ By joining open-source communities, attending tech conferences, reading blogs an
     <style>
       .button {
         display: inline-block;
-        padding: 10px 20px;
+        padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
-        line-height:  70%;
+        line-height:  0%;
       }
     </style>
   </head>
@@ -70,14 +70,14 @@ By joining open-source communities, attending tech conferences, reading blogs an
     <style>
       .button {
         display: inline-block;
-        padding: 10px 20px;
+        padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
-        line-height:  75%;
+        line-height:  %;
       }
     </style>
   </head>
