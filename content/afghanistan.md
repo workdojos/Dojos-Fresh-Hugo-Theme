@@ -77,7 +77,7 @@ By joining open-source communities, attending tech conferences, reading blogs an
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
-        line-height:  70%;
+        line-height:  75%;
       }
     </style>
   </head>
