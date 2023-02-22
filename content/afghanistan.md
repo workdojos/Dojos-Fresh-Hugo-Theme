@@ -32,13 +32,59 @@ Learning about open-source tech in Afghanistan can be an exciting journey, and t
 *   Sayed Ahmad Shah Sadaat: Sayed Ahmad Shah Sadaat is an Afghan entrepreneur and the founder of the first Afghan software company, Netsol.
 
 By joining open-source communities, attending tech conferences, reading blogs and articles, and learning from notable technologists, you can gain a better understanding of open-source tech in Afghanistan.
+<br>
+<html>
+  <head>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #FDC858;
+        border-radius: 33px;
+        outline: none;
+        line-height:  70%;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://blog.workdojos.com/Afghanistan" target="_blank">Claim this Dojo</a>
+  </body>
+</html>
+<br>
 
 ---
+
+
 **Traveler Town:**   our in-house open-source chat app.  One chat room per country (powered by <a href="https://rocket.chat" >Rocket.Chat </a>  (**included in every dojo**):  
 
 <iframe src="https://chat.traveler.town/channel/Afghanistan" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 
+
 <br><br>
 
+<html>
+  <head>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #FDC858;
+        border-radius: 33px;
+        outline: none;
+        line-height:  70%;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://workdojos.com/Albania">Next dojo:  Albania</a>
+  </body>
+</html>
 
- <a href="https://workdojos.com/Albania">Next dojo:  Albania</a> 
+
+ 
