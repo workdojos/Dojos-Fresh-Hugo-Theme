@@ -39,7 +39,7 @@ params:
     # Button text
     buttontext: Get a dojo
     # Where the main hero button links to
-    buttonlink: "https://workdojos.com/marketplace"
+    buttonlink: "https://workmates.live/marketplace"
     # Hero image (from static/images/___)
     image: logos/inspire.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -835,7 +835,7 @@ params:
     subtitle: Choose from over 1000 areas of expertise or blaze your own trail.
     image: logos/undraw_road_to_knowledge_m8s0.svg
     buttonText: Browse dojos
-    buttonLink: "https://workdojos.com/marketplace"
+    buttonLink: "https://workmates.live/marketplace"
   section4:
     title: Our mission.
     subtitle: To make open-source more accessible.
