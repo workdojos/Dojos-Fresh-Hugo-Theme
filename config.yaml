@@ -49,158 +49,30 @@ params:
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Around the World
+  - title: Open-Source Around the World
     sublinks:
-    - title: Afghanistan
-      url: https://workdojos.com/Afghanistan
-    - title: Albania
-      url: https://workdojos.com/Albania
-    - title: Algeria
-      url: https://workdojos.com/Algeria
-    - title: Andorra
-      url: https://workdojos.com/Andorra
-    - title: Angola
-      url: https://workdojos.com/Angola
-    - title: Antigua-and-Barbuda
-      url: https://workdojos.com/Antigua-and-Barbuda
     - title: Argentina
       url: https://workdojos.com/Argentina
-    - title: Armenia
-      url: https://workdojos.com/Armenia
     - title: Australia
       url: https://workdojos.com/Australia
     - title: Austria
       url: https://workdojos.com/Austria
-    - title: Azerbaijan
-      url: https://workdojos.com/Azerbaijan
-    - title: Bahamas
-      url: https://workdojos.com/Bahamas
-    - title: Bahrain
-      url: https://workdojos.com/Bahrain
-    - title: Bangladesh
-      url: https://workdojos.com/Bangladesh
-    - title: Barbados
-      url: https://workdojos.com/Barbados
-    - title: Belarus
-      url: https://workdojos.com/Belarus
     - title: Belgium
       url: https://workdojos.com/Belgium
-    - title: Belize
-      url: https://workdojos.com/Belize
-    - title: Benin
-      url: https://workdojos.com/Benin
-    - title: Bhutan
-      url: https://workdojos.com/Bhutan
-    - title: Bolivia
-      url: https://workdojos.com/Bolivia
-    - title: Bosnia-and-Herzegovina
-      url: https://workdojos.com/Bosnia-and-Herzegovina
-    - title: Botswana
-      url: https://workdojos.com/Botswana
-    - title: Brazil
-      url: https://workdojos.com/Brazil
-    - title: Brunei
-      url: https://workdojos.com/Brunei
-    - title: Bulgaria
-      url: https://workdojos.com/Bulgaria
-    - title: Burkina-Faso
-      url: https://workdojos.com/Burkina-Faso
-    - title: Burundi
-      url: https://workdojos.com/Burundi
-    - title: Côte-d'Ivoire
-      url: https://workdojos.com/Côte-d'Ivoire
-    - title: Cabo-Verde
-      url: https://workdojos.com/Cabo-Verde
-    - title: Cambodia
-      url: https://workdojos.com/Cambodia
-    - title: Cameroon
-      url: https://workdojos.com/Cameroon
     - title: Canada
       url: https://workdojos.com/Canada
-    - title: Central-African-Republic
-      url: https://workdojos.com/Central-African-Republic
-    - title: Chad
-      url: https://workdojos.com/Chad
-    - title: Chile
-      url: https://workdojos.com/Chile
-    - title: China
-      url: https://workdojos.com/China
-    - title: Colombia
-      url: https://workdojos.com/Colombia
-    - title: Comoros
-      url: https://workdojos.com/Comoros
-    - title: Congo-(Congo-Brazzaville)
-      url: https://workdojos.com/Congo-(Congo-Brazzaville)
-    - title: Costa-Rica
-      url: https://workdojos.com/Costa-Rica
-    - title: Croatia
-      url: https://workdojos.com/Croatia
-    - title: Cuba
-      url: https://workdojos.com/Cuba
-    - title: Cyprus
-      url: https://workdojos.com/Cyprus
-    - title: Czechia-(Czech-Republic)
-      url: https://workdojos.com/Czech
-    - title: Democratic-Republic-of-the-Congo
-      url: https://workdojos.com/Democratic-Republic-of-the-Congo
     - title: Denmark
       url: https://workdojos.com/Denmark
-    - title: Djibouti
-      url: https://workdojos.com/Djibouti
-    - title: Dominica
-      url: https://workdojos.com/Dominica
-    - title: Dominican-Republic
-      url: https://workdojos.com/Dominican-Republic
-    - title: Ecuador
-      url: https://workdojos.com/Ecuador
     - title: Egypt
       url: https://workdojos.com/Egypt
-    - title: El-Salvador
-      url: https://workdojos.com/El-Salvador
-    - title: Equatorial-Guinea
-      url: https://workdojos.com/Equatorial-Guinea
-    - title: Eritrea
-      url: https://workdojos.com/Eritrea
-    - title: Estonia
-      url: https://workdojos.com/Estonia
-    - title: Eswatini
-      url: https://workdojos.com/Eswatini
-    - title: Ethiopia
-      url: https://workdojos.com/Ethiopia
-    - title: Fiji
-      url: https://workdojos.com/Fiji
     - title: Finland
       url: https://workdojos.com/Finland
     - title: France
       url: https://workdojos.com/France
-    - title: Gabon
-      url: https://workdojos.com/Gabon
-    - title: Gambia
-      url: https://workdojos.com/Gambia
-    - title: Georgia
-      url: https://workdojos.com/Georgia
     - title: Germany
       url: https://workdojos.com/Germany
-    - title: Ghana
-      url: https://workdojos.com/Ghana
-    - title: Greece
+     - title: Greece
       url: https://workdojos.com/Greece
-    - title: Grenada
-      url: https://workdojos.com/Grenada
-    - title: Guatemala
-      url: https://workdojos.com/Guatemala
-    - title: Guinea
-      url: https://workdojos.com/Guinea
-    - title: Guinea-Bissau
-      url: https://workdojos.com/Guinea-Bissau
-    - title: Guyana
-      url: https://workdojos.com/Guyana
-    - title: Haiti
-      url: https://workdojos.com/Haiti
-    - title: Holy-See
-      url: https://workdojos.com/Holy-See
-    - title: Honduras
-      url: https://workdojos.com/Honduras
     - title: Hungary
       url: https://workdojos.com/Hungary
     - title: Iceland
@@ -209,10 +81,6 @@ params:
       url: https://workdojos.com/India
     - title: Indonesia
       url: https://workdojos.com/Indonesia
-    - title: Iran
-      url: https://workdojos.com/Iran
-    - title: Iraq
-      url: https://workdojos.com/Iraq
     - title: Ireland
       url: https://workdojos.com/Ireland
     - title: Israel
@@ -225,108 +93,24 @@ params:
       url: https://workdojos.com/Japan
     - title: Jordan
       url: https://workdojos.com/Jordan
-    - title: Kazakhstan
-      url: https://workdojos.com/Kazakhstan
-    - title: Kenya
-      url: https://workdojos.com/Kenya
-    - title: Kiribati
-      url: https://workdojos.com/Kiribati
-    - title: Kuwait
-      url: https://workdojos.com/Kuwait
-    - title: Kyrgyzstan
-      url: https://workdojos.com/Kyrgyzstan
-    - title: Laos
-      url: https://workdojos.com/Laos
-    - title: Latvia
-      url: https://workdojos.com/Latvia
-    - title: Lebanon
-      url: https://workdojos.com/Lebanon
-    - title: Lesotho
-      url: https://workdojos.com/Lesotho
-    - title: Liberia
-      url: https://workdojos.com/Liberia
-    - title: Libya
-      url: https://workdojos.com/Libya
-    - title: Liechtenstein
-      url: https://workdojos.com/Liechtenstein
     - title: Lithuania
       url: https://workdojos.com/Lithuania
     - title: Luxembourg
       url: https://workdojos.com/Luxembourg
-    - title: Madagascar
-      url: https://workdojos.com/Madagascar
-    - title: Malawi
-      url: https://workdojos.com/Malawi
-    - title: Malaysia
-      url: https://workdojos.com/Malaysia
-    - title: Maldives
-      url: https://workdojos.com/Maldives
-    - title: Mali
-      url: https://workdojos.com/Mali
-    - title: Malta
-      url: https://workdojos.com/Malta
-    - title: Marshall-Islands
-      url: https://workdojos.com/Marshall-Islands
-    - title: Mauritania
-      url: https://workdojos.com/Mauritania
-    - title: Mauritius
-      url: https://workdojos.com/Mauritius
     - title: Mexico
       url: https://workdojos.com/Mexico
-    - title: Micronesia
-      url: https://workdojos.com/Micronesia
-    - title: Moldova
-      url: https://workdojos.com/Moldova
-    - title: Monaco
-      url: https://workdojos.com/Monaco
-    - title: Mongolia
-      url: https://workdojos.com/Mongolia
-    - title: Montenegro
-      url: https://workdojos.com/Montenegro
     - title: Morocco
       url: https://workdojos.com/Morocco
-    - title: Mozambique
-      url: https://workdojos.com/Mozambique
-    - title: Myanmar
-      url: https://workdojos.com/Myanmar
-    - title: Namibia
-      url: https://workdojos.com/Namibia
-    - title: Nauru
-      url: https://workdojos.com/Nauru
     - title: Nepal
       url: https://workdojos.com/Nepal
     - title: Netherlands
       url: https://workdojos.com/Netherlands
-    - title: New-Zealand
+    - title: New Zealand
       url: https://workdojos.com/New-Zealand
-    - title: Nicaragua
-      url: https://workdojos.com/Nicaragua
-    - title: Niger
-      url: https://workdojos.com/Niger
-    - title: Nigeria
-      url: https://workdojos.com/Nigeria
-    - title: North-Korea
-      url: https://workdojos.com/North-Korea
-    - title: North-Macedonia
-      url: https://workdojos.com/North-Macedonia
     - title: Norway
       url: https://workdojos.com/Norway
-    - title: Oman
-      url: https://workdojos.com/Oman
     - title: Pakistan
       url: https://workdojos.com/Pakistan
-    - title: Palau
-      url: https://workdojos.com/Palau
-    - title: Palestine-State
-      url: https://workdojos.com/Palestine-State
-    - title: Panama
-      url: https://workdojos.com/Panama
-    - title: Papua-New-Guinea
-      url: https://workdojos.com/Papua-New-Guinea
-    - title: Paraguay
-      url: https://workdojos.com/Paraguay
-    - title: Peru
-      url: https://workdojos.com/Peru
     - title: Philippines
       url: https://workdojos.com/Philippines
     - title: Poland
@@ -335,112 +119,32 @@ params:
       url: https://workdojos.com/Portugal
     - title: Qatar
       url: https://workdojos.com/Qatar
-    - title: Romania
-      url: https://workdojos.com/Romania
-    - title: Russia
-      url: https://workdojos.com/Russia
-    - title: Rwanda
-      url: https://workdojos.com/Rwanda
-    - title: Saint-Kitts-and-Nevis
-      url: https://workdojos.com/Saint-Kitts-and-Nevis
-    - title: Saint-Lucia
-      url: https://workdojos.com/Saint-Lucia
-    - title: Saint-Vincent-and-the-Grenadines
-      url: https://workdojos.com/Saint-Vincent-and-the-Grenadines
-    - title: Samoa
-      url: https://workdojos.com/Samoa
-    - title: San-Marino
-      url: https://workdojos.com/San-Marino
-    - title: Sao-Tome-and-Principe
-      url: https://workdojos.com/Sao-Tome-and-Principe
     - title: Saudi-Arabia
       url: https://workdojos.com/Saudi-Arabia
-    - title: Senegal
-      url: https://workdojos.com/Senegal
-    - title: Serbia
-      url: https://workdojos.com/Serbia
-    - title: Seychelles
-      url: https://workdojos.com/Seychelles
-    - title: Sierra-Leone
-      url: https://workdojos.com/Sierra-Leone
     - title: Singapore
       url: https://workdojos.com/Singapore
-    - title: Slovakia
-      url: https://workdojos.com/Slovakia
-    - title: Slovenia
-      url: https://workdojos.com/Slovenia
-    - title: Solomon-Islands
-      url: https://workdojos.com/Solomon-Islands
-    - title: Somalia
-      url: https://workdojos.com/Somalia
-    - title: South-Africa
+    - title: South Africa
       url: https://workdojos.com/South-Africa
-    - title: South-Korea
+    - title: South Korea
       url: https://workdojos.com/South-Korea
-    - title: South-Sudan
-      url: https://workdojos.com/South-Sudan
     - title: Spain
       url: https://workdojos.com/Spain
-    - title: Sri-Lanka
-      url: https://workdojos.com/Sri-Lanka
-    - title: Sudan
-      url: https://workdojos.com/Sudan
-    - title: Suriname
-      url: https://workdojos.com/Suriname
-    - title: Sweden
+     - title: Sweden
       url: https://workdojos.com/Sweden
     - title: Switzerland
       url: https://workdojos.com/Switzerland
-    - title: Syria
-      url: https://workdojos.com/Syria
-    - title: Tajikistan
-      url: https://workdojos.com/Tajikistan
-    - title: Tanzania
-      url: https://workdojos.com/Tanzania
     - title: Thailand
       url: https://workdojos.com/Thailand
-    - title: Timor-Leste
-      url: https://workdojos.com/Timor-Leste
-    - title: Togo
-      url: https://workdojos.com/Togo
-    - title: Tonga
-      url: https://workdojos.com/Tonga
-    - title: Trinidad-and-Tobago
-      url: https://workdojos.com/Trinidad-and-Tobago
     - title: Tunisia
       url: https://workdojos.com/Tunisia
-    - title: Turkey
-      url: https://workdojos.com/Turkey
-    - title: Turkmenistan
-      url: https://workdojos.com/Turkmenistan
-    - title: Tuvalu
-      url: https://workdojos.com/Tuvalu
-    - title: Uganda
-      url: https://workdojos.com/Uganda
-    - title: Ukraine
-      url: https://workdojos.com/Ukraine
-    - title: United-Arab-Emirates
-      url: https://workdojos.com/United-Arab-Emirates
-    - title: United-Kingdom
+    - title: United- ingdom
       url: https://workdojos.com/United-Kingdom
     - title: USA
       url: https://workdojos.com/USA
     - title: Uruguay
       url: https://workdojos.com/Uruguay
-    - title: Uzbekistan
-      url: https://workdojos.com/Uzbekistan
-    - title: Vanuatu
-      url: https://workdojos.com/Vanuatu
-    - title: Venezuela
-      url: https://workdojos.com/Venezuela
     - title: Vietnam
       url: https://workdojos.com/Vietnam
-    - title: Yemen
-      url: https://workdojos.com/Yemen
-    - title: Zambia
-      url: https://workdojos.com/Zambia
-    - title: Zimbabwe
-      url: https://workdojos.com/Zimbabwe
 
   - title: Features
     url: /features
