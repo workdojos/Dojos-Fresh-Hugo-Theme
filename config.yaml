@@ -60,8 +60,6 @@ params:
       url: /features/blog
     - title: Your own automation app
       url: /features/automation
-    - title: Your own VoIP number
-      url: /features/voip
     - title: Your own database app
       url: /features/db
     - title: Your own password manager
@@ -793,12 +791,12 @@ params:
         url: https://chat.workmates.live/channel/Jobseeker
 
   section1:
-    title: Every dojo starts with a dashboard.
-    subtitle: And that's just the beginning.
+    title: Dojos start with a dashboard.
+    subtitle: An easy first step into everything open-source.
     tiles:
     - title: A dashboard to rule them all.
       icon: mouse-globe
-      text: Because it's ALL yours (including your own domain)      
+      text: Because it's all yours (including your own domain)      
       url: https://admins.workdojos.com
       buttonText: See it live
     - title: Your kingdom front and center.  
