@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <figure>
-    <img src='/uploads/countries/Saint Kitts and Nevis Dojo.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <img src='/uploads/countries/Saint Kitts and Nevis.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
 To learn more about open-source technology in Saint Kitts and Nevis, you can start by exploring the following resources:
