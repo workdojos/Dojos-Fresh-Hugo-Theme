@@ -51,8 +51,6 @@ params:
   navbar:
   - title: Around the World
     sublinks:
-    - title: Argentina
-      url: https://workdojos.com/Argentina
     - title: Australia
       url: https://workdojos.com/Australia
     - title: Belgium
@@ -65,36 +63,22 @@ params:
       url: https://workdojos.com/Egypt
     - title: Finland
       url: https://workdojos.com/Finland
-    - title: France
-      url: https://workdojos.com/France
     - title: Germany
       url: https://workdojos.com/Germany
-    - title: Greece
-      url: https://workdojos.com/Greece
     - title: Iceland
       url: https://workdojos.com/Iceland
-    - title: India
-      url: https://workdojos.com/India
-    - title: Indonesia
-      url: https://workdojos.com/Indonesia
     - title: Ireland
       url: https://workdojos.com/Ireland
-    - title: Israel
-      url: https://workdojos.com/Israel
     - title: Italy
       url: https://workdojos.com/Italy
     - title: Mexico
       url: https://workdojos.com/Mexico
-    - title: Netherlands
-      url: https://workdojos.com/Netherlands
     - title: New Zealand
       url: https://workdojos.com/New-Zealand
     - title: Norway
       url: https://workdojos.com/Norway
     - title: Philippines
       url: https://workdojos.com/Philippines
-    - title: Poland
-      url: https://workdojos.com/Poland
     - title: Portugal
       url: https://workdojos.com/Portugal
     - title: Qatar
@@ -109,12 +93,11 @@ params:
       url: https://workdojos.com/Thailand
     - title: Tunisia
       url: https://workdojos.com/Tunisia
-    - title: United- ingdom
+    - title: UK
       url: https://workdojos.com/United-Kingdom
     - title: USA
       url: https://workdojos.com/USA
-    - title: Vietnam
-      url: https://workdojos.com/Vietnam
+
 
   - title: Features
     url: /features
