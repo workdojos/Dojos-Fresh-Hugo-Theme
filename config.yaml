@@ -49,7 +49,7 @@ params:
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Open-Source Around the World
+  - title: Around the World
     sublinks:
     - title: Argentina
       url: https://workdojos.com/Argentina
