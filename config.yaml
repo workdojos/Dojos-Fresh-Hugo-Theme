@@ -119,9 +119,6 @@ params:
     - title: Your own wiki
       url: /features/wiki
 
-  - title: Pricing
-    url: https://blog.workdojos.com/#/portal/signup
-  
 
   - title: Featured dojos
     sublinks:
@@ -177,6 +174,8 @@ params:
       url: https://workdojos.com/videogamers
     - title: Yogi Dojo
       url: https://workdojos.com/yogainstructor
+  - title: Pricing
+    url: https://blog.workdojos.com/#/portal/signup
   - title: Log in
     url: https://blog.workdojos.com/#/portal/login
   - title: Sign up
