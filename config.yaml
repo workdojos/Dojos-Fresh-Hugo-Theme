@@ -55,8 +55,6 @@ params:
       url: https://workdojos.com/Argentina
     - title: Australia
       url: https://workdojos.com/Australia
-    - title: Austria
-      url: https://workdojos.com/Austria
     - title: Belgium
       url: https://workdojos.com/Belgium
     - title: Canada
@@ -73,8 +71,6 @@ params:
       url: https://workdojos.com/Germany
     - title: Greece
       url: https://workdojos.com/Greece
-    - title: Hungary
-      url: https://workdojos.com/Hungary
     - title: Iceland
       url: https://workdojos.com/Iceland
     - title: India
@@ -87,30 +83,14 @@ params:
       url: https://workdojos.com/Israel
     - title: Italy
       url: https://workdojos.com/Italy
-    - title: Jamaica
-      url: https://workdojos.com/Jamaica
-    - title: Japan
-      url: https://workdojos.com/Japan
-    - title: Jordan
-      url: https://workdojos.com/Jordan
-    - title: Lithuania
-      url: https://workdojos.com/Lithuania
-    - title: Luxembourg
-      url: https://workdojos.com/Luxembourg
     - title: Mexico
       url: https://workdojos.com/Mexico
-    - title: Morocco
-      url: https://workdojos.com/Morocco
-    - title: Nepal
-      url: https://workdojos.com/Nepal
     - title: Netherlands
       url: https://workdojos.com/Netherlands
     - title: New Zealand
       url: https://workdojos.com/New-Zealand
     - title: Norway
       url: https://workdojos.com/Norway
-    - title: Pakistan
-      url: https://workdojos.com/Pakistan
     - title: Philippines
       url: https://workdojos.com/Philippines
     - title: Poland
@@ -119,18 +99,10 @@ params:
       url: https://workdojos.com/Portugal
     - title: Qatar
       url: https://workdojos.com/Qatar
-    - title: Saudi-Arabia
-      url: https://workdojos.com/Saudi-Arabia
-    - title: Singapore
-      url: https://workdojos.com/Singapore
-    - title: South Africa
-      url: https://workdojos.com/South-Africa
     - title: South Korea
       url: https://workdojos.com/South-Korea
     - title: Spain
       url: https://workdojos.com/Spain
-    - title: Sweden
-      url: https://workdojos.com/Sweden
     - title: Switzerland
       url: https://workdojos.com/Switzerland
     - title: Thailand
@@ -141,8 +113,6 @@ params:
       url: https://workdojos.com/United-Kingdom
     - title: USA
       url: https://workdojos.com/USA
-    - title: Uruguay
-      url: https://workdojos.com/Uruguay
     - title: Vietnam
       url: https://workdojos.com/Vietnam
 
