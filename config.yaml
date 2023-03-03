@@ -840,7 +840,7 @@ params:
         url: https://chat.workmates.live/channel/Jobseeker
 
   section1:
-    title: Dojos start with a dashboard.
+    title: It start with a simple dashboard.
     subtitle: An easy first step into everything open-source.
     tiles:
     - title: A dashboard to rule them all.
@@ -870,7 +870,7 @@ params:
       text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  The ultimate sandbox.
       icon: laptop-cloud
     - title: To be dependent on Big Tech is to be at a disadvantage.
-      text: Prepare for the digital future AND save money.  $100/month in value and utility for as little as $8/month.  
+      text: Prepare for the digital future AND save money.  $100/month in value a real person to talk to.  
       icon: mobile-feed
     - title: Build the next big thing.
       text: With millions of open-source apps and micro-services at your beck and call, you CAN build the next big thing!
