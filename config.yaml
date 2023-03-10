@@ -18,7 +18,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
-  description: Dashboard.  Dojo.  Business in a Box.  Join the open-source revolution in whatever it is that you do.
+  description: Dashboard.  Dojo.  Business in a Box.  We are a free at-cost service that will guide you into the world of self-hosted open-source technology.
   # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
   # preloader: false
   navbarlogo:
@@ -35,7 +35,7 @@ params:
     # Main hero title
     title: Dashboard. Dojo.  Business in a Box.
     # Hero subtitle (optional)
-    subtitle: Ditch your dependency on Big Tech.  Join the open-source revolution.  Build your own kingdom on your own server. 
+    subtitle: Ditch your dependency on Big Tech.  Build your own kingdom on your own server.  For free. 
     # Button text
     buttontext: Get a dojo
     # Where the main hero button links to
@@ -124,30 +124,22 @@ params:
     sublinks:
     - title: Administrator Dojo
       url: https://workdojos.com/administrators
-    - title: App Developer Dojo
-      url: https://workdojos.com/appdeveloper
     - title: Biologist Dojo
       url: https://workdojos.com/biologist
     - title: Clinician Dojo
       url: https://workdojos.com/clinician
-    - title: Exporter Dojo
-      url: https://workdojos.com/exporter
     - title: Firefighter Dojo
       url: https://workdojos.com/firefighters
     - title: Grower Dojo
       url: https://workdojos.com/growers
     - title: Interpreter Dojo
       url: https://workdojos.com/interpreters
-    - title: Law Enforcement Dojo
-      url: https://workdojos.com/lawenforcement
     - title: Life Coach Dojo
       url: https://workdojos.com/lifecoaches
     - title: Lyricist Dojo
       url: https://workdojos.com/lyricist
     - title: Novelist Dojo
       url: https://workdojos.com/novelist
-    - title: Metaversial Dojo
-      url: https://workdojos.com/metaversial
     - title: Musician Dojo
       url: https://workdojos.com/musicalartist
     - title: Non-Profit Dojo
@@ -158,13 +150,9 @@ params:
       url: https://workdojos.com/philosophers
     - title: Physicist Dojo
       url: https://workdojos.com/physicist
-    - title: Project Manager Dojo
-      url: https://workdojos.com/projectmanagers
     - title: Researcher Dojo
       url: https://workdojos.com/researchers
-    - title: Retailer Dojo
-      url: https://workdojos.com/retailers
-    - title: School Teacher Dojo
+    - title: Teacher Dojo
       url: https://workdojos.com/schoolteachers
     - title: Social Worker Dojo
       url: https://workdojos.com/socialworker
@@ -896,7 +884,7 @@ params:
       job: Graphic Designer
       img: 2
     - name: Jessi
-      quote: We saved a ton of money over expensive SaaS apps (and predatory webhost pricing that goes way up after the first year) by simply going open-source.  We deployed a whopping 20 websites in a single dojo with space left over for more, as well as a chat app and company wiki.  Our teams also like the autonomy they get by having their own private dojos.
+      quote: We saved a ton of money over expensive SaaS apps (and predatory webhost pricing that goes way up after the first year) by simply going open-source.  We deployed a whopping 20 websites in a single dojo with space left over for more, as well as a chat app and company wiki.  Our teams also like the autonomy they get by having their own private spaces.
       job: HR Manager
       img: 1
   section5: false
