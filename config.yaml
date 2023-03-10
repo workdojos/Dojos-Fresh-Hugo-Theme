@@ -39,7 +39,7 @@ params:
     # Button text
     buttontext: Get a dojo
     # Where the main hero button links to
-    buttonlink: "https://workmates.live/marketplace"
+    buttonlink: "https://workdojos.com/marketplace"
     # Hero image (from static/images/___)
     image: logos/inspire.svg
     # Footer logos (from static/images/logos/clients/___.svg)
