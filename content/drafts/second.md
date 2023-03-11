@@ -3,6 +3,7 @@ title: Second
 sidebar: true
 sidebarlogo: fresh-white-alt
 draft: true
+description: Making open-source more accessible.
 
 ---
 

@@ -3,11 +3,13 @@ title: Social Media Influencer Campaign for Better Online Privacy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
  # Mission // #Social Media Influencer Campaign for Better Online Privacy
 
 **Project Brief**: Social Media Influencer Campaign for Better Online Privacy and Cybersecurity
@@ -24,6 +26,7 @@ To work with leading cybersecurity experts and social media companies to impleme
 To promote the use of secure online tools and best practices for social media users.
 **Stakes**:
 The stakes are high as online privacy and cybersecurity breaches can lead to serious consequences such as identity theft, financial loss, and even harm to personal reputation. By taking action, we can protect ourselves and our followers and promote a safer online environment.
+description: Making open-source more accessible.
 
 **Reserves**:
 

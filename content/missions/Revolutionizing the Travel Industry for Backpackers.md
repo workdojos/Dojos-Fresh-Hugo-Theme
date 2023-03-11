@@ -3,11 +3,13 @@ title: Revolutionizing the Travel Industry for Backpackers
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
  # Mission // #Revolutionizing the Travel Industry for Backpackers
 
 **Project Brief**: Revolutionizing the Travel Industry for Backpackers
@@ -23,6 +25,7 @@ Create a virtual currency system that allows backpackers to exchange goods and s
 Offer a range of travel insurance options that cater to the specific needs of backpackers.
 Develop a mobile app that provides real-time information on local events, activities, and cultural experiences.
 Establish partnerships with local organizations and businesses to support sustainable tourism and benefit local communities.
+description: Making open-source more accessible.
 **Stakes**: The successful completion of this project will have a significant impact on the travel industry and will help to restore the confidence of backpackers in traveling. In addition, the project will provide a much-needed solution to the current challenges faced by backpackers and will benefit both local communities and the environment.
 
 **Reserves**: The team will have 90 days to complete the project, and all members will be working remotely from their PC's at home. To ensure successful completion, the team will need to collaborate effectively and utilize their individual strengths to achieve the goals set out in the project brief.

@@ -3,11 +3,13 @@ title: Sustainability in the Coffee Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Sustainability in the Coffee Industry
 
 **Project Brief**: "Sustainability in the Coffee Industry"
@@ -24,18 +26,21 @@ To increase the use of environmentally friendly and sustainable coffee productio
 To reduce the cost of coffee production while improving the quality of coffee beans
 To create a transparent and sustainable coffee supply chain
 **Stakes**:
+description: Making open-source more accessible.
 
 A sustainable coffee industry is essential for the future of the planet
 The coffee industry is a major contributor to global warming
 The coffee industry is facing increasing challenges due to climate change
 Consumers are becoming more environmentally conscious and are looking for sustainable options
 **Reserves**:
+description: Making open-source more accessible.
 
 A budget of $50 for research and development
 Access to industry experts and specialists
 A 90-day timeline for the completion of the project
 A virtual platform for team collaboration and communication
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for coffee shop owners worldwide.
+description: Making open-source more accessible.
 
 ---
 

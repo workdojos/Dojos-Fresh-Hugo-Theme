@@ -3,11 +3,13 @@ title: Fiji Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Fiji.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 Learning about open-source technology in Fiji can be done through various resources, including:
 
 1.  Fiji Linux Users Group (FLUG) - This is a community of open-source enthusiasts in Fiji who meet regularly to discuss and share information about open-source technologies.
@@ -15,6 +17,7 @@ Learning about open-source technology in Fiji can be done through various resour
 2.  Open Source Fiji - This is an organization that promotes the use of open-source software in Fiji. Their website contains useful information on open-source technologies and resources.
     
 3.  Fiji National University - The university offers courses in computer science and information technology that cover open-source technologies.
+description: Making open-source more accessible.
     
 4.  GitHub - This is a popular platform for open-source software development. A search for Fiji-related projects on GitHub can provide insights into the open-source technology scene in Fiji.
     
@@ -26,6 +29,7 @@ Some notable technologists from Fiji throughout history include:
 2.  Dr. Rohitash Chandra - A computer scientist who has worked on various open-source projects and has been a contributor to the development of the Linux kernel.
     
 3.  Dr. Padmesh Venkataraman - A computer science researcher who has published several papers on open-source technologies and has been involved in the development of various open-source software projects.
+description: Making open-source more accessible.
     
 
 Overall, the open-source technology scene in Fiji is growing, and there are many resources and notable technologists to learn from.
@@ -35,21 +39,25 @@ Overall, the open-source technology scene in Fiji is growing, and there are many
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Fiji" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -68,16 +76,19 @@ Overall, the open-source technology scene in Fiji is growing, and there are many
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/France">Next dojo:  France</a>

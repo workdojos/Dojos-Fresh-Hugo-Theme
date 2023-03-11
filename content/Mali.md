@@ -3,11 +3,13 @@ title: Mali Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Mali.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 To learn more about open-source tech in Mali, here are some resources with links:
 
 1.  Mali Linux - Mali Linux is an open-source operating system based on Ubuntu that is specifically designed for use in Mali. It offers several features and tools for software development, web browsing, and multimedia content creation.
@@ -15,6 +17,7 @@ To learn more about open-source tech in Mali, here are some resources with links
 2.  The Open Source Initiative - The Open Source Initiative is a non-profit organization that promotes open-source software and the benefits it offers. Their website provides resources for learning about open-source software and licensing.
     
 3.  The African Institute of Mathematical Sciences (AIMS) - AIMS is a pan-African network of centers of excellence for postgraduate education, research, and outreach in mathematical sciences. AIMS has a focus on open-source software and provides resources and training on open-source tools for research and education.
+description: Making open-source more accessible.
     
 
 Notable technologists from Mali throughout history include:
@@ -24,6 +27,7 @@ Notable technologists from Mali throughout history include:
 2.  Oumou Sangaré - Oumou Sangaré is a Malian singer and entrepreneur who has used technology to promote and distribute her music. She has launched her own music streaming platform and has used social media to connect with fans around the world.
     
 3.  Adama Diarra - Adama Diarra is a Malian computer scientist and entrepreneur who founded the software development company eSolutions in Mali. The company has developed several open-source software solutions for the Malian government and private sector.
+description: Making open-source more accessible.
     
 
 <br>
@@ -31,21 +35,25 @@ Notable technologists from Mali throughout history include:
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Mali" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -64,16 +72,19 @@ Notable technologists from Mali throughout history include:
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Malta">Next dojo:  Malta</a>

@@ -3,12 +3,14 @@ title: Getting Started in the Logistics  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/getting-started.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='rocketship';/>
     <figcaption>How to get going?  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 <p>
 First of all, it's great to hear that you are interested in pursuing a career as a logistics manager in the logistics industry! This is an exciting and growing field with a lot of potential for growth and advancement. Here are a few things to keep in mind as you explore this career path:
 
@@ -25,6 +27,7 @@ The logistics industry is expected to continue growing in the coming years, so t
 Logistics managers have the opportunity to work in a variety of settings, including warehouses, distribution centers, and transportation companies
 Some useful websites for learning more about working as a logistics manager include:
 The Association for Supply Chain Management (www.ascm.org)
+description: Making open-source more accessible.
 The Council of Supply Chain Management Professionals (www.cscmp.org)
 The National Retail Federation (www.nrf.com)
 Remember, working as a logistics manager can be an exciting and rewarding career path, with lots of potential for growth and advancement. Keep an open mind and stay positive, and you will be well on your way to achieving your goals in this exciting industry!
@@ -34,24 +37,29 @@ Remember, working as a logistics manager can be an exciting and rewarding career
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://logistician.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

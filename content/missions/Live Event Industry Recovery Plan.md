@@ -3,11 +3,13 @@ title: Live Event Industry Recovery Plan
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Live Event Industry Recovery Plan
 
 **Project Brief**: Live Event Industry Recovery Plan
@@ -24,6 +26,7 @@ Develop innovative solutions to overcome the challenges posed by the pandemic
 Create a roadmap for the industry's recovery
 Engage with stakeholders to gain support for the recovery plan
 **Stakes**:
+description: Making open-source more accessible.
 The live events industry is a vital component of the global economy, and its continued decline could result in significant economic and social consequences. The success of this project is crucial to the livelihoods of many people, and its impact could be far-reaching.
 
 **Reserves**:

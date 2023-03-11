@@ -3,11 +3,13 @@ title: Guyana Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Guyana.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 Learning about open-source technology in Guyana can be a challenging task, but there are various resources and notable technologists to explore. Here are some resources to help you get started:
 
 1.  Open Source Guyana (OSG): This organization aims to promote the use of open-source software and technology in Guyana. They provide resources, workshops, and events to help developers and enthusiasts learn more about open-source technology. Visit their website to learn more: [https://www.opensourceguyana.com/](https://www.opensourceguyana.com/)
@@ -15,6 +17,7 @@ Learning about open-source technology in Guyana can be a challenging task, but t
 2.  GitHub: This platform hosts millions of open-source projects, including many created by developers in Guyana. You can search for projects related to your interests and even contribute to them. Visit GitHub at [https://github.com/](https://github.com/)
     
 3.  Meetup: This is a platform for organizing and attending tech-related events, including those focused on open-source technology. You can search for events in your area and connect with like-minded individuals. Visit Meetup at [https://www.meetup.com/](https://www.meetup.com/)
+description: Making open-source more accessible.
     
 4.  Notable Technologists from Guyana:
     
@@ -32,21 +35,25 @@ In conclusion, learning about open-source technology in Guyana requires some eff
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Guyana" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -65,16 +72,19 @@ In conclusion, learning about open-source technology in Guyana requires some eff
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Haiti">Next dojo:  Haiti</a>

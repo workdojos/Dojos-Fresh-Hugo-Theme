@@ -3,16 +3,19 @@ title: Malawi Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Malawi.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 1.  Open Source Malawi: This is a community of open-source enthusiasts in Malawi. Their website provides a lot of information on open source technologies, events, and resources for people who want to learn more.
     
 2.  Malawi Linux User Group: This is a community of Linux users in Malawi. They hold regular meetups, workshops, and conferences to promote the use of open-source software.
     
 3.  Malawi Innovation Hub: This is a tech hub in Malawi that provides resources and support to entrepreneurs and startups. They have a strong focus on open-source technology and offer training and workshops on various open-source tools.
+description: Making open-source more accessible.
     
 4.  Notable Technologists from Malawi: Some notable technologists from Malawi include:
     
@@ -22,6 +25,7 @@ sidebarlogo: wordojos_logo
 *   Rachel Sibande: She is the founder of mHub, Malawi's first technology hub. She has won several awards for her work in promoting technology in Malawi.
     
 *   Dr. Andrew Daudi: He is a professor at the University of Malawi and has done extensive research on open-source technologies in education.
+description: Making open-source more accessible.
     
 *   Purity Ngina: She is a software developer and advocate for women in technology. She co-founded Girl Code, an organization that provides training and mentorship to women who want to pursue careers in tech.
     
@@ -33,21 +37,25 @@ Overall, there are many resources and individuals in Malawi who are passionate a
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Malawi" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -66,16 +74,19 @@ Overall, there are many resources and individuals in Malawi who are passionate a
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Malaysia">Next dojo:  Malaysia</a>

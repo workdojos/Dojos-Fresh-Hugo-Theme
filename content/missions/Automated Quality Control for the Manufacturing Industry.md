@@ -3,6 +3,7 @@ title: Automated Quality Control for the Manufacturing Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 # Mission // #Automated Quality Control for the Manufacturing Industry
 
@@ -21,18 +22,21 @@ To increase the accuracy of quality control by 90%
 To reduce the resources required for quality control by 70%
 To provide real-time data analysis and reporting to improve decision-making processes
 **Stakes**:
+description: Making open-source more accessible.
 
 Improved customer satisfaction and loyalty through higher-quality products
 Increased competitiveness in the market
 Improved employee satisfaction through more efficient processes
 Increased profitability through reduced costs and improved efficiency
 **Reserves**:
+description: Making open-source more accessible.
 
 A budget of $100 for software development and testing
 Access to existing quality control software and data
 A team of experienced software developers and quality control professionals
 90 days of remote work time for the team to complete the project
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for manufacturers worldwide.
+description: Making open-source more accessible.
 
 ---
 

@@ -3,11 +3,17 @@ title: Learning & Development for 4X4s
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
+
+ 
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+description: Making open-source more accessible.
+
 </figure>
+ 
 <p>
 As a 4x4 business owner, it is important to have a strong understanding of the off-road vehicle industry. This includes knowledge of different models, brands, and features of 4x4 vehicles, as well as the mechanics and maintenance involved in keeping them running smoothly. It is also important to have strong business skills, including financial management, marketing, and customer service.
 
@@ -18,6 +24,9 @@ Business management
 Financial management
 Marketing and sales
 Customer service
+description: Making open-source more accessible.
+
+ 
 Some great websites for learning more about these topics include:
 
 Off-Road.com (https://www.off-road.com/)
@@ -32,6 +41,9 @@ Build a strong network of industry contacts
 Foster strong relationships with customers
 Continuously improve your business skills through training and education
 Some questions a candidate should be able to answer as a 4x4 business owner would include:
+description: Making open-source more accessible.
+
+ 
 
 What is your knowledge of the off-road vehicle industry?
 What business management skills do you have?
@@ -43,24 +55,41 @@ How do you ensure excellent customer service in your business?
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
+
+ 
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
+description: Making open-source more accessible.
+
                       <a href="https://4X4s.workdojos.com">
+ 
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
+description: Making open-source more accessible.
+
             </table>
         </td>
+ 
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+description: Making open-source more accessible.
+
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
+ 
                         <img src="/uploads/randomdojo.png" class="columnImage" />
+description: Making open-source more accessible.
+
                     </td>
             </table>
         </td>
     </tr>
+ 
+description: Making open-source more accessible.
+
 </table>

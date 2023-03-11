@@ -3,6 +3,7 @@ title: Vaultwarden
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 {{% title3 "Price comparison" %}}
@@ -10,21 +11,25 @@ sidebarlogo: wordojos_logo
     <caption></caption>
     <tr>
         <td> </td>
+description: Making open-source more accessible.
         <th scope="col" class="heman">Self-host</th>
         <th scope="col" class="skeletor">Bitwarden pro</th>
     </tr>
     <tr>
         <th scope="row">Cheapest option</th>
+description: Making open-source more accessible.
         <td>About $60/yr</td>
         <td>$40/yr</td>
     </tr>
     <tr>
         <th scope="row">Number of users</th>
+description: Making open-source more accessible.
         <td>Nearly unlimited</td>
         <td>6</td>
     </tr>
     <tr>
         <th scope="row">Collections</th>
+description: Making open-source more accessible.
         <td>Unlimited</td>
         <td>Unlimited</td>
     </tr>
@@ -49,36 +54,43 @@ Sign up for a trial in the upper right or save 25% off a subscription with the f
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
+description: Making open-source more accessible.
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://bitwarden.com">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/bitwardenlogo4.png" class="columnImage" />
                     </td>
+description: Making open-source more accessible.
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Move fast and securely with the password manager trusted by millions.</h1>
                        Drive collaboration, boost productivity, and experience the power of open source with Bitwarden, the easiest way to secure all your passwords and sensitive information.. 
+description: Making open-source more accessible.
                     </td>
                 </tr>
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
+description: Making open-source more accessible.
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://ghost.org">
                         <img src="https://workmates.live/wp-content/uploads/2022/11/ghost-black-logo.png" class="columnImage" />
+description: Making open-source more accessible.
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Next up:  Ghost.</h1>
+description: Making open-source more accessible.
                         Turn your audience into a business.
                           <a href="https://workdojos.com/ghost">Continue</a> 
                     </td>
                 </tr>
             </table>
+description: Making open-source more accessible.
         </td>
     </tr>
 </table>

@@ -3,12 +3,14 @@ title: Learning & Development for Theologians
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 <p>
 Sure, here are some suggestions for a theologian curriculum:
 
@@ -17,6 +19,7 @@ History of Christian theology
 Theology of the Old and New Testament
 Systematic theology
 Comparative theology
+description: Making open-source more accessible.
 Ethics
 Theology and contemporary issues
 Some helpful resources for learning about theology include:
@@ -36,6 +39,7 @@ Be able to articulate your understanding of different religious traditions
 Be able to discuss current issues in theology and how you approach them
 Be able to discuss your understanding of the role of theology in contemporary society
 Some questions a candidate for a theologian role might be asked in an interview include:
+description: Making open-source more accessible.
 
 How do you understand the relationship between faith and reason?
 How do you understand the role of scripture in your theology?
@@ -47,24 +51,29 @@ How do you understand the relationship between theology and ethics?
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://theologian.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

@@ -3,6 +3,7 @@ title: Wiki.js
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 {{% title3 "Price comparison" %}}
@@ -10,26 +11,31 @@ sidebarlogo: wordojos_logo
     <caption></caption>
     <tr>
         <td> </td>
+description: Making open-source more accessible.
         <th scope="col" class="heman">Self-host</th>
         <th scope="col" class="skeletor">Wiki Pro</th>
     </tr>
     <tr>
         <th scope="row">Cheapest option</th>
+description: Making open-source more accessible.
         <td>About $5/month</td>
         <td>About $15/month</td>
     </tr>
     <tr>
         <th scope="row">Collections</th>
+description: Making open-source more accessible.
         <td>Nearly unlimited</td>
         <td>100</td>
     </tr>
     <tr>
         <th scope="row">Family Wikis</th>
+description: Making open-source more accessible.
         <td>Nearly unlimited</td>
         <td>1</td>
     </tr>
     <tr>
         <th scope="row">Users</th>
+description: Making open-source more accessible.
         <td>Nearly unlimited</td>
         <td>1</td>
     </tr>
@@ -52,31 +58,37 @@ See what Wiki.js can do for you.  Sign up for a trial in the upper right or save
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
+description: Making open-source more accessible.
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://js.wiki/">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/wiki0.png" class="columnImage" />
                     </td>
+description: Making open-source more accessible.
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Your digital legacy.  Your wiki.</h1>
                         A perfect way to cement your legacy online. 
+description: Making open-source more accessible.
                     </td>
                 </tr>
             </table>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
+description: Making open-source more accessible.
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/vault">
                         <img src="https://workmates.live/wp-content/uploads/2022/11/bitwardenlogo4.png" class="columnImage" />
                     </td>
+description: Making open-source more accessible.
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Next up:  Vault.</h1>
                         Password manager to rule them all.
+description: Making open-source more accessible.
                                                          <a href="https://workdojos.com/vault">Continue</a> 
                     </td>
                 </tr>

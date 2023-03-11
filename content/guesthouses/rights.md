@@ -3,6 +3,7 @@ title: The Hotel & Hospitality  Industry and Guesthouse Owner Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a guesthouse owner in the Hotel & Hospitality industry, it is important to prioritize fair work practices for all employees. In recent years, there have been numerous trends and events highlighting the need for better treatment and wages for workers in this industry.
 
 One trend that has emerged is the rise of home-sharing platforms like Airbnb, which have disrupted traditional hospitality models and led to increased competition for guesthouses. While these platforms offer convenience and accessibility for travelers, they also pose a threat to the stability and livelihood of traditional guesthouse owners and their workers.
@@ -28,24 +30,29 @@ While it may be tempting to cut corners in order to compete with larger, more es
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://guesthouses.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

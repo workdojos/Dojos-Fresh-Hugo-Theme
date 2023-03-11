@@ -3,11 +3,13 @@ title: Remote Space Debris Mitigation and Removal
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Remote Space Debris Mitigation and Removal
 
 **Project Brief**:
@@ -25,6 +27,7 @@ Create a system for identifying and tracking existing space debris.
 Develop a method for removing existing space debris.
 **Stakes**:
 Space debris is a growing concern for the space industry, as it poses a threat to active satellites, space missions, and even the International Space Station. The failure to address this issue could result in costly damages and even the loss of human life. The successful completion of this project will demonstrate the capability of remote collaboration and help set the standard for future space debris management efforts.
+description: Making open-source more accessible.
 
 **Reserves**:
 

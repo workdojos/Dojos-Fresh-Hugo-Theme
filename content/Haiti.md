@@ -3,11 +3,13 @@ title: Haiti Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Haiti.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 To learn more about open-source tech in Haiti, here are some resources with links and notable technologists from Haiti throughout history:
 
 1.  Haitian Open Source Community (HOSC): The HOSC is a group of Haitian tech enthusiasts and professionals working towards advancing open-source technology in Haiti. They organize events, workshops, and hackathons to promote the use of open-source software in Haiti.
@@ -15,11 +17,13 @@ To learn more about open-source tech in Haiti, here are some resources with link
 2.  Open Data Haiti: Open Data Haiti is a platform that provides access to data on various sectors in Haiti, such as health, education, and the economy. The platform encourages the use of open data to promote transparency, accountability, and innovation in Haiti.
     
 3.  Fonkoze: Fonkoze is a microfinance organization in Haiti that uses open-source technology to manage its operations. They have developed their own banking software, called the MFI Management System, which is available for free to other microfinance institutions.
+description: Making open-source more accessible.
     
 4.  Patrice Tardieu: Patrice Tardieu is a Haitian technologist and entrepreneur who has worked on various open-source projects in Haiti. He co-founded the Haiti Open Source Conference and is currently the CEO of Surtab, a Haitian tablet manufacturer that uses open-source software.
     
 5.  Yves-Antoine Clemént: Yves-Antoine Clemént is a Haitian software engineer and entrepreneur who has worked on several open-source projects. He co-founded the Haitian tech company, Konbit, which provides software development services using open-source technologies.
     
+description: Making open-source more accessible.
 6.  Phillippe Cenatus: Phillippe Cenatus is a Haitian technologist who has worked on various open-source projects, including the development of the Haitian Creole language pack for Drupal, an open-source content management system.
     
 7.  Michel DeGraff: Michel DeGraff is a Haitian linguist and technologist who has worked on the development of the Haitian Creole language and the use of open-source software in education in Haiti. He is a professor at MIT and co-founder of the Haitian Creole Language Institute.
@@ -30,21 +34,25 @@ These are just a few examples of notable technologists from Haiti who have contr
 <html>
   <head>
     <style>
+description: Making open-source more accessible.
       .button {
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
+description: Making open-source more accessible.
         color: #ffffff;
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
+description: Making open-source more accessible.
       }
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Haiti" target="_blank">Claim this Dojo</a>
+description: Making open-source more accessible.
   </body>
 </html>
 <br>
@@ -64,16 +72,19 @@ These are just a few examples of notable technologists from Haiti who have contr
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Holy-See">Next dojo:  Holy See</a>

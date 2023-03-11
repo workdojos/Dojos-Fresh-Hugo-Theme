@@ -3,11 +3,13 @@ title: Community Services Volunteer Initiative
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Community Services Volunteer Initiative
 
 **Project Brief**: Community Services Volunteer Initiative
@@ -23,6 +25,7 @@ Provide a platform for volunteers to connect with community services organizatio
 Develop a database of volunteers and their skills to match their expertise with the needs of the community services organizations.
 Implement a tracking system to monitor volunteer hours and the impact of their contributions.
 Increase community engagement and build a sense of community through volunteer initiatives.
+description: Making open-source more accessible.
 **Stakes**: The success of this project is crucial in ensuring that the community services industry has the support and resources it needs to meet the needs of the community. This will also have a positive impact on the well-being of the neighborhood and increase community engagement.
 
 **Reserves**: The team will be provided with the necessary resources and support to complete the project, including access to online collaboration tools, databases, and training materials. The team will be responsible for communicating regularly and working together to achieve the project goals within the 90-day timeframe.

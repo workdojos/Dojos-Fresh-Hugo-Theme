@@ -3,11 +3,13 @@ title: Argentina Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Argentina.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 1.  Open-Source Tech Communities in Argentina
 
 *   PyAr (Python Argentina): [https://www.python.org.ar/](https://www.python.org.ar/)
@@ -15,6 +17,7 @@ sidebarlogo: wordojos_logo
 *   LinuxChix Argentina: [http://www.linuxchixar.org/](http://www.linuxchixar.org/)
 *   GNOME Argentina: [https://www.gnome.org.ar/](https://www.gnome.org.ar/)
 *   Ubuntu Argentina: [https://ubuntu-ar.org/](https://ubuntu-ar.org/)
+description: Making open-source more accessible.
 
 2.  Notable Technologists from Argentina
 
@@ -23,6 +26,7 @@ sidebarlogo: wordojos_logo
 *   Santiago Siri (b. 1984): founder of Democracy.Earth, a blockchain-based platform for voting and governance.
 *   Lautaro Gruss (b. 1994): creator of LibreRouter, an open-source wireless mesh networking project.
 *   Belén Curcio (b. 1997): co-founder of Espacio de Arte y Tecnología, an organization that promotes the use of open-source software in the arts.
+description: Making open-source more accessible.
 
 3.  Open-Source Tech Resources in Argentina
 
@@ -31,6 +35,7 @@ sidebarlogo: wordojos_logo
 *   Creative Commons Argentina: [https://creativecommons.org.ar/](https://creativecommons.org.ar/)
 *   OpenTech Argentina: [http://www.opentechargentina.org/](http://www.opentechargentina.org/)
 *   Software Libre Argentina: [https://www.sistemas-libres.org.ar/](https://www.sistemas-libres.org.ar/)
+description: Making open-source more accessible.
 
 By exploring these resources and learning from notable technologists from Argentina, you can gain a better understanding of the open-source tech scene in the country.
 
@@ -39,21 +44,25 @@ By exploring these resources and learning from notable technologists from Argent
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Argentina" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -72,16 +81,19 @@ By exploring these resources and learning from notable technologists from Argent
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Armenia">Next dojo:  Armenia</a>

@@ -3,6 +3,7 @@ title: The Investigation and Security Services  Industry and Investigator Worker
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a debater, it is my duty to present both sides of the debate on fair work practices for investigators in the investigation and security services industry. However, in this particular case, I will be taking the side of the workers and promoting worker's rights, fair treatment, and proper wages.
 
 One recent trend in the industry has been the increasing reliance on contractors and temporary workers, rather than hiring permanent employees. This can lead to a lack of job security and benefits for these workers, as they are often not entitled to the same protections as permanent employees. This can result in lower wages, fewer opportunities for advancement, and a lack of access to important resources such as training and professional development.
@@ -28,24 +30,29 @@ In conclusion, it is important for the investigation and security services indus
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://investigators.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

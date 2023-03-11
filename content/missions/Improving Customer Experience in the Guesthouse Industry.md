@@ -3,11 +3,13 @@ title: Improving Customer Experience in the Guesthouse Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Improving Customer Experience in the Guesthouse Industry
 
 **Project Brief**: Improving Customer Experience in the Guesthouse Industry
@@ -22,6 +24,7 @@ Create a loyalty program to reward repeat guests and increase brand loyalty.
 Implement a comprehensive training program for all staff, focusing on customer service excellence, communication skills, and problem-solving.
 Enhance guest room amenities and upgrade guest house facilities to meet customer needs and expectations.
 Increase guest engagement through the creation of a guest directory and social media presence, and through the organization of guest-focused activities and events.
+description: Making open-source more accessible.
 **Stakes**: The guesthouse industry is becoming increasingly competitive, and it is vital that guesthouses remain relevant and competitive. Improving the customer experience is key to achieving this, as it can increase customer satisfaction, repeat business, and brand reputation. The success of this project will directly impact the financial success of all participating guesthouses, and will set a new standard in the industry.
 
 **Reserves**:

@@ -3,6 +3,7 @@ title: Features
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 The open-source revolution is about supporting open-source creators, fostering and empowering development communities, and making open-source more accessible.  We encourage you to browse the app creators own sites, to sign up for their services, and become an active part of their communities.  Links to each creator site as well as to their respective Github repositories will be provided below.  
 
@@ -38,6 +39,7 @@ Wouldn't it be great if Wordpress had functionality for memberships and payments
      height="200" />
 Ghost's site:  https://ghost.org/
 Github:  https://github.com/TryGhost/Ghost
+description: Making open-source more accessible.
 <br>
 
 {{% title3 "Static websites." %}}
@@ -53,6 +55,7 @@ Static sites to the rescue.  Since Work Dojos moved to Hugo (a static site gener
      height="200" />
 Hugo's site:  https://gohugo.io/
 Github:  https://github.com/gohugoio/hugo
+description: Making open-source more accessible.
 <br>
 
 {{% title3 "Slack killer." %}}
@@ -68,6 +71,7 @@ You and only you are the almighty Admin.  With great power comes great responsib
      height="200" />
 Rocket.Chat's site:  https://rocket.chat
 Github:  https://github.com/RocketChat/Rocket.Chat    
+description: Making open-source more accessible.
 <br>
 
 {{% title3 "Electrify your data!" %}}
@@ -81,6 +85,7 @@ Baserow is like Excel on steroids.  A lot of power under the hood here!  A near 
      height="200" />
 Baserow's site:  https://baserow.io
 Github:  https://github.com/bram2w/baserow
+description: Making open-source more accessible.
 <br>
 {{% title3 "Knowledge management." %}}
 
@@ -96,6 +101,7 @@ Wiki.js comes loaded with your Work Dojo.  It makes Wikipedia look like pretty r
      height="200" />
 Wiki.js's site:  https://wiki.js/
 Github:  https://github.com/requarks/wiki
+description: Making open-source more accessible.
 
 
  <br>

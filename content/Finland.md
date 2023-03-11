@@ -3,11 +3,13 @@ title: Finland Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Finland.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 1.  Resources for learning about open-source tech in Finland:
 
 *   The Finnish Linux User Group (FLUG) is a community of Linux enthusiasts and open-source developers in Finland. They organize events and meetups, as well as provide a forum for discussion and collaboration.
@@ -15,6 +17,7 @@ sidebarlogo: wordojos_logo
 *   Helsinki Hacklab is a community of makers, hackers, and artists who share a workspace and tools for building and experimenting with technology. They have a focus on open-source hardware and software projects.
 *   Aalto University has a strong reputation in the fields of computer science and technology, and they offer courses and programs that emphasize open-source technologies.
 *   The Finnish Centre for Open Systems and Solutions (COSS) is a non-profit organization that promotes the use and development of open-source technologies in Finland. They provide training, consulting, and advocacy for open-source projects.
+description: Making open-source more accessible.
 
 2.  Notable technologists from Finland:
 
@@ -23,27 +26,32 @@ sidebarlogo: wordojos_logo
 *   Peter Vesterbacka is a Finnish entrepreneur and tech evangelist who was one of the founders of Rovio Entertainment, the company behind the hit mobile game Angry Birds. Vesterbacka has been a strong advocate for the Finnish startup scene and has worked to promote innovation and entrepreneurship in the country.
 *   Jaakko Ilkka is a Finnish computer scientist who was one of the pioneers of the internet in Finland. He helped to establish the first email system in the country and was instrumental in the development of the .fi domain.
 *   Pekka Himanen is a philosopher and technology expert who has written extensively on the impact of digital technologies on society and culture. Himanen was born in Helsinki and studied at the University of Helsinki before earning his Ph.D. from the University of California, Berkeley.
+description: Making open-source more accessible.
 
 <br>
 <html>
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Finland" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -62,16 +70,19 @@ sidebarlogo: wordojos_logo
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/France">Next dojo:  France</a>

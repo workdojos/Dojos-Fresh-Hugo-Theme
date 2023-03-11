@@ -3,11 +3,13 @@ title: Exporters Assistance Program
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Exporters Assistance Program
 
 **Project Brief**: Exporters Assistance Program
@@ -23,6 +25,7 @@ Assistance in developing a comprehensive export plan and strategy
 Guidance in navigating international trade regulations and documentation requirements
 Connections with potential buyers and distributors
 Training in export marketing and sales techniques
+description: Making open-source more accessible.
 Access to financing options for exporting
 Timeline: The program will run for 12 months, with regular check-ins and progress assessments.
 

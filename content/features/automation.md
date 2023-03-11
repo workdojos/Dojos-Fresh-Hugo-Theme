@@ -3,6 +3,7 @@ title: Automation by n8n
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <img src="https://workmates.live/wp-content/uploads/2022/11/n8n-logo.png" 
      width="300" 

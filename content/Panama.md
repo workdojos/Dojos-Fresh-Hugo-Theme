@@ -3,16 +3,19 @@ title: Panama Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Panama.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 1.  Join the Open Source Community in Panama: The Panama Open Source Community is a group of developers, entrepreneurs, and IT professionals who collaborate to promote the use of open-source software and technology. Join their Facebook group to stay updated on their events and discussions.
     
 2.  Attend Meetups and Conferences: Attend tech meetups and conferences in Panama to learn about open-source tech and network with other like-minded individuals. Check out events on Meetup.com or Eventbrite.
     
 3.  Visit Open Source Websites: Several websites provide information on open-source technology in Panama, including PanamaTIC and Tecnologia Libre. These sites provide information on events, news, and resources related to open-source technology.
+description: Making open-source more accessible.
     
 4.  Follow Open Source Technologists from Panama: Several notable technologists have emerged from Panama throughout history. Some of them include:
     
@@ -22,6 +25,7 @@ sidebarlogo: wordojos_logo
 *   Rodrigo Noriega: A software engineer and entrepreneur, Noriega co-founded a company that develops open-source software for healthcare organizations in Latin America.
     
 *   Alberto Samuel Caballero: An IT consultant and professor, Caballero has been a strong advocate for open-source technology in Panama and has given talks on the subject at various conferences.
+description: Making open-source more accessible.
     
 *   Armando Fuentes: A software developer and entrepreneur, Fuentes founded several tech startups in Panama and has contributed to several open-source projects.
     
@@ -33,21 +37,25 @@ By utilizing the above resources and learning from the achievements of notable t
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Panama" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -66,16 +74,19 @@ By utilizing the above resources and learning from the achievements of notable t
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Papua-New-Guinea">Next dojo:  Papua New Guinea</a>

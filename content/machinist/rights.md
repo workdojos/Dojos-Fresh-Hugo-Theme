@@ -3,6 +3,7 @@ title: The Machining  Industry and Machinist Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a machinist working in the machining industry, it is essential that fair work practices are implemented and upheld. In recent years, there have been numerous trends and events that have highlighted the need for workers' rights and fair treatment in this industry.
 
 One trend that has emerged is the increasing automation of machining processes. While this may seem like a positive development at first glance, it can also lead to job displacement and a decrease in fair wages for machinists. As machines take over more tasks, there is a risk that human workers will be replaced or undervalued. It is crucial that machinists are given the opportunity to learn new skills and take on more advanced roles as automation increases, rather than being replaced or left behind.
@@ -26,24 +28,29 @@ In conclusion, fair work practices in the machining industry are essential for t
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://machinist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

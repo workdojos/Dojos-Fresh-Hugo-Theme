@@ -3,6 +3,7 @@ title: The Startup Financing  Industry and Financier Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 The startup financing industry is a rapidly growing and constantly evolving sector that has the potential to bring about significant innovation and disruption. However, as the industry grows and becomes more competitive, it is important to ensure that the workers within it are treated fairly and with respect.
 
 One recent trend in the startup financing industry is the increasing prevalence of unpaid internships and low-paying jobs. While these positions may be viewed as a way for workers to gain valuable experience and make connections in the industry, they often come at the expense of fair wages and benefits. This can lead to a cycle of exploitation and inequality, as workers may be forced to take on multiple low-paying jobs in order to make ends meet.
@@ -26,24 +28,29 @@ In conclusion, fair work practices are crucial for the startup financing industr
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://financier.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

@@ -3,11 +3,13 @@ title: The Weekend Warrior Challenge
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #The Weekend Warrior Challenge
 
 **Project Brief**: "The Weekend Warrior Challenge: Freelance Industry Puzzle"
@@ -22,6 +24,7 @@ Analyze the current market trends and identify potential solutions.
 Develop a comprehensive plan that addresses the issue and provides a solution that benefits both freelancers and clients.
 Present the plan to industry leaders and gain their support.
 **Stakes**:
+description: Making open-source more accessible.
 The stakes are high for the freelance industry. If a solution is not found, many freelancers will be forced to leave the industry and find other sources of income. This will result in a significant loss of talent and creativity, which will harm the entire industry.
 
 **Reserves**:

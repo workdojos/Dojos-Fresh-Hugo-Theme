@@ -3,11 +3,13 @@ title: Romania Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Romania.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 To learn more about open-source tech in Romania, you can follow these steps:
 
 1.  Join Romanian open-source communities: There are many Romanian open-source communities that you can join to learn more about open-source technology. Some popular ones include:
@@ -15,21 +17,25 @@ To learn more about open-source tech in Romania, you can follow these steps:
     *   ROSP (Romanian Open Source Project)
     *   Open Source Romania
     *   Open Source Community Romania
+description: Making open-source more accessible.
 2.  Attend open-source events: Attending open-source events is a great way to learn more about the technology and meet other people in the field. Here are some notable open-source events in Romania:
     
     *   Open Source Summit Romania
     *   Open Source Conference Romania
     *   Cluj-Napoca Open Source Meetup
+description: Making open-source more accessible.
 3.  Read open-source publications: There are many online publications that focus on open-source technology that you can read to learn more. Some popular ones include:
     
     *   Linux User & Developer Romania
     *   Linux Magazine Romania
     *   Today Software Magazine
+description: Making open-source more accessible.
 4.  Learn from notable Romanian technologists: There have been many notable technologists from Romania throughout history who have contributed to the field of open-source technology. Here are a few examples:
     
     *   Eugen Pavel (co-founder of Bitdefender)
     *   Bogdan Dumitru (creator of SCons build tool)
     *   Marius Moga (founder of Ovidiu 7, a web development framework)
+description: Making open-source more accessible.
 
 Here are some useful links to get you started:
 
@@ -38,6 +44,7 @@ Here are some useful links to get you started:
 *   Open Source Summit Romania website: [https://opensourcesummit.ro/](https://opensourcesummit.ro/)
 *   Linux User & Developer Romania website: [https://www.linux-user.ro/](https://www.linux-user.ro/)
 *   Today Software Magazine website: [https://www.todaysoftmag.com/](https://www.todaysoftmag.com/)
+description: Making open-source more accessible.
 *   Eugen Pavel's profile on Crunchbase: [https://www.crunchbase.com/person/eugen-pavel](https://www.crunchbase.com/person/eugen-pavel)
 *   Bogdan Dumitru's profile on GitHub: [https://github.com/bogdandm](https://github.com/bogdandm)
 *   Marius Moga's website: [http://mariusmoga.com/](http://mariusmoga.com/)
@@ -47,21 +54,25 @@ Here are some useful links to get you started:
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Romania" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -80,16 +91,19 @@ Here are some useful links to get you started:
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Russia">Next dojo:  Russia</a>

@@ -3,12 +3,14 @@ title: Learning & Development for Graphic Designers
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 <p>
 Curriculum for Graphic Designer:
 
@@ -17,6 +19,7 @@ Adobe Creative Suite (Photoshop, Illustrator, InDesign)
 Typography and layout design
 Branding and identity design
 Digital marketing and social media graphics
+description: Making open-source more accessible.
 Web design and user interface design
 Websites for learning graphic design:
 
@@ -25,12 +28,14 @@ CreativeLive (https://www.creativelive.com/courses/graphic-design)
 Skillshare (https://www.skillshare.com/browse/graphic-design)
 lynda.com (https://www.lynda.com/Graphic-Design-training-tutorials/1-0)
 Best companies for graphic designers:
+description: Making open-source more accessible.
 
 Google
 Apple
 Adobe
 Nike
 Airbnb
+description: Making open-source more accessible.
 Dropbox
 Roles and responsibilities for graphic designers at these companies:
 
@@ -39,6 +44,7 @@ Creating visual concepts for website designs and user interfaces
 Collaborating with marketing and product teams to create cohesive branding and identity designs
 Developing and maintaining design standards for the company
 Staying up to date with design trends and technologies
+description: Making open-source more accessible.
 Helpful tips and tricks for graphic designers:
 
 Keep a portfolio of your work to showcase your skills and experience
@@ -46,36 +52,43 @@ Understand the goals and target audience for each project you work on
 Communicate with clients and team members effectively to ensure the project is on track
 Learn how to use design software efficiently and effectively
 Questions a candidate should be able to answer for a graphic designer role:
+description: Making open-source more accessible.
 
 Describe your design process and how you approach a new project
 What are your favorite design software and why?
 Can you provide examples of branding and identity design work you have done in the past?
 How do you stay up to date with design trends and technologies?
 How do you handle feedback from clients or team members on your designs?
+description: Making open-source more accessible.
 
 <br>
 <a href="https://workdojos.com/graphicdesigner/rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://graphicdesigner.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

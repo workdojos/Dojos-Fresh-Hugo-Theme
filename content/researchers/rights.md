@@ -3,6 +3,7 @@ title: The Scientific Research & Development  Industry and Researcher Workers' R
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a researcher working in the scientific research and development industry, I am constantly confronted with issues related to fair work practices. One of the most pressing issues facing researchers today is the increasing trend of unpaid internships and contract work, which often provide little to no compensation for the long hours and hard work required to succeed in this field.
 
 On the one hand, it is understandable that companies may want to offer unpaid internships in order to provide aspiring researchers with valuable experience and skills. However, these unpaid positions often lead to exploitation, as workers are asked to perform the same duties as paid employees without receiving any of the benefits or compensation. This creates an unfair playing field for those who are unable to afford to work for free, and ultimately undermines the value of a researcher's labor.
@@ -26,24 +28,29 @@ Ultimately, the scientific research and development industry relies on the hard 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://researchers.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

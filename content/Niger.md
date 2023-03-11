@@ -3,11 +3,13 @@ title: Niger Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Niger.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 Learning more about open-source tech in Niger can be done through various online resources, attending tech events, and joining local tech communities. Here are some useful resources and notable technologists from Niger throughout history:
 
 1.  Tech Community in Niger: The Nigerien Tech community is a great place to start learning about open-source technology in Niger. Joining their online platform and attending their events can help you connect with other developers and tech enthusiasts.
@@ -15,6 +17,7 @@ Learning more about open-source tech in Niger can be done through various online
 2.  GitHub: The GitHub platform provides access to open-source projects and codes that Nigerien developers have contributed to. It is a great resource to explore the kind of projects that the developers in Niger are working on.
     
 3.  Facebook Groups: There are several Facebook groups that focus on tech development in Niger, and they can provide a great platform to learn about tech events, collaborations, and networking opportunities.
+description: Making open-source more accessible.
     
 4.  Notable Technologists from Niger: Some notable technologists from Niger include:
     
@@ -24,6 +27,7 @@ Learning more about open-source tech in Niger can be done through various online
 *   Abdoul Salam Saleh: Abdoul Salam Saleh is a Nigerien entrepreneur and the founder of Miroslar, a technology company that provides digital marketing solutions.
     
 *   Issoufou Seidou Sanda: Issoufou Seidou Sanda is a Nigerien software developer and the founder of DevInnov, a technology company that provides software development services.
+description: Making open-source more accessible.
     
 *   Djamila Mahamane: Djamila Mahamane is a Nigerien software developer and the founder of Code Innovation, a technology company that provides IT solutions to businesses.
     
@@ -35,21 +39,25 @@ In conclusion, to learn more about open-source tech in Niger, you can explore on
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Niger" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -68,16 +76,19 @@ In conclusion, to learn more about open-source tech in Niger, you can explore on
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Nigeria">Next dojo:  Nigeria</a>

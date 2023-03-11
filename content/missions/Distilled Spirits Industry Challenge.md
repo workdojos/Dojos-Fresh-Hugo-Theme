@@ -3,11 +3,13 @@ title: Distilled Spirits Industry Challenge
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Distilled Spirits Industry Challenge
 
 **Project Brief**: Distilled Spirits Industry Challenge
@@ -24,6 +26,7 @@ Develop a plan to implement these new methods in a cost-effective and efficient 
 Analyze the financial impact of these new methods on the distilled spirits industry.
 **Stakes**:
 Failure to find new and innovative ways to increase production of premium distilled spirits could result in decreased profits, lower quality products, and a decrease in market share. This could ultimately lead to the failure of many small distilleries and a decrease in the diversity of products available in the market.
+description: Making open-source more accessible.
 
 **Reserves**:
 The team will have access to industry experts, market research data, and the latest technology to help them solve this challenge. Each team member will also receive support from their colleagues and the team leader to ensure their success.

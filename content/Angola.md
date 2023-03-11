@@ -3,11 +3,13 @@ title: Angola Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Angola.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 Learning more about open-source tech in Angola can be a great way to understand the country's technological landscape and the potential it holds for the future. Here are some resources and notable technologists from Angola throughout history:
 
 1.  Angola Cables: Angola Cables is an Angolan telecommunications company that specializes in the development of internet infrastructure, data centers, and international connectivity services. The company has been actively involved in the promotion of open-source tech in Angola and regularly organizes workshops and training programs for developers and tech enthusiasts.
@@ -15,11 +17,13 @@ Learning more about open-source tech in Angola can be a great way to understand 
 2.  Open Source Angola: Open Source Angola is a community-driven platform that promotes the adoption and development of open-source technologies in Angola. The platform provides a range of resources, including tutorials, articles, and forums for developers and tech enthusiasts.
     
 3.  Jeferson Valadares: Jeferson Valadares is an Angolan software engineer who has been involved in the development of open-source technologies for over a decade. He is the founder of the Angola Linux User Group and has been instrumental in promoting the adoption of open-source software in Angola.
+description: Making open-source more accessible.
     
 4.  Jonas Savimbi: Jonas Savimbi was an Angolan military leader and politician who played a pivotal role in the country's struggle for independence from Portugal. He was also an advocate for the development of Angolan technology and was instrumental in setting up the National Institute of Informatics and Automation (INIA).
     
 5.  Samora Machel: Samora Machel was the first president of independent Mozambique and a prominent Pan-Africanist. He was also a strong advocate for the development of African technology and played a key role in the establishment of the Regional Center for Informatics and Automation (CRIA) in Angola.
     
+description: Making open-source more accessible.
 
 In conclusion, learning more about open-source tech in Angola can provide valuable insights into the country's technological landscape and the potential it holds for the future. Resources such as Angola Cables and Open Source Angola, as well as notable technologists such as Jeferson Valadares, Jonas Savimbi, and Samora Machel, can help to deepen your understanding of the subject.
 
@@ -28,21 +32,25 @@ In conclusion, learning more about open-source tech in Angola can provide valuab
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Angola" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -61,16 +69,19 @@ In conclusion, learning more about open-source tech in Angola can provide valuab
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Antigua-and-Barbuda">Next dojo:  Antigua and Barbuda</a>

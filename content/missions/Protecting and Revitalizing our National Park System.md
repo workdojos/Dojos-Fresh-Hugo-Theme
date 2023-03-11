@@ -3,11 +3,13 @@ title: Protecting and Revitalizing our National Park System
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Protecting and Revitalizing our National Park System
 
 **Project Brief**:
@@ -24,6 +26,7 @@ Develop a comprehensive plan to address the challenges, including strategies for
 Implement the plan, working with local organizations and volunteers to ensure its success.
 Monitor progress and assess the effectiveness of the strategies implemented.
 **Stakes**:
+description: Making open-source more accessible.
 The National Park System is an important part of our country's natural and cultural heritage, and its health and beauty must be protected for future generations. If the park rangers fail to address the challenges facing the National Park System, it may become damaged beyond repair.
 
 **Reserves**:

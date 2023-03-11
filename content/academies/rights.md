@@ -3,6 +3,7 @@ title: The Academia And Higher Education Industry and Academic Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 <figure>
@@ -10,6 +11,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 The issue of fair work practices in the academia and higher education industry is a complex and nuanced one, with many different factors at play. On the one hand, there are those who argue that academic workers, particularly those in non-tenure track positions, are often underpaid and overworked, and that they deserve better treatment and more equitable wages. On the other hand, there are those who argue that the demands of academia, particularly in terms of research and publication, make it difficult to justify higher wages and more generous benefits for academic workers.
 
 In my opinion, however, the arguments in favor of fair work practices for academic workers are overwhelmingly strong. Here are just a few of the reasons why:
@@ -27,24 +29,29 @@ In conclusion, the argument for fair work practices in academia and higher educa
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://academies.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>
