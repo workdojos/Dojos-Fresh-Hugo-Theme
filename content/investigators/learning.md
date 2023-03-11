@@ -3,14 +3,12 @@ title: Learning & Development for Investigators
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 Curriculum:
 
@@ -19,7 +17,6 @@ Training in forensic science and analysis
 Training in interview and interrogations techniques
 Training in surveillance and observation skills
 Training in report writing and documentation
-description: Making open-source more accessible.
 Training in case management and organization
 Websites with resources:
 
@@ -28,21 +25,18 @@ Federal Bureau of Investigation: https://www.fbi.gov/
 International Association of Crime Analysts: https://www.iaca.net/
 American Society of Crime Laboratory Directors: https://www.ascld.org/
 Best companies to work for:
-description: Making open-source more accessible.
 
 Federal Bureau of Investigation
 Department of Homeland Security
 Secret Service
 Drug Enforcement Administration
 Roles and responsibilities:
-description: Making open-source more accessible.
 
 Conducting investigations into criminal activity
 Analyzing and collecting physical evidence
 Interviewing witnesses and suspects
 Preparing and presenting case files to prosecutors
 Participating in surveillance and undercover operations
-description: Making open-source more accessible.
 Tips and tricks:
 
 Stay organized and keep thorough documentation of your investigations
@@ -55,36 +49,30 @@ How do you handle and maintain the chain of custody for evidence in your investi
 How do you approach interviewing suspects and witnesses to gather information in an investigation?
 Describe a time when you had to present a case file to a prosecutor. How did you prepare for this presentation?
 How do you stay up to date on the latest forensic and investigation techniques and technologies?
-description: Making open-source more accessible.
 
 <br>
 <a href="https://workdojos.com/investigators/rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://investigators.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

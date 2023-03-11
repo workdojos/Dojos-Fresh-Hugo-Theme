@@ -3,7 +3,6 @@ title: The Complementary And Alternative Medicine  Industry and Healer Workers' 
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 There has been a growing trend in the complementary and alternative medicine (CAM) industry towards fair work practices and proper wages for healers. However, despite this trend, there are still instances where healers are not being treated fairly or receiving fair wages.
 
 On the one hand, it is important to recognize that healers in the CAM industry often work long hours and are responsible for providing vital healthcare services to their clients. They deserve to be paid a fair wage for their hard work and dedication. In addition, healers often face challenges and risks that are not faced by traditional healthcare workers, such as dealing with clients who may not fully understand or trust their methods. These challenges and risks should be taken into consideration when determining fair wages for healers.
@@ -28,29 +26,24 @@ Overall, it is clear that there is a need for greater awareness and action to en
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://healers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

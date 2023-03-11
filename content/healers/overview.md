@@ -3,14 +3,12 @@ title: An Overview for Healers and the Complementary And Alternative Medicine  I
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/small/healers.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
     <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 Complementary and alternative medicine (CAM) is a rapidly growing industry that offers a wide range of career opportunities for those interested in exploring alternative approaches to healthcare. According to the National Center for Complementary and Integrative Health (NCCIH), CAM therapies are used by about 38% of adults in the United States. These therapies include acupuncture, chiropractic care, herbal medicine, and massage therapy, among others.
 
@@ -31,29 +29,24 @@ In conclusion, the CAM industry is a diverse and rapidly growing field that offe
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://healers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://videogamers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

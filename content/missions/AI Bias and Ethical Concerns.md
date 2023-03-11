@@ -3,13 +3,11 @@ title: AI Bias and Ethical Concerns
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #AI Bias and Ethical Concerns
 
 **Project Brief**:
@@ -38,7 +36,6 @@ The team will have access to the latest AI tools and technologies.
 The team will receive training and support from Raj Patel and other AI experts.
 Successful completion of the project will result in XP for all contributing members and unlock a new challenge in our quest to revolutionize the workplace for AI developers worldwide.
 Successful completion of this project will demonstrate the ability of the AI industry to tackle complex challenges and help establish the industry as a responsible and ethical player in society. The solution developed by the team will be used as a benchmark for other AI developers and will help ensure the long-term viability and growth of the AI industry.
-description: Making open-source more accessible.
 
 ---
 

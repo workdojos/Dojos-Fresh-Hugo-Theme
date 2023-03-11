@@ -3,13 +3,11 @@ title: Bartending And Hospitality  Industry Controversies and Challenges
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 The bartending and hospitality industry is facing several controversies that impact both the employees and the overall success of the industry. One major issue is the difficulty that many bartenders face in finding steady work. This can be attributed to the competitive nature of the industry and the lack of support for new and inexperienced bartenders. In addition, many bartenders are not paid a fair wage for their hard work and dedication to the industry. This not only affects the financial stability of individual bartenders, but also has negative consequences for the industry as a whole.
 
@@ -22,29 +20,24 @@ In conclusion, the bartending and hospitality industry has the potential to thri
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://bartenders.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://animators.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

@@ -3,13 +3,11 @@ title: Open-Source Tech for Bartenders and Others in the Bartending And Hospital
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/open-source-tech.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='desktop computer and open-source code';/>
     <figcaption>Open-source tech, the best bang-for-your-buck in the digital world.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 As someone who has worked in the bartending and hospitality industry for a number of years, I can attest to the importance of open-source technology in serving this industry. In a world where technology is constantly evolving, it is crucial for businesses in the hospitality industry to adapt and utilize tools that can streamline processes and improve efficiency.
 
@@ -26,30 +24,25 @@ Finally, it is clear that small businesses will continue to play an integral rol
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
-description: Making open-source more accessible.
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-description: Making open-source more accessible.
                       <a href="https://bartenders.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
-description: Making open-source more accessible.
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
-description: Making open-source more accessible.
                       <a href="https://dealerships.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
-description: Making open-source more accessible.
     </tr>
 </table>

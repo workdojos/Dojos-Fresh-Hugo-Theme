@@ -3,14 +3,12 @@ title: An Overview for Playwrights and the Perfoming Arts  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/small/playwright.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
     <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 The performing arts industry is a vast and diverse field that encompasses a wide range of career opportunities. From actors and dancers to musicians and stage technicians, the industry offers a variety of roles for those with a passion for the arts. In terms of facts and figures, the performing arts industry is worth an estimated $1.1 trillion globally, making it a significant contributor to the economy.
 
@@ -29,29 +27,24 @@ Overall, the performing arts industry is a vibrant and exciting field that offer
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://playwright.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://videogamers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

@@ -3,7 +3,6 @@ title: The Legislative  Industry and Legislator Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a legislator working in the legislative industry, it is my duty to advocate for fair work practices and to promote the rights of workers. In recent years, there have been a number of trends and events that have highlighted the importance of this issue.
 
 One trend that has emerged in recent years is the rise of the gig economy, where workers are classified as independent contractors rather than employees. This classification has allowed companies to evade responsibilities such as providing benefits and paying overtime. As a result, gig workers have been denied basic protections that are afforded to traditional employees.
@@ -30,29 +28,24 @@ Ultimately, fair work practices are essential for the well-being of workers and 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://legislator.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

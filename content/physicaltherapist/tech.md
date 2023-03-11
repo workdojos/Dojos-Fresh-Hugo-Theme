@@ -3,14 +3,12 @@ title: Open-Source Tech for Physical Therapists and Others in the Physical Thera
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/open-source-tech.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='desktop computer and open-source code';/>
     <figcaption>Open-source tech, the best bang-for-your-buck in the digital world.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 The physical therapy industry is an essential part of healthcare, helping individuals recover from injuries, surgeries, and chronic conditions. Despite its importance, the industry has historically been slow to adopt new technologies and techniques, relying heavily on manual therapies and traditional approaches. However, with the rise of open-source technology and the increasing demand for more personalized and effective treatments, it's time for the physical therapy industry to embrace these innovations.
 
@@ -27,30 +25,25 @@ Overall, the physical therapy industry has much to gain from the adoption of ope
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
-description: Making open-source more accessible.
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-description: Making open-source more accessible.
                       <a href="https://physicaltherapist.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
-description: Making open-source more accessible.
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
-description: Making open-source more accessible.
                       <a href="https://dealerships.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
-description: Making open-source more accessible.
     </tr>
 </table>

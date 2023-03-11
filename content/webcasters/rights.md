@@ -3,7 +3,6 @@ title: The Social Media  Industry and Influencer Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As the social media industry continues to grow and evolve, it is important to address the issue of fair work practices for influencers. In recent years, there have been numerous reports of influencers being taken advantage of by companies and brands, with many being paid unfairly or not at all for their work. This is an unacceptable and unfair treatment of workers, and it is crucial that steps are taken to ensure that influencers are treated with the same respect and dignity as any other employee.
 
 One of the main issues facing influencers in the social media industry is the lack of clear guidelines and standards for how they should be compensated. Many influencers are offered free products or services in exchange for promoting a brand, but this is often not enough to cover their time and effort. Some influencers are also offered low-paying or unpaid internships, which can be exploitative and do not reflect the value of their work.
@@ -28,29 +26,24 @@ In conclusion, it is vital that the social media industry takes steps to ensure 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://webcasters.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

@@ -3,13 +3,11 @@ title: Kazakhstan Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Kazakhstan.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 1.  Join local open-source tech communities: There are several communities in Kazakhstan that focus on open-source technology. You can join these communities to learn more about open-source technology and connect with like-minded individuals. Here are some of the communities to join:
 
 *   Open Source Community Kazakhstan: This community promotes open-source technology and encourages individuals and businesses to adopt open-source solutions. They organize meetups and conferences to share knowledge and best practices.
@@ -35,7 +33,6 @@ Notable Technologists from Kazakhstan Throughout History:
 2.  Mukhtar Auezov: He was a writer, historian, and scholar who lived in the 20th century. He is best known for his book "The Path of Abai," which is considered a masterpiece of Kazakh literature.
     
 3.  Yerzhan Ukibai: He is a computer scientist and entrepreneur who co-founded Kaspi.kz, the largest e-commerce platform in Kazakhstan. He is also a member of the World Economic Forum's Young Global Leaders program.
-description: Making open-source more accessible.
     
 
 <br>
@@ -43,25 +40,21 @@ description: Making open-source more accessible.
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Kazakhstan" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -80,19 +73,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Kenya">Next dojo:  Kenya</a>

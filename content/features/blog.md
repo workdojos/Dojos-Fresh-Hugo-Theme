@@ -3,7 +3,6 @@ title: Blogging by Ghost
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <img src="https://workmates.live/wp-content/uploads/2022/11/ghost-black-logo.png" 
      width="300" 

@@ -3,13 +3,11 @@ title: Improving Supply-Chain Efficiency
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Improving Supply-Chain Efficiency
 
 **Project Brief**:
@@ -25,7 +23,6 @@ To reduce costs and increase the speed of delivery
 To improve the transparency and visibility of the supply-chain
 To minimize the risks associated with importing goods
 **Stakes**:
-description: Making open-source more accessible.
 The supply-chain industry is constantly evolving, and it is essential for importers to stay ahead of the curve. The stakes are high, as the industry is highly competitive, and a slow and inefficient supply-chain can result in lost revenue, market share, and customers. Improving the efficiency of the supply-chain is crucial for the success of the importers, and failure to do so could result in the loss of their competitive advantage.
 
 **Reserves**:
@@ -35,7 +32,6 @@ A dedicated team of experts in supply-chain management
 A budget of $50 for the implementation of new technology or process improvements
 90 days to complete the project
 **Successful Completion**:
-description: Making open-source more accessible.
 Successful completion of this project will result in improved efficiency in the supply-chain, reduced costs, faster delivery times, and increased transparency. The team members will receive XP points, which will unlock a new challenge in our ultimate quest to revolutionize the workplace for importers worldwide. The success of this project will also set the standard for future projects, further improving the efficiency and competitiveness of the industry.
 
 ---

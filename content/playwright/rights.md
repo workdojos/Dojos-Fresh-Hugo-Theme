@@ -3,7 +3,6 @@ title: The Perfoming Arts  Industry and Playwright Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a playwright working in the performing arts industry, it is crucial that fair work practices are upheld and that workers are treated with respect and given proper wages for their contributions. In recent years, there have been numerous instances of exploitation and mistreatment of workers in the industry, particularly those who are just starting out or are considered to be "emerging" artists.
 
 One trend that has emerged in the industry is the reliance on unpaid or low-paid internships as a means of gaining experience and building a resume. While these internships may seem like an opportunity for aspiring artists, they often result in workers being taken advantage of and not receiving fair compensation for their labor. In addition, many workers are required to work long hours and take on multiple internships or part-time jobs in order to make ends meet, leading to burnout and a lack of time to focus on their craft.
@@ -26,29 +24,24 @@ In order to promote fair work practices in the performing arts industry, it is c
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://playwright.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

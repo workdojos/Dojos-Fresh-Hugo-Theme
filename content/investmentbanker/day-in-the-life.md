@@ -3,14 +3,12 @@ title: A Day in the Life of a Investment Banker
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/a-day-in-the-life.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='sunny day working abroad in an exotic locale';/>
     <figcaption>What it's like living a day in the life.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 Once upon a time, in the bustling city of New York, there was a young investment banker named Sarah. Sarah was a smart and ambitious woman who had always dreamed of making it big in the financial world.
 
@@ -31,30 +29,25 @@ Despite the challenges, Sarah loved her job and knew that her hard work would pa
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
-description: Making open-source more accessible.
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-description: Making open-source more accessible.
                       <a href="https://investmentbanker.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
-description: Making open-source more accessible.
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
-description: Making open-source more accessible.
                       <a href="https://biologist.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
-description: Making open-source more accessible.
     </tr>
 </table>

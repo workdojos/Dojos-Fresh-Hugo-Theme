@@ -3,13 +3,11 @@ title: Improving Crop Yields for the Cannabis Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Improving Crop Yields for the Cannabis Industry
 
 **Project Brief**: Improving Crop Yields for the Cannabis Industry
@@ -26,7 +24,6 @@ Implement sustainable growing practices that promote healthy plant growth and re
 Research and implement new technology to streamline the growing process.
 **Stakes**:
 The success of your operation is at stake. With the cannabis industry growing rapidly, meeting demand is essential in order to remain competitive. Failure to meet the goals set forth in this project could result in decreased profitability and a loss of market share.
-description: Making open-source more accessible.
 
 **Reserves**:
 The team has a budget of $50 to invest in new technology, equipment, and resources. Any unused funds will be credited towards the next project.

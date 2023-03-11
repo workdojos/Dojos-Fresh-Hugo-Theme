@@ -3,7 +3,6 @@ title: System Administrator Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 <figure>
@@ -11,7 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 One of the major trends in the server administration industry in recent years has been the increasing demand for skilled professionals to manage and maintain complex systems. This has led to a competitive job market and, unfortunately, has also resulted in some companies taking advantage of their workers by offering low wages and unfair work practices.
 <br>
 <br>
@@ -26,30 +24,25 @@ In conclusion, it is important for system administrators and other workers in th
 <a href="https://workdojos.com/admins/branding">next: branding</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
-description: Making open-source more accessible.
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-description: Making open-source more accessible.
                       <a href="https://admins.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
-description: Making open-source more accessible.
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
-description: Making open-source more accessible.
                       <a href="https://musicalartist.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
-description: Making open-source more accessible.
     </tr>
 </table>

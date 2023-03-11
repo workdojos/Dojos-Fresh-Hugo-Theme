@@ -3,13 +3,11 @@ title: Predictive Maintenance for Smart Factories
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Predictive Maintenance for Smart Factories
 
 **Project Brief**: Predictive Maintenance for Smart Factories
@@ -26,7 +24,6 @@ To reduce the downtime of the factories by 30% with the help of the predictive m
 To increase the productivity of the factories by 15% with the help of the predictive maintenance solution.
 To improve the efficiency of the maintenance team by reducing the time taken for machine maintenance by 25%.
 **Stakes**:
-description: Making open-source more accessible.
 
 The reputation of the data science industry will be at stake if the predictive maintenance solution fails to deliver the desired results.
 The stakeholders of the smart factories will be impacted negatively if the downtime and the cost of maintenance increase.

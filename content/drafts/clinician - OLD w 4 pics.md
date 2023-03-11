@@ -3,7 +3,6 @@ title: Clinician's Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 draft: true
 
 ---
@@ -28,55 +27,46 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <table>
     <caption></caption>
     <tr>
-description: Making open-source more accessible.
         <td> </td>
         <th scope="col" class="heman">Work Dojos</th>
         <th scope="col" class="skeletor">Premium SaaS subscriptions</th>
     </tr>
     <tr>
-description: Making open-source more accessible.
         <th scope="row">Website</th>
         <td>Included in your Dojo</td>
         <td>Squarespace Business $23/mo, Wix Pro $27/mo</td>
     </tr>
     <tr>
-description: Making open-source more accessible.
         <th scope="row">Ghost blog</th>
         <td>Included in your Dojo</td>
         <td>Ghost Pro $25/mo</td>
     </tr>
     <tr>
-description: Making open-source more accessible.
         <th scope="row">Rocket.chat</th>
         <td>Included in your Dojo</td>
         <td>Slack Business $12.50/user/mo</td>
     </tr>
     <tr>
-description: Making open-source more accessible.
         <th scope="row">Baserow code-free database</th>
         <td>Included in your Dojo</td>
         <td>Baserow Premium $5/user/mo, , Airtable $10/user/mo</td>
     </tr>
     <tr>
-description: Making open-source more accessible.
         <th scope="row">n8n Automation</th>
         <td>Included in your Dojo</td>
         <td>n8n Pro $50/mo</td>
     </tr>
     <tr>
-description: Making open-source more accessible.
         <th scope="row">Wiki.js</th>
         <td>Included in your Dojo</td>
         <td>Free to host on your own server</td>
     </tr>
     <tr>
-description: Making open-source more accessible.
         <th scope="row">Yearly costs</th>
         <td>Work Dojos $25/mo or $250/yr </td>
         <td>Premium SaaS apps $124.50/mo * 12 = $1494/yr  </td>
     </tr>
 </table>
-description: Making open-source more accessible.
 
 <br><br>
 
@@ -85,85 +75,71 @@ description: Making open-source more accessible.
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
-description: Making open-source more accessible.
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/wiki">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/wikijs.png" class="columnImage" />
                     </td>
                 </tr>
-description: Making open-source more accessible.
                 <tr>
                     <td valign="top" class="leftColumnContent">
                     </td>
                 </tr>
             </table>
-description: Making open-source more accessible.
         </td>
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
-description: Making open-source more accessible.
                       <a href="https://workdojos.com/n8n">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/n8n-logo.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
-description: Making open-source more accessible.
                     <td valign="top" class="leftColumnContent">
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/chat">  
-description: Making open-source more accessible.
                         <img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-description: Making open-source more accessible.
                     </td>
                 </tr>
             </table>
         </td>
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
-description: Making open-source more accessible.
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/db">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/baserow4.png" class="columnImage" />
-description: Making open-source more accessible.
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
                     </td>
-description: Making open-source more accessible.
                 </tr>
             </table>
         </td>
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
-description: Making open-source more accessible.
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/ghost">
                         <img src="https://workmates.live/wp-content/uploads/2022/11/ghost-black-logo.png" class="columnImage" />
                     </td>
-description: Making open-source more accessible.
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
                     </td>
                 </tr>
-description: Making open-source more accessible.
             </table>
         </td>
     </tr>
@@ -175,7 +151,6 @@ description: Making open-source more accessible.
         <p></p>
     {{% subtitle5 "Do you work in the medical field?" %}}
 If you would like a dashboard customized to your practice or profession, if you work for a hospital or clinic that is looking for something both better and cheaper, or if you're just looking to stay in-the-know about a particular medical field, then maybe our service can be of benefit to you!
-description: Making open-source more accessible.
 </figure>
 
 <br>
@@ -188,7 +163,6 @@ We are an employee-owned company.  We believe in revitalizing the world through 
   <li>Do you work at an existing business and are you looking to cut costs and get rid of excessive SaaS subscriptions?</li>
   <li>Are you a researcher looking for some amazing tools to help you do your job?</li>
     <li>Or a student looking to learn about self-hosting and web app development?</li>
-description: Making open-source more accessible.
       <li>Do you want to get involved or just have a question and want to talk to someone? </li>
 </ul> 
 
@@ -207,43 +181,36 @@ Click the "Sign Up" button in the upper right (includes both a free tier and a f
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
-description: Making open-source more accessible.
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/healers">
                         <img src="https://workmates.live/wp-content/uploads/2022/01/Healers.jpg" class="columnImage" />
                     </td>
                 </tr>
-description: Making open-source more accessible.
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Heal the world.</h1>
                         Elevate your practice, level up your game, help others, start a community, heal the world.
                     </td>
-description: Making open-source more accessible.
                 </tr>
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
-description: Making open-source more accessible.
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/practitioner">
                         <img src="https://workmates.live/wp-content/uploads/2022/01/sasun-bughdaryan-RlIppR1I3E8-unsplash.jpg" class="columnImage" />
                     </td>
-description: Making open-source more accessible.
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Start a practice.</h1>
                         In whatever field you're in, we can customize the ultimate digital experience for you.
-description: Making open-source more accessible.
                     </td>
                 </tr>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>
 
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
@@ -251,43 +218,36 @@ description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
-description: Making open-source more accessible.
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/physicaltherapist">  
                         <img src="https://workmates.live/wp-content/uploads/2022/01/physicaltherapist.live_.jpg" class="columnImage" />
                     </td>
                 </tr>
-description: Making open-source more accessible.
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Virtual therapy.</h1>
                         Don't stop being there because you can't be there.  Be present now.
                     </td>
-description: Making open-source more accessible.
                 </tr>
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
-description: Making open-source more accessible.
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/registerednurse">
                         <img src="https://workmates.live/wp-content/uploads/2022/01/RegisteredNurse-scaled.jpg" class="columnImage" />
                     </td>
-description: Making open-source more accessible.
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Help others.</h1>
                         Share your ideas for revolutionizing the world of healthcare.
-description: Making open-source more accessible.
                     </td>
                 </tr>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>
 
 <br><br>

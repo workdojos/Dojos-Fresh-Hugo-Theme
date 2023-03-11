@@ -3,13 +3,11 @@ title: Preservation of Historical Properties
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Preservation of Historical Properties
 
 **Project Brief**: Preservation of Historical Properties
@@ -26,7 +24,6 @@ Ensure the long-term sustainability of these properties
 Increase public awareness and support for the preservation of these properties
 Secure funding and resources for the preservation and maintenance of these properties
 **Stakes**:
-description: Making open-source more accessible.
 The failure to properly preserve these historical properties would result in their decline and eventual destruction, leading to the loss of important cultural and historical landmarks. This would not only be a loss for the local communities and the lighthouse managers, but also for future generations who would be unable to experience the rich cultural heritage of these properties.
 
 **Reserves**:

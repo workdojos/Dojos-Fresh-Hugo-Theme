@@ -3,13 +3,11 @@ title: Learning & Development for Biologists
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 As a talent coach for interviews for the position of biologist, here are some suggestions for what should appear in a curriculum related to this title:
 
@@ -18,7 +16,6 @@ Coursework in subjects like genetics, evolution, cell biology, and physiology.
 Research experience, either in a laboratory setting or in the field.
 Strong writing and communication skills, as biologists often need to present findings in research papers and grant proposals.
 Proficiency in statistical software and data analysis tools, as biologists often work with large datasets.
-description: Making open-source more accessible.
 Some of the best websites with resources for learning more about the field of biology include:
 
 Khan Academy: This website offers a wide range of biology courses and lessons, including topics like genetics, evolution, and ecology.
@@ -36,7 +33,6 @@ Be prepared to talk about specific research projects you've worked on, and expla
 Be familiar with current trends and developments in the field of biology.
 Be able to explain complex scientific concepts in layman's terms, as you may need to present your research to a non-technical audience.
 Here are some questions the candidate should be able to answer:
-description: Making open-source more accessible.
 
 What specific areas of biology are you most interested in and why?
 How have you applied your biology knowledge in a research setting?
@@ -48,29 +44,24 @@ How do you keep up with current developments in the field of biology?
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://biologist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

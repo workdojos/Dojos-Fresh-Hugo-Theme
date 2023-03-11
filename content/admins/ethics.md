@@ -3,13 +3,11 @@ title: Ethical Framework for System Administrators
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/ethical-framework.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='namaste hands';/>
     <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 As a philosopher, I would approach the task of developing an ethical framework for starting a business as a system administrator working in the server administration industry by first examining the fundamental principles that underlie ethical behavior. These principles might include respect for the autonomy and dignity of individuals, the promotion of the common good, and the avoidance of harm or exploitation.
 
@@ -22,30 +20,25 @@ Overall, the key to developing an ethical framework for starting a business as a
 <a href="https://workdojos.com/admins/social">next: social media</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
-description: Making open-source more accessible.
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-description: Making open-source more accessible.
                       <a href="https://admins.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
-description: Making open-source more accessible.
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
-description: Making open-source more accessible.
                       <a href="https://retailers.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
-description: Making open-source more accessible.
     </tr>
 </table>

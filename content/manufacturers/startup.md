@@ -3,14 +3,12 @@ title: Startup Ideas for Manufacturers and Entrepreneurs in the Manufacturing  I
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/startup-ideas.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='new storefront and startup open for business';/>
     <figcaption>It all starts with an idea.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 Idea name: Fabricate
 
@@ -25,14 +23,12 @@ Inefficient communication between departments and suppliers
 Complex order tracking and fulfillment processes
 High production costs due to inefficient processes and outdated equipment
 Main value propositions:
-description: Making open-source more accessible.
 
 Advanced inventory management and demand forecasting tools
 Simplified communication and collaboration between departments and suppliers
 Streamlined order tracking and fulfillment processes
 Access to modern, cost-effective equipment and resources for production
 Sales & marketing channels:
-description: Making open-source more accessible.
 
 Direct sales to manufacturers through sales team and online marketing efforts
 Partnerships with industry associations and trade shows
@@ -49,21 +45,18 @@ Costs of maintaining and updating equipment and resources
 Marketing and sales efforts
 Employee salaries and benefits
 Key activities:
-description: Making open-source more accessible.
 
 Developing and maintaining advanced inventory management and demand forecasting tools
 Simplifying communication and collaboration between departments and suppliers
 Streamlining order tracking and fulfillment processes
 Procuring and maintaining modern, cost-effective equipment and resources for production
 Key resources:
-description: Making open-source more accessible.
 
 Advanced inventory management and demand forecasting software
 Modern, cost-effective equipment and resources for production
 Experienced sales and marketing team
 Skilled developers and IT support staff
 Key partners:
-description: Making open-source more accessible.
 
 Industry associations and trade shows
 Equipment and resource suppliers
@@ -75,7 +68,6 @@ Reach out to potential customers to gauge interest and gather feedback on their 
 Develop a minimum viable product and test with a small group of manufacturers to gather further feedback and refine the platform
 Conduct a full launch to a larger group of manufacturers and track adoption and success rates
 Estimated 1st year cost of operation: $500,000
-description: Making open-source more accessible.
 
 Potential business challenges to look for:
 
@@ -89,30 +81,25 @@ Constant updates and improvements needed to keep the platform relevant and compe
 <a href="https://workdojos.com/manufacturers/tech">next: open-source tech</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
-description: Making open-source more accessible.
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-description: Making open-source more accessible.
                       <a href="https://manufacturers.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
-description: Making open-source more accessible.
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
-description: Making open-source more accessible.
                       <a href="https://clinician.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
-description: Making open-source more accessible.
     </tr>
 </table>

@@ -3,14 +3,12 @@ title: Startup Ideas for Web Jedis and Entrepreneurs in the Digital Marketing Se
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/startup-ideas.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='new storefront and startup open for business';/>
     <figcaption>It all starts with an idea.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 Web: The word "web" comes from the Old English word "webbe," which means "woven fabric." It is derived from the Proto-Germanic word "webjō," which means "to weave." The word was originally used to describe a fabric that was woven from thread or yarn, but in the early 20th century, it began to be used to describe the interconnected network of computers that make up the internet. The meaning of the word has evolved over time to include any interconnected or interwoven system or network, including the internet and social media networks.
 
@@ -23,30 +21,25 @@ Digital Marketing Services: The word "digital" comes from the Latin word "digitu
 <a href="https://workdojos.com/webjedi/tech">next: open-source tech</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
-description: Making open-source more accessible.
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-description: Making open-source more accessible.
                       <a href="https://webjedi.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
-description: Making open-source more accessible.
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
-description: Making open-source more accessible.
                       <a href="https://clinician.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
-description: Making open-source more accessible.
     </tr>
 </table>

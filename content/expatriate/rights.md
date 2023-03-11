@@ -3,7 +3,6 @@ title: The International Business  Industry and Expat Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As an advocate for fair work practices, it is my belief that all workers, regardless of their nationality, deserve to be treated with respect and to receive fair wages for their labor. This is especially important for expats working in the international business industry, as they often face unique challenges and inequalities due to their status as outsiders in a new country.
 
 Recent trends in the international business industry have unfortunately seen a rise in exploitation and mistreatment of expat workers, with companies taking advantage of their vulnerable status and lack of familiarity with local labor laws. Reports of unpaid overtime, inadequate housing and living conditions, and discrimination based on nationality have become all too common.
@@ -28,29 +26,24 @@ Overall, it is vital that the international business industry prioritize fair wo
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://expatriate.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

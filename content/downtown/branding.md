@@ -3,14 +3,12 @@ title: Downtown Business Owner Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo 
-description: Making open-source more accessible.
 
 ---
 <figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
     <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As the social media manager for your tourism organization, I would recommend the following strategy:
 
 Identify key target audiences for your organization and create tailored content for each platform to engage with these audiences. For example, Twitter could be used to share quick updates and behind-the-scenes glimpses of your organization, while Instagram could focus on visually stunning photos and videos showcasing your destinations. Pinterest could be used to curate travel inspiration and share planning resources for potential visitors.
@@ -32,29 +30,24 @@ Overall, the goal of this strategy is to increase brand awareness, recruit follo
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://downtown.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

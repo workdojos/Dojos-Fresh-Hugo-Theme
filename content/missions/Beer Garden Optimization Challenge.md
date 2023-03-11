@@ -3,7 +3,6 @@ title: Beer Garden Optimization Challenge
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 # Mission // #Beer Garden Optimization Challenge
 

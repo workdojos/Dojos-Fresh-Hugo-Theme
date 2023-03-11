@@ -3,7 +3,6 @@ title: The Recruitment  Industry and Headhunter Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a headhunter working in the recruitment industry, I am constantly confronted with the issue of fair work practices for employees. In recent years, there have been numerous trends and events that have highlighted the importance of ensuring that workers are treated with respect, fairness, and given proper wages.
 
 One trend that has emerged in the industry is the increasing use of contract workers, rather than hiring permanent employees. While this may seem like a cost-effective solution for companies, it often results in workers being treated unfairly, as they are not afforded the same benefits and protections as permanent employees. This includes things like healthcare, paid time off, and job security.
@@ -28,29 +26,24 @@ In conclusion, as a headhunter, it is my belief that fair work practices are ess
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://executivesearch.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

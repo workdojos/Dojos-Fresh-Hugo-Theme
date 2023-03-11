@@ -3,13 +3,11 @@ title: Nepal Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Nepal.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 Learning about open-source technology in Nepal can be done by exploring different resources such as online communities, blogs, events, and projects related to the topic. Some of the resources that can be useful are:
 
 1.  Open Knowledge Nepal - a community of open knowledge enthusiasts working to promote open access, open data, and open source in Nepal. Website: [https://oknp.org/](https://oknp.org/)
@@ -29,25 +27,21 @@ Notable technologists from Nepal throughout history include:
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Nepal" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -66,19 +60,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Netherlands">Next dojo:  Netherlands</a>

@@ -3,7 +3,6 @@ title: The Consulting  Industry and Strategist Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 Fair work practices for a strategist working in the consulting industry have been a hot topic in recent years, with numerous trends and events highlighting the need for better treatment of workers in this sector. As a strategist, it is important to promote worker's rights, fair treatment, and proper wages in order to create a more sustainable and ethical industry.
 
 One of the most pressing issues facing workers in the consulting industry is the lack of job security. Many consultants are hired on a project-by-project basis, with no guarantee of ongoing employment. This can lead to feelings of uncertainty and instability, and can make it difficult for workers to plan for their future. To address this issue, it is important to push for more stable employment opportunities, such as permanent positions or long-term contracts.
@@ -28,29 +26,24 @@ In conclusion, fair work practices are crucial for a strategist working in the c
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://strategists.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

@@ -3,13 +3,11 @@ title: Trinidad and Tobago Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Trinidad and Tobago.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 Learning about open-source technology in Trinidad and Tobago can be done through several resources, including online communities, meetups, conferences, and tech organizations. Here are some of the resources and notable technologists from Trinidad and Tobago:
 
 1.  TTCS - The Trinidad and Tobago Computer Society is a non-profit organization that promotes the use of technology in the country. The organization hosts meetups, workshops, and seminars on various tech topics, including open-source technology.
@@ -17,13 +15,11 @@ Learning about open-source technology in Trinidad and Tobago can be done through
 2.  TTMakers - TTMakers is a community of makers, hackers, and tinkerers in Trinidad and Tobago. The group meets regularly to discuss and work on various projects, including open-source software and hardware.
     
 3.  DevMeetupTT - DevMeetupTT is a meetup group for software developers in Trinidad and Tobago. The group hosts monthly meetups on various tech topics, including open-source technology.
-description: Making open-source more accessible.
     
 4.  FOSS TT - FOSS TT is a community of open-source software users and developers in Trinidad and Tobago. The group hosts events, workshops, and training sessions on open-source software and technology.
     
 5.  Notable Technologists from Trinidad and Tobago:
     
-description: Making open-source more accessible.
 
 a. Dr. Dave Baboolal - Dr. Baboolal is a computer scientist and software engineer. He is known for his work on the "Urdu Font Project," which developed a font that enabled the printing of Urdu script on computers.
 
@@ -42,25 +38,21 @@ In conclusion, learning about open-source technology in Trinidad and Tobago can 
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Trinidad-and-Tobago" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -79,19 +71,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Tunisia">Next dojo:  Tunisia</a>

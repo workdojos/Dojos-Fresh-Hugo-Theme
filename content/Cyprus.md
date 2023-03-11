@@ -3,13 +3,11 @@ title: Cyprus Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Cyprus.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 To learn more about open-source tech in Cyprus, the following resources and links may be useful:
 
 1.  Open Source Cyprus: This is a non-profit organization in Cyprus that promotes open-source software and hardware. Their website offers news, events, and resources for individuals and organizations interested in open-source technology.
@@ -17,7 +15,6 @@ To learn more about open-source tech in Cyprus, the following resources and link
 2.  Linux User Group Cyprus: This is a community of Linux users in Cyprus who share their knowledge and experience with others. They organize regular meetings and events, and their website provides resources and links to open-source software.
     
 3.  Cyprus FOSS community: This is a Facebook group for the open-source community in Cyprus. It is a platform for discussing open-source technology and sharing knowledge and resources.
-description: Making open-source more accessible.
     
 4.  Cypriot Hackers: This is a Facebook group for hackers and cybersecurity professionals in Cyprus. It is a platform for discussing cybersecurity issues and sharing knowledge about open-source tools and techniques.
     
@@ -29,7 +26,6 @@ Some notable technologists from Cyprus throughout history include:
 2.  Costas S. Iliopoulos: He is a computer scientist who has made significant contributions to the field of string algorithms. He is currently a professor at King's College London in the United Kingdom.
     
 3.  Andreas Pitsillides: He is a computer scientist who has made significant contributions to the field of network protocols and algorithms. He is currently a professor at the University of Cyprus.
-description: Making open-source more accessible.
     
 4.  Vasilis Vassalos: He is a computer scientist who has made significant contributions to the field of software engineering. He is currently a professor at the National Technical University of Athens in Greece.
     
@@ -41,25 +37,21 @@ Overall, there are many resources available for individuals and organizations in
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Cyprus" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -78,19 +70,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Czech">Next dojo:  Czech</a>

@@ -3,13 +3,11 @@ title: Improving Customer Satisfaction in the Travel Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Improving Customer Satisfaction in the Travel Industry
 
 **Project Brief**:
@@ -27,7 +25,6 @@ Identify and Jolyze customer feedback and complaints to understand areas of impr
 Develop and implement personalized travel solutions to meet customer needs and preferences.
 Monitor and evaluate the effectiveness of the solutions and make necessary changes to improve customer satisfaction.
 Increase customer trust and loyalty by providing exceptional customer service and a personalized travel experience.
-description: Making open-source more accessible.
 **Stakes**:
 
 The success of this project will have a direct impact on the travel industry, including increased customer satisfaction and trust, increased customer loyalty, and improved reputation.

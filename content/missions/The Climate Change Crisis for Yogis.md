@@ -3,13 +3,11 @@ title: The Climate Change Crisis for Yogis
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #The Climate Change Crisis for Yogis
 
 **Project Brief**
@@ -25,7 +23,6 @@ Identify sustainable solutions to reduce the impact of climate change on the env
 Create a plan of action to educate and raise awareness about the crisis.
 Collaborate with international organizations to implement the solutions globally.
 **Stakes**:
-description: Making open-source more accessible.
 The stakes of this project are high as the consequences of climate change will impact the future of our planet. The team's efforts will determine whether future generations will have access to clean air, water, and food. Failure to take action will result in a world of increased natural disasters, famine, and displacement of people.
 
 **Reserves**:

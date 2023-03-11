@@ -3,14 +3,12 @@ title: Learning & Development for Manufacturers
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 A manufacturer is a person or company that produces goods, typically on a large scale, using machines and other specialized equipment. Here are some things that should appear in a curriculum related to this job title:
 
@@ -19,7 +17,6 @@ Knowledge of quality control and quality assurance practices
 Proficiency in operating and maintaining manufacturing equipment
 Experience with production scheduling and inventory management
 Ability to troubleshoot and solve problems in a fast-paced environment
-description: Making open-source more accessible.
 Some of the best websites with resources for learning about manufacturing include:
 
 Manufacturing.gov: This government website offers a wealth of information on manufacturing, including industry news, best practices, and resources for education and training.
@@ -47,29 +44,24 @@ How do you keep up with industry trends and technologies?
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://manufacturers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

@@ -3,14 +3,12 @@ title: Startup Ideas for Novelists and Entrepreneurs in the Writing & Publishing
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/startup-ideas.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='new storefront and startup open for business';/>
     <figcaption>It all starts with an idea.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <pIdea Name: WriteIt
 
 Short One Liner: "Empowering writers to publish and promote their work digitally"
@@ -42,31 +40,26 @@ Potential Business Challenges to Look For: WriteIt will need to navigate the com
 SARTUP
 <br>
 <br>
-description: Making open-source more accessible.
 <a href="https://workdojos.com/novelist/tech">next: open-source tech</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
-description: Making open-source more accessible.
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://novelist.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
-description: Making open-source more accessible.
                     </td>
                 </tr>
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
-description: Making open-source more accessible.
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://clinician.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
-description: Making open-source more accessible.
                     </td>
             </table>
         </td>

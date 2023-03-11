@@ -3,13 +3,11 @@ title: Break away from the herd.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 draft: true
 ---
 <br>
 <img src="/uploads/herd2.svg" 
 <br>
-description: Making open-source more accessible.
 {{% title3 "We support small business." %}}
 {{% subtitle5 "Because we are a small business." %}}
 Put open-source building blocks to work for you and your business like we did for ours. It all starts with a dashboard. 
@@ -19,7 +17,6 @@ Put open-source building blocks to work for you and your business like we did fo
 <br>
 {{% title3 "We will equip you." %}}
 {{% subtitle5 "Open-source tools for your everyday life." %}}
-description: Making open-source more accessible.
 The best and brightest builders got all the tools!  We will equip you with the best open-source tools available, beginning with a dashboard customized to you.  Give us a try, your career will thank you for it!
 
 <br>

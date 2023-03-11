@@ -3,13 +3,11 @@ title: Learning & Development for Data Scientists
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 For the job title of data scientist, a strong curriculum should include:
 
@@ -18,7 +16,6 @@ Proficiency in programming languages such as Python and R
 Experience with data visualization tools such as Tableau or D3
 Exposure to machine learning algorithms and techniques
 Familiarity with data engineering concepts and practices, including data cleaning and wrangling, ETL processes, and data storage and retrieval
-description: Making open-source more accessible.
 Some helpful resources for learning about data science include:
 
 Coursera: https://www.coursera.org/degrees/data-science
@@ -26,14 +23,12 @@ edX: https://www.edx.org/learn/data-science
 DataCamp: https://www.datacamp.com/
 Dataquest: https://www.dataquest.io/
 Some top companies to work for as a data scientist include:
-description: Making open-source more accessible.
 
 Google
 Amazon
 Microsoft
 IBM
 Facebook
-description: Making open-source more accessible.
 These companies often have exciting roles and responsibilities for data scientists, including working on large-scale data projects, developing machine learning models, and implementing data-driven decision-making processes.
 
 Some helpful tips and tricks for data scientists include:
@@ -53,29 +48,24 @@ How do you keep up with the latest developments in data science?
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://datascientists.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

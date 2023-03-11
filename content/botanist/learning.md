@@ -3,13 +3,11 @@ title: Learning & Development for Botanists
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 For the role of a botanist, some key things that should appear in a curriculum include:
 
@@ -18,7 +16,6 @@ Experience with plant identification and classification
 Knowledge of plant physiology and ecology
 Familiarity with plant conservation and management strategies
 Research experience in botany
-description: Making open-source more accessible.
 Skills in fieldwork and data collection
 Proficiency in scientific writing and presentation
 Some great websites for learning about botany and staying up-to-date on the latest research include:
@@ -38,14 +35,12 @@ Participating in botany clubs or societies
 Networking with other professionals in the field
 Staying up-to-date on the latest research and developments in botany
 Some questions a candidate should be able to answer in an interview for a botanist role include:
-description: Making open-source more accessible.
 
 Can you describe your experience with plant identification and classification?
 How do you approach plant conservation and management?
 Can you discuss a research project you have worked on in the past and the results you obtained?
 How do you stay up-to-date on the latest research and developments in botany?
 How do you think your skills and experience make you a good fit for this role?
-description: Making open-source more accessible.
 
 
 <br>
@@ -53,29 +48,24 @@ description: Making open-source more accessible.
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://botanist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

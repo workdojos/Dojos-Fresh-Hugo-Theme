@@ -3,17 +3,11 @@ title: 4X4 Business Owner Social Media Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
-
- 
 ---
 <figure>
     <img src='/uploads/socialmedia.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='social media';/>
     <figcaption>Gain presence in the world of social media.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-description: Making open-source more accessible.
-
 </figure>
- 
 <br>
 
 <p>
@@ -35,41 +29,24 @@ Overall, it's important to be consistent and engaging with your followers on all
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
-
- 
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-description: Making open-source more accessible.
-
                       <a href="https://4X4s.workdojos.com">
- 
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
-description: Making open-source more accessible.
-
             </table>
         </td>
- 
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
-description: Making open-source more accessible.
-
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
- 
                         <img src="/uploads/randomdojo.png" class="columnImage" />
-description: Making open-source more accessible.
-
                     </td>
             </table>
         </td>
     </tr>
- 
-description: Making open-source more accessible.
-
 </table>

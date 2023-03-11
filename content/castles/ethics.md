@@ -3,13 +3,11 @@ title: Ethical Framework for Castle Owners Working in the Castle  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/ethical-framework.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='namaste hands';/>
     <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 As a philosopher, I would approach this question by considering the ethical implications of becoming a castle owner and working in the castle industry. One key ethical consideration would be the use of resources and the impact on the environment. Castle ownership often involves the use of large amounts of resources, such as energy and materials, and it is important to consider the sustainability of these practices. Additionally, the castle industry often relies on the exploitation of labor, whether through the use of cheap labor or through the exploitation of natural resources. It is important to consider how one can ethically engage in castle ownership and work in the castle industry while minimizing harm to both the environment and to workers.
 
@@ -24,29 +22,24 @@ In order to develop an ethical framework for starting a career as a castle owner
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://castles.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

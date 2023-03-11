@@ -3,7 +3,6 @@ title: n8n
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 {{% title3 "Price comparison" %}}
@@ -11,31 +10,26 @@ description: Making open-source more accessible.
     <caption></caption>
     <tr>
         <td> </td>
-description: Making open-source more accessible.
         <th scope="col" class="heman">Self-host</th>
         <th scope="col" class="skeletor">n8n pro</th>
     </tr>
     <tr>
         <th scope="row">Cheapest option</th>
-description: Making open-source more accessible.
         <td>About $5/month</td>
         <td>$20/month</td>
     </tr>
     <tr>
         <th scope="row">Active workflows</th>
-description: Making open-source more accessible.
         <td>Nearly unlimited</td>
         <td>20</td>
     </tr>
     <tr>
         <th scope="row">Users</th>
-description: Making open-source more accessible.
         <td>Nearly unlimited</td>
         <td>1</td>
     </tr>
     <tr>
         <th scope="row">Workflow executions</th>
-description: Making open-source more accessible.
         <td>Nearly unlimited</td>
         <td>15000</td>
     </tr>
@@ -57,43 +51,36 @@ See what n8n can do for you .  Sign up for a trial in the upper right or save 25
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
-description: Making open-source more accessible.
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://n8n.io/">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/n8n-logo.png" class="columnImage" />
                     </td>
-description: Making open-source more accessible.
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>The workflow automation platform that doesn't box you in.</h1>
                         Workflows for every team. 
-description: Making open-source more accessible.
                     </td>
                 </tr>
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
-description: Making open-source more accessible.
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/docker">
                         <img src="https://workmates.live/wp-content/uploads/2022/11/docker-logo.png" class="columnImage" />
-description: Making open-source more accessible.
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Next up:  Docker.</h1>
-description: Making open-source more accessible.
                         Develop faster. Run anywhere..
                                      <a href="https://workdojos.com/docker">Continue</a> 
                     </td>
                 </tr>
             </table>
-description: Making open-source more accessible.
         </td>
     </tr>
 </table>

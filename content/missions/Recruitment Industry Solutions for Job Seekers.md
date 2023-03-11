@@ -3,13 +3,11 @@ title: Recruitment Industry Solutions for Job Seekers
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Recruitment Industry Solutions for Job Seekers
 
 **Project Brief**: Recruitment Industry Solutions for Job Seekers
@@ -25,7 +23,6 @@ Enhance the communication between job seekers and recruiters, providing job seek
 Address the issue of job discrimination by implementing anti-discrimination policies and practices within the recruitment industry.
 Increase the number of job placements for job seekers by creating a more streamlined process for matching job seekers with job opportunities.
 **Stakes**:
-description: Making open-source more accessible.
 
 Job seekers are faced with many challenges in the recruitment industry, including lack of access to job opportunities, discriminatory hiring practices, and poor communication with recruiters.
 The recruitment industry is highly competitive, and a failure to address these challenges could result in job seekers losing opportunities to other candidates.

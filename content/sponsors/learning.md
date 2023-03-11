@@ -3,14 +3,12 @@ title: Learning & Development for Sponsors
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 For the job title of sponsor, here are some suggestions for what should appear in a curriculum:
 
@@ -19,7 +17,6 @@ Knowledge of different types of sponsorships, including event sponsorships, prod
 Experience in negotiating and securing sponsorships with potential partners
 Familiarity with different marketing and branding strategies that can be utilized through sponsorships
 Ability to track and measure the success of sponsored initiatives
-description: Making open-source more accessible.
 Some of the best websites for learning about sponsorship include:
 
 Sponsorship.com: This site offers a wealth of resources for sponsors, including industry news, case studies, and a directory of sponsorship agencies.
@@ -42,36 +39,30 @@ How do you go about identifying potential sponsors for an event or campaign?
 How do you negotiate sponsorship deals and what factors do you consider when determining sponsorship value?
 How do you track and measure the success of sponsored initiatives?
 Can you provide examples of creative and unique sponsorship opportunities you have developed in the past?
-description: Making open-source more accessible.
 
 <br>
 <a href="https://workdojos.com/sponsors/rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://sponsors.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

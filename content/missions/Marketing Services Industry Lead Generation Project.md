@@ -3,13 +3,11 @@ title: Marketing Services Industry Lead Generation Project
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Marketing Services Industry Lead Generation Project
 
 **Project Brief**: Marketing Services Industry Lead Generation Project
@@ -26,7 +24,6 @@ Streamline the lead generation process to reduce time spent on lead qualificatio
 Improve the accuracy of lead data through regular audits and verification.
 **Stakes**:
 Failure to achieve these goals will result in a decrease in client satisfaction and a loss of business for our team. Additionally, there will be a negative impact on our reputation in the industry, hindering future business opportunities.
-description: Making open-source more accessible.
 
 **Reserves**:
 
@@ -35,7 +32,6 @@ Access to market research tools and databases to help identify and reach potenti
 Adequate budget for marketing and advertising campaigns to reach potential leads.
 Weekly progress reports and regular check-ins with the team to ensure progress and alignment with project goals.
 Successful completion of the project will result in the following benefits:
-description: Making open-source more accessible.
 
 Improved customer satisfaction, leading to increased business and repeat clients.
 A stronger reputation in the industry, making it easier to attract new clients.

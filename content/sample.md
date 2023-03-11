@@ -3,7 +3,6 @@ title: Team
 include_footer: false
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 draft: true
 ---
 
@@ -12,13 +11,11 @@ draft: true
   -o-transform: scale(0.8, 0.8);
   -ms-transform: scale(0.8, 0.8);
   transform: scale(0.8, 0.8); 
-description: Making open-source more accessible.
   -moz-transform-origin: top left;
   -webkit-transform-origin: top left;
   -o-transform-origin: top left;
   -ms-transform-origin: top left;
   transform-origin: top left;padding: 9px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;">
-description: Making open-source more accessible.
   <p>Your browser does not support iframes.</p>
 </iframe>
 

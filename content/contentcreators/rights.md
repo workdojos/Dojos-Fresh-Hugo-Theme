@@ -3,7 +3,6 @@ title: The Influencer  Industry and Content Creator Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 <figure>
@@ -11,7 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a content creator in the content creation industry, it is crucial that fair work practices are implemented and upheld in order to ensure the well-being and fair treatment of all workers.
 
 One trend in the industry that has been a cause for concern is the increasing use of unpaid or underpaid internships as a means of securing entry-level positions. While these internships may seem like an opportunity for aspiring content creators to gain valuable experience, they often exploit the labor of young workers who are desperate for a foot in the door. It is important for companies to recognize the value of their interns and compensate them fairly for their work.
@@ -27,29 +25,24 @@ In conclusion, fair work practices in the content creation industry are essentia
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://contentcreators.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

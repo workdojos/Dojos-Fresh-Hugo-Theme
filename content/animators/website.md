@@ -3,13 +3,11 @@ title: Websites for Animators in the Animation Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/website.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='desktop computer opened to a beautiful website';/>
     <figcaption>"Hey Admin!".  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <br>
 <p>
 As a web design consultant, I would recommend that having your own website can greatly benefit your business as an animator in the animation industry. A website can serve as an online portfolio and showcase your work to potential clients, as well as allow you to establish a professional online presence.
@@ -36,25 +34,21 @@ Overall, it's important to consider your specific needs and goals when choosing 
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
-description: Making open-source more accessible.
                     <td class="leftColumnContent">
                       <a href="https://animators.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
-description: Making open-source more accessible.
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
-description: Making open-source more accessible.
                     <td class="rightColumnContent">
                       <a href="https://cosmonaut.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
-description: Making open-source more accessible.
         </td>
     </tr>
 </table>

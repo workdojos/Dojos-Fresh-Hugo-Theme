@@ -3,13 +3,11 @@ title: Coffee Shop Owner Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure><img src='/uploads/branding.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecrackertools to brand your new business';/>
     <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a social media manager for your coffee shop organization, my first priority would be to create a cohesive and consistent brand image across all platforms. This means using the same logo, color scheme, and tone of voice on each platform to ensure that your brand is easily recognizable to your followers.
 
 I would then focus on creating engaging content that resonates with your target audience. This could include showcasing your unique coffee blends, promoting special events or promotions, sharing behind-the-scenes glimpses of your coffee shop, and highlighting customer reviews and testimonials.
@@ -29,29 +27,24 @@ Finally, I would explore opportunities for collaboration with other businesses i
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://coffeeshops.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

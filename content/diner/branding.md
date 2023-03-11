@@ -3,13 +3,11 @@ title: Diner Owner Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
     <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 BRASure, as the social media manager for your restaurant organization, I would first assess the current state of your social media presence and gather information on your target audience. From there, I would develop a strategic plan for content creation and scheduling, including a mix of promotional posts, behind-the-scenes glimpses, and interactive content such as polls and quizzes.
 
 I would also utilize hashtags and participate in relevant Twitter chats to increase visibility and attract new followers. On Instagram, I would focus on visually appealing content, including high-quality photos and videos of your dishes, as well as utilizing Instagram stories and features such as IGTV to give a more personal touch to the brand.
@@ -21,31 +19,26 @@ NDING
 <br>
 <a href="https://workdojos.com/diner/ethics">next: ethical framework</a>
 </p>
-description: Making open-source more accessible.
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
-description: Making open-source more accessible.
                     <td class="leftColumnContent">
                       <a href="https://diner.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
-description: Making open-source more accessible.
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
-description: Making open-source more accessible.
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
-description: Making open-source more accessible.
         </td>
     </tr>
 </table>

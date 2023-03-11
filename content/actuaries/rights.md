@@ -3,7 +3,6 @@ title: The Risk Assessment  Industry and Actuary Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 <figure>
@@ -11,7 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As an actuary working in the risk assessment industry, I strongly believe in fair work practices for all employees. Recent trends and events have highlighted the importance of protecting workers' rights, ensuring fair treatment, and providing proper wages.
 
 One trend in the industry is the increasing use of automation and artificial intelligence, which has the potential to disrupt traditional work models and create new challenges for workers. While these technologies can bring efficiencies and cost savings, they also raise concerns about job security and the need for fair compensation for those who are impacted.
@@ -27,29 +25,24 @@ In conclusion, fair work practices are essential for the well-being and success 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://admins.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

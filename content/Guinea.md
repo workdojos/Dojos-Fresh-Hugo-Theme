@@ -3,13 +3,11 @@ title: Guinea Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Guinea.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 Learning more about open-source technology in Guinea can be done through several resources, such as:
 
 1.  The Guinea Open Source Community: This is a community of developers, programmers, and open-source enthusiasts in Guinea. They organize events, workshops, and meetups to foster knowledge sharing and collaboration among members.
@@ -17,7 +15,6 @@ Learning more about open-source technology in Guinea can be done through several
 2.  The Africa Open Data Network: This is a platform that promotes open data initiatives in Africa, including Guinea. It provides resources and tools for individuals and organizations to access and utilize open data.
     
 3.  The African Institute for Mathematical Sciences (AIMS): AIMS has a branch in Guinea that offers training and research opportunities in mathematics, computer science, and other STEM fields. They also promote open-source software and tools in their training programs.
-description: Making open-source more accessible.
     
 
 Notable technologists from Guinea throughout history include:
@@ -27,7 +24,6 @@ Notable technologists from Guinea throughout history include:
 2.  Mamadou Alpha Diallo: He is a computer scientist and the founder of the Guinea IT Professional Association. He has worked on various open-source projects and has contributed to the development of technology infrastructure in Guinea.
     
 3.  Dr. Alpha Oumar Diallo: He is a mathematician and computer scientist who has contributed to the development of open-source software for data analysis and modeling. He is also a professor at the University of Conakry and the founder of the Mathematics for Africa initiative.
-description: Making open-source more accessible.
     
 4.  Mohamed Diaby: He is a software engineer and the founder of the startup iLab Guinea, which focuses on the development of open-source software solutions for businesses and organizations.
     
@@ -39,25 +35,21 @@ Overall, learning more about open-source technology in Guinea requires a commitm
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Guinea" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -76,19 +68,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Guinea-Bissau">Next dojo:  Guinea Bissau</a>

@@ -3,7 +3,6 @@ title: Features
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 {{% title3 "Orchestrate your triggers and actions." %}}
@@ -47,7 +46,6 @@ Ever wanted to have a separate number that you can use to distance yourself from
      width="300" 
      height="200" />
      
-description: Making open-source more accessible.
 <br>
 
 {{% title3 "Chat app.  Hi Admin!" %}}
@@ -115,7 +113,6 @@ Think Slack.  It's just like it.  But it's better.  Can you guess why?  Because 
      height="200" />
      
 <br>
-description: Making open-source more accessible.
 
 {{% title3 "Baserow." %}}
 Airtable is the new big thing!  But it's expensive and the free plan is limiting.  Baserow is the open-source alternative to Airtable.  They also have a paid premium plan (as do many open-source providers), but they also being open-source share their code with anyone.  We deploy this into your Work Dojo for free.

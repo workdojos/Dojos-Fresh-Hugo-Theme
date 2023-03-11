@@ -3,13 +3,11 @@ title: Websites for Botanists in the Botany  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/website.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='desktop computer opened to a beautiful website';/>
     <figcaption>"Hey Admin!".  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <br>
 <p>
 There are several benefits to using open-source technology to build your own website, especially in the botany industry. One of the main benefits is cost savings. Open-source technology is free to use, which means that you won't have to pay for expensive proprietary software or licenses. This can be especially beneficial for small businesses or startups that are working with a limited budget.
@@ -34,25 +32,21 @@ Overall, the benefits of using open-source technology to build your own website 
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
-description: Making open-source more accessible.
                     <td class="leftColumnContent">
                       <a href="https://botanist.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
-description: Making open-source more accessible.
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
-description: Making open-source more accessible.
                     <td class="rightColumnContent">
                       <a href="https://cosmonaut.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
-description: Making open-source more accessible.
         </td>
     </tr>
 </table>

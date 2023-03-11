@@ -3,14 +3,12 @@ title: Learning & Development for Guesthouse Owners
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 Sure! Here are some suggestions for what should appear in a curriculum for a guesthouse owner:
 
@@ -31,7 +29,6 @@ International Association of Hospitality Management: https://www.iahm.info/
 Marketing for Hospitality and Tourism: https://www.tourismmarketing.org/
 Financial Management for Small Business: https://www.sba.gov/business-guide/manage-your-business/financial-management
 Leadership and Team Management: https://www.mindtools.com/pages/main/newMN_LDR.htm
-description: Making open-source more accessible.
 As for companies with exciting roles and responsibilities for guesthouse owners, some top choices might include:
 
 Airbnb: https://www.airbnb.com/host
@@ -39,7 +36,6 @@ Hilton: https://www.hilton.com/en/corporate/careers/
 Marriott: https://jobs.marriott.com/
 InterContinental Hotels Group (IHG): https://www.ihg.com/careers/
 Accor: https://www.accor.com/en/careers
-description: Making open-source more accessible.
 Some helpful tips and tricks for a guesthouse owner include:
 
 Focus on providing excellent customer service: This is key to ensuring that guests have a positive experience and are likely to return or recommend your guesthouse to others.
@@ -57,36 +53,30 @@ How do you ensure that your guesthouse is well-maintained and clean?
 How would you market your guesthouse to attract new guests?
 How do you handle bookings and reservations?
 How do you manage a budget and set pricing for your rooms?
-description: Making open-source more accessible.
 
 <br>
 <a href="https://workdojos.com/guesthouses/rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://guesthouses.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

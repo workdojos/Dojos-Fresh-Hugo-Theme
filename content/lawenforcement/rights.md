@@ -3,7 +3,6 @@ title: The Protective Services  Industry and Police Officer  Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 Fair work practices for police officers in the protective services industry are an important issue that has recently come to the forefront of public attention. There have been a number of high-profile cases where police officers have been accused of mistreating or even killing unarmed citizens, leading to protests and calls for reform. At the same time, there are also many stories of police officers going above and beyond the call of duty to protect and serve their communities.
 
 One argument in favor of fair work practices for police officers is that they deserve to be treated with respect and dignity just like any other worker. Police officers often work long hours in dangerous and stressful situations, and they deserve to be compensated fairly for their efforts. This includes not just their wages, but also things like benefits and time off. Police officers should also have the right to unionize and negotiate for better working conditions.
@@ -30,29 +28,24 @@ Overall, it is clear that police officers deserve fair work practices, including
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://lawenforcement.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

@@ -3,7 +3,6 @@ title: Academic Workplace Revolution
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 # Mission // #4x4 Industry Solutions
 
@@ -33,7 +32,6 @@ Support from industry leaders and experts in photojournalism and technology.
 Encouragement from peers, mentors, and other members of the photography community.
 Success:
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for photojournalists worldwide. It will demonstrate the potential of photojournalism to drive change and improve the quality of news coverage.
-description: Making open-source more accessible.
 
 ---
 

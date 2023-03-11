@@ -3,13 +3,11 @@ title: Indonesia Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Indonesia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 There are several ways to learn more about open-source tech in Indonesia. Here are some resources with links and notable technologists from Indonesia throughout history:
 
 1.  Join online communities: Joining online communities such as GitHub and Stack Overflow can be a great way to learn more about open-source tech in Indonesia. There are several Indonesian developers who are active on these platforms.
@@ -17,20 +15,17 @@ There are several ways to learn more about open-source tech in Indonesia. Here a
 2.  Attend tech events: Attending tech events such as conferences, meetups, and hackathons can help you network with like-minded people and learn about new technologies. Check out events such as BarCamp, Startup Weekend, and Tech in Asia.
     
 3.  Follow blogs: Following tech blogs such as DailySocial and Tech in Asia can help you stay up-to-date with the latest news and developments in the Indonesian tech industry.
-description: Making open-source more accessible.
     
 4.  Learn from online courses: Websites such as Udemy, Coursera, and edX offer online courses on open-source technologies. You can take advantage of these courses to learn more about open-source tech in Indonesia.
     
 5.  Notable technologists from Indonesia throughout history:
     
-description: Making open-source more accessible.
 
 *   B.J. Habibie: He was the third president of Indonesia and a prominent technologist who contributed to the development of Indonesia's aviation industry.
     
 *   Onno W. Purbo: He is a well-known Indonesian computer networking expert and advocate of open-source software.
     
 *   Rama Siburian: He is the founder of Labtek Indie, a community of Indonesian developers who promote open-source technologies.
-description: Making open-source more accessible.
     
 *   Nidya Ayu Utami: She is a prominent Indonesian data scientist and founder of Code4Nation, a non-profit organization that uses technology to address social issues.
     
@@ -42,25 +37,21 @@ Overall, learning about open-source tech in Indonesia requires a combination of 
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Indonesia" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -79,19 +70,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Iran">Next dojo:  Iran</a>

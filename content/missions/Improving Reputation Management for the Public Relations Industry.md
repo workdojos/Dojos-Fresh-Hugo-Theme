@@ -3,13 +3,11 @@ title: Improving Reputation Management for the Public Relations Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Improving Reputation Management for the Public Relations Industry
 
 **Project Brief**: Improving Reputation Management for the Public Relations Industry
@@ -26,7 +24,6 @@ Develop new and innovative reputation management strategies that address the cha
 Implement the new strategies in real-world situations and evaluate their effectiveness.
 Create a comprehensive guide to reputation management that can be used by PR reps worldwide.
 **Stakes**:
-description: Making open-source more accessible.
 
 Failure to improve reputation management strategies could result in negative publicity for clients, damaging their reputation and putting their future success in jeopardy.
 The public relations industry as a whole could suffer if PR reps are unable to effectively manage the reputation of their clients.

@@ -3,13 +3,11 @@ title: Websites for Bankrollers in the Money Lending  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/website.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='desktop computer opened to a beautiful website';/>
     <figcaption>"Hey Admin!".  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <br>
 <p>
 As a web design consultant, I would recommend using open-source technology to build your own website for a number of reasons. Firstly, open-source technology is generally free to use, meaning that you won't have to pay any licensing fees or upfront costs for the tools and platforms you need to build your website. This can be a significant cost saving for a business, particularly if you are working on a tight budget.
@@ -36,25 +34,21 @@ In terms of costs, using open-source technology will generally be cheaper than p
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
-description: Making open-source more accessible.
                     <td class="leftColumnContent">
                       <a href="https://bankroller.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
-description: Making open-source more accessible.
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
-description: Making open-source more accessible.
                     <td class="rightColumnContent">
                       <a href="https://cosmonaut.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
-description: Making open-source more accessible.
         </td>
     </tr>
 </table>

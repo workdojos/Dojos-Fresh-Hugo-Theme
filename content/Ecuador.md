@@ -3,13 +3,11 @@ title: Ecuador Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Ecuador.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 To learn more about open-source tech in Ecuador, there are various resources and notable technologists from Ecuador throughout history that one can explore. Here are some of them:
 
 Resources:
@@ -19,7 +17,6 @@ Resources:
 2.  Free Software Foundation Latin America: This is an organization that advocates for free software and open-source technology in Latin America, including Ecuador. They provide resources and information on open-source technologies, events, and projects.
     
 3.  GitHub Ecuador: This is a platform for developers to collaborate on open-source projects. It hosts several projects related to open-source technology in Ecuador.
-description: Making open-source more accessible.
     
 4.  Meetup Ecuador: This is a platform that brings together developers, entrepreneurs, and technologists interested in open-source technology. It organizes meetups, workshops, and networking events.
     
@@ -31,7 +28,6 @@ Notable Technologists from Ecuador:
 2.  Ricardo Galli: He is a software engineer and founder of the free software project GNU Solidario. He is also a co-founder of OpenSistemas, an open-source software company in Spain.
     
 3.  Maria Alexandra Velez: She is a data scientist and co-founder of OpenWOM, an open-source platform for analyzing and visualizing social media data. She has also worked on projects related to machine learning and natural language processing.
-description: Making open-source more accessible.
     
 4.  Fabian Rodriguez: He is a cybersecurity expert and open-source advocate. He has worked on several projects related to open-source technology, including Debian and Fedora.
     
@@ -43,25 +39,21 @@ In conclusion, learning about open-source tech in Ecuador requires exploring the
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Ecuador" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -80,19 +72,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Egypt">Next dojo:  Egypt</a>

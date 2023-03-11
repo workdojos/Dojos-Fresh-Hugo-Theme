@@ -3,13 +3,11 @@ title: Benin Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Benin.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 Learning about open-source technology in Benin can be quite interesting and rewarding. Here are some resources and notable technologists from Benin throughout history:
 
 1.  Benin Tech Scene: This is a community-driven platform that seeks to promote the growth of technology in Benin. The platform provides information on technology news, events, and opportunities in the country.
@@ -17,7 +15,6 @@ Learning about open-source technology in Benin can be quite interesting and rewa
 2.  Open Source Initiative: This is an international organization that advocates for open-source software and hardware. The organization provides resources and guidelines for individuals and organizations that want to get involved in the open-source community.
     
 3.  Free and Open Source Software Foundation for Africa: This is a pan-African organization that promotes the use and development of free and open-source software. The organization has a chapter in Benin, and individuals can get involved in their activities.
-description: Making open-source more accessible.
     
 
 Notable Technologists from Benin Throughout History:
@@ -27,7 +24,6 @@ Notable Technologists from Benin Throughout History:
 2.  Ezechiel Bikoï: He is a software developer and the founder of E-Brain Consulting, a company that develops software solutions for businesses. He is also an advocate for the use of open-source software in Benin.
     
 3.  Nathanael Fossouo: He is a software developer and the founder of the Luvata Foundation, which seeks to promote the use of technology in education in Benin. He is also an advocate for the use of open-source software in the country.
-description: Making open-source more accessible.
     
 
 In conclusion, learning more about open-source technology in Benin can be done by leveraging the resources provided by organizations such as Benin Tech Scene, the Open Source Initiative, and the Free and Open Source Software Foundation for Africa. Additionally, individuals can draw inspiration from notable technologists from Benin throughout history, such as Valentin Agon, Ezechiel Bikoï, and Nathanael Fossouo.
@@ -35,25 +31,21 @@ In conclusion, learning more about open-source technology in Benin can be done b
 <html>
   <head>
     <style>
-description: Making open-source more accessible.
       .button {
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
-description: Making open-source more accessible.
         color: #ffffff;
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
-description: Making open-source more accessible.
       }
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Benin" target="_blank">Claim this Dojo</a>
-description: Making open-source more accessible.
   </body>
 </html>
 <br>
@@ -73,19 +65,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Bhutan">Next dojo:  Bhutan</a>

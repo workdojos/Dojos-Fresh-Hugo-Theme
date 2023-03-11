@@ -3,13 +3,11 @@ title: Real-Estate Industry Services
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Real-Estate Industry Services
 
 **Project Brief**: Real-Estate Industry Solutions
@@ -26,7 +24,6 @@ To research and analyze potential solutions to these challenges.
 To develop a comprehensive plan for implementation of these solutions.
 To execute the plan and test its effectiveness.
 To disseminate our findings and share our solutions with the wider community.
-description: Making open-source more accessible.
 **Stakes**:
 The real-estate industry is a major contributor to the global economy, and the success of this project has far-reaching consequences for everyone involved. Our solutions must be innovative, effective, and scalable, so that they can be adopted by other players in the industry.
 

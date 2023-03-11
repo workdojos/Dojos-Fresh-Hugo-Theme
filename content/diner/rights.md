@@ -3,7 +3,6 @@ title: The Restaurant  Industry and Diner Owner Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 <figure>
@@ -11,7 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a debater, I am in favor of fair work practices for diner owners working in the restaurant industry. There have been a number of recent trends and events that have highlighted the importance of protecting the rights of workers and promoting fair treatment and proper wages.
 
 One of the major trends in the restaurant industry is the increasing use of technology, including online platforms like Grubhub and DoorDash, which allow diners to order food from their favorite restaurants without ever setting foot inside. While these platforms may be convenient for customers, they often come at a high cost for restaurant owners and workers. Many of these platforms take a significant percentage of each order as a commission, which can make it difficult for restaurants to turn a profit. Additionally, workers on these platforms are often classified as independent contractors, which means they are not entitled to the same benefits and protections as traditional employees.
@@ -27,29 +25,24 @@ In conclusion, fair work practices are essential for the success of any diner ow
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://diner.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

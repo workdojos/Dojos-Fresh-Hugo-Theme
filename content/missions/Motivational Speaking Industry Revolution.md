@@ -3,13 +3,11 @@ title: Motivational Speaking Industry Revolution
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Motivational Speaking Industry Revolution
 
 **Project Brief**: Improving Pain Management for Chronic Pain Patients
@@ -26,7 +24,6 @@ Implement the new approach in select medical facilities in order to test its eff
 Gather data and evaluate the results of the implementation.
 **Stakes**:
 The success of this project is critical in improving the quality of life for chronic pain patients. The failure to develop an effective solution could lead to an increase in addiction to prescription painkillers and other dangerous treatments. The success of this project will also contribute to the team's XP and unlock new challenges in the quest to revolutionize the workplace for therapists worldwide.
-description: Making open-source more accessible.
 
 **Reserves**:
 

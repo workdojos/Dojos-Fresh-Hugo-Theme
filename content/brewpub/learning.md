@@ -3,13 +3,11 @@ title: Learning & Development for Brew Pub Owners
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 100%;height: 630px;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecrackersunny day working abroad in an exotic locale';/> alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 Curriculum:
 
@@ -18,7 +16,6 @@ Marketing and branding
 Recipe development and experimentation
 Quality control and production
 Inventory management and ordering supplies
-description: Making open-source more accessible.
 Customer service and hospitality
 Finances and budgeting
 Health and safety regulations
@@ -39,14 +36,12 @@ Stay up to date on industry trends and new brewing techniques
 Offer a diverse selection of beers and other products, including non-alcoholic options
 Focus on creating a unique atmosphere and experience for customers
 Questions the candidate should be able to answer:
-description: Making open-source more accessible.
 
 How do you approach recipe development and experimentation?
 What strategies do you use for marketing and branding your brew pub?
 How do you ensure quality control and production in your brewing process?
 How do you manage inventory and supplies?
 How do you prioritize customer service and hospitality in your business?
-description: Making open-source more accessible.
 How do you handle finances and budgeting for your brew pub?
 How do you ensure compliance with health and safety regulations in your business?
 
@@ -55,29 +50,24 @@ How do you ensure compliance with health and safety regulations in your business
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://brewpub.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

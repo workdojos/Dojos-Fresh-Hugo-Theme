@@ -3,7 +3,6 @@ title: The Life Coaching  Industry and Life Coach Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a life coach working in the industry, I am deeply concerned about the fair treatment of workers in this field. In recent years, there have been a number of trends and events that have brought attention to the need for improved work practices in the life coaching industry.
 
 One trend that has emerged is the increasing prevalence of life coaches who work as independent contractors, rather than as employees. While this arrangement may seem attractive at first, it often leads to a lack of job security and benefits for workers. In addition, many independent contractors are not paid fair wages, and are often asked to work long hours without receiving overtime pay. This is a clear violation of workers' rights, and it is important that we advocate for fair treatment and proper wages for all life coaches, regardless of their employment status.
@@ -28,29 +26,24 @@ In conclusion, as life coaches, it is our duty to promote fair treatment and pro
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://lifecoaches.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

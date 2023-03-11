@@ -3,13 +3,11 @@ title: Revolutionizing Higher Education Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Revolutionizing Higher Education Industry
 
 **Project Brief**:
@@ -17,7 +15,6 @@ Revolutionizing Higher Education Industry for College Professors
 **Team Leader**: Carla
 **Assignment**:
 The team of college professors will work remotely from their PCs at home to revolutionize the higher education industry in 90 days.
-description: Making open-source more accessible.
 
 **Goals**:
 
@@ -26,7 +23,6 @@ To make the platform accessible and user-friendly for both students and professo
 To increase student engagement and learning outcomes through the use of new technology and pedagogical strategies.
 To make the platform scalable and accessible to colleges and universities around the world.
 **Stakes**:
-description: Making open-source more accessible.
 
 The success of this project will result in improved education outcomes for students and enhanced career opportunities for professors.
 Failure to complete this project on time and within budget will result in decreased funding for higher education and potentially lead to the decline of the industry.

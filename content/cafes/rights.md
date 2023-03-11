@@ -3,7 +3,6 @@ title: The Cafe & Hospitality  Industry and Cafe Owner Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 <figure>
@@ -11,7 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a cafe owner in the industry, it is important to recognize the value and rights of the workers who contribute to the success of the business. Recent trends and events have shed light on the need for fair work practices in the cafe industry, including the push for higher minimum wages and the backlash against unethical labor practices.
 
 On the side of the workers, it is crucial that they are treated with respect and given fair wages for their hard work. In recent years, there has been a growing movement to increase the minimum wage in the United States, with many arguing that the current rate is not enough to live on and support a family. As a cafe owner, it is important to recognize this and pay workers a wage that is sufficient to meet their basic needs and allow them to live with dignity.
@@ -27,29 +25,24 @@ As a cafe owner, it is important to prioritize the well-being and rights of the 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://cafes.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

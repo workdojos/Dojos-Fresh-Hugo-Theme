@@ -3,7 +3,6 @@ title: The Translation & Interpretation  Industry and Interpreter Workers' Right
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a debater, it is my duty to present both sides of the argument surrounding fair work practices for interpreters in the translation and interpretation industry. While it is important to recognize the role of businesses and their needs, it is equally crucial to advocate for the rights and fair treatment of workers.
 
 On one hand, businesses argue that they have limited resources and must prioritize their financial stability in order to survive. Therefore, they may argue that they cannot afford to pay interpreters high wages or provide generous benefits. Additionally, some may claim that the demand for interpretation services is not consistently high, leading to inconsistent work for interpreters and potential difficulties in providing benefits or stable employment.
@@ -30,29 +28,24 @@ In conclusion, fair work practices for interpreters in the translation and inter
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://interpreters.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

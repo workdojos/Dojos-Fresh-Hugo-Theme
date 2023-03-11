@@ -3,13 +3,11 @@ title: Revolutionizing the Martial Arts Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Revolutionizing the Martial Arts Industry
 
 **Project Brief**: Revolutionizing the Martial Arts Industry
@@ -25,7 +23,6 @@ Improve the standardization of teaching methods across dojos.
 Enhance the reputation of the martial arts industry and the participating dojos.
 Increase profitability for dojo owners.
 **Stakes**:
-description: Making open-source more accessible.
 
 Failure to complete this project within 90 days will result in a significant loss of reputation for the participating dojos.
 Lack of success in achieving the goals set for the project will result in decreased enrollment and profitability for dojo owners.

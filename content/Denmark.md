@@ -3,13 +3,11 @@ title: Denmark Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Denmark.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 1.  Open-source tech in Denmark:
 
 Denmark has a thriving tech industry and a growing open-source community. If you are looking to learn more about open-source tech in Denmark, here are some resources you can explore:
@@ -19,7 +17,6 @@ Denmark has a thriving tech industry and a growing open-source community. If you
 *   OpenTechSchool Copenhagen: This is a group that provides free tech education to anyone who wants to learn. They offer workshops on various topics, including open-source tech. You can find more information on their website: [https://www.opentechschool.org/copenhagen/](https://www.opentechschool.org/copenhagen/)
     
 *   Open Data DK: This is a non-profit organization that promotes open data and open-source technologies in Denmark. They organize events, workshops, and training sessions to help people learn about open data and how to use it. You can find more information on their website: [https://opendata.dk/](https://opendata.dk/)
-description: Making open-source more accessible.
     
 *   Danish Unix User Group: This is a community of Unix and Linux users in Denmark. They organize events and meetups to discuss and learn about Unix and Linux. You can find more information on their website: [https://www.duug.dk/](https://www.duug.dk/)
     
@@ -33,13 +30,11 @@ Denmark has produced many notable technologists throughout history. Here are a f
 *   Peter Naur: He was a computer scientist who developed the programming language ALGOL 60. He also won the Turing Award in 2005.
     
 *   Bjarne Stroustrup: He is a computer scientist who created the programming language C++. He currently works at Texas A&M University.
-description: Making open-source more accessible.
     
 *   Anders Hejlsberg: He is a computer programmer who created the programming languages Turbo Pascal, Delphi, and C#. He currently works at Microsoft.
     
 *   Martin Odersky: He is a computer scientist who created the programming language Scala. He currently works at EPFL.
     
-description: Making open-source more accessible.
 
 These are just a few of the many notable technologists from Denmark. You can find more information on them and others on their respective Wikipedia pages.
 
@@ -48,25 +43,21 @@ These are just a few of the many notable technologists from Denmark. You can fin
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Denmark" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -85,19 +76,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Djibouti">Next dojo:  Djibouti</a>

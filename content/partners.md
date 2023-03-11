@@ -3,7 +3,6 @@ title: Partners
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 {{% title3 "Some of our favorite open-source apps and partners." %}}
 
@@ -33,7 +32,6 @@ n8n allows your to pair triggers and actions together from data points across th
      height="200" />
 N8n's site:  https://n8n.io/
 Github:  https://github.com/n8n-io/n8n
-description: Making open-source more accessible.
 
 
 <br>
@@ -48,7 +46,6 @@ Self-hosting to the rescue!  You can deploy Ghost onto your own server for free.
      height="200" />
 Ghost's site:  https://ghost.org/
 Github:  https://github.com/TryGhost/Ghost
-description: Making open-source more accessible.
 <br>
 {{% title3 "Hugo static site generator." %}}
 We here at Work Dojos run both a Ghost blog and a static website built with Hugo.  We used to use Wordpress but it was a bit cumbersome managing multiple sites (and our Google SEO performance score was always so low!).  So we went with what's known to be the fastest website on the internet.  Meet Hugo, we'll show you how.  Or stick with Ghost (or even Wordpress, sure, you can self-host that too for free!).  Host it your way!
@@ -58,7 +55,6 @@ We here at Work Dojos run both a Ghost blog and a static website built with Hugo
      height="200" />
 Hugo's site:  https://gohugo.io/
 Github:  https://github.com/gohugoio/hugo
-description: Making open-source more accessible.
 <br>
 
 {{% title3 "Rocket.chat." %}}
@@ -69,7 +65,6 @@ Think Slack.  It's just like it.  But it's better.  Can you guess why?  Because 
      height="200" />
 Rocket.Chat's site:  https://rocket.chat
 Github:  https://github.com/RocketChat/Rocket.Chat        
-description: Making open-source more accessible.
 <br>
 
 {{% title3 "Baserow." %}}
@@ -82,7 +77,6 @@ A code-free database app is like a spreadsheet in the cloud.  Each cell in the s
      height="200" />
 Baserow's site:  https://baserow.io
 Github:  https://github.com/bram2w/baserow
-description: Making open-source more accessible.
 <br>
 {{% title3 "Wiki.js." %}}
 Can you imagine a better way to cememnt your legacy than by having your own Wiki.  A collection of your knowledge, your vision, your message to the world.  Or it can just be a great way to organize your thoughts.  Think Wikipedia.  But yours.
@@ -94,7 +88,6 @@ Wiki.js is a fantastic tool that you can play around with at your leisure since 
      height="200" />
 Wiki.js's site:  https://wiki.js/
 Github:  https://github.com/requarks/wiki
-description: Making open-source more accessible.
       
 
  <a href="https://workdojos.com/features/automation">Browse features</a> 

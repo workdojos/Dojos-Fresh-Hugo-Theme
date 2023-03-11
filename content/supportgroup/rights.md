@@ -3,7 +3,6 @@ title: The Support Group  Industry and Moderator Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a moderator working in the support group industry, I am deeply concerned about the fair work practices that have been trending in recent years. It is imperative that workers in this industry are treated with respect, receive fair wages, and are given opportunities to advance their careers.
 
 One trend that has been particularly disturbing is the increasing reliance on independent contractors, rather than hiring full-time employees. This allows companies to avoid paying benefits and often leads to low pay for workers. It is important that workers in the support group industry are given the same protections and benefits as traditional employees, and that they are not taken advantage of by companies looking to cut costs.
@@ -28,29 +26,24 @@ In conclusion, it is crucial that workers in the support group industry are trea
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://supportgroup.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

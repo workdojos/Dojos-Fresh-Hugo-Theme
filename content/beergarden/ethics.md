@@ -3,13 +3,11 @@ title: Ethical Framework for Beer Garden Owners  Working in the Hospitality  Ind
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/ethical-framework.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='namaste hands';/>
     <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 As a philosopher, I would approach this task by examining the various ethical theories that could be applied to the situation of starting a career as a beer garden owner. One possibility is the consequentialist approach, which emphasizes the importance of considering the consequences of one's actions and making decisions based on their potential to promote overall happiness or well-being. In this case, one might consider the potential consequences of becoming a beer garden owner on both the individual level (e.g. financial success, personal satisfaction) and the societal level (e.g. the impact on the community, the potential for contributing to social issues such as alcohol abuse).
 
@@ -24,29 +22,24 @@ Ultimately, the ethical framework for starting a career as a beer garden owner w
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://beergarden.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

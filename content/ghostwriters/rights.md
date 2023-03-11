@@ -3,7 +3,6 @@ title: The Writing And Publishing  Industry and Ghostwriter Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 In recent years, there have been numerous trends and events that have highlighted the importance of protecting the rights and well-being of these workers.
 
 One trend that has gained significant attention is the proliferation of freelance and contract work, which often lacks the same protections and benefits that are afforded to traditional employees. This can lead to exploitation and mistreatment of workers, who may be paid unfairly or be required to work long hours without proper compensation. It is important to ensure that all workers, including ghostwriters, are treated fairly and with respect, regardless of their employment status.
@@ -26,29 +24,24 @@ In conclusion, it is clear that fair work practices are essential for ghostwrite
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://ghostwriters.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

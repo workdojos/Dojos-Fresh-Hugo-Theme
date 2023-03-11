@@ -3,7 +3,6 @@ title: The Automotive Sales  Industry and Car Dealer Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 <figure>
@@ -11,7 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 In this case, the topic at hand is fair work practices for dealership owners in the car dealer industry. While it is important for dealership owners to run their businesses effectively and profitably, it is equally important to ensure that their employees are treated fairly and given proper wages.
 
 One recent trend in the car dealer industry is the use of unpaid internships, which has been criticized for taking advantage of workers who are willing to work for free in the hopes of gaining valuable experience. This is not only unfair to the interns, but also to paid employees who may feel pressured to work longer hours or take on additional responsibilities to compensate for the unpaid labor. It is important for dealership owners to pay their interns fairly and provide them with the same benefits as paid employees.
@@ -27,29 +25,24 @@ Overall, it is crucial for dealership owners to prioritize fair work practices a
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://dealerships.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

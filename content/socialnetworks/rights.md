@@ -3,7 +3,6 @@ title: The Sales & Marketing  Industry and Social Media Manager Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 Fair work practices for social media managers working in the sales and marketing industry have become a hot topic in recent years, as more and more companies are recognizing the importance of social media in their business strategies. While some companies have taken steps to ensure that their social media managers are treated fairly, others have been slow to adopt fair work practices, leading to issues of low wages, long hours, and a lack of job security.
 
 One of the major trends in the sales and marketing industry is the increasing use of freelance and contract workers, who often do not receive the same benefits and protections as full-time employees. This has led to concerns about the exploitation of workers, as companies are able to take advantage of their lack of job security and negotiate lower rates of pay.
@@ -28,29 +26,24 @@ In conclusion, fair work practices for social media managers working in the sale
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://socialnetworks.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

@@ -3,13 +3,11 @@ title: Develop Plant-based Fertilizer
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Develop Plant-based Fertilizer
 
 **Project Brief**
@@ -24,7 +22,6 @@ Identify the key ingredients and methods used in the production of these fertili
 Develop a formula for a new plant-based fertilizer that offers better results in terms of crop growth and yield.
 Test the new fertilizer on different crops to validate its effectiveness.
 Present a comprehensive report on the research, development, and testing of the new fertilizer.
-description: Making open-source more accessible.
 **Stakes**:
 
 A successful completion of the project would increase the competitiveness of the biosciences industry and lead to a more sustainable and profitable future.
@@ -37,7 +34,6 @@ Access to a laboratory for testing purposes.
 Access to relevant software for data analysis and report writing.
 A budget for the purchase of materials and equipment required for the research and development of the new fertilizer.
 Successful completion of the project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for biologists worldwide.
-description: Making open-source more accessible.
 
 ---
 

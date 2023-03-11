@@ -3,13 +3,11 @@ title: Optimizing Machining Processes for Energy Efficiency
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Optimizing Machining Processes for Energy Efficiency
 
 **Project Brief**:
@@ -26,7 +24,6 @@ Develop a comprehensive energy-saving plan to reduce energy consumption during m
 Implement the energy-saving plan and track energy consumption and production efficiency.
 Evaluate the success of the energy-saving plan and provide recommendations for future improvements.
 **Stakes**: The machining industry is facing increased competition and rising energy costs. Improving energy efficiency will help companies stay competitive, reduce costs, and improve their environmental footprint.
-description: Making open-source more accessible.
 
 **Reserves**:
 

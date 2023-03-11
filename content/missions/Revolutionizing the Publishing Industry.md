@@ -3,13 +3,11 @@ title: Revolutionizing the Publishing Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Revolutionizing the Publishing Industry
 
 **Project Brief**:
@@ -19,7 +17,6 @@ Team: Writers
 **Assignment**: Solve the Publishing Industry Puzzle
 Duration: 1 Month
 Location: Remote (PC's at Home)
-description: Making open-source more accessible.
 
 **Goals**:
 
@@ -28,7 +25,6 @@ To research and analyze the impact of technology on the publishing industry
 To explore the potential solutions to the challenges facing the publishing industry
 To develop a strategic plan for the future of the publishing industry
 **Stakes**:
-description: Making open-source more accessible.
 
 The publishing industry is facing numerous challenges, including the decline of physical book sales, the rise of self-publishing, and the increasing competition from digital media.
 If the publishing industry does not adapt to these challenges, it may become irrelevant in the near future.

@@ -3,13 +3,11 @@ title: Revamp of the Sales & Marketing Industry with Social Media Management
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Revamp of the Sales & Marketing Industry with Social Media Management
 
 **Project Brief**: Revamp of the Sales & Marketing Industry with Social Media Management
@@ -25,7 +23,6 @@ To create a strong online presence for the sales and marketing industry through 
 To streamline communication between sales and marketing teams and customers by incorporating social media tools and platforms.
 To increase sales revenue through targeted advertising campaigns and lead generation tactics on social media.
 **Stakes**:
-description: Making open-source more accessible.
 
 The success of this project will greatly impact the overall revenue and growth of the sales and marketing industry.
 A successful outcome will demonstrate the team's ability to drive innovation and impact the bottom line of their respective companies.

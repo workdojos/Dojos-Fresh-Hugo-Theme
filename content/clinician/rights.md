@@ -3,7 +3,6 @@ title: The Medical Industry and Clinician Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 <figure>
@@ -11,7 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a clinician working in the medical industry, I have witnessed firsthand the struggles and challenges faced by my colleagues when it comes to fair work practices. The industry is constantly evolving and adapting to new trends and events, and it is essential that we address these changes in a way that prioritizes the rights and well-being of the workers who are on the front lines of healthcare.
 
 One recent trend that has caused concern among medical professionals is the increasing reliance on temporary and contract workers. While this may seem like a cost-effective solution for hospitals and clinics, it often comes at the expense of the workers who are denied the benefits and protections afforded to full-time employees. These temporary workers are often paid lower wages and receive fewer benefits, leaving them vulnerable to exploitation and mistreatment.
@@ -27,29 +25,24 @@ Overall, it is crucial that we stand up for the rights and fair treatment of med
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://clinician.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

@@ -3,13 +3,11 @@ title: Lesotho Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Lesotho.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 To learn more about open-source tech in Lesotho, there are several resources that one can utilize. These include:
 
 1.  The Lesotho Open Source Society (LOSS) - an organization that promotes the use and adoption of open-source technologies in Lesotho. Their website provides resources, events, and news related to open-source technology in Lesotho.
@@ -17,7 +15,6 @@ To learn more about open-source tech in Lesotho, there are several resources tha
 2.  The Lesotho Research and Education Network (LREN) - a non-profit organization that promotes collaboration and knowledge sharing among researchers, educators, and institutions in Lesotho. LREN supports the use of open-source software and tools in research and education.
     
 3.  The Lesotho National Commission for UNESCO - the organization responsible for promoting the use of open-source software and technologies in education, science, and culture in Lesotho. Their website provides resources and news related to open-source technology initiatives in the country.
-description: Making open-source more accessible.
     
 
 Some notable technologists from Lesotho throughout history include:
@@ -27,7 +24,6 @@ Some notable technologists from Lesotho throughout history include:
 2.  Dr. Mamello Thinyane - a computer scientist and researcher who has worked on several open-source technology projects in Lesotho, including the development of a low-cost computer for use in rural areas.
     
 3.  Tumelo Ramaru - a software developer and entrepreneur who founded the company Techmobile in Lesotho, which develops open-source mobile applications for businesses and organizations.
-description: Making open-source more accessible.
     
 4.  Mpho Mphephoka - a computer engineer and entrepreneur who founded the company Lenono Technologies in Lesotho, which specializes in the development of open-source software solutions for various industries.
     
@@ -37,25 +33,21 @@ Overall, the use and adoption of open-source technologies in Lesotho is growing,
 <html>
   <head>
     <style>
-description: Making open-source more accessible.
       .button {
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
-description: Making open-source more accessible.
         color: #ffffff;
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
-description: Making open-source more accessible.
       }
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Lesotho" target="_blank">Claim this Dojo</a>
-description: Making open-source more accessible.
   </body>
 </html>
 <br>
@@ -75,19 +67,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Liberia">Next dojo:  Liberia</a>

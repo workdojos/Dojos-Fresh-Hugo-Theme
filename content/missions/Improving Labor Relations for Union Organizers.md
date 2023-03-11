@@ -3,13 +3,11 @@ title: Improving Labor Relations for Union Organizers
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Improving Labor Relations for Union Organizers
 
 **Project Brief**: Improving Labor Relations for Union Organizers
@@ -26,7 +24,6 @@ To identify and address common issues and challenges in the industry that negati
 To develop and implement practical solutions that will improve labor relations and working conditions for workers in the industry.
 **Stakes**:
 The success of this project will have a direct impact on the lives of workers in the industry. Improved labor relations and working conditions will lead to better wages, safer working conditions, and greater job satisfaction for workers. Failure to address these issues could result in a decline in the industry and negatively impact workers' lives.
-description: Making open-source more accessible.
 
 **Reserves**:
 To ensure the success of this project, the team will have access to the following resources:
@@ -36,7 +33,6 @@ Remote collaboration tools such as video conferencing, instant messaging, and pr
 Industry experts and advisors to provide support and guidance.
 Access to data and statistics to support project findings and recommendations.
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for union organizers worldwide. Let's work together to make a positive impact on the lives of workers in the industry!
-description: Making open-source more accessible.
 
 ---
 

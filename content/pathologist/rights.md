@@ -3,7 +3,6 @@ title: The Infectious Diseases  Industry and Pathologist Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a pathologist working in the infectious diseases industry, I have witnessed firsthand the numerous challenges that workers in this field face on a daily basis. From long and demanding hours to the inherent risks associated with working with potentially deadly pathogens, it is essential that fair work practices are implemented to ensure the safety, well-being, and overall satisfaction of these dedicated professionals.
 
 One of the most pressing issues facing pathologists in the infectious diseases industry is the issue of fair wages. Despite the critical role that these workers play in the fight against deadly diseases, many pathologists are underpaid for their expertise and contributions. This is unacceptable, and it is essential that pathologists receive the fair and appropriate compensation that they deserve for their hard work and dedication.
@@ -28,29 +26,24 @@ In conclusion, it is essential that fair work practices be implemented in the in
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://pathologist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

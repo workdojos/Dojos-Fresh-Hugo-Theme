@@ -3,7 +3,6 @@ title: Ghost
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 {{% title3 "Price comparison" %}}
@@ -11,31 +10,26 @@ description: Making open-source more accessible.
     <caption></caption>
     <tr>
         <td> </td>
-description: Making open-source more accessible.
         <th scope="col" class="heman">Self-host</th>
         <th scope="col" class="skeletor">Ghost pro</th>
     </tr>
     <tr>
         <th scope="row">Cheapest option</th>
-description: Making open-source more accessible.
         <td>About $5/month</td>
         <td>$25/month</td>
     </tr>
     <tr>
         <th scope="row">Number of staff users</th>
-description: Making open-source more accessible.
         <td>Nearly unlimited</td>
         <td>2 staff users</td>
     </tr>
     <tr>
         <th scope="row">Premium theme</th>
-description: Making open-source more accessible.
         <td>Included</td>
         <td>$79</td>
     </tr>
     <tr>
         <th scope="row">Yearly cost</th>
-description: Making open-source more accessible.
         <td>About $60</td>
         <td>$379</td>
     </tr>
@@ -55,43 +49,36 @@ The UI is built on newer technology than say Wordpress.  It's faster, sleeker, a
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
-description: Making open-source more accessible.
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://ghost.org">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/ghost-black-logo.png" class="columnImage" />
                     </td>
-description: Making open-source more accessible.
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Blogging with payments built in.</h1>
                        Turn your audience into a business. 
-description: Making open-source more accessible.
                     </td>
                 </tr>
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
-description: Making open-source more accessible.
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/baserow">
                         <img src="https://workmates.live/wp-content/uploads/2022/11/baserow-logo.jpg" class="columnImage" />
-description: Making open-source more accessible.
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Next up:  Baserow.</h1>
-description: Making open-source more accessible.
                         Level up your spreadsheets.
                              <a href="https://workdojos.com/baserow">Continue</a> 
                     </td>
                 </tr>
             </table>
-description: Making open-source more accessible.
         </td>
     </tr>
 </table>

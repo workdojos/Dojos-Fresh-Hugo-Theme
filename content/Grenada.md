@@ -3,25 +3,21 @@ title: Grenada Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Grenada.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 1.  Attend Tech Meetups: Attend technology meetups in Grenada, such as Grenada ICT Association and SpiceCon, to learn more about open-source technology.
     
 2.  Join Online Communities: Join online communities, such as the Grenada Open Source Community on Facebook, to connect with other open-source tech enthusiasts and learn more about the latest trends and technologies.
     
 3.  Participate in Hackathons: Participate in hackathons, such as the Grenada Open Data Hackathon, to hone your skills and learn more about open-source technology.
-description: Making open-source more accessible.
     
 4.  Check Out Online Resources: Check out online resources, such as the Grenada ICT Association website, to find out more about open-source technology in Grenada.
     
 5.  Connect with Notable Technologists: Connect with notable technologists from Grenada, such as Dr. Beverly Steele, the first female computer science PhD graduate in the Caribbean, and Robert Hall, a software developer and open-source advocate.
     
-description: Making open-source more accessible.
 
 Notable Technologists from Grenada Throughout History:
 
@@ -30,38 +26,32 @@ Notable Technologists from Grenada Throughout History:
 2.  Robert Hall: Robert Hall is a software developer and open-source advocate. He has worked on several open-source projects and has been a speaker at various technology conferences.
     
 3.  Alister McQuilkin: Alister McQuilkin is a technology entrepreneur and co-founder of the Grenada-based tech company, TechLink Solutions. He is also the founder of Grenada's first coding boot camp, Code Bootcamp.
-description: Making open-source more accessible.
     
 4.  Kester Edwards: Kester Edwards is a software developer and co-founder of the Grenada-based tech company, TechLink Solutions. He has worked on several software projects for businesses and organizations in Grenada and the Caribbean.
     
 5.  Dr. Curtis Jacobs: Dr. Jacobs is a computer science professor at St. George's University in Grenada. He has published research in the areas of computer networks, wireless networks, and network security.
     
-description: Making open-source more accessible.
 
 <br>
 <html>
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Grenada" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -80,19 +70,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Guatemala">Next dojo:  Guatemala</a>

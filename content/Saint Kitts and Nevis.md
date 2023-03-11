@@ -3,13 +3,11 @@ title: Saint Kitts and Nevis Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Saint Kitts and Nevis.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 To learn more about open-source technology in Saint Kitts and Nevis, you can start by exploring the following resources:
 
 1.  The Saint Kitts and Nevis Open Data Portal: This platform provides free and open access to various government datasets, allowing developers and researchers to build innovative solutions based on the data.
@@ -17,7 +15,6 @@ To learn more about open-source technology in Saint Kitts and Nevis, you can sta
 2.  The Saint Kitts and Nevis ICT Association: This organization brings together professionals and enthusiasts in the tech industry to share knowledge, collaborate, and promote the use of technology in the country.
     
 3.  The Saint Kitts and Nevis Information and Communications Technology (ICT) Roadmap: This document outlines the government's plans and strategies to promote the development of the ICT sector in the country.
-description: Making open-source more accessible.
     
 
 Notable technologists from Saint Kitts and Nevis throughout history include:
@@ -27,7 +24,6 @@ Notable technologists from Saint Kitts and Nevis throughout history include:
 2.  Dr. Jacqueline E. Lawrence: A mathematician and computer scientist, Dr. Lawrence has worked on various projects in the fields of cryptography, cybersecurity, and computer networking. She is also a professor of mathematics at Morgan State University.
     
 3.  Dr. Terrence Forrester: A medical doctor and researcher, Dr. Forrester has been involved in various studies on the effects of technology on healthcare, particularly in the areas of telemedicine and mobile health. He is currently the director of the Medical Research Council Laboratories in The Gambia.
-description: Making open-source more accessible.
     
 
 <br>
@@ -35,25 +31,21 @@ description: Making open-source more accessible.
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Saint-Kitts-and-Nevis" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -72,19 +64,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Saint-Lucia">Next dojo:  Saint Lucia</a>

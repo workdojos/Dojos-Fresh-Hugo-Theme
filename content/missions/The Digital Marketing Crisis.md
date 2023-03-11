@@ -3,13 +3,11 @@ title: The Digital Marketing Crisis
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #The Digital Marketing Crisis
 
 **Project Brief**: The Digital Marketing Crisis
@@ -23,7 +21,6 @@ To establish new security protocols and measures to prevent similar activities f
 To educate digital marketing professionals on how to identify and avoid scams and fraudulent activities.
 To restore the credibility of the digital marketing services industry.
 **Stakes**: The digital marketing industry is facing a crisis of trust as clients are becoming increasingly wary of scams and fraudulent activities. If the puzzle is not solved, the digital marketing industry will continue to decline, leading to a decline in revenue and the loss of many jobs.
-description: Making open-source more accessible.
 
 **Reserves**: The team will be working remotely from their PCs at home and will have access to the following resources:
 

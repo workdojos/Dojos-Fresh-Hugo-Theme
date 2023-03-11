@@ -3,13 +3,11 @@ title: Improving Brew Pub Operations During the COVID-19 Pandemic
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Improving Brew Pub Operations During the COVID-19 Pandemic
 
 **Project Brief**: Improving Brew Pub Operations During the COVID-19 Pandemic
@@ -28,7 +26,6 @@ To develop efficient and effective ways for brew pubs to implement new operating
 To create a comprehensive plan for brew pub owners to maintain financial stability during the pandemic and beyond.
 **Stakes**:
 The stakes are high for brew pub owners during the pandemic, as their livelihoods are on the line. The success of this project will have real-world consequences, and will determine the future of many businesses in this industry.
-description: Making open-source more accessible.
 
 **Reserves**:
 Each team member must allocate the necessary time and resources to complete their assigned tasks. This includes conducting research, collaborating with team members, and participating in virtual meetings and discussions. In order to ensure the success of the project, each team member must be fully committed and take ownership of their responsibilities.

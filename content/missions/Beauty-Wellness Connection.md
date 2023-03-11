@@ -3,7 +3,6 @@ title: Beauty-Wellness Connection
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 # Mission // #Beauty-Wellness Connection
 
@@ -21,7 +20,6 @@ Develop a range of products that are environmentally friendly, safe for clients 
 Educate clients about the importance of using environmentally friendly products and the impact that these products have on the environment.
 **Stakes**:
 The beauty and wellness industry is facing an increasing number of clients who are concerned about the environmental impact of their beauty routines. The stakes are high as failure to address this issue could lead to a loss of clients, increased competition, and potential damage to the reputation of the industry.
-description: Making open-source more accessible.
 
 **Reserves**:
 The team will be provided with a budget of $50 to research, develop, and market the new range of products. The team will also be provided with access to a network of industry experts and a team of marketing specialists to assist with the launch of the new range of products.

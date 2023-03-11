@@ -3,19 +3,16 @@ title: Brazil Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Brazil.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 1.  Open Source Brazil (OSBr): OSBr is a non-profit organization that promotes the use and development of open source software in Brazil. Their website offers various resources, including news, events, and a directory of open source software projects in Brazil.
     
 2.  Linux Professional Institute Brazil (LPI): LPI is a non-profit organization that offers certification and training programs for open source technologies, including Linux. They have a network of partners and affiliates throughout Brazil, providing education and training for IT professionals.
     
 3.  Brazilian Association of Free Software (ABSL): ABSL is an organization that advocates for the use of free and open source software in Brazil. They provide support and resources for individuals and organizations interested in using open source software, and host events and conferences to promote its adoption.
-description: Making open-source more accessible.
     
 4.  Notable technologists from Brazil throughout history:
     
@@ -25,14 +22,12 @@ description: Making open-source more accessible.
 *   Tarcisio Meira: Brazilian computer scientist and one of the pioneers of computer science in Brazil.
 *   Marcelo Tosatti: Brazilian computer programmer and one of the key developers of the Linux kernel.
 *   Vanessa Tonini: Brazilian software engineer and open source advocate who founded PyLadies Brazil, a community for women in the Python programming language.
-description: Making open-source more accessible.
 
 5.  Open Source Communities in Brazil: There are several open source communities in Brazil, such as Python Brazil, JavaCE, and Debian Brazil. These communities offer resources, events, and networking opportunities for individuals interested in open source technologies.
     
 6.  Open Source Conferences in Brazil: There are several open source conferences in Brazil, such as FISL (International Forum of Free Software) and The Developers Conference. These conferences offer opportunities for learning, networking, and collaboration in the open source community.
     
 7.  Open Source Software Projects in Brazil: There are several open source software projects in Brazil, such as OpenProject, ScrumDesk, and Noosfero. These projects offer opportunities for contribution and collaboration in the open source community.
-description: Making open-source more accessible.
     
 
 <br>
@@ -40,25 +35,21 @@ description: Making open-source more accessible.
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Brazil" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -77,19 +68,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Brunei">Next dojo:  Brunei</a>

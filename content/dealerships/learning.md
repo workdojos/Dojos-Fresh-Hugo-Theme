@@ -3,13 +3,11 @@ title: Learning & Development for Car Dealers
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 Curriculum Suggestions:
 
@@ -18,7 +16,6 @@ Marketing and sales strategy
 Financial management and budgeting
 Leadership and team management
 Customer service and conflict resolution
-description: Making open-source more accessible.
 Auto industry knowledge and trends
 Websites with Resources:
 
@@ -27,7 +24,6 @@ Automotive News: https://www.autonews.com/
 National Automobile Dealers Association: https://www.nada.org/
 Forbes: https://www.forbes.com/sites/forbesbusinesscouncil/industries/automotive/
 Hubspot: https://www.hubspot.com/marketing-topics/automotive-industry
-description: Making open-source more accessible.
 Best Companies to Work for:
 
 Toyota
@@ -35,7 +31,6 @@ Ford
 Chevrolet
 BMW
 Mercedes-Benz
-description: Making open-source more accessible.
 Roles and Responsibilities:
 
 Oversee all dealership operations, including sales, service, and finance departments
@@ -43,7 +38,6 @@ Develop and implement marketing and sales strategies to increase dealership prof
 Manage and allocate financial resources, including budgeting and forecasting
 Lead and motivate team members to achieve dealership goals and objectives
 Provide excellent customer service and resolve any issues or conflicts that may arise
-description: Making open-source more accessible.
 Helpful Tips and Tricks:
 
 Stay up-to-date on industry trends and changes, including new vehicle models and technological advancements
@@ -51,43 +45,36 @@ Foster strong relationships with customers and team members to build loyalty and
 Continuously assess and evaluate dealership performance to identify areas for improvement
 Develop and maintain a positive company culture that promotes teamwork and growth
 Questions a Candidate Should Be Able to Answer:
-description: Making open-source more accessible.
 
 How do you prioritize and manage multiple tasks and responsibilities as a dealership owner?
 How do you develop and implement successful sales and marketing strategies for your dealership?
 How do you handle financial management and budgeting for your dealership?
 How do you lead and motivate your team to achieve dealership goals and objectives?
 How do you handle customer service and conflict resolution in your dealership?
-description: Making open-source more accessible.
 
 <br>
 <a href="https://workdojos.com/dealerships/rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://dealerships.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

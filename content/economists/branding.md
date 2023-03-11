@@ -3,14 +3,12 @@ title: Economist Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo 
-description: Making open-source more accessible.
 
 ---
 <figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
     <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a social media manager for a data science organization, I would first conduct a thorough audit of the current social media presence on Twitter, Instagram, and Pinterest. This would include analyzing the current content and strategy being used, as well as analyzing the performance of previous campaigns and posts.
 
 Next, I would create a content calendar that includes a mix of educational and informative content, industry news, and promotional posts. I would also make sure to incorporate visual content, such as infographics and data visualizations, as this is a key aspect of the data science industry.
@@ -26,29 +24,24 @@ Finally, I would use analytics to measure the success of our social media effort
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://economists.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

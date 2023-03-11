@@ -3,7 +3,6 @@ title: The International Arbitration  Industry and negotiator Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 The international arbitration industry is one that is essential to the functioning of global trade and commerce. It serves as a means for businesses and individuals to resolve disputes and reach agreements without having to go through costly and time-consuming legal proceedings. However, as with any industry, there are always concerns about fair work practices and the treatment of workers.
 
 One major trend in the international arbitration industry in recent years has been the increasing use of contract and freelance workers. This has led to concerns about job security, fair wages, and proper treatment of these workers. Many argue that these workers are being exploited and that they are not being given the same rights and protections as full-time employees.
@@ -30,29 +28,24 @@ In conclusion, as a negotiator in the international arbitration industry, it is 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://negotiator.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

@@ -3,13 +3,11 @@ title: Improving Communication and Collaboration in Remote Teams
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Improving Communication and Collaboration in Remote Teams
 
 **Project Brief**: Improving Communication and Collaboration in Remote Teams
@@ -26,7 +24,6 @@ To increase the efficiency and productivity of remote teams.
 To reduce the number of miscommunications and misunderstandings among remote teams.
 To improve the satisfaction of remote team members by reducing the feeling of isolation and lack of connectedness.
 **Stakes**:
-description: Making open-source more accessible.
 
 Failure to meet the goals of the project could result in decreased productivity, lost business opportunities, and a decrease in morale among remote team members.
 Inefficient communication and collaboration can lead to costly mistakes and a decrease in customer satisfaction.

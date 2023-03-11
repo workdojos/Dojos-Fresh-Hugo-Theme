@@ -3,13 +3,11 @@ title: Cabo Verde Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Cabo Verde.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 Open-source technology is gaining popularity in Cabo Verde, a small island nation off the coast of West Africa. The country has made significant strides in advancing its technology infrastructure in recent years, and the use of open-source software has been a key driver of this progress.
 
 To learn more about open-source tech in Cabo Verde, there are several resources available online. Here are a few that you might find helpful:
@@ -19,7 +17,6 @@ To learn more about open-source tech in Cabo Verde, there are several resources 
 2.  GitHub: This is a platform for hosting and collaborating on open-source software projects. You can search for projects related to Cabo Verde or explore the work of Cabo Verdean developers on the platform.
     
 3.  Cabo Verde Tech Hub: This is a community of technologists, entrepreneurs, and innovators working to advance technology in Cabo Verde. They offer training and mentorship programs, as well as networking and collaboration opportunities.
-description: Making open-source more accessible.
     
 
 In terms of notable technologists from Cabo Verde, here are a few that you might want to learn more about:
@@ -29,7 +26,6 @@ In terms of notable technologists from Cabo Verde, here are a few that you might
 2.  Adalberto Valenca: Valenca is a computer science professor at the University of Cabo Verde and a pioneer in the use of open-source software in the country. He has been instrumental in introducing Linux and other open-source tools to his students and the wider community.
     
 3.  Jacinto Monteiro: Monteiro is a software developer and entrepreneur who founded his own tech company, JMV Technology. He has been involved in several open-source projects, including the development of a local search engine for Cabo Verde.
-description: Making open-source more accessible.
     
 
 Overall, the use of open-source technology in Cabo Verde is growing, and there are many resources and talented individuals to learn from. By exploring these resources and connecting with the local tech community, you can gain a deeper understanding of the role that open-source software is playing in the country's development.
@@ -39,25 +35,21 @@ Overall, the use of open-source technology in Cabo Verde is growing, and there a
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Cabo-Verde" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -76,19 +68,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Cambodia">Next dojo:  Cambodia</a>

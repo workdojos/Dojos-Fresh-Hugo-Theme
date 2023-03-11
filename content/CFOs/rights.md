@@ -3,7 +3,6 @@ title: The Finance  Industry and CFO Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 <figure>
@@ -11,7 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a debater, it is my belief that fair work practices are essential for any employee, regardless of their position or industry. This is especially true for CFOs in the finance industry, as they are often responsible for making key decisions that impact the lives of their workers.
 
 Recent trends and events in the finance industry have highlighted the importance of fair work practices. For example, the #MeToo movement has shed light on the prevalence of sexual harassment and discrimination in the workplace, and has called for stronger policies and protections for workers. Similarly, the rise of the gig economy has brought attention to the need for fair pay and benefits for part-time and contract workers.
@@ -27,29 +25,24 @@ In conclusion, fair work practices are essential for CFOs in the finance industr
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://CFOs.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

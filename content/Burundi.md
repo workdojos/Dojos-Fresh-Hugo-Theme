@@ -3,13 +3,11 @@ title: Burundi Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Burundi.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 To learn more about open-source tech in Burundi, here are some resources with links and notable technologists from Burundi throughout history:
 
 1.  Burundi Open Data: This website provides open data on various topics related to Burundi, including education, health, population, and more. It can help you understand the country's open-source tech scene and the data that is available for developers to use in their projects.
@@ -17,7 +15,6 @@ To learn more about open-source tech in Burundi, here are some resources with li
 2.  Open Burundi: This organization promotes the use of open-source software and hardware in Burundi. It provides training and support for developers and advocates for policies that encourage the adoption of open technology in the country.
     
 3.  Burundi Innovation Hub: This is a technology and innovation center located in Bujumbura, Burundi. It provides co-working spaces, training, and mentorship to young entrepreneurs and innovators. It also hosts events and workshops on various topics related to technology and innovation.
-description: Making open-source more accessible.
     
 
 Notable Technologists from Burundi:
@@ -27,7 +24,6 @@ Notable Technologists from Burundi:
 2.  Révérien Barakamfitiye: He is a computer science professor and researcher who has worked on various projects related to mobile computing, artificial intelligence, and software engineering. He is currently a professor at the University of Burundi.
     
 3.  Domitien Ndihokubwayo: He is a software developer and entrepreneur who has founded several startups in Burundi. His company, NextGen, provides software solutions for various industries, including finance, education, and healthcare.
-description: Making open-source more accessible.
     
 
 Overall, the open-source tech scene in Burundi is still developing, but there are many organizations and individuals working to promote its adoption and use. By exploring the resources and notable technologists mentioned above, you can learn more about the current state of open-source tech in Burundi and the potential for growth and innovation in the future.
@@ -37,25 +33,21 @@ Overall, the open-source tech scene in Burundi is still developing, but there ar
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Burundi" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -74,19 +66,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Ivory-Coast">Next dojo:  Ivory Coast</a>

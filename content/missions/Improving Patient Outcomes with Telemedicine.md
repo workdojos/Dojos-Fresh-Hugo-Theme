@@ -3,13 +3,11 @@ title: Improving Patient Outcomes with Telemedicine
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Improving Patient Outcomes with Telemedicine
 
 **Project Brief**: Improving Patient Outcomes with Telemedicine
@@ -26,7 +24,6 @@ Improve patient outcomes by providing timely and accurate medical diagnoses and 
 Increase patient satisfaction by providing convenient and efficient access to medical care.
 Reduce healthcare costs by reducing the need for patients to travel to a doctor's office or hospital.
 **Stakes**:
-description: Making open-source more accessible.
 
 The success of this project will have a direct impact on the quality of life of patients in remote and underserved communities.
 Improving patient outcomes will also increase the reputation and credibility of the healthcare industry, attracting more patients and clients.

@@ -3,14 +3,12 @@ title: Learning & Development for Media Buyers
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 Curriculum:
 
@@ -19,7 +17,6 @@ Market research and analysis
 Creative thinking and problem solving
 Collaboration and teamwork
 Communication and presentation skills
-description: Making open-source more accessible.
 Budgeting and financial management
 Websites for learning:
 
@@ -33,7 +30,6 @@ Facebook
 WPP
 DDB Worldwide
 BBDO
-description: Making open-source more accessible.
 Helpful tips:
 
 Stay up to date with industry trends and best practices
@@ -41,7 +37,6 @@ Know your target audience and understand their needs and preferences
 Test and measure the effectiveness of your campaigns
 Be able to adapt to changes and pivot your strategy as needed
 Questions the candidate should be able to answer:
-description: Making open-source more accessible.
 
 How do you come up with creative ideas for advertising campaigns?
 How do you measure the success of an advertising campaign?
@@ -53,29 +48,24 @@ How do you work with a team to develop and execute advertising campaigns?
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://mediabuyer.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

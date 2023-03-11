@@ -3,13 +3,11 @@ title: Improving Crop Yields in Drought-Prone Areas
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Improving Crop Yields in Drought-Prone Areas
 
 **Project Brief**: Improving Crop Yields in Drought-Prone Areas
@@ -26,7 +24,6 @@ To develop new irrigation methods that are more efficient and sustainable.
 To find alternative crops that are drought-resistant and can be grown in these regions.
 **Stakes**:
 The agriculture industry is critical to the world's food supply and the success of this project will have real-world consequences. If the team is unable to find a solution to this issue, it will result in a decrease in food production, leading to food shortages and higher food prices. This will have a significant impact on the world's economy and the well-being of millions of people.
-description: Making open-source more accessible.
 
 **Reserves**:
 The team will have access to the latest research and technology, as well as a budget for equipment and resources. The team leader, Max, will also provide support and guidance throughout the project.

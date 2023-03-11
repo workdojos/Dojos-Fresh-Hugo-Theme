@@ -3,7 +3,6 @@ title: The Outdoor  Industry and Explorer Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 The outdoor industry is a vast and varied field, encompassing everything from adventure sports to environmental conservation to outdoor education. With such a wide range of disciplines, it can be difficult to pinpoint specific trends or events that are relevant to all workers in the industry. However, there are some common issues that many workers in the outdoor industry face when it comes to fair work practices, and these issues deserve to be addressed.
 
 One of the most pressing issues for outdoor workers is the lack of fair compensation for the work that they do. Many outdoor jobs are low-paying, temporary positions that offer little in the way of benefits or job security. This can be particularly difficult for those who are just starting out in the industry, as they may have to take on multiple part-time jobs in order to make ends meet. The result is a workforce that is often overworked, underpaid, and vulnerable to exploitation.
@@ -30,29 +28,24 @@ In conclusion, fair work practices are essential for the well-being and success 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

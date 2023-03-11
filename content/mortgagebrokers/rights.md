@@ -3,7 +3,6 @@ title: The Real-Estate  Industry and Mortgage Broker Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 The real estate industry, specifically the mortgage broker sector, has recently faced numerous debates surrounding fair work practices and the treatment of workers. As someone who supports the promotion of worker's rights, fair treatment, and proper wages, it is clear that there are a few key issues that need to be addressed in order to create a more equitable and just industry.
 
 One of the most pressing concerns in the mortgage broker sector is the issue of wage stagnation. Despite the fact that the real estate market has seen tremendous growth in recent years, many mortgage brokers have not seen corresponding increases in their salaries. This is especially problematic given the high levels of stress and long hours that are often required in this line of work. It is essential that mortgage brokers are adequately compensated for the hard work they do, and that their wages keep pace with the overall growth of the industry.
@@ -28,29 +26,24 @@ In conclusion, it is clear that there are a number of issues facing mortgage bro
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://mortgagebrokers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

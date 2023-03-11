@@ -3,13 +3,11 @@ title: Lebanon Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Lebanon.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 There are various resources available to learn about open-source tech in Lebanon. Here are a few:
 
 1.  Open Source Lebanon: This is a community that aims to promote and support open-source software in Lebanon. Their website has information on events, projects, and resources related to open-source technology in Lebanon.
@@ -17,7 +15,6 @@ There are various resources available to learn about open-source tech in Lebanon
 2.  FOSSC: The Free and Open Source Software Communities in Lebanon is a non-profit organization that works to promote the use and development of open-source software in Lebanon. They organize events, training sessions, and provide support to open-source projects.
     
 3.  Lebanese Association for Free Software: LAFS is a non-profit organization that advocates for the use of free and open-source software in Lebanon. They offer support and resources to individuals and organizations interested in using or developing open-source software.
-description: Making open-source more accessible.
     
 4.  GitHub: Lebanon has several open-source projects hosted on GitHub, a platform for collaborative software development. Some notable projects include Ayoob, an Arabic speech recognition system, and LibanPhone, a Lebanese phone directory app.
     
@@ -29,7 +26,6 @@ Notable Technologists from Lebanon:
 2.  Samir Khoury: Khoury is a computer scientist and professor at the American University of Beirut. He has contributed to the development of several open-source software projects and is a member of the Apache Software Foundation.
     
 3.  Wael Khalil: Khalil is a software engineer and entrepreneur who co-founded the open-source CRM software, EspoCRM.
-description: Making open-source more accessible.
     
 4.  Nizar Zakka: Zakka is a technology expert and advocate for open-source software. He has worked to promote the use of open-source technology in Lebanon and the Middle East.
     
@@ -41,25 +37,21 @@ These are just a few examples of the many technologists who have contributed to 
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Lebanon" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -78,19 +70,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Lesotho">Next dojo:  Lesotho</a>

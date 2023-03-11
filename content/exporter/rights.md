@@ -3,7 +3,6 @@ title: The Export  Industry and Exporter Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As an exporter working in the export industry, it is imperative that fair work practices are upheld in order to ensure the well-being and prosperity of workers. In recent years, there have been several trends and events that highlight the need for fair treatment and proper wages in this industry.
 
 One such trend is the increasing globalization of the export industry, which has led to a rise in the number of companies outsourcing production to countries with lower labor costs. This has led to a race to the bottom in terms of wages and working conditions, with workers in developing countries often facing exploitation and abuse. In order to address this issue, it is important for companies to adopt fair labor practices and ensure that their workers are paid a fair wage and treated with respect and dignity.
@@ -28,29 +26,24 @@ In conclusion, fair work practices are crucial for the well-being and prosperity
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://exporter.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

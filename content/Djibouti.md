@@ -3,13 +3,11 @@ title: Djibouti Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Djibouti.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 To learn more about open-source tech in Djibouti, here are some resources with links and notable technologists from Djibouti throughout history:
 
 1.  Djibouti Open Data Portal: The Djibouti Open Data Portal is a platform that provides access to data sets and information on various topics such as agriculture, education, health, and transportation. The portal is an excellent resource for developers, researchers, and policymakers who want to use open data to develop innovative solutions.
@@ -17,7 +15,6 @@ To learn more about open-source tech in Djibouti, here are some resources with l
 2.  Djibouti Linux User Group: The Djibouti Linux User Group is a community of open-source enthusiasts who meet regularly to share knowledge and expertise in Linux and other open-source technologies. The group provides support for users of open-source software and organizes workshops, training sessions, and events.
     
 3.  African FOSS Business Model: The African FOSS Business Model is an initiative that aims to promote the use of open-source software in Africa. The project provides training and support for entrepreneurs who want to start businesses based on open-source technologies.
-description: Making open-source more accessible.
     
 4.  Notable technologists from Djibouti:
     
@@ -27,7 +24,6 @@ description: Making open-source more accessible.
 *   Mohamed Assoweh Bouh: Mohamed Assoweh Bouh is a computer engineer and entrepreneur from Djibouti. He is the founder of East Africa IT Solutions, a company that provides IT services and support to businesses in Djibouti and the East African region.
     
 *   Aboubaker Omar: Aboubaker Omar is a software developer and founder of Djibouti Telecom's innovation center. He has been involved in various open-source projects and is a strong advocate for the use of open-source technologies in Djibouti.
-description: Making open-source more accessible.
     
 
 Overall, these resources and technologists provide a wealth of information on open-source tech in Djibouti. By leveraging these resources, individuals can learn more about the benefits of open-source technology and develop innovative solutions that can help transform the country's economy and society.
@@ -37,25 +33,21 @@ Overall, these resources and technologists provide a wealth of information on op
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Djibouti" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -74,19 +66,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Dominica">Next dojo:  Dominica</a>

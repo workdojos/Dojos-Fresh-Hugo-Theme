@@ -3,13 +3,11 @@ title: Learning & Development for Administrators
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 Curriculum:
 
@@ -18,7 +16,6 @@ Microsoft Office proficiency (Word, Excel, PowerPoint)
 Time management
 Communication skills (written and verbal)
 Attention to detail
-description: Making open-source more accessible.
 Customer service skills
 Teamwork skills
 Problem-solving skills
@@ -29,14 +26,12 @@ Udemy (https://www.udemy.com/)
 Coursera (https://www.coursera.org/)
 edX (https://www.edx.org/)
 Best companies to work for:
-description: Making open-source more accessible.
 
 Google
 Apple
 Microsoft
 Amazon
 Goldman Sachs
-description: Making open-source more accessible.
 Roles and responsibilities:
 
 Coordinating meetings and appointments
@@ -44,7 +39,6 @@ Handling paperwork and filing
 Managing emails and phone calls
 Assisting with budget and financial tracking
 Providing customer service to clients and customers
-description: Making open-source more accessible.
 Collaborating with team members and assisting with projects
 Tips and tricks:
 
@@ -53,43 +47,36 @@ Practice excellent communication skills to ensure clear and effective communicat
 Be proactive in finding solutions to problems or challenges that may arise
 Take initiative and be willing to take on additional responsibilities as needed
 Questions the candidate should be able to answer:
-description: Making open-source more accessible.
 
 How do you stay organized in your work?
 Describe a time when you had to handle a difficult customer or client situation. How did you handle it?
 What skills do you have that make you a strong team player?
 How do you prioritize tasks when you have multiple responsibilities?
 Describe a time when you had to think creatively to solve a problem at work.
-description: Making open-source more accessible.
 
 <br>
 <a href="https://workdojos.com/administrators/rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://administrators.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

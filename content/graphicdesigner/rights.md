@@ -3,7 +3,6 @@ title: The Graphic Design And Graphic Arts  Industry and Graphic Designer Worker
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a graphic designer working in the graphic design and graphic arts industry, I have seen firsthand the challenges and injustices faced by my colleagues and myself. The industry has long been plagued by low wages, long hours, and a lack of benefits and protections for workers.
 
 One of the most pressing issues facing graphic designers is the issue of fair pay. It is not uncommon for designers to be paid far below their worth, with many working for rates that do not even meet the minimum wage. This is especially true for freelancers, who often struggle to negotiate fair rates and are frequently taken advantage of by clients.
@@ -30,29 +28,24 @@ Overall, it is clear that there is still much work to be done to promote fair wo
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://graphicdesigner.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

@@ -3,7 +3,6 @@ title: The Coaching  Industry and Spiritual Coach Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a spiritual coach, it is important to understand the value and worth of your work. Unfortunately, there are often instances where coaches are underpaid or mistreated in the coaching industry. In recent years, there have been several trends and events that highlight the need for fair work practices for spiritual coaches.
 
 One trend that has emerged is the increasing demand for spiritual coaching. With more and more people seeking out holistic and mindful practices, the demand for spiritual coaches has grown exponentially. However, this demand has not always been met with fair treatment or proper wages for coaches. Many coaches are asked to work long hours for minimal pay, or are expected to provide their services for free in the name of "exposure."
@@ -28,29 +26,24 @@ In conclusion, fair work practices for spiritual coaches are crucial in ensuring
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://spiritualcoaches.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

@@ -3,13 +3,11 @@ title: Kiribati Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Kiribati.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 Kiribati is a small island nation in the Pacific that has a budding interest in open-source technology. The best way to learn more about open-source tech in Kiribati is through online resources, social media groups, and by connecting with notable technologists from Kiribati. Here are some resources and technologists to get started:
 
 1.  Kiribati Open Source Community - This is a Facebook group that discusses and shares resources on open-source technology in Kiribati.
@@ -17,19 +15,16 @@ Kiribati is a small island nation in the Pacific that has a budding interest in 
 2.  Kiribati Computer Science Association - This is a group of computer science enthusiasts in Kiribati that organize events and share resources.
     
 3.  The Pacific Open Source Software Observatory - This is an online resource that provides information on open-source software in the Pacific.
-description: Making open-source more accessible.
     
 4.  Notable technologists from Kiribati:
     
     a. Kaburoro Kourabi - Kourabi is a pioneer in technology in Kiribati and has been instrumental in the development of ICT policies in the country.
     
-description: Making open-source more accessible.
     b. Tekaraeti Iuta - Iuta is a software developer and a co-founder of Kiribati Computer Science Association.
     
     c. Teruia Awerika - Awerika is a computer science graduate who is passionate about the development of open-source technology in Kiribati.
     
     d. Raobeia Ken Sigrah - Sigrah is an ICT consultant who has been involved in the development of the Kiribati ICT Strategic Plan.
-description: Making open-source more accessible.
     
 
 By connecting with these technologists and engaging in online communities, you can learn more about the open-source technology movement in Kiribati.
@@ -39,25 +34,21 @@ By connecting with these technologists and engaging in online communities, you c
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Kiribati" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -76,19 +67,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Kuwait">Next dojo:  Kuwait</a>

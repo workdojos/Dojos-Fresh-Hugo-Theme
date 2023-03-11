@@ -3,13 +3,11 @@ title: Advisor Social Media Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/socialmedia.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='social media';/>
     <figcaption>Gain presence in the world of social media.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 Sure, I'd be happy to help! Here are some ideas for an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new consulting business:
 
@@ -18,19 +16,16 @@ Share behind-the-scenes photos and videos of your consulting process, such as me
 Share testimonials from satisfied clients and encourage others to share their experiences as well.
 Use hashtags related to consulting, business, and entrepreneurship to increase the reach of your posts.
 Twitter:
-description: Making open-source more accessible.
 Share tips and insights related to consulting and business, and encourage your followers to share their own thoughts and experiences.
 Retweet and share content from other influential figures in the consulting industry to expand your reach.
 Use hashtags and participate in Twitter chats related to consulting and entrepreneurship.
 YouTube:
 Create a series of educational videos on various topics related to consulting, such as how to start a business or how to create a business plan.
-description: Making open-source more accessible.
 Share client success stories and testimonials in video form to showcase the impact of your consulting services.
 Collaborate with other influencers and experts in the consulting industry to create more engaging and informative content.
 Pinterest:
 Create boards related to consulting, business, and entrepreneurship, and pin relevant content such as infographics, articles, and videos.
 Share your own blog posts or other content related to your consulting services on Pinterest to drive traffic back to your website.
-description: Making open-source more accessible.
 Use relevant hashtags and collaborate with other Pinterest users in the consulting industry to increase the reach of your pins.
 Overall, the key to creating an engaging campaign is to share valuable and relevant content, interact with your followers, and use hashtags and other tools to increase the reach of your posts. Good luck with your new consulting business!
 
@@ -39,29 +34,24 @@ Overall, the key to creating an engaging campaign is to share valuable and relev
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://armchairexpert.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

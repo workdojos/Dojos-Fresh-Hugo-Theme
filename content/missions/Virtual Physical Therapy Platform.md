@@ -3,13 +3,11 @@ title: Virtual Physical Therapy Platform
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Virtual Physical Therapy Platform
 
 **Project Brief**:
@@ -24,7 +22,6 @@ To provide a virtual space for patients to interact with physical therapists and
 To increase access to physical therapy for patients who are unable to visit a physical therapist in person.
 To improve patient outcomes by providing more frequent and consistent physical therapy sessions.
 **Stakes**:
-description: Making open-source more accessible.
 
 The physical therapy industry is facing a significant challenge as a result of the COVID-19 pandemic, with many patients unable to visit physical therapists in person.
 If the virtual physical therapy platform is not created and implemented successfully, patients will continue to face difficulties accessing physical therapy and may not receive the care they need to recover from their injuries or conditions.
@@ -36,7 +33,6 @@ All team members will work remotely from their PC's at home.
 Adia will serve as the project leader and coordinate the efforts of the team.
 The team will have access to all necessary resources, including software, hardware, and support from technical experts.
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for physical therapists worldwide.
-description: Making open-source more accessible.
 
 ---
 

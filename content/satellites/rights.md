@@ -3,7 +3,6 @@ title: The Satellite  Industry and Business Owner Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a business owner working in the satellite industry, it is important to prioritize fair work practices for our employees. Recent trends and events in the industry have highlighted the need for better treatment of workers, including the promotion of worker's rights, fair treatment, and proper wages.
 
 One major trend in the satellite industry is the increasing reliance on contract and temporary workers. While this may seem like a cost-effective solution for companies, it often leads to exploitation and mistreatment of these workers. They may not receive the same benefits or protections as full-time employees, and may be unfairly compensated for their work. This is a clear violation of worker's rights and must be addressed in order to create a fair and just work environment.
@@ -28,29 +26,24 @@ In conclusion, fair work practices are essential for any business, but particula
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://satellites.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

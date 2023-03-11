@@ -3,13 +3,11 @@ title: Improving Customer Experience in Cafes
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Improving Customer Experience in Cafes
 
 **Project Brief**: "Improving Customer Experience in Cafes"
@@ -25,7 +23,6 @@ Streamline the ordering and payment process to reduce wait times by 20%.
 Implement new technologies to enhance the dining experience, such as digital menus or table-side ordering.
 Foster a welcoming and inclusive atmosphere for all customers through training and education for employees.
 **Stakes**: A successful completion of this project will result in increased business, repeat customers, and positive reviews. On the other hand, failure to improve the customer experience may result in decreased business, negative reviews, and loss of customers.
-description: Making open-source more accessible.
 
 **Reserves**: The team has access to a budget of $20,000 to implement their ideas, as well as support from a team of experts in the hospitality industry for guidance and advice.
 

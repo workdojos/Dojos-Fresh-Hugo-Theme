@@ -3,14 +3,12 @@ title: Lawyer Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo 
-description: Making open-source more accessible.
 
 ---
 <figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
     <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 Sure, I can definitely help with that. First, I would suggest creating a content calendar to plan out the types of posts that will be shared on each platform. This can include things like industry news and updates, promotional content for the organization, behind-the-scenes looks at the team and office, and engaging questions or polls to encourage interaction with followers.
 
 Next, I would focus on building relationships with other legal professionals and organizations on social media. This can be done through commenting and engaging with their content, as well as reaching out to collaborate on blog posts, webinars, or other projects. This can help to increase brand visibility and attract new followers.
@@ -26,29 +24,24 @@ Finally, I would regularly monitor and respond to questions and comments on all 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://litigator.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

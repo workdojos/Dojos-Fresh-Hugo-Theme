@@ -3,7 +3,6 @@ title: The Self-Governance  Industry and Committee Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 <figure>
@@ -11,7 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a debater, it is my duty to present both sides of the argument and provide evidence to support my conclusions. With that being said, I strongly believe that fair work practices are essential for the self-governance industry and that the rights, fair treatment, and proper wages of workers should be a top priority.
 
 Recent trends in the self-governance industry have unfortunately shown a lack of concern for the well-being of workers. For example, there have been numerous reports of low wages and long hours without proper compensation, as well as instances of discrimination and mistreatment of employees. These practices not only harm the individual workers, but also have negative impacts on the industry as a whole.
@@ -27,29 +25,24 @@ In conclusion, fair work practices are crucial for the self-governance industry 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://committee.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

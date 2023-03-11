@@ -3,7 +3,6 @@ title: The Motivational Speaking  Industry and Guest Speaker Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 The topic of fair work practices in the motivational speaking industry is one that has garnered a lot of attention in recent years, as many workers have expressed concerns about their treatment and the wages they receive. In this opinion piece, I will take the side of the workers and argue for the promotion of worker's rights, fair treatment, and proper wages in the motivational speaking industry.
 
 One of the main issues facing workers in the motivational speaking industry is the lack of regulation and oversight. Many motivational speakers are self-employed and do not have the same protections and benefits that traditional employees do. This can leave them vulnerable to exploitation and mistreatment by employers and event organizers.
@@ -30,29 +28,24 @@ In conclusion, fair work practices in the motivational speaking industry are an 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://motivators.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

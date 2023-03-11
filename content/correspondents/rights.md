@@ -3,7 +3,6 @@ title: The Journalism  Industry and Correspondent Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 <figure>
@@ -11,7 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 The journalism industry has long been a contentious field when it comes to fair work practices. Correspondents and reporters often work long hours for little pay, and are frequently subjected to difficult and dangerous working conditions. In recent years, there have been a number of trends and events that have further exacerbated these issues, making it all the more important for workers to stand up for their rights and demand fair treatment.
 
 One of the most significant trends in the journalism industry in recent years has been the proliferation of unpaid internships. Many young reporters are asked to work for free, often for months or even years, in the hope of gaining valuable experience and making connections that will help them land paid positions in the future. While unpaid internships may seem like a good opportunity for aspiring journalists, they are often exploitative, as they allow companies to profit off of the labor of young workers without providing any compensation.
@@ -27,29 +25,24 @@ Despite these challenges, it is important for workers in the journalism industry
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://correspondents.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

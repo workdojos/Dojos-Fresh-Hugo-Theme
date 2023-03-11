@@ -3,7 +3,6 @@ title: The Beauty, Health & Wellness  Industry and Beautician Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 <figure>
@@ -11,7 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 There has been a lot of talk recently about fair work practices for beauticians working in the health and wellness industry. As someone who is passionate about promoting worker’s rights, fair treatment, and proper wages, I believe that it is crucial for beauticians in this industry to be treated with the respect and fairness that they deserve.
 
 One of the biggest trends that we have seen in the health and wellness industry recently is the rise of independent contractors and gig workers. While this might seem like a convenient arrangement for some employers, it can often lead to a lack of protection for workers. Independent contractors are not entitled to the same rights and benefits as regular employees, which means that they may not receive proper pay, overtime, or even breaks.
@@ -29,29 +27,24 @@ In conclusion, it is clear that there are many issues facing beauticians working
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://beauticians.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

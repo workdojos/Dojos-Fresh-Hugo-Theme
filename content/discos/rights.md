@@ -3,7 +3,6 @@ title: The Nightlife  Industry and Disco Owner Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 <figure>
@@ -11,7 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a debater, I firmly believe that fair work practices are essential for any industry, and the nightlife industry is no exception. In recent years, there have been several trends and events that highlight the importance of protecting the rights and fair treatment of workers in this industry.
 
 One major trend in the nightlife industry is the increasing use of gig economy platforms, such as Uber and Lyft, to hire temporary workers. These platforms often do not provide the same level of protections and benefits as traditional employment, and workers may be vulnerable to exploitation and mistreatment. This is especially concerning in the nightlife industry, where late night shifts and alcohol consumption can create additional risks for workers.
@@ -27,29 +25,24 @@ In conclusion, fair work practices are essential for the nightlife industry, and
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://discos.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

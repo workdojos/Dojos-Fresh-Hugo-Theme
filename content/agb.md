@@ -3,7 +3,6 @@ title: AGB
 include_footer: true
 sidebar: true
 sidebarlogo: fresh-white-alt
-description: Making open-source more accessible.
 
 ---
 

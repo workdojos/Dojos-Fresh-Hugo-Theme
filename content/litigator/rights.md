@@ -3,7 +3,6 @@ title: The Y Industry and Lawyer Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a litigator working in the legal industry, I strongly believe in the importance of fair work practices for all workers. Recently, there have been several trends and events that highlight the need for greater worker protections and support.
 
 One trend that has gained significant attention is the issue of overwork and burnout among legal professionals. Studies have shown that lawyers, paralegals, and other legal professionals often work long hours and face high levels of stress and pressure, leading to negative impacts on their mental health and well-being. This is unacceptable and steps must be taken to ensure that all workers are treated fairly and are given the support and resources they need to thrive in their careers.
@@ -28,29 +26,24 @@ Overall, it is clear that fair work practices are essential for all workers in t
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://litigator.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

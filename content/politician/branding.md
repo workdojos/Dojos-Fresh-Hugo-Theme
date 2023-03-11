@@ -3,14 +3,12 @@ title: Politician Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo 
-description: Making open-source more accessible.
 
 ---
 <figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
     <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a social media manager for your government & political campaign organization, I would first analyze your current social media presence to see what is working and what can be improved upon. From there, I would develop a content strategy that includes a mix of informative posts about your campaign, behind-the-scenes glimpses of your team at work, and engagement with your followers through polls, Q&A sessions, and live streams.
 
 I would also utilize hashtags related to your campaign and industry to reach a wider audience, and actively seek out opportunities for collaboration with other organizations in the government & political campaign space.
@@ -26,29 +24,24 @@ Overall, my goal as a social media manager would be to create a strong and posit
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://politician.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

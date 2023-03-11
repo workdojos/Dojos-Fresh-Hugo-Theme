@@ -3,7 +3,6 @@ title: The Supply-Chain  Industry and Courier Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 <figure>
@@ -11,7 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a courier working in the supply-chain industry, I have witnessed firsthand the struggles that many of my colleagues face when it comes to fair work practices. From long hours and grueling schedules to low wages and inadequate benefits, the courier industry is rife with issues that impact the well-being and livelihoods of its workers.
 
 One of the most pressing concerns for couriers is the lack of fair compensation for the hard work and dedication we put into our jobs. Despite the essential role that we play in the supply-chain industry, many couriers are paid far below what is considered a living wage. This leaves us struggling to make ends meet and unable to afford basic necessities such as healthcare and housing.
@@ -29,29 +27,24 @@ As a courier, I believe it is crucial that we continue to fight for our rights a
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://couriers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

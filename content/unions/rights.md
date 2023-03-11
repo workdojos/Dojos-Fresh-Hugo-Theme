@@ -3,7 +3,6 @@ title: The Labor Relations  Industry and Union Organizer  Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a union organizer working in the labor relations industry, it is my belief that fair work practices are essential for the well-being and prosperity of workers. In recent years, there have been numerous trends and events that demonstrate the importance of fighting for workers' rights and ensuring that they receive fair treatment and proper wages.
 
 One trend that has been particularly concerning is the growing income inequality in the United States. According to data from the Economic Policy Institute, the top 1% of earners in the country saw their wages increase by 3.7% between 1979 and 2017, while the bottom 90% only saw an increase of 0.2%. This widening gap between the rich and the rest of the population has serious implications for workers, as it means that they are increasingly unable to afford basic necessities like housing, healthcare, and education.
@@ -28,29 +26,24 @@ As a union organizer, it is my belief that workers deserve fair treatment, prope
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://unions.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

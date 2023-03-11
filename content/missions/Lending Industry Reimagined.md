@@ -3,13 +3,11 @@ title: Lending Industry Reimagined
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Lending Industry Reimagined
 
 **Project Brief**: Lending Industry Reimagined
@@ -25,7 +23,6 @@ To make the loan application process more user-friendly and accessible to a wide
 To provide a wider range of loan options to cater to the needs of different borrowers.
 To make the loan repayment process easier and more flexible.
 **Stakes**: The lending industry is a vital component of the financial sector and plays a crucial role in the growth of the economy. The success of this project will have real-world consequences for the lending industry and can lead to a more accessible and fair financial system for everyone.
-description: Making open-source more accessible.
 
 **Reserves**:
 
@@ -34,7 +31,6 @@ Access to relevant market research and data analysis tools.
 Access to the latest technology and software to develop the platform.
 A budget to cover operational costs such as software licenses, team expenses, and marketing efforts.
 **Successful Completion**: Upon successful completion of the project, all contributing members will be granted XP and will unlock a new challenge in the ultimate quest to revolutionize the workplace for financiers worldwide. This project will be a testament to the team's capability to tackle complex challenges and to bring about positive change to the financial sector.
-description: Making open-source more accessible.
 
 ---
 

@@ -3,13 +3,11 @@ title: International Arbitration Industry Reform
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #International Arbitration Industry Reform
 
 **Project Brief**:
@@ -35,7 +33,6 @@ The team will work remotely from their PCs at home.
 The team will have access to all relevant resources and data necessary to complete the project.
 Successful completion of the project will grant all contributing members XP and unlock a new challenge in the ultimate quest to revolutionize the workplace for negotiators worldwide.
 Note: The team will be responsible for identifying additional resources and reserves necessary to complete the project as per their discretion.
-description: Making open-source more accessible.
 
 ---
 

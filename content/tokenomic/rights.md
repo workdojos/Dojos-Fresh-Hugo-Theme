@@ -3,7 +3,6 @@ title: The Y Industry and Token Developer Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a debater, it is my belief that fair work practices are essential for any industry, including the cryptocurrency industry. While the cryptocurrency industry has experienced significant growth in recent years, it has also faced numerous challenges, including a lack of regulation and fair treatment of workers.
 
 One recent trend in the cryptocurrency industry is the use of token developers, who are responsible for creating and maintaining the software that powers cryptocurrency networks. These developers are often hired on a contract basis and are paid in tokens, rather than traditional currencies. This can lead to exploitation, as token developers may not receive fair wages or benefits.
@@ -28,29 +26,24 @@ In conclusion, fair work practices are essential for the cryptocurrency industry
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://tokenomic.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

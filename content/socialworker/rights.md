@@ -3,7 +3,6 @@ title: The Behavioral Health  Industry and Social Worker Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 
@@ -12,7 +11,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
 As a social worker working in the behavioral healthcare industry, I am often faced with challenges related to fair work practices. While there have been some recent trends and events that have brought attention to the issue of worker's rights, it is important to recognize that there is still a long way to go in terms of ensuring that social workers are treated fairly and given the proper wages and benefits that they deserve.
 
 One of the biggest challenges that social workers in the behavioral healthcare industry face is the issue of low wages. Many social workers are paid significantly less than their counterparts in other healthcare fields, despite the fact that they often work long hours and face significant challenges in their work. This can lead to high levels of burnout and turnover, which can be detrimental to both the social workers themselves and the clients that they serve.
@@ -28,29 +26,24 @@ Overall, it is clear that there is still much work to be done in terms of promot
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://socialworker.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

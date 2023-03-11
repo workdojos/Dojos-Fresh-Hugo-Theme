@@ -3,7 +3,6 @@ title: Docker
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 
 {{% title3 "Price comparison" %}}
@@ -11,31 +10,26 @@ description: Making open-source more accessible.
     <caption></caption>
     <tr>
         <td> </td>
-description: Making open-source more accessible.
         <th scope="col" class="heman">Self-host</th>
         <th scope="col" class="skeletor">Docker Pro</th>
     </tr>
     <tr>
         <th scope="row">Cheapest option</th>
-description: Making open-source more accessible.
         <td>About $5/month</td>
         <td>$5/month</td>
     </tr>
     <tr>
         <th scope="row">Image pulls</th>
-description: Making open-source more accessible.
         <td>Nearly unlimited</td>
         <td>5000/day</td>
     </tr>
     <tr>
         <th scope="row">Concurrent builds</th>
-description: Making open-source more accessible.
         <td>Nearly unlimited</td>
         <td>5</td>
     </tr>
     <tr>
         <th scope="row">Vulnerability scans</th>
-description: Making open-source more accessible.
         <td>Nearly unlimited</td>
         <td>300</td>
     </tr>
@@ -57,43 +51,36 @@ See what Docker can do for you.  Sign up for a trial in the upper right or save 
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
-description: Making open-source more accessible.
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://www.docker.com/">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/docker-logo.png" class="columnImage" />
                     </td>
-description: Making open-source more accessible.
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Accelerate how you build, share, and run modern applications.</h1>
                         Docker makes development efficient and predictable. 
-description: Making open-source more accessible.
                     </td>
                 </tr>
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
-description: Making open-source more accessible.
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/wiki">
                         <img src="https://workmates.live/wp-content/uploads/2022/11/wiki0.png" class="columnImage" />
-description: Making open-source more accessible.
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Next up:  Wiki.js.</h1>
-description: Making open-source more accessible.
                         The most powerful and extensible open source Wiki software.
                               <a href="https://workdojos.com/wiki">Continue</a> 
                     </td>
                 </tr>
             </table>
-description: Making open-source more accessible.
         </td>
     </tr>
 </table>

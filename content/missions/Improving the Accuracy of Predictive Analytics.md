@@ -3,13 +3,11 @@ title: Improving the Accuracy of Predictive Analytics
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 # Mission // #Improving the Accuracy of Predictive Analytics
 
 **Project Brief**: Improving the Accuracy of Predictive Analytics
@@ -26,7 +24,6 @@ Develop and implement strategies for improving the accuracy of predictive analyt
 Create a comprehensive guide for others in the industry to follow when developing predictive analytics models
 Improve the overall accuracy of predictive analytics by 10% in 90 days
 **Stakes**:
-description: Making open-source more accessible.
 
 The accuracy of predictive analytics directly affects the success of businesses and organizations
 Poor accuracy can lead to significant financial losses and negative consequences for customers and stakeholders
@@ -38,7 +35,6 @@ The ability to work remotely from PC's at home
 Relevant software and tools
 Collaboration with other industry experts and stakeholders
 Successful completion of this project grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for statisticians worldwide. By improving the accuracy of predictive analytics, we can make a real impact on the lives and success of businesses and organizations.
-description: Making open-source more accessible.
 
 ---
 

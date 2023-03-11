@@ -3,14 +3,12 @@ title: Learning & Development for Exhibitionists
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 As an exhibitionist, it is important to have a strong background in marketing and event planning. Some key skills to include in your curriculum might be:
 
@@ -19,7 +17,6 @@ Ability to create and execute marketing campaigns
 Strong communication skills, both written and verbal
 Knowledge of design software such as Adobe Creative Suite
 Some great resources for learning more about exhibitionist skills might include:
-description: Making open-source more accessible.
 
 Eventbrite's Learning Hub: https://www.eventbrite.com/organizer/learning/
 The Marketing Academy: https://www.marketingacademy.org/
@@ -31,14 +28,12 @@ Event planning companies
 Marketing agencies
 Trade show organizations
 Some helpful tips for succeeding as an exhibitionist might include:
-description: Making open-source more accessible.
 
 Always be prepared and organized. Keep track of details and deadlines to ensure your events or exhibitions run smoothly.
 Stay up to date on industry trends and new technologies.
 Build strong relationships with vendors, clients, and colleagues.
 Be willing to go above and beyond to create a memorable experience for attendees.
 Some questions a candidate for an exhibitionist role might be asked during an interview could include:
-description: Making open-source more accessible.
 
 Can you describe a successful event or exhibition you have organized? What were the key elements that contributed to its success?
 How do you use design software to create marketing materials or event layouts?
@@ -50,29 +45,24 @@ How do you measure the success of an event or exhibition? What metrics do you us
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://exhibitionist.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>

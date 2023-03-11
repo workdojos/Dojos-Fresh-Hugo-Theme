@@ -3,13 +3,11 @@ title: Solomon Islands Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Solomon Islands.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 To learn more about open-source technology in Solomon Islands, the following resources and notable technologists can be helpful:
 
 1.  ICT4SI: ICT4SI is a community organization in Solomon Islands that focuses on ICT education and open-source software. Their website provides access to resources such as tutorials and training materials, and they organize events and workshops to promote open-source technology.
@@ -17,7 +15,6 @@ To learn more about open-source technology in Solomon Islands, the following res
 2.  FOSSASIA: FOSSASIA is a non-profit organization that promotes open-source technology in Asia. Their website provides access to a range of open-source software, including cloud computing, mobile development, and data analysis tools. They also organize events and workshops throughout Asia.
     
 3.  Mozilla Pacific: Mozilla Pacific is the regional office of Mozilla Foundation in Pacific. They promote open web technologies through community building, education and advocacy. Their website provides access to a range of open-source tools and resources, including Firefox browser, web development tools, and internet security.
-description: Making open-source more accessible.
     
 
 Notable Technologists from Solomon Islands:
@@ -27,7 +24,6 @@ Notable Technologists from Solomon Islands:
 2.  Agnes Titus: Agnes Titus is a computer science lecturer at the University of the South Pacific in Solomon Islands. She is also the founder of FemLINK Pacific, a community organization that promotes women's empowerment through ICT education and advocacy.
     
 3.  David Leeming: David Leeming is a software developer and entrepreneur from Solomon Islands. He is the founder and CEO of Panapacific, a software company that provides technology solutions for businesses in the Pacific region.
-description: Making open-source more accessible.
     
 
 Overall, there is a growing community of open-source technology enthusiasts in Solomon Islands, and there are many resources available to support learning and development in this field. By tapping into these resources and learning from the experiences of notable technologists, individuals and organizations in Solomon Islands can continue to drive innovation and growth in the open-source technology space.
@@ -37,25 +33,21 @@ Overall, there is a growing community of open-source technology enthusiasts in S
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Solomon-Islands" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -74,19 +66,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Somalia">Next dojo:  Somalia</a>

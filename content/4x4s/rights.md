@@ -3,9 +3,6 @@ title: The 4X4 Industry and 4X4 Business Owner Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
-
- 
 ---
 
 <figure>
@@ -13,9 +10,6 @@ description: Making open-source more accessible.
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-description: Making open-source more accessible.
-
- 
 As a debater, I believe it is crucial to examine both sides of the argument in order to come to a well-informed and logical conclusion. However, in this particular case, I will be taking the side of the workers and advocating for fair work practices in the 4x4 industry.
 
 One recent trend in the 4x4 industry is the increasing use of contract and temporary workers. These workers often do not receive the same benefits and protections as permanent employees, leading to exploitation and mistreatment. It is not fair for 4x4 business owners to rely on this cheap labor while denying workers basic rights and protections.
@@ -31,41 +25,24 @@ In conclusion, fair work practices in the 4x4 industry are not only the right th
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
-
- 
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
-description: Making open-source more accessible.
-
                       <a href="https://admins.workdojos.com">
- 
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
-description: Making open-source more accessible.
-
             </table>
         </td>
- 
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
-description: Making open-source more accessible.
-
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
- 
                         <img src="/uploads/randomdojo.png" class="columnImage" />
-description: Making open-source more accessible.
-
                     </td>
             </table>
         </td>
     </tr>
- 
-description: Making open-source more accessible.
-
 </table>

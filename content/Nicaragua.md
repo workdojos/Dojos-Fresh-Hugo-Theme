@@ -3,13 +3,11 @@ title: Nicaragua Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Nicaragua.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 Learning about open-source technology in Nicaragua can be done through several resources, including:
 
 1.  Nicaragua Open Source Community - This is a community of open-source enthusiasts in Nicaragua that promotes the use of open-source technology in the country. They provide resources, events, and forums for Nicaraguan developers to collaborate and share knowledge.
@@ -17,7 +15,6 @@ Learning about open-source technology in Nicaragua can be done through several r
 2.  Red de Desarrolladores Tecnológicos de Nicaragua - This is a network of Nicaraguan technologists that seeks to promote the use of technology for social and economic development in Nicaragua. They offer resources, training, and networking opportunities for Nicaraguan technologists.
     
 3.  OpenNIC - This is a global community of DNS servers that support a decentralized, open-source domain name system. There are several OpenNIC servers in Nicaragua that can be used by developers and users.
-description: Making open-source more accessible.
     
 4.  OpenStreetMap Nicaragua - This is a community of mappers in Nicaragua that contribute to OpenStreetMap, a free, open-source map of the world. They offer resources and training to help Nicaraguans contribute to the map and improve their local communities.
     
@@ -29,7 +26,6 @@ Some notable technologists from Nicaragua throughout history include:
 2.  David Vargas - He is a Nicaraguan software developer and entrepreneur who co-founded the software company Open BlueBox. He is also a founding member of Nicaragua's Open Source Community.
     
 3.  Rafael Solano - He is a Nicaraguan software developer and entrepreneur who co-founded the software company Edusoft. He is also a founding member of Nicaragua's Open Source Community.
-description: Making open-source more accessible.
     
 4.  Gabriel Macías - He is a Nicaraguan software developer who contributed to the development of the Mozilla Firefox web browser. He is also a founding member of Nicaragua's Open Source Community.
     
@@ -39,25 +35,21 @@ description: Making open-source more accessible.
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Nicaragua" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -76,19 +68,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Niger">Next dojo:  Niger</a>

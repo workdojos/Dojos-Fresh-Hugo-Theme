@@ -3,13 +3,11 @@ title: Guinea Bissau Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Guinea-Bissau.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-description: Making open-source more accessible.
 As an AI language model, I don't have the most current information about the open-source tech community in Guinea Bissau, but I will try my best to provide the available resources and some notable technologists from the country's history.
 
 Resources with Links:
@@ -19,7 +17,6 @@ Resources with Links:
 2.  Open Data Guinea-Bissau - a government website that provides open data resources and information about the country.
     
 3.  GitHub Guinea-Bissau - a list of all open-source projects from developers in Guinea-Bissau.
-description: Making open-source more accessible.
     
 
 Notable Technologists from Guinea Bissau Throughout History:
@@ -29,7 +26,6 @@ Notable Technologists from Guinea Bissau Throughout History:
 2.  Domingos Simões Pereira - a former Prime Minister of Guinea-Bissau, who is credited with launching several initiatives to promote technology and innovation in the country.
     
 3.  Ayuba Suleiman Diallo - an 18th-century scholar, who was known for his knowledge of astronomy, mathematics, and other sciences.
-description: Making open-source more accessible.
     
 4.  Karamba Diaby - a German politician of Senegalese-Guinean descent, who is known for his efforts to promote education and technology in Germany and other countries.
     
@@ -41,25 +37,21 @@ Overall, it seems that the open-source tech community in Guinea-Bissau is still 
   <head>
     <style>
       .button {
-description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
-description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Guinea-Bissau" target="_blank">Claim this Dojo</a>
   </body>
-description: Making open-source more accessible.
 </html>
 <br>
 
@@ -78,19 +70,16 @@ description: Making open-source more accessible.
     <style>
       .button {
         display: inline-block;
-description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
-description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
-description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Guyana">Next dojo:  Guyana</a>

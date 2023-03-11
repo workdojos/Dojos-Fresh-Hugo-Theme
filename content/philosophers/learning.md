@@ -3,14 +3,12 @@ title: Learning & Development for Philosophers
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
-description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
-description: Making open-source more accessible.
 <p>
 Sure! Here are some suggestions for what should appear in a curriculum related to the job title of philosopher:
 
@@ -19,7 +17,6 @@ Knowledge of the history of philosophy and key philosophers and their contributi
 Familiarity with different philosophical schools of thought and their main theories and arguments.
 Ability to think critically and analytically, and to engage in logical argumentation and debate.
 Strong writing and communication skills, including the ability to express complex ideas clearly and concisely.
-description: Making open-source more accessible.
 Some websites with resources for learning about philosophy and related topics include:
 
 The Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/
@@ -27,7 +24,6 @@ The Internet Encyclopedia of Philosophy: https://www.iep.utm.edu/
 The Philosophy Pages: https://www.philosophypages.com/
 The University of Cambridge's Faculty of Philosophy: https://www.phil.cam.ac.uk/
 Some companies that are known for their exciting roles and responsibilities related to philosophy include:
-description: Making open-source more accessible.
 
 Think Tank: https://www.thinktank.com/
 Institute for Ethics and Emerging Technologies: https://ieet.org/
@@ -44,36 +40,30 @@ Can you provide examples of philosophical arguments that you have found particul
 How do you approach the task of analyzing and evaluating philosophical ideas and arguments?
 How do you think philosophy can be applied to real-world problems and issues?
 How do you think your philosophical training and perspective can contribute to the work of our organization?
-description: Making open-source more accessible.
 
 <br>
 <a href="https://workdojos.com/philosophers/rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://philosophers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
-description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
-description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
-description: Making open-source more accessible.
 </table>
