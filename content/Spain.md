@@ -3,11 +3,13 @@ title: Spain Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Spain.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 Learning about open-source tech in Spain can be done through various resources including websites, communities, forums, and events. Here are some of the resources to explore:
 
 1.  OpenExpo Europe - an annual event that brings together experts, developers, and organizations in open-source technology. They have a website with articles, videos, and news updates on open-source tech in Spain.
@@ -15,11 +17,13 @@ Learning about open-source tech in Spain can be done through various resources i
 2.  Meetup - a community of tech enthusiasts that host meetups and events on various topics including open-source technology. They have a page dedicated to open-source meetups in Spain.
     
 3.  GitHub - a platform for open-source projects where you can find and contribute to projects created by Spanish developers.
+description: Making open-source more accessible.
     
 4.  Linux Hispano - a Spanish online community focused on Linux and open-source software.
     
 5.  Open Source Observatory and Repository - a website that provides information on open-source policies, initiatives, and projects in Spain and across Europe.
     
+description: Making open-source more accessible.
 
 Notable technologists from Spain throughout history include:
 
@@ -28,32 +32,38 @@ Notable technologists from Spain throughout history include:
 2.  Ada Byron Lovelace - widely recognized as the first computer programmer, who worked with Charles Babbage on his proposed analytical engine.
     
 3.  Emilio Pérez Touriño - a computer engineer and politician who was instrumental in the implementation of open-source technology in the government of Galicia, Spain.
+description: Making open-source more accessible.
     
 4.  Juan José Hierro - a computer engineer and co-founder of Apicultur, an open-source API management platform.
     
 5.  Francesc Busquets - a software developer and advocate for open-source software who founded the Open Source University Meetup in Barcelona.
     
+description: Making open-source more accessible.
 
 <br>
 <html>
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Spain" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -72,16 +82,19 @@ Notable technologists from Spain throughout history include:
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Sri-Lanka">Next dojo:  Sri Lanka</a>

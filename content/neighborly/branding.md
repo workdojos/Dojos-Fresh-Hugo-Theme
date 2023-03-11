@@ -3,12 +3,14 @@ title: Neighborhood Volunteer Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo 
+description: Making open-source more accessible.
 
 ---
 <figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
     <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 To begin, I would recommend creating a content calendar for the organization's social media platforms. This will allow us to plan out and schedule posts in advance, ensuring consistent and regular updates. We can also use this calendar to mix up the types of content we post, such as informational posts, promotional posts, and engaging content like polls or quizzes.
 
 On Twitter, we can utilize hashtags to reach a wider audience and engage with others in the community services industry. We can also utilize Twitter's features, such as Twitter Moments, to highlight key events or campaigns.
@@ -28,24 +30,29 @@ Overall, by developing and executing a strategic social media plan and engaging 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://neighborly.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

@@ -3,11 +3,13 @@ title: Holy See Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Holy See.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 As an AI language model, I do not have the capability to browse the internet or provide opinions, but I can provide resources and notable technologists from Holy See throughout history that you might find helpful.
 
 Resources with links:
@@ -17,6 +19,7 @@ Resources with links:
 3.  The Dicastery for Communication's website: [http://www.communications.va/en/home.html](http://www.communications.va/en/home.html)
 4.  The Vatican's YouTube channel: [https://www.youtube.com/vatican](https://www.youtube.com/vatican)
 5.  The Vatican Library's digital archive: [http://digi.vatlib.it/](http://digi.vatlib.it/)
+description: Making open-source more accessible.
 6.  The website of the Vatican Observatory: [http://www.vaticanobservatory.va/content/specolavaticana/en.html](http://www.vaticanobservatory.va/content/specolavaticana/en.html)
 
 Notable technologists from Holy See throughout history:
@@ -26,6 +29,7 @@ Notable technologists from Holy See throughout history:
 3.  Father Angelo Secchi, an Italian Jesuit and astronomer, is known for his work in solar physics and spectroscopy. He was the first to classify stars according to their spectra, and he also discovered the existence of solar prominences.
 4.  Father Francesco Faà di Bruno, an Italian mathematician and priest, is credited with developing a mathematical technique for solving differential equations that is now known as the Faà di Bruno formula. He was also a social activist who worked to improve the lives of the poor in Italy.
 5.  Father Nicolas Steno, a Danish Catholic bishop and scientist, is often considered the father of geology. He developed the principle of superposition, which states that in undisturbed layers of rock, the oldest layers are at the bottom and the youngest are at the top. He was also the first to recognize the geological significance of fossils.
+description: Making open-source more accessible.
 
 These notable technologists from Holy See throughout history are just a few examples of the important contributions that the Catholic Church has made to science and technology over the years.
 
@@ -34,21 +38,25 @@ These notable technologists from Holy See throughout history are just a few exam
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Holy-See" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -67,16 +75,19 @@ These notable technologists from Holy See throughout history are just a few exam
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Honduras">Next dojo:  Honduras</a>

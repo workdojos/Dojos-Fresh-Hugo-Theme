@@ -3,11 +3,13 @@ title: Learning & Development for Academics
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 <p>
 For an academic position, a strong curriculum should include:
 
@@ -16,6 +18,7 @@ Experience teaching in a classroom or educational setting
 Knowledge of current teaching methods and technologies, such as online learning platforms and educational software
 Strong communication and presentation skills
 Research experience, including publishing papers or presenting at conferences
+description: Making open-source more accessible.
 Experience collaborating with colleagues or leading a team
 Some great websites for learning about academic careers include:
 
@@ -34,36 +37,43 @@ Collaborate with other academics and experts in your field to share ideas and ma
 Develop a strong online presence by creating a professional website or blog and sharing your research and ideas on social media.
 Be open to new opportunities, such as teaching online or collaborating with other institutions or organizations.
 Some questions a candidate for an academic position should be able to answer include:
+description: Making open-source more accessible.
 
 What is your research focus and how does it contribute to your field?
 How have you integrated technology into your teaching or research?
 What are your strategies for engaging and motivating students?
 How have you collaborated with colleagues or led a team in the past?
 What is your approach to staying up to date with the latest research and trends in your field?
+description: Making open-source more accessible.
 
 <br>
 <a href="https://workdojos.com/academies/start">next: getting started</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://X.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

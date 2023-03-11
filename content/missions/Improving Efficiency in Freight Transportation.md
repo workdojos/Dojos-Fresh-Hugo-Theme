@@ -3,11 +3,13 @@ title: Improving Efficiency in Freight Transportation
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Improving Efficiency in Freight Transportation
 
 **Project Brief**: Improving Efficiency in Freight Transportation
@@ -24,6 +26,7 @@ Improve communication between drivers and dispatchers by 50%
 Increase the use of technology in route optimization by 75%
 **Stakes**:
 The transportation industry is facing a high demand for goods to be delivered in a timely and efficient manner. With the rise in e-commerce, the stakes are even higher. Improving efficiency in freight transportation will help our company stay competitive and meet the growing demands of customers.
+description: Making open-source more accessible.
 
 **Reserves**:
 To achieve our goals, we will have access to the following resources:

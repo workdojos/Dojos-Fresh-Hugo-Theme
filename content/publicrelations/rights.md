@@ -3,6 +3,7 @@ title: The Public Relations  Industry and PR Rep Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 The public relations industry is an integral part of modern society, as it helps to shape and influence public perceptions of companies, organizations, and individuals. PR representatives play a key role in this process, working tirelessly to craft and disseminate messages that reflect positively on their clients. However, despite the importance of their work, many PR representatives are subjected to unfair work practices that undermine their rights and prevent them from being fairly compensated for their efforts.
 
 One trend in the PR industry that has come under scrutiny in recent years is the proliferation of unpaid internships. Many PR firms offer internships as a way to give aspiring PR professionals a chance to gain valuable experience and build their resumes. However, these internships are often unpaid, meaning that PR representatives are expected to work full-time hours without receiving any financial compensation. This is particularly problematic for young people who are just starting out in the field, as they may not have the financial resources to support themselves while working for free.
@@ -26,24 +28,29 @@ Overall, it is clear that the PR industry has a long way to go in terms of promo
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://publicrelations.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

@@ -3,11 +3,13 @@ title: Botswana Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Botswana.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 To learn more about open-source technology in Botswana, one can start by exploring the following resources:
 
 1.  The Botswana Innovation Hub: The Botswana Innovation Hub is a technology and innovation hub that provides support to start-ups, researchers, and innovators in Botswana. It offers access to funding, resources, and mentorship programs that are designed to support the development of open-source technology.
@@ -15,6 +17,7 @@ To learn more about open-source technology in Botswana, one can start by explori
 2.  Open Botswana: Open Botswana is an online community that promotes open-source software, hardware, and data in Botswana. It provides a platform for developers, designers, and other technology enthusiasts to collaborate and share ideas.
     
 3.  Google Developers Group Botswana: Google Developers Group (GDG) Botswana is a community of developers who come together to learn, share, and build open-source software. It hosts regular meetups and events that cover topics such as machine learning, web development, and mobile app development.
+description: Making open-source more accessible.
     
 
 Notable Technologists from Botswana Throughout History:
@@ -24,6 +27,7 @@ Notable Technologists from Botswana Throughout History:
 2.  Thato Kgatlhanye: Thato Kgatlhanye is a social entrepreneur from Botswana who co-founded Rethaka, a company that produces solar-powered backpacks for school children. She was named as one of Forbes Africa's 30 under 30 in 2015.
     
 3.  Rebecca Enonchong: Rebecca Enonchong is a Cameroonian entrepreneur who has lived and worked in Botswana. She is the founder of AppsTech, a software development company that provides solutions for businesses in Africa.
+description: Making open-source more accessible.
     
 4.  Sennye Obuseng: Sennye Obuseng is a software engineer and founder of Afro Tendency, a company that provides software solutions for the creative industry in Botswana.
     
@@ -35,21 +39,25 @@ Overall, there are many notable technologists from Botswana who have made signif
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Botswana" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -68,16 +76,19 @@ Overall, there are many notable technologists from Botswana who have made signif
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Brazil">Next dojo:  Brazil</a>

@@ -3,11 +3,13 @@ title: Remote Botanical Project
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Remote Botanical Project
 
 **Project Brief**: Remote Botanical Project
@@ -24,6 +26,7 @@ Develop a cost-effective and sustainable solution for controlling the spread of 
 Implement the solution in selected test sites and monitor its effectiveness.
 Create a comprehensive guide for other botanists and stakeholders to follow and replicate the solution in their own communities.
 **Stakes**:
+description: Making open-source more accessible.
 The consequences of not controlling the spread of invasive species are severe and long-lasting. It could lead to the loss of native habitats and the extinction of many species. This could have a ripple effect on the entire ecosystem, leading to an imbalance in the food chain and the loss of biodiversity. In addition, the economic impact of invasive species can be substantial, as they can reduce the value of crops and disrupt important industries such as fishing and forestry.
 
 **Reserves**:
@@ -33,6 +36,7 @@ Each member will receive a budget to purchase the necessary materials to impleme
 The team will have access to remote monitoring and testing equipment to monitor the effectiveness of their solution.
 **Successful Completion**:
 If the team successfully completes the project within 90 days, they will be granted XP and will unlock a new challenge in their quest to revolutionize the workplace for botanists worldwide. This project will serve as a model for future botanical projects and will demonstrate the effectiveness of remote collaboration in solving complex botanical problems.
+description: Making open-source more accessible.
 
 ---
 

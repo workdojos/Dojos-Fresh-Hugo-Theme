@@ -3,6 +3,7 @@ title: The Healthcare  Industry and Practitioner Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a healthcare practitioner working in the industry, it is clear to me that fair work practices are essential for the well-being and satisfaction of healthcare workers. In recent years, there have been a number of trends and events that have highlighted the importance of promoting worker's rights, fair treatment, and proper wages in the healthcare industry.
 
 One trend that has gained significant attention is the issue of burnout among healthcare workers. Burnout, which is characterized by emotional exhaustion, depersonalization, and a lack of accomplishment, has been found to be highly prevalent among healthcare workers and has been linked to a number of negative outcomes, including decreased patient satisfaction and increased turnover. One way to address this issue is by promoting fair work practices that allow healthcare workers to have a healthy work-life balance and avoid being overworked and stressed. This could include things like ensuring that workers have enough time off and are not required to work excessively long hours or taking on more patients than they can reasonably handle.
@@ -26,24 +28,29 @@ Overall, it is clear that fair work practices are essential for the well-being a
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://practitioner.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

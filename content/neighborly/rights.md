@@ -3,6 +3,7 @@ title: The Community Services  Industry and Neighborhood Volunteer Workers' Righ
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a debater, it is my job to present both sides of the argument and allow the audience to come to their own informed conclusions. However, in the case of fair work practices for neighborhood volunteers in the community services industry, I must admit that my personal beliefs align with the promotion of worker’s rights, fair treatment, and proper wages.
 
 Recent trends and events in the community services industry have highlighted the importance of these issues. One such event is the COVID-19 pandemic, which has exposed the ways in which essential workers, including those in the community services industry, have been undervalued and underpaid. These workers have risked their own health and safety to provide vital services to their communities, yet they have often been overlooked and not provided with the necessary support and resources.
@@ -28,24 +30,29 @@ In conclusion, fair work practices for neighborhood volunteers in the community 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://neighborly.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

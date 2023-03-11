@@ -3,6 +3,7 @@ title: Barista's Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <iframe src="https://baristas.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
@@ -25,46 +26,55 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
 <table>
     <caption></caption>
     <tr>
+description: Making open-source more accessible.
         <td> </td>
         <th scope="col" class="heman">Work Dojos</th>
         <th scope="col" class="skeletor">Premium SaaS subscriptions</th>
     </tr>
     <tr>
+description: Making open-source more accessible.
         <th scope="row">Website</th>
         <td>Included in your Dojo</td>
         <td>Squarespace Business $23/mo, Wix Pro $27/mo</td>
     </tr>
     <tr>
+description: Making open-source more accessible.
         <th scope="row">Ghost blog</th>
         <td>Included in your Dojo</td>
         <td>Ghost Pro $25/mo</td>
     </tr>
     <tr>
+description: Making open-source more accessible.
         <th scope="row">Rocket.chat</th>
         <td>Included in your Dojo</td>
         <td>Slack Business $12.50/user/mo</td>
     </tr>
     <tr>
+description: Making open-source more accessible.
         <th scope="row">Baserow code-free database</th>
         <td>Included in your Dojo</td>
         <td>Baserow Premium $5/user/mo, , Airtable $10/user/mo</td>
     </tr>
     <tr>
+description: Making open-source more accessible.
         <th scope="row">n8n Automation</th>
         <td>Included in your Dojo</td>
         <td>n8n Pro $50/mo</td>
     </tr>
     <tr>
+description: Making open-source more accessible.
         <th scope="row">Wiki.js</th>
         <td>Included in your Dojo</td>
         <td>Free to host on your own server</td>
     </tr>
     <tr>
+description: Making open-source more accessible.
         <th scope="row">Yearly costs</th>
         <td>Work Dojos $25/mo or $250/yr </td>
         <td>Premium SaaS apps $124.50/mo * 12 = $1494/yr  </td>
     </tr>
 </table>
+description: Making open-source more accessible.
 
 <br><br>
 
@@ -73,71 +83,85 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
+description: Making open-source more accessible.
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/wiki">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/wikijs.png" class="columnImage" />
                     </td>
                 </tr>
+description: Making open-source more accessible.
                 <tr>
                     <td valign="top" class="leftColumnContent">
                     </td>
                 </tr>
             </table>
+description: Making open-source more accessible.
         </td>
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
+description: Making open-source more accessible.
                       <a href="https://workdojos.com/n8n">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/n8n-logo.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
+description: Making open-source more accessible.
                     <td valign="top" class="leftColumnContent">
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/chat">  
+description: Making open-source more accessible.
                         <img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
+description: Making open-source more accessible.
                     </td>
                 </tr>
             </table>
         </td>
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
+description: Making open-source more accessible.
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/db">  
                         <img src="https://workmates.live/wp-content/uploads/2022/11/baserow4.png" class="columnImage" />
+description: Making open-source more accessible.
                     </td>
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
                     </td>
+description: Making open-source more accessible.
                 </tr>
             </table>
         </td>
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
+description: Making open-source more accessible.
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/ghost">
                         <img src="https://workmates.live/wp-content/uploads/2022/11/ghost-black-logo.png" class="columnImage" />
                     </td>
+description: Making open-source more accessible.
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
                     </td>
                 </tr>
+description: Making open-source more accessible.
             </table>
         </td>
     </tr>
@@ -149,6 +173,7 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
         <p></p>
     {{% subtitle5 "Love coffee?  So do we!" %}}
 We love coffee so much that we created an entire Dojo dedicated to coffee!  Whether you're an existing coffee business or have an idea for how to serve up something new, we can help you along the way.
+description: Making open-source more accessible.
 
 It all starts with a dashboard that you own and control.  Serve that up as your sign to customers that you mean business about coffee!
 </figure>
@@ -163,6 +188,7 @@ We are an employee-owned company.  We believe in revitalizing the world through 
   <li>Do you work at an existing business and are you looking to cut costs and get rid of excessive SaaS subscriptions?</li>
   <li>Are you a researcher looking for some amazing tools to help you do your job?</li>
     <li>Or a student looking to learn about self-hosting and web app development?</li>
+description: Making open-source more accessible.
       <li>Do you want to get involved or just have a question and want to talk to someone? </li>
 </ul> 
 
@@ -183,36 +209,43 @@ Click the "Sign Up" button in the upper right (includes both a free tier and a f
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
+description: Making open-source more accessible.
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/features">  
                         <img src="/uploads/dev.svg" class="columnImage" />
                     </td>
                 </tr>
+description: Making open-source more accessible.
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Features.</h1>
                         Learn about some of the cool features to be had for just $25/mo.
                     </td>
+description: Making open-source more accessible.
                 </tr>
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
+description: Making open-source more accessible.
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/partners">
                         <img src="/uploads/team3.svg" class="columnImage" />
                     </td>
+description: Making open-source more accessible.
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Our partners.</h1>
                         Trailblazers in the open-source world!  Thank you to all developers supporting open-source initiatives!
+description: Making open-source more accessible.
                     </td>
                 </tr>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>
 
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
@@ -220,36 +253,43 @@ Click the "Sign Up" button in the upper right (includes both a free tier and a f
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
+description: Making open-source more accessible.
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/docs/start">  
                         <img src="/uploads/buildash.png" class="columnImage" />
                     </td>
                 </tr>
+description: Making open-source more accessible.
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Get started</h1>
                         Let's get to building!
                     </td>
+description: Making open-source more accessible.
                 </tr>
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
+description: Making open-source more accessible.
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://chat.workmates.live">
                         <img src="/uploads/remote.svg" class="columnImage" />
                     </td>
+description: Making open-source more accessible.
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Collaborate from anywhere.</h1>
                         Check out our open-source chat server and collaboration hub!
+description: Making open-source more accessible.
                     </td>
                 </tr>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>
 
 

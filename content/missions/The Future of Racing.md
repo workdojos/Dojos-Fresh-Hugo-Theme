@@ -3,11 +3,13 @@ title: The Future of Racing
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #The Future of Racing
 
 **Project Brief**: The Future of Racing
@@ -23,6 +25,7 @@ Increase the sustainability of the industry, with a focus on reducing waste and 
 Improve the fan experience and engagement, with an emphasis on technology and innovation.
 Foster the growth of new talent in the industry and support their development.
 **Stakes**: The success of this project is critical to the future of the racing industry. A failure to address these challenges will have significant consequences, including decreased safety, decreased fan engagement, and reduced investment in the sport.
+description: Making open-source more accessible.
 
 **Reserves**: A budget has been allocated to support the project, including resources for research and development, marketing, and travel. A team of advisors and industry experts will be available to provide support and guidance throughout the project.
 

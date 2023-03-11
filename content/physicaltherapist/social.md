@@ -3,12 +3,14 @@ title: Physical Therapist Social Media Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/socialmedia.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='social media';/>
     <figcaption>Gain presence in the world of social media.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 <p>
 As a social media influencer, I would suggest creating a cohesive campaign across all platforms to promote your new business as a physical therapist. Here are some ideas for each platform:
 
@@ -19,12 +21,14 @@ Share before and after photos of clients who have made progress with your treatm
 Share quotes and testimonials from satisfied clients.
 Use relevant hashtags to increase your reach and engage with other physical therapy professionals and users interested in physical therapy.
 Twitter:
+description: Making open-source more accessible.
 
 Tweet about the latest physical therapy research and techniques you are using in your practice.
 Share tips and exercises for maintaining good physical health and preventing injuries.
 Share quotes and testimonials from satisfied clients.
 Use relevant hashtags to increase your reach and engage with other physical therapy professionals and users interested in physical therapy.
 YouTube:
+description: Making open-source more accessible.
 
 Create instructional videos showcasing your physical therapy techniques and exercises for at-home use.
 Share testimonial videos from satisfied clients.
@@ -41,24 +45,29 @@ Overall, the key to a successful campaign is to consistently share engaging and 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://physicaltherapist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

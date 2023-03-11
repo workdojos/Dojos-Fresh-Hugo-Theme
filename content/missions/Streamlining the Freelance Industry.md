@@ -3,11 +3,13 @@ title: Streamlining the Freelance Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Streamlining the Freelance Industry
 
 **Project Brief**:
@@ -24,6 +26,7 @@ Implement a financial management system for remote workers.
 Improve communication between remote workers and clients.
 Make it easier for remote workers to find and secure work.
 Streamline the freelance industry to make it more efficient and user-friendly.
+description: Making open-source more accessible.
 **Stakes**:
 
 The success of this project will have a significant impact on the freelance industry, making it easier for remote workers to find and secure work, manage their finances, and connect with clients.
@@ -36,6 +39,7 @@ The team will have access to all necessary resources and tools to complete the p
 The team will work remotely from their PC's at home for 90 days.
 Regular check-ins and progress updates will be conducted to ensure that the project is on track.
 Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for remote workers worldwide.
+description: Making open-source more accessible.
 
 ---
 

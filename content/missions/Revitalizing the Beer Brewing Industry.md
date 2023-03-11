@@ -3,11 +3,13 @@ title: Revitalizing the Beer Brewing Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Revitalizing the Beer Brewing Industry
 
 **Project Brief**: Revitalizing the Beer Brewing Industry
@@ -23,6 +25,7 @@ To research and evaluate the best practices and latest trends in the beer brewin
 To develop and implement a comprehensive plan to revitalize the industry, which includes innovative and sustainable solutions
 To share the results of the project with the broader beer brewing community and promote best practices
 **Stakes**:
+description: Making open-source more accessible.
 
 The beer brewing industry is facing declining sales and reduced profitability. This project aims to revive the industry and ensure its long-term success.
 If the project is not successful, it will have significant negative consequences for the beer brewing industry and its employees.

@@ -3,11 +3,17 @@ title:  History and Etymology of 4X4 Business Owners and the 4X4 Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
+
+ 
 ---
 <figure>
     <img src='/uploads/history.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='old sailing vessel';/>
     <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+description: Making open-source more accessible.
+
 </figure>
+ 
 <p>
 The word "4x4" refers to a type of vehicle with four-wheel drive, which allows it to drive on rough or uneven terrain. The term "4x4" is a shortened version of "four-by-four," which refers to the number of wheels and the number of powered drivetrain components.
 
@@ -24,25 +30,42 @@ The meaning of the term "business owner" has remained relatively constant over t
 <br>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+description: Making open-source more accessible.
+
+ 
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
+description: Making open-source more accessible.
+
                     <td class="leftColumnContent">
+ 
                       <a href="https://4X4s.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
+description: Making open-source more accessible.
+
                 </tr>
             </table>
+ 
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
+description: Making open-source more accessible.
+
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
+ 
                       <a href="https://bartenders.workdojos.com">
+description: Making open-source more accessible.
+
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
+ 
+description: Making open-source more accessible.
+
     </tr>
 </table>

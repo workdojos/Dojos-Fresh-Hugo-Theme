@@ -3,12 +3,14 @@ title: Websites for Lab Techs in the Laboratory Testing  Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/website.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='desktop computer opened to a beautiful website';/>
     <figcaption>"Hey Admin!".  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 <br>
 <p>
 As a web design consultant, I would recommend using open-source technology to build your own website for a few reasons. First, open-source technology is generally free to use and customize, which can save your business a significant amount of money in terms of website development costs. Additionally, open-source technology is usually highly customizable and can be tailored to your specific needs and business goals. This can be especially useful for a lab tech working in the laboratory testing industry, as you may have unique requirements for your website that are not easily accommodated by off-the-shelf solutions.
@@ -33,21 +35,25 @@ Overall, the pros and cons of using open-source technology to build your own web
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
+description: Making open-source more accessible.
                     <td class="leftColumnContent">
                       <a href="https://labtech.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
+description: Making open-source more accessible.
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
+description: Making open-source more accessible.
                     <td class="rightColumnContent">
                       <a href="https://cosmonaut.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
+description: Making open-source more accessible.
         </td>
     </tr>
 </table>

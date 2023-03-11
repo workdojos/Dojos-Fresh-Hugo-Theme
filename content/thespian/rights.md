@@ -3,6 +3,7 @@ title: The Perfoming Arts  Industry and Thespian Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a thespian working in the performing arts industry, I have witnessed firsthand the challenges and injustices faced by many of my colleagues. From long and grueling rehearsals to the constant uncertainty of securing steady work, the life of a performer can be filled with hardship. However, one of the most pressing issues facing the industry is the lack of fair work practices, including inadequate wages and mistreatment of workers.
 
 Recent trends in the industry have only exacerbated these issues. With the rise of streaming platforms and the proliferation of content, there is an increasing demand for actors and performers to work for low or even no pay. Many are told that the exposure and experience gained from working for free will lead to bigger and better opportunities down the line, but this is often not the case.
@@ -28,24 +30,29 @@ In conclusion, it is essential that the performing arts industry prioritize the 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://thespian.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

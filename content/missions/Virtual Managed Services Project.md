@@ -3,11 +3,13 @@ title: Virtual Managed Services Project
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Virtual Managed Services Project
 
 **Project Brief**: Virtual Managed Services Project
@@ -23,6 +25,7 @@ To provide a seamless user experience for both the company and the end-users.
 To ensure the platform is scalable and can accommodate the needs of businesses of different sizes.
 To provide 24/7 support to clients.
 **Stakes**:
+description: Making open-source more accessible.
 
 The managed services industry is a rapidly growing market and this project will put our team at the forefront of this technology.
 The success of this project will provide our team with increased visibility and recognition within the industry.

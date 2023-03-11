@@ -3,6 +3,7 @@ title: The Laboratory Testing  Industry and Lab Tech Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 The laboratory testing industry is a vital sector of the economy, responsible for conducting important scientific research and producing reliable results that are used in a variety of fields, including healthcare, environmental protection, and product safety. However, the lab techs who work in these laboratories often face challenges in terms of fair work practices, including low wages, long hours, and a lack of job security.
 
 One recent trend in the laboratory testing industry is the increasing use of temporary or contract workers, who are often paid lower wages and do not receive the same benefits as full-time employees. This practice not only harms the financial stability of these workers, but it also creates an unstable and uncertain work environment, as they are not guaranteed steady employment.
@@ -30,24 +32,29 @@ In conclusion, fair work practices are crucial for lab techs in the laboratory t
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://labtech.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

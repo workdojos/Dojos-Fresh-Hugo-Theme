@@ -3,6 +3,7 @@ title: The Film  Industry and Screenwriter Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a debater, I would argue that fair work practices for screenwriters in the film industry are crucial in order to ensure that these creative professionals are treated with the respect and dignity they deserve. There have been several recent trends and events in the industry that highlight the need for better protections for screenwriters, including the proliferation of unpaid or low-paid internships, the rise of non-union productions, and the increasing use of "writer's rooms" to develop scripts.
 
 On the one hand, some may argue that screenwriters are simply paid for their work and that they should not expect any additional protections or benefits. However, this view ignores the reality that many screenwriters struggle to make a living wage due to the unpredictable nature of the industry and the lack of fair compensation for their work. It is not uncommon for screenwriters to work long hours and put in significant amounts of time and effort into their scripts, only to see their work go unrecognized or undervalued.
@@ -24,24 +26,29 @@ To address these issues, it is important for screenwriters to advocate for bette
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://screenwriter.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

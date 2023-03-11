@@ -3,6 +3,7 @@ title: The Transportation  Industry and Captain Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 <figure>
@@ -10,6 +11,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 The transportation industry is a vital sector of the economy that plays a crucial role in the movement of goods and people around the world. However, it is also an industry that has been plagued by issues of fair work practices, particularly for those working in positions of leadership such as captains.
 
 Recent trends and events in the transportation industry have highlighted the need for fair work practices, particularly in regards to wages and working conditions. For example, the rise of gig economy companies such as Uber and Lyft has led to widespread exploitation of workers, with many being classified as independent contractors rather than employees, which denies them basic labor rights such as minimum wage and overtime pay.
@@ -25,24 +27,29 @@ It is clear that there is a need for greater protections for captains in the tra
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://captains.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

@@ -3,6 +3,7 @@ title: The Music  Industry and Musical Artist Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 The music industry is a complex and rapidly changing field that has faced numerous challenges in recent years. From the decline of physical record sales to the rise of streaming platforms, artists and industry professionals have had to adapt to new ways of working and earning a living. However, amidst these changes, one constant has remained: the need for fair work practices for musical artists.
 
 On one side of the debate, there are those who argue that the music industry is inherently competitive and that artists should be willing to work for little or no pay in order to gain exposure and build a career. They argue that the industry is oversaturated with talent and that only the most successful artists can expect to make a living from their music.
@@ -28,24 +30,29 @@ In conclusion, fair work practices are essential for the music industry and for 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

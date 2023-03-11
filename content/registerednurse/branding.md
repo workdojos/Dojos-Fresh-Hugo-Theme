@@ -3,12 +3,14 @@ title: Registered Nurse Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo 
+description: Making open-source more accessible.
 
 ---
 <figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
     <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a social media manager, I would first do a thorough analysis of the healthcare organization's current social media presence and identify any areas that need improvement. This includes looking at the organization's current content strategy, follower growth, engagement rates, and overall brand presence on each platform.
 
 Next, I would develop a content strategy that focuses on increasing brand awareness and driving traffic to the organization's website. This could include creating informative and engaging posts about the organization's services and resources, as well as sharing relevant industry news and updates. I would also schedule regular posts to ensure consistent and frequent engagement with followers.
@@ -24,24 +26,29 @@ Throughout the campaign, I would use community management tools to monitor conve
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://registerednurse.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

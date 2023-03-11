@@ -3,16 +3,19 @@ title: Chad Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Chad.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 1.  Join the Chad Open Source Community: The Chad Open Source Community is a group of tech enthusiasts who work on open-source projects. Joining this community can help you learn more about open-source tech in Chad and connect with other tech professionals. You can find them on Facebook or Telegram.
     
 2.  Follow Chad's Open Source Blog: The Open Source Blog is a great resource for learning about open-source tech in Chad. The blog features news, updates, and tutorials on open-source projects in Chad.
     
 3.  Attend Open-Source Meetups: Open-source meetups are a great way to learn from experts and connect with other open-source enthusiasts. You can find a list of upcoming meetups on Meetup.com.
+description: Making open-source more accessible.
     
 4.  Learn from Notable Technologists from Chad: There have been several notable technologists from Chad throughout history, including:
     
@@ -22,6 +25,7 @@ sidebarlogo: wordojos_logo
 *   Saad Abderemane Moussa: Saad Abderemane Moussa is a software developer who has been involved in various open-source projects. He is also a co-founder of the Chad Open Source Community.
     
 *   Bilel Bouricha: Bilel Bouricha is a software developer who has been involved in various open-source projects. He is also a member of the Chad Open Source Community.
+description: Making open-source more accessible.
     
 
 5.  Read Online Resources: There are several online resources that can help you learn more about open-source tech in Chad, including:
@@ -31,6 +35,7 @@ sidebarlogo: wordojos_logo
 *   Open Source for Africa: Open Source for Africa is a website that promotes open-source software in Africa and provides news, tutorials, and resources.
     
 *   GitHub: GitHub is a platform for hosting and collaborating on open-source projects. You can find several open-source projects from Chad on GitHub.
+description: Making open-source more accessible.
     
 
 <br>
@@ -38,21 +43,25 @@ sidebarlogo: wordojos_logo
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Chad" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -71,16 +80,19 @@ sidebarlogo: wordojos_logo
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Chile">Next dojo:  Chile</a>

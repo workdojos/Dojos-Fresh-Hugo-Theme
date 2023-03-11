@@ -3,139 +3,167 @@ academies
 accountexecutive
 actuaries
 administrators
+description: Making open-source more accessible.
 admins
 adventurers
 agriculturist
 animators
 appdeveloper
+description: Making open-source more accessible.
 arcades
 armchairexpert
 artgalleries
 aviationist
 bankroller
+description: Making open-source more accessible.
 baristas
 bartenders
 beauticians
 beautifully
 beergarden
+description: Making open-source more accessible.
 biologist
 botanist
 brewmasters
 brewpub
 cafes
+description: Making open-source more accessible.
 captains
 clinician
 coworkers
 curators
 datascientists
+description: Making open-source more accessible.
 dealerships
 digitalmarketers
 diner
 discos
 economists
+description: Making open-source more accessible.
 evangelist
 eventplanners
 executivesearch
 exhibitionist
 expatriate
+description: Making open-source more accessible.
 expertnetwork
 explorers
 exporter
 facilitator
 financier
+description: Making open-source more accessible.
 firefighters
 franchiser
 geneticist
 ghostwriters
 graphicdesigner
+description: Making open-source more accessible.
 growers
 guesthouses
 healers
 importer
 incentivize
+description: Making open-source more accessible.
 interpreters
 investigators
 investmentbanker
 jeweler
 jobseeker
+description: Making open-source more accessible.
 labtech
 landowners
 lawenforcement
 leadgenerator
 legislator
+description: Making open-source more accessible.
 liaison
 librarian
 lifecoaches
 lighthouses
 litigator
+description: Making open-source more accessible.
 logistician
 lyricist
 machinist
 manufacturers
 mediabuyer
+description: Making open-source more accessible.
 metaversial
 mortgagebrokers
 motivators
 musicalartist
 musically
+description: Making open-source more accessible.
 negotiator
 neighborly
 neurologists
 nomadically
 non-profit
+description: Making open-source more accessible.
 novelist
 operatives
 parkranger
 pathologist
 pharmacists
+description: Making open-source more accessible.
 philosophers
 photojournalist
 physicaltherapist.m
 physicist
 playwright
+description: Making open-source more accessible.
 politician
 practitioner
 projectmanagers
 publicrelations
 racers
+description: Making open-source more accessible.
 registerednurse
 remoteworker
 researchers
 retailers
 salescoaches
+description: Making open-source more accessible.
 satellites
 schoolmates
 schoolteachers
 screenwriter
 socialnetworks
+description: Making open-source more accessible.
 socialworker
 sociologist
 spiritualcoach
 sponsors
 statistician
+description: Making open-source more accessible.
 staylit
 strategists
 supportgroup
 telemarketer
 theologian
+description: Making open-source more accessible.
 thespian
 thespian
 tokenomic
 townsquare
 travelagents
+description: Making open-source more accessible.
 travelers
 trustees
 unions
 videogamers
 webdesigners
+description: Making open-source more accessible.
 webjedi
 weekendwarrior
 wholesalers
 winebar
 wingman
+description: Making open-source more accessible.
 wordsmith
 workmates
 worldly
 yaas
 yogainstructor
+description: Making open-source more accessible.
 zookeeper

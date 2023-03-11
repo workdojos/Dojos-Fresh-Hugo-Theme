@@ -3,6 +3,7 @@ title: The Higher Education  Industry and College Professor Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 <figure>
@@ -10,6 +11,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 Fair work practices for college professors in the higher education industry have been a topic of much debate in recent years. On one hand, there are those who argue that professors should be paid a fair wage for their hard work and dedication to their students, and that they should be treated with respect and dignity in the workplace. On the other hand, there are those who argue that professors are already well compensated for their work and that any additional efforts to improve their working conditions would be unnecessary and potentially damaging to the financial stability of higher education institutions.
 
 There are several recent trends and events in the higher education industry that have brought this debate to the forefront. One such trend is the increasing reliance on adjunct professors, who are paid significantly less than tenured faculty and often lack the same job security and benefits. This trend has led to widespread concerns about the exploitation of adjuncts and the negative impact this may have on the quality of education being provided to students.
@@ -23,24 +25,29 @@ In my opinion, fair work practices for college professors in the higher educatio
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://collegeprofessor.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

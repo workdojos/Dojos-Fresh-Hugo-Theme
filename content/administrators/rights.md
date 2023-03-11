@@ -3,6 +3,7 @@ title: The Administration & Book-Keeping  Industry and Administrator Workers' Ri
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 <figure>
@@ -10,6 +11,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As an administrator working in the administration and bookkeeping industry, I am deeply concerned about the fair treatment and proper wages of workers in this field. In recent years, there have been numerous trends and events that have highlighted the need for more fair work practices in this industry.
 
 One trend that has emerged is the growing use of temporary and contract workers in the industry. While these workers may offer a cost-effective solution for companies, they often lack the benefits and job security of permanent employees. This can lead to exploitation and mistreatment of workers, as they may be paid less and receive fewer protections.
@@ -25,24 +27,29 @@ Overall, it is clear that there are many challenges facing workers in the admini
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://admins.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

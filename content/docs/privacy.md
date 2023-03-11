@@ -3,6 +3,7 @@ title: Privacy Policy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 {{% title3 "" %}}
@@ -41,6 +42,7 @@ sidebarlogo: wordojos_logo
     <li>To provide the Service on our behalf;</li>
     <li>To perform Service-related services; or</li>
     <li>To assist us in analyzing how our Service is used.</li>
+description: Making open-source more accessible.
 </ul>
 
 <p>We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.</p>

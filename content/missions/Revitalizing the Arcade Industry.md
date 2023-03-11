@@ -3,11 +3,13 @@ title: Revitalizing the Arcade Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Revitalizing the Arcade Industry
 
 **Project Brief**:
@@ -26,6 +28,7 @@ Foster a sense of community among arcade-goers.
 Create a unique and enjoyable experience that cannot be found in online or mobile gaming.
 **Stakes**:
 The success or failure of this project will determine the future of the arcade industry. If the team is successful in revitalizing the arcade, they will not only secure their own livelihoods but also create job opportunities for others in the industry. On the other hand, if the team fails, the arcade industry could disappear altogether.
+description: Making open-source more accessible.
 
 **Reserves**:
 
@@ -34,6 +37,7 @@ Collaboration tools for remote work
 A budget for marketing and promotions
 Access to industry experts for consultation and advice
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in the ultimate quest to revolutionize gaming worldwide. This project is a crucial step in ensuring the longevity of the arcade industry and preserving its place in the gaming world.
+description: Making open-source more accessible.
 
 ---
 

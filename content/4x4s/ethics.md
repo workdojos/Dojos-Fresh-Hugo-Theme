@@ -3,11 +3,17 @@ title: Ethical Framework for 4X4 Business Owners Working in the 4X4 Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
+
+ 
 ---
 <figure>
     <img src='/uploads/ethical-framework.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='namaste hands';/>
     <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+description: Making open-source more accessible.
+
 </figure>
+ 
 <p>
 As a philosopher, I would approach this task by first examining the various ethical theories that have been proposed in the field of philosophy. Some common ethical theories include utilitarianism, deontology, and virtue ethics.
 
@@ -26,24 +32,41 @@ Overall, developing an ethical framework for starting a business as a 4x4 busine
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
+
+ 
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
+description: Making open-source more accessible.
+
                       <a href="https://4X4s.workdojos.com">
+ 
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
+description: Making open-source more accessible.
+
             </table>
         </td>
+ 
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+description: Making open-source more accessible.
+
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
+ 
                         <img src="/uploads/randomdojo.png" class="columnImage" />
+description: Making open-source more accessible.
+
                     </td>
             </table>
         </td>
     </tr>
+ 
+description: Making open-source more accessible.
+
 </table>

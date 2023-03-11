@@ -3,12 +3,14 @@ title: Learning & Development for School Teachers
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 <p>
 Certainly! Here are some suggestions for a curriculum for a school teacher:
 
@@ -17,6 +19,7 @@ Coursework in child development and learning theories.
 Experience student teaching or observing in classrooms.
 Knowledge of state and national education standards and curriculum guidelines.
 Proficiency in using technology in the classroom, such as educational software and learning management systems.
+description: Making open-source more accessible.
 Some websites with resources for learning about teaching include:
 
 The American Federation of Teachers (AFT) has a wealth of resources for teachers, including lesson plans, professional development opportunities, and advocacy resources.
@@ -39,30 +42,36 @@ How do you incorporate technology into your teaching?
 How do you handle discipline in the classroom?
 How do you differentiate instruction for students with different learning needs?
 How do you assess student learning and progress?
+description: Making open-source more accessible.
 
 <br>
 <a href="https://workdojos.com/schoolteachers/rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://schoolteachers.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

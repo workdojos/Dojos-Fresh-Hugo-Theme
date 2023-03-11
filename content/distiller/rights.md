@@ -3,6 +3,7 @@ title: The Distilled Spirits  Industry and Distiller Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 Recent trends and events in this industry have highlighted the need for better treatment and support for workers, and I stand firmly on the side of promoting worker’s rights, fair treatment, and proper wages.
 
 One recent trend in the distilled spirits industry is the increasing demand for craft spirits, which has led to a proliferation of small-scale distilleries. While this trend has brought new opportunities for entrepreneurship and innovation, it has also led to concerns about working conditions and pay for distillery workers. Many of these small distilleries are struggling to stay afloat financially, and some have resorted to cutting corners on labor costs in order to keep their doors open. This can result in workers being paid low wages, working long hours without breaks, and facing other unfair treatment.
@@ -28,24 +30,29 @@ In conclusion, fair work practices are essential for all workers in the distille
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://distiller.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

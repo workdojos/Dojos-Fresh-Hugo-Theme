@@ -3,6 +3,7 @@ title: The Hospitality  Industry and Beer Garden Owner  Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 <figure>
@@ -10,6 +11,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 As a debater, it is my responsibility to present valid arguments for both sides of the debate and to help people come away from the discussion with increased knowledge and insight. In this opinion piece, I will be taking the side of the workers and promoting worker's rights, fair treatment, and proper wages in the beer garden industry.
+description: Making open-source more accessible.
 
 One of the recent trends in the beer garden industry is the increasing demand for craft beer and locally-sourced ingredients. This has led to a surge in the number of beer gardens and breweries popping up in cities and towns across the country. While this trend is great for consumers and the local economy, it has also led to some challenges for workers in the industry.
 
@@ -26,24 +28,29 @@ In conclusion, it is important for beer garden owners to prioritize the rights a
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://beergarden.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

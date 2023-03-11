@@ -3,6 +3,7 @@ title: The Telemarketing  Industry and Telemarketer Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a debater, I believe it is important to examine all sides of an issue in order to fully understand and address it. That being said, I will present valid arguments for both the telemarketing industry and the telemarketers themselves, while ultimately taking the side of the workers and promoting their rights, fair treatment, and proper wages.
 
 First, let's examine the telemarketing industry. It is no secret that telemarketing can be a lucrative business, with companies often making millions of dollars in profit. However, this profit often comes at the expense of the telemarketers themselves, who often work long hours for low wages and face high levels of stress and rejection on a daily basis.
@@ -30,24 +32,29 @@ In conclusion, while it is important to consider the challenges faced by the tel
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://telemarketer.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

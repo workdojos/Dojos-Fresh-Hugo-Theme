@@ -3,6 +3,7 @@ title: The Physical Therapy  Industry and Physical Therapist Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 In recent years, there has been a growing conversation about fair work practices for physical therapists in the physical therapy industry. As a physical therapist myself, I can attest to the importance of fair treatment and proper wages for those working in this demanding field.
 
 One trend that has been particularly concerning is the increasing use of contractors and temporary workers in the physical therapy industry. While this may seem like a cost-effective solution for employers, it often leads to a lack of job security and benefits for physical therapists. It is important for these workers to have the same protections and opportunities as permanent employees, including access to healthcare and retirement benefits.
@@ -26,24 +28,29 @@ In conclusion, fair work practices for physical therapists in the physical thera
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://physicaltherapist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

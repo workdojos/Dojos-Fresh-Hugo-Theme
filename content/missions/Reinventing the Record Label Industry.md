@@ -3,11 +3,13 @@ title: Reinventing the Record Label Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Reinventing the Record Label Industry
 
 **Project Brief**: "Reinventing the Record Label Industry"
@@ -24,6 +26,7 @@ Identify best practices from other industries that can be applied to the record 
 Develop a new, more equitable model for the record label industry that prioritizes the interests of the artists.
 Present the new model to key stakeholders in the industry and solicit feedback.
 Refine the model based on feedback and prepare a comprehensive plan for implementation.
+description: Making open-source more accessible.
 **Stakes**:
 The success of this project has real-world consequences for the entire musical community. If our team is successful, we will have created a more equitable and supportive environment for independent and emerging artists, helping them to grow and reach their full potential. However, if we fail, the current state of the industry will remain unchanged, leaving many talented artists with limited opportunities to succeed.
 

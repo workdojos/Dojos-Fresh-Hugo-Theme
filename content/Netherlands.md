@@ -3,11 +3,13 @@ title: Netherlands Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Netherlands.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 1.  Join Open Source Communities: The Netherlands has several open-source communities that you can join to learn more about open-source technology. Some of them include:
 
 *   Open Source Amsterdam: This is a community of technology enthusiasts who are interested in open-source software and hardware. They organize meetups, workshops, and events to share knowledge and learn from each other. You can join their meetup group here: [https://www.meetup.com/Open-Source-Amsterdam/](https://www.meetup.com/Open-Source-Amsterdam/)
@@ -15,6 +17,7 @@ sidebarlogo: wordojos_logo
 *   Dutch PHP Conference: This is an annual conference that brings together PHP developers from the Netherlands and beyond. It features talks, workshops, and networking opportunities. You can learn more about the conference here: [https://www.phpconference.nl/](https://www.phpconference.nl/)
     
 *   Dutch Blockchain Conference: This is a conference that focuses on blockchain technology and its applications. It brings together experts and enthusiasts to share their knowledge and experiences. You can learn more about the conference here: [https://blockchainconference.nl/](https://blockchainconference.nl/)
+description: Making open-source more accessible.
     
 
 2.  Read Open-Source Publications: There are several publications in the Netherlands that cover open-source technology. Some of them include:
@@ -31,6 +34,7 @@ sidebarlogo: wordojos_logo
 *   Guido van Rossum: Guido is the creator of the Python programming language. He was born in Haarlem, Netherlands, and currently works at Dropbox.
     
 *   Arjen Lentz: Arjen is a software developer and open-source advocate. He is the founder of Open Query, a company that provides database solutions using open-source software.
+description: Making open-source more accessible.
     
 *   Rik Farenhorst: Rik is a software developer and open-source advocate. He is the founder of OlinData, a company that provides open-source infrastructure and DevOps solutions.
     
@@ -42,21 +46,25 @@ Overall, to learn more about open-source technology in the Netherlands, you can 
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Netherlands" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -75,16 +83,19 @@ Overall, to learn more about open-source technology in the Netherlands, you can 
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/New-Zealand">Next dojo:  New Zealand</a>

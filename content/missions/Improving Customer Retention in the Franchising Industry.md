@@ -3,11 +3,13 @@ title: Improving Customer Retention in the Franchising Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Improving Customer Retention in the Franchising Industry
 
 **Project Brief**: Improving Customer Retention in the Franchising Industry
@@ -24,6 +26,7 @@ To identify the key drivers of customer retention and determine their impact on 
 To develop a comprehensive customer retention plan that is relevant and effective for the franchising industry.
 To implement the customer retention plan and track its success over a 90-day period.
 **Stakes**:
+description: Making open-source more accessible.
 
 Poor customer retention leads to decreased sales and profits for franchise businesses.
 Failing to keep up with changing customer needs can result in a decline in brand reputation and market share.

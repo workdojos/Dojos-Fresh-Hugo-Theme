@@ -3,12 +3,14 @@ title: Learning & Development for Exporters
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 <p>
 For an exporter role, the following should appear in a curriculum:
 
@@ -17,6 +19,7 @@ Experience in customs clearance and documentation
 Familiarity with different international markets and their requirements
 Strong communication and negotiation skills
 Proficiency in a foreign language
+description: Making open-source more accessible.
 Experience with logistics and transportation
 Some of the best websites with resources for learning about exporting include:
 
@@ -35,36 +38,43 @@ Build strong relationships with customs brokers and freight forwarders to ensure
 Research different international markets to identify potential opportunities and challenges.
 Develop strong communication and negotiation skills to effectively communicate with clients and partners.
 Here are some questions a candidate should be able to answer for an exporter role:
+description: Making open-source more accessible.
 
 How do you stay up-to-date with the latest trade laws and regulations?
 Can you describe your experience with customs clearance and documentation?
 What strategies do you use to research potential international markets?
 How do you build strong relationships with clients and partners in the exporting industry?
 How do you handle challenges and problems that arise during the exporting process?
+description: Making open-source more accessible.
 
 <br>
 <a href="https://workdojos.com/exporter/rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://exporter.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>
