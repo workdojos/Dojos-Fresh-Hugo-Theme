@@ -3,11 +3,13 @@ title: Virtual Reality Training and Safety Standards
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Virtual Reality Training and Safety Standards
 
 **Project Brief**: Virtual Reality Training and Safety Standards
@@ -24,6 +26,7 @@ Design VR training scenarios that simulate real-world scenarios and challenges i
 Provide comprehensive support and guidance for VR training users, including recommendations for proper use, set up, and maintenance.
 Develop tools and resources for tracking and monitoring user engagement, performance, and progress in VR training.
 **Stakes**:
+description: Making open-source more accessible.
 
 The VR industry is rapidly growing and expanding, and VR training has the potential to revolutionize the way people learn and develop new skills. However, without proper standards and guidelines, VR training can pose a risk to users' health and safety.
 Failure to establish VR training and safety standards could result in increased reports of health problems and accidents among VR users, potentially leading to increased regulation and restrictions on VR training and usage.

@@ -3,11 +3,13 @@ title: Norway Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Norway.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 There are several ways to learn more about open-source tech in Norway, including attending events, participating in online communities, and following industry leaders. Here are some resources and notable technologists from Norway throughout history:
 
 1.  Meetups and Events: Joining a local community is a great way to learn from peers and stay up-to-date on the latest trends. Some of the popular events in Norway include:
@@ -40,21 +42,25 @@ In conclusion, learning more about open-source tech in Norway can be done throug
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Norway" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -73,16 +79,19 @@ In conclusion, learning more about open-source tech in Norway can be done throug
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Oman">Next dojo:  Oman</a>

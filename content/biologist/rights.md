@@ -3,6 +3,7 @@ title: The Biosciences  Industry and Biologist Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 <figure>
@@ -10,6 +11,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a debater, I firmly believe that fair work practices are essential for biologists working in the biosciences industry. Unfortunately, recent trends and events in the industry have shown that this is not always the case.
 
 One of the most pressing issues facing biologists in the biosciences industry is the lack of proper wages. Many workers are paid significantly less than their counterparts in other industries, despite the fact that their work is often just as demanding and critical to society. This pay gap is especially pronounced for biologists who are women or people of color, who often face additional barriers to fair compensation.
@@ -29,24 +31,29 @@ Ultimately, fair work practices are essential for the success of the biosciences
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://biologist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

@@ -3,11 +3,13 @@ title: Mauritania Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Mauritania.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 To learn more about open-source tech in Mauritania, there are various resources available online that you can explore, including:
 
 1.  Mauritania Open Source Community: This is a community of developers and technology enthusiasts who share knowledge and collaborate on open-source projects. You can visit their website at [https://mauritaniaopensource.org/](https://mauritaniaopensource.org/) or follow their Twitter handle @mauritaniaos.
@@ -15,6 +17,7 @@ To learn more about open-source tech in Mauritania, there are various resources 
 2.  GitHub: GitHub is a web-based platform that hosts code repositories and facilitates collaborative development. You can search for open-source projects related to Mauritania on GitHub and contribute to them. Some notable open-source projects related to Mauritania include the Mauritania National Identification System ([https://github.com/mauritania-id](https://github.com/mauritania-id)) and the MauriRides mobile application ([https://github.com/maurirides](https://github.com/maurirides)).
     
 3.  Open Knowledge Mauritania: Open Knowledge Mauritania is a local chapter of the global Open Knowledge Foundation. Their mission is to promote open knowledge and open data in Mauritania. You can visit their website at [https://mauritania.okfn.org/](https://mauritania.okfn.org/) or follow their Twitter handle @OKF\_Mauritania.
+description: Making open-source more accessible.
     
 4.  African Women in Technology: African Women in Technology is a community of women in technology across the African continent. They offer mentorship, networking, and learning opportunities for women in technology. Some notable Mauritanian women in technology who are part of this community include Rakiya Oumoru and Fatimata Sow.
     
@@ -26,6 +29,7 @@ Some notable technologists from Mauritania throughout history include:
 2.  Mohamed Lemine Ould Djibril: Mohamed Lemine Ould Djibril is a computer engineer and entrepreneur who founded the software development company Logiktech. He has also served as the president of the Mauritania Chamber of Commerce and Industry.
     
 3.  Sidi Mohamed Ould El Mamy: Sidi Mohamed Ould El Mamy is a telecommunications engineer and the former Minister of Communication and New Technologies in Mauritania. He has played a key role in the development of the Mauritanian telecommunications sector.
+description: Making open-source more accessible.
     
 4.  Malick Kane: Malick Kane is a software developer and the founder of the software development company Coding Times. He has also served as the director of the Mauritania Open Source Community.
     
@@ -35,21 +39,25 @@ Some notable technologists from Mauritania throughout history include:
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Mauritania" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -68,16 +76,19 @@ Some notable technologists from Mauritania throughout history include:
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Mauritius">Next dojo:  Mauritius</a>

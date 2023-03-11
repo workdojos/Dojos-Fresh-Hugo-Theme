@@ -3,11 +3,13 @@ title: Art  Industry Controversies and Challenges
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/challenges.jpg' style="width: 100%;height: 630px;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt';/> alt='warrior's spear';/>
     <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 <p>
 The art industry is a constantly evolving and ever-changing field, and it is no surprise that it faces a number of controversies and challenges. One of the main controversies facing the art industry today is the issue of gentrification, as many artists and galleries are being pushed out of their neighborhoods due to rising rent prices and the influx of wealthier residents. This is a significant problem because it not only displaces artists and galleries, but it also destroys the vibrant and diverse art scenes that have long been a part of these neighborhoods.
 
@@ -24,24 +26,29 @@ Finally, we must recognize the importance of the art industry and the contributi
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://artgalleries.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://animators.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

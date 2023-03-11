@@ -3,11 +3,13 @@ title: Kenya Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Kenya.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 1.  Explore Open Source Communities in Kenya: Kenya is home to several Open Source communities, including:
 
 a. Nairobi GNU/Linux Users Group (NaiLUG) - a community of Linux enthusiasts that meets monthly to discuss various topics related to Linux and Open Source software.
@@ -45,21 +47,25 @@ Overall, there are numerous opportunities to learn more about Open Source tech i
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Kenya" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -78,16 +84,19 @@ Overall, there are numerous opportunities to learn more about Open Source tech i
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Kiribati">Next dojo:  Kiribati</a>

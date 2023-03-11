@@ -3,6 +3,7 @@ title: The Virtual Reality  Industry and Developer Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a developer working in the metaverse and VR industry, I am deeply concerned about the fair work practices that are being employed within this rapidly growing field. In recent years, we have seen a number of troubling trends and events that highlight the need for stronger protections and support for workers in this industry.
 
 One major issue is the rampant exploitation of unpaid or underpaid labor. Many companies in the metaverse and VR industry have relied on unpaid internships and freelance work to fill important roles, effectively depriving workers of fair wages and benefits. This practice not only undermines the value of the work that developers do, but it also creates a culture of exploitation and abuse that can be deeply demoralizing for those who are struggling to make a living in this field.
@@ -24,24 +26,29 @@ In order to address these and other issues, it is crucial that we take a stand f
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://metaversial.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

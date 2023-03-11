@@ -3,6 +3,7 @@ title: The Bartending And Hospitality  Industry and Bartender Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 <figure>
@@ -10,6 +11,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a bartender working in the bartending and hospitality industry, I strongly believe that fair work practices are essential for the well-being and success of both the workers and the industry as a whole.
 
 One recent trend in the industry that has been causing concern among workers is the increasing use of unpaid internships and low-paid, temporary positions. These practices exploit workers, often offering little in the way of benefits or job security, and can make it difficult for employees to make a living wage.
@@ -27,24 +29,29 @@ In conclusion, fair work practices are essential for the success and well-being 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://bartenders.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

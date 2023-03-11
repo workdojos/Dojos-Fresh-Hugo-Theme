@@ -3,11 +3,17 @@ title: Getting Started as a 4X4 Business Owner in the 4X4 Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
+
+ 
 ---
 <figure>
     <img src='/uploads/getting-started.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='rocketship';/>
     <figcaption>How to get going?  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+description: Making open-source more accessible.
+
 </figure>
+ 
 <p>
 First of all, it's important to remember that starting a business is a challenging but incredibly rewarding journey. It takes dedication, hard work, and a willingness to learn and adapt. With that being said, let's dive into some strategies that can help you achieve your goal of creating a successful 4x4 startup.
 
@@ -28,24 +34,41 @@ Share your excitement with others: One of the best ways to get others excited ab
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
+
+ 
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
+description: Making open-source more accessible.
+
                       <a href="https://4X4s.workdojos.com">
+ 
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
+description: Making open-source more accessible.
+
             </table>
         </td>
+ 
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+description: Making open-source more accessible.
+
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://captains.workdojos.com">
+ 
                         <img src="/uploads/randomdojo.png" class="columnImage" />
+description: Making open-source more accessible.
+
                     </td>
             </table>
         </td>
     </tr>
+ 
+description: Making open-source more accessible.
+
 </table>

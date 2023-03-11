@@ -3,11 +3,13 @@ title: The Remote Revolution in Performing Arts
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #The Remote Revolution in Performing Arts
 
 **Project Brief**: The Remote Revolution in Performing Arts
@@ -23,6 +25,7 @@ To provide a platform for thespians to showcase their skills and connect with po
 To increase the accessibility of performing arts to a wider audience
 To enhance the collaboration and networking opportunities within the industry
 **Stakes**:
+description: Making open-source more accessible.
 
 The performing arts industry is facing financial strain due to the COVID-19 pandemic and the closure of live venues.
 Many thespians are struggling to find work and are facing unemployment.

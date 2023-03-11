@@ -3,6 +3,7 @@ title: AGB
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 draft: true
 ---
 

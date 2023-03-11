@@ -3,11 +3,13 @@ title: Bartender Automation and Efficiency
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Bartender Automation and Efficiency
 
 **Project Brief**: Bartender Automation and Efficiency
@@ -24,6 +26,7 @@ Identify the key pain points and areas of inefficiency in the industry.
 Develop a solution that increases efficiency and automation, reducing the time and effort required to prepare and serve drinks.
 Test the solution and gather feedback from industry professionals.
 Present the solution to stakeholders and industry leaders.
+description: Making open-source more accessible.
 **Stakes**:
 The success of this project has significant implications for the bartending and hospitality industry. A successful solution will result in increased efficiency, improved customer experiences, and reduced labor costs for businesses.
 

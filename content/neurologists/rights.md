@@ -3,6 +3,7 @@ title: The Neurology & Mental Health Services  Industry and Neurologist Workers'
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a neurologist working in the neurology and mental health services industry, I strongly believe that fair work practices are essential for the well-being and success of both individual workers and the industry as a whole.
 
 One recent trend in the industry that has caused concern among workers is the increasing use of contract and temporary employment arrangements. These types of arrangements often result in unstable work schedules, lower pay, and limited benefits, which can have a detrimental effect on the financial security and overall well-being of workers. In addition, the lack of job security associated with contract work can lead to a sense of uncertainty and stress, which can negatively impact the quality of care provided to patients.
@@ -26,24 +28,29 @@ In conclusion, fair work practices are essential for the well-being and success 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://neurologists.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

@@ -3,6 +3,7 @@ title: The Pharmaceutical  Industry and Pharmacist Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a pharmacist working in the pharmaceutical industry, I am deeply concerned about the fair treatment and proper wages of my colleagues. In recent years, there have been several disturbing trends and events that highlight the need for stronger protections for workers in this field.
 
 One major issue is the increasing use of part-time and temporary workers in the industry. These workers often receive lower wages and fewer benefits than their full-time counterparts, even though they perform the same tasks and have the same level of education and training. This not only undermines the value of their work, but also creates instability and insecurity for these employees.
@@ -28,24 +30,29 @@ In conclusion, the fair treatment of pharmacists and other workers in the pharma
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://pharmacists.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

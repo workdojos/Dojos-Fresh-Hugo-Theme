@@ -3,11 +3,13 @@ title: Arcade Owner Social Media Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/socialmedia.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='social media';/>
     <figcaption>Gain presence in the world of social media.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 <p>
 Sure thing! Here are some ideas for an engaging social media campaign to promote your new arcade business in the video game industry:
 
@@ -16,16 +18,19 @@ Create visually appealing content showcasing your arcade and its unique features
 Share behind-the-scenes glimpses of your arcade, such as showing the process of setting up new games or showcasing your staff at work.
 Host an Instagram contest where followers can win prizes such as free game tokens or merchandise.
 Share customer reviews and testimonials to show your business's value to potential customers.
+description: Making open-source more accessible.
 Twitter:
 Share updates and news about your arcade, such as new games or events happening at your location.
 Tweet out fun facts or trivia related to your business or the video game industry as a whole.
 Host a Twitter Q&A where followers can ask questions about your arcade and get to know your business better.
 Tweet out special offers or discounts for followers to take advantage of.
+description: Making open-source more accessible.
 YouTube:
 Create a channel for your arcade and share videos showcasing your business. This could include game play footage, tours of your arcade, or interviews with staff and customers.
 Host a "Let's Play" series where you play and review new games at your arcade.
 Share video tutorials or tips for playing certain games or navigating your arcade.
 Pinterest:
+description: Making open-source more accessible.
 Create boards showcasing your arcade, including photos of your games and events.
 Share boards with fun party and event ideas for people to plan their visit to your arcade.
 Share boards with video game-themed recipes or crafts for followers to try out at home.
@@ -35,24 +40,29 @@ Share boards with video game-themed recipes or crafts for followers to try out a
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://arcades.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

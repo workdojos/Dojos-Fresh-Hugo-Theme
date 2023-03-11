@@ -3,12 +3,14 @@ title: Startup Ideas for Statisticians and Entrepreneurs in the Statistical Rese
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/startup-ideas.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='new storefront and startup open for business';/>
     <figcaption>It all starts with an idea.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 <p>
 Idea Name: StatisticianPro
 
@@ -43,18 +45,21 @@ Employee salaries and benefits
 Marketing and advertising expenses
 Operating expenses such as office space and utilities
 Key Activities:
+description: Making open-source more accessible.
 
 Developing and maintaining data analytics tools and services
 Providing expert consulting and training in statistical analysis
 Marketing and promoting the service to potential clients
 Customer service and support
 Key Resources:
+description: Making open-source more accessible.
 
 Advanced data analytics software and technology
 Expert statistical consultants and trainers
 Marketing and sales team
 Customer service team
 Key Partners:
+description: Making open-source more accessible.
 
 Industry associations and professional organizations
 Data analytics and software companies
@@ -77,25 +82,30 @@ Difficulty in building a strong network of clients and partners in a specialized
 <a href="https://workdojos.com/statistician/tech">next: open-source tech</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+description: Making open-source more accessible.
     <tr>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
+description: Making open-source more accessible.
                       <a href="https://statistician.workdojos.com">
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
+description: Making open-source more accessible.
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
+description: Making open-source more accessible.
                       <a href="https://clinician.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
+description: Making open-source more accessible.
     </tr>
 </table>

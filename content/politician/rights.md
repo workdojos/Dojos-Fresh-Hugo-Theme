@@ -3,6 +3,7 @@ title: The Government & Political Campaign  Industry and Politician Workers' Rig
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a debater, I believe that fair work practices are crucial for politicians working in the government and political campaign industry. In recent years, we have seen numerous instances of mistreatment and exploitation of workers in these fields, with many being subjected to long hours, low wages, and lack of benefits. This is unacceptable and must be addressed.
 
 One trend that has emerged in recent years is the increasing reliance on unpaid or underpaid internships and volunteers in political campaigns. While these positions may seem like a good opportunity for young people to gain experience and make connections, they often end up serving as a cheap labor force for politicians and campaign staff. This is not only unfair to the workers, who are essentially being taken advantage of, but it also undermines the integrity of the political process. If only those who can afford to work for free are able to get involved in politics, it is not representative of the diverse voices and perspectives of our society.
@@ -26,24 +28,29 @@ Ultimately, fair work practices are not just about protecting the rights of indi
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://politician.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

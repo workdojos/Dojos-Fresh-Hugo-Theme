@@ -3,11 +3,13 @@ title: Brief Remote Barista Initiative
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 
 
 **Project Brief**: Remote Barista Initiative
@@ -24,6 +26,7 @@ To develop a comprehensive strategy to address these challenges and to support b
 To implement and evaluate the impact of this strategy over a 90-day period.
 **Stakes**:
 The success of this project has real-world consequences for baristas and coffee shops worldwide. A successful outcome will ensure that baristas can continue to work in the industry and that coffee shops can remain open, providing much-needed employment and services to their communities.
+description: Making open-source more accessible.
 
 **Reserves**:
 The team will have access to relevant industry data, expert insights, and the latest technological tools to support their work. The team will also receive support from experienced baristas and coffee industry experts to help them achieve their goals.

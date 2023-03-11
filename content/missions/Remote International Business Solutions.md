@@ -3,11 +3,13 @@ title: Remote International Business Solutions
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Remote International Business Solutions
 
 **Project Brief**: Remote International Business Solutions
@@ -24,6 +26,7 @@ To develop creative and practical solutions to these challenges.
 To implement these solutions in a timely and efficient manner.
 To evaluate the impact of these solutions and make improvements as needed.
 **Stakes**:
+description: Making open-source more accessible.
 The success of this project will have a significant impact on the international business industry. If the team can successfully overcome the challenges faced by international businesses, it will result in increased efficiency, cost savings, and improved customer satisfaction. In addition, successful completion of this project will provide a competitive advantage to the contributing members and increase their value in the job market.
 
 **Reserves**:

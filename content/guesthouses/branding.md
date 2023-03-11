@@ -3,12 +3,14 @@ title: Guesthouse Owner Branding Strategy
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo 
+description: Making open-source more accessible.
 
 ---
 <figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
     <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 Sure, I can definitely help with that. Here are some steps I would recommend for managing the social media presence of your Hotel & Hospitality organization on Twitter, Instagram, and Pinterest:
 
 Develop a content calendar: First and foremost, it's important to plan out your content in advance so that you can be consistent and strategic in your posting. You'll want to consider what types of content will be most effective for your audience, such as photos and videos of your accommodations, reviews and testimonials from guests, behind-the-scenes glimpses of your business, and local events or attractions that may be of interest to your followers.
@@ -26,24 +28,29 @@ Collaborate with others in your industry: Finally, consider reaching out to othe
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://guesthouses.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://screenwriter.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

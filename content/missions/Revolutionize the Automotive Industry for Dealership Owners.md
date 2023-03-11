@@ -3,11 +3,13 @@ title: Revolutionize the Automotive Industry for Dealership Owners
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Revolutionize the Automotive Industry for Dealership Owners
 
 **Project Brief**:
@@ -23,6 +25,7 @@ Streamline processes for more efficient dealership management
 Enhance customer experience through technology
 Improve communication and collaboration among dealership owners
 **Stakes**:
+description: Making open-source more accessible.
 
 The automotive industry is highly competitive and rapidly changing, and dealership owners need to keep up with the latest trends and technologies in order to remain successful. If they are unable to do so, they risk losing customers and profits, which can have real-world consequences such as job losses and decreased economic growth.
 

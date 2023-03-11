@@ -3,12 +3,14 @@ title: Learning & Development for Pharmacists
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 <p>
 Sure, I can help with that. As a pharmacist, it's important to have a strong foundation in pharmacology, anatomy and physiology, and medical terminology. In addition to these subjects, it's also helpful to have knowledge of:
 
@@ -17,6 +19,7 @@ Disease state management
 Prescription and over-the-counter medication use
 Pharmacy laws and regulations
 Here are some resources for learning more about these topics:
+description: Making open-source more accessible.
 
 National Association of Boards of Pharmacy: https://www.nabp.pharmacy/
 American Pharmacists Association: https://www.pharmacist.com/
@@ -28,6 +31,7 @@ Walgreens
 Rite Aid
 Express Scripts
 OptumRx
+description: Making open-source more accessible.
 In terms of roles and responsibilities, as a pharmacist, you may be responsible for:
 
 Dispensing prescription medications to patients
@@ -35,6 +39,7 @@ Providing medication counseling to patients and caregivers
 Reviewing and verifying the accuracy of medication orders
 Managing inventory and ordering medications
 Collaborating with other healthcare professionals to provide optimal patient care
+description: Making open-source more accessible.
 Here are some helpful tips and tricks for acing a pharmacy interview:
 
 Research the company and the specific role you are interviewing for
@@ -42,6 +47,7 @@ Practice answering common interview questions
 Bring a copy of your resume and any relevant certifications or licensures
 Dress professionally and arrive on time
 Be prepared to discuss your clinical experience and any relevant coursework or research projects
+description: Making open-source more accessible.
 Some questions a candidate should be able to answer in a pharmacy interview include:
 
 Describe your approach to providing medication counseling to patients.
@@ -49,30 +55,36 @@ How do you handle difficult or angry patients?
 Describe a time when you had to handle a medication error or adverse drug event.
 How do you stay up-to-date on new medications and treatment options?
 How do you prioritize tasks and manage your time in a busy pharmacy setting?
+description: Making open-source more accessible.
 
 <br>
 <a href="https://workdojos.com/pharmacists/rights">next: workers' rights</a>
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://pharmacists.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

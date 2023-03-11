@@ -3,6 +3,7 @@ title: The Beer Brewing  Industry and Brew Master Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 <figure>
@@ -10,6 +11,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a debater, it is my belief that all workers, regardless of their profession or industry, deserve to be treated fairly and with respect. In the beer brewing industry, this includes brew masters who play a crucial role in the production and quality of beer.
 
 Recent trends and events within the industry have highlighted the need for fair work practices for brew masters. For example, the rise of craft breweries has led to increased competition and pressure to cut costs, which can often result in workers being underpaid or overworked. In addition, the COVID-19 pandemic has had a significant impact on the industry, with many breweries struggling to stay afloat and potentially compromising on employee wages and benefits.
@@ -25,24 +27,29 @@ In conclusion, fair work practices for brew masters in the beer brewing industry
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://brewmasters.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

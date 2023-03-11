@@ -898,9 +898,9 @@ params:
 
       # Icons are from Font Awesome
       
-    - link: https://www.instagram.com/workmateslive/
+    - link: https://www.instagram.com/workdojos/
       icon: instagram
-    - link: https://www.pinterest.com/workmateslive/
+    - link: https://www.pinterest.com/workdojos/
       icon: pinterest
     - link: https://twitter.com/workdojos
       icon: twitter

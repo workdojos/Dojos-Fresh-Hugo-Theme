@@ -3,11 +3,13 @@ title: Luxembourg Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Luxembourg.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 To learn more about open-source tech in Luxembourg, one can explore the following resources with links:
 
 1.  Open Source Luxembourg: A non-profit association that promotes open-source software and fosters collaboration between businesses, universities, and the government. It hosts events and workshops, publishes news and resources, and provides a directory of local open-source companies and projects.
@@ -15,6 +17,7 @@ To learn more about open-source tech in Luxembourg, one can explore the followin
 2.  Open Data Luxembourg: A government initiative that promotes the use and sharing of open data. It provides access to various datasets, tools, and applications, and encourages the development of innovative solutions based on open data.
     
 3.  Luxembourg Open Innovation Club: A community of startups, entrepreneurs, and innovators that aims to foster collaboration and innovation through open-source principles. It organizes events, workshops, and hackathons, and provides a platform for networking and knowledge sharing.
+description: Making open-source more accessible.
     
 
 Some notable technologists from Luxembourg throughout history include:
@@ -24,6 +27,7 @@ Some notable technologists from Luxembourg throughout history include:
 2.  Gaston Gonner: A computer scientist who contributed to the development of the first Luxembourgish programming language, ALGOL 60. He also worked on various projects related to computer graphics, artificial intelligence, and software engineering.
     
 3.  Pol Flesch: A computer engineer who developed the first computer system for the Luxembourgish National Library. He also co-founded several software companies, including Arca, which developed the first Luxembourgish accounting software.
+description: Making open-source more accessible.
     
 
 Overall, Luxembourg has a vibrant open-source community, with many organizations and individuals working to promote and advance open-source principles and technologies.
@@ -33,21 +37,25 @@ Overall, Luxembourg has a vibrant open-source community, with many organizations
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Luxembourg" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -66,16 +74,19 @@ Overall, Luxembourg has a vibrant open-source community, with many organizations
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Madagascar">Next dojo:  Madagascar</a>

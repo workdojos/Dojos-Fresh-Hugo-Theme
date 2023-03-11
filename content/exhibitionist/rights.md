@@ -3,6 +3,7 @@ title: The Art And Special Events  Industry and Exhibitionist Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As someone who has worked in the art and special events industry for several years, I can speak firsthand to the importance of fair work practices. Unfortunately, this is an industry that has a history of exploiting workers, particularly those who are just starting out or are in more marginalized positions. However, there are some recent trends and events that have brought attention to this issue and are pushing for change.
 
 One trend that has been gaining traction in the art and special events industry is the use of independent contractors, rather than traditional employees. While this may seem like a good option for those who value their freedom and flexibility, it often comes at the cost of fair treatment and proper wages. Independent contractors are not entitled to the same protections as employees, including minimum wage laws, overtime pay, and health benefits. This can lead to a situation where workers are expected to put in long hours for little pay, with no recourse if they are not treated fairly.
@@ -28,24 +30,29 @@ Ultimately, it is important that we stand up for the rights of workers in the ar
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://exhibitionist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

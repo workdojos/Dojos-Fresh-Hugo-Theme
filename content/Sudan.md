@@ -3,11 +3,13 @@ title: Sudan Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Sudan.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 To learn more about open-source tech in Sudan, here are some resources with links and some notable technologists from Sudan throughout history:
 
 1.  Sudan Open Source Community (SOSC): SOSC is a community of open-source enthusiasts in Sudan that aims to promote open-source technology in the country. Their website provides information on upcoming events, workshops, and resources related to open-source technology. You can visit their website at [https://sosc.sd/](https://sosc.sd/).
@@ -15,6 +17,7 @@ To learn more about open-source tech in Sudan, here are some resources with link
 2.  Sudan Digital: Sudan Digital is a tech news website that covers various tech topics, including open-source technology. Their website provides articles on open-source software, open data, and other related topics. You can visit their website at [https://sudandigital.net/](https://sudandigital.net/).
     
 3.  Open Knowledge Sudan: Open Knowledge Sudan is a local chapter of the global Open Knowledge Foundation that promotes the use of open data and open knowledge in Sudan. Their website provides information on open-source technology and open data initiatives in Sudan. You can visit their website at [https://sudan.okfn.org/](https://sudan.okfn.org/).
+description: Making open-source more accessible.
     
 4.  Some notable technologists from Sudan throughout history include:
     
@@ -24,6 +27,7 @@ To learn more about open-source tech in Sudan, here are some resources with link
 *   Osman Khalid: Osman is a Sudanese software developer and entrepreneur. He is the co-founder of several successful tech startups, including Salatomatic, a mobile app that helps Muslims find mosques and prayer times.
     
 *   Mohamed Elhassan Abdalla: Mohamed is a Sudanese inventor and entrepreneur. He is known for inventing a solar-powered water pump that can be used in remote areas without access to electricity. He currently runs a company that sells these pumps to farmers in Sudan and other countries.
+description: Making open-source more accessible.
     
 
 Overall, there are several resources available to learn more about open-source tech in Sudan. Additionally, Sudan has produced several notable technologists throughout history who have made significant contributions to the field of technology.
@@ -33,21 +37,25 @@ Overall, there are several resources available to learn more about open-source t
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Sudan" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -66,16 +74,19 @@ Overall, there are several resources available to learn more about open-source t
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Suriname">Next dojo:  Suriname</a>

@@ -3,11 +3,13 @@ title: Burkina-Faso Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Burkina-Faso.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 To learn more about open-source tech in Burkina-Faso, one can explore the following resources with links:
 
 1.  The Burkina-Faso chapter of the Open Knowledge Foundation, which aims to promote open data and open knowledge in the country: [https://okfn.org/network/burkina-faso/](https://okfn.org/network/burkina-faso/)
@@ -15,6 +17,7 @@ To learn more about open-source tech in Burkina-Faso, one can explore the follow
 2.  The Burkina-Faso chapter of the OpenStreetMap community, which maps the country using open-source tools and makes the data available for free: [https://www.openstreetmap.org/user/Burkina-Faso](https://www.openstreetmap.org/user/Burkina-Faso)
     
 3.  The Burkina-Faso chapter of the Wikimedia Foundation, which contributes to the world's largest open-source knowledge project by creating and sharing free educational content: [https://meta.wikimedia.org/wiki/Wikimedia\_BF](https://meta.wikimedia.org/wiki/Wikimedia_BF)
+description: Making open-source more accessible.
     
 
 Notable technologists from Burkina-Faso throughout history include:
@@ -24,11 +27,13 @@ Notable technologists from Burkina-Faso throughout history include:
 2.  Thomas Sankara (1949-1987), a revolutionary leader who emphasized self-reliance, education, and the use of appropriate technology to transform Burkina-Faso.
     
 3.  Ali Drissa Badiel, a software developer and entrepreneur who co-founded Faso Academy, an open-source platform that provides free online education in various subjects.
+description: Making open-source more accessible.
     
 4.  Norbert Zongo (1949-1998), a journalist and publisher who used open-source tools to report on corruption and human rights abuses in Burkina-Faso.
     
 5.  Valentin Sawadogo, a computer scientist and open-source advocate who co-founded the Burkina-Faso Linux Users Group and promotes the use of open-source software in education and business.
     
+description: Making open-source more accessible.
 
 These individuals and organizations have contributed to the development and dissemination of open-source technology in Burkina-Faso, and their work can serve as inspiration and guidance for those interested in this field.
 
@@ -37,21 +42,25 @@ These individuals and organizations have contributed to the development and diss
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Burkina-Faso" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -70,16 +79,19 @@ These individuals and organizations have contributed to the development and diss
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Burundi">Next dojo:  Burundi</a>

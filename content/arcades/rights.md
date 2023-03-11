@@ -3,6 +3,7 @@ title: The Video Game  Industry and Arcade Owner Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 <figure>
@@ -10,6 +11,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As an arcade owner in the video game industry, I believe it is crucial to prioritize fair work practices for my employees. This includes ensuring that they receive proper wages, are treated with respect and dignity, and are given opportunities for growth and advancement within the company.
 
 In recent years, there have been numerous trends and events in the video game industry that highlight the importance of fair work practices. One such trend is the rise of "crunch culture," in which employees are expected to work long hours and put in excessive overtime in order to meet tight deadlines. This can lead to burnout and decreased job satisfaction, as well as a negative impact on workers' mental and physical health.
@@ -25,24 +27,29 @@ While it may be tempting to prioritize profits over the well-being and satisfact
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://arcades.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

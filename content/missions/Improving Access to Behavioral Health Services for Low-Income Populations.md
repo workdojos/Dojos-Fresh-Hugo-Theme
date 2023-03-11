@@ -3,11 +3,13 @@ title: Improving Access to Behavioral Health Services for Low-Income Populations
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Improving Access to Behavioral Health Services for Low-Income Populations
 
 **Project Brief**: Improving Access to Behavioral Health Services for Low-Income Populations
@@ -24,6 +26,7 @@ To identify the barriers that prevent low-income individuals from accessing thes
 To develop a comprehensive plan to increase access to behavioral health services for low-income populations.
 **Stakes**:
 The stakes are high in this project. Improving access to behavioral health services for low-income populations will have a positive impact on the mental health and overall well-being of these individuals. This, in turn, will help reduce the burden on the healthcare system and lead to better health outcomes for the community.
+description: Making open-source more accessible.
 
 **Reserves**:
 The team will be provided with the necessary resources to complete the project, including access to research databases, communication tools, and support from the team leader. Each team member will also be given a budget to cover any additional costs associated with their work on the project.

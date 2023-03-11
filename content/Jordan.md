@@ -3,11 +3,13 @@ title: Jordan Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Jordan.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 Learning about open-source tech in Jordan can be a great way to understand the technology landscape of the country. Here are some resources and notable technologists from Jordan throughout history that you can explore:
 
 1.  Open Source Community Jordan (OSCJ): OSCJ is a community of open-source enthusiasts in Jordan. They organize events and meetups to promote open-source software development in the country. You can join their community on Facebook or follow their Twitter account.
@@ -15,6 +17,7 @@ Learning about open-source tech in Jordan can be a great way to understand the t
 2.  FOSS@Yarmouk: FOSS@Yarmouk is an initiative by Yarmouk University in Jordan to promote the use of open-source software in education and research. They offer training and workshops on various open-source technologies, such as Linux, Python, and MySQL.
     
 3.  Jordan Open Source Association (JOSA): JOSA is a non-profit organization in Jordan that promotes the use of open-source software in the country. They provide training and support to individuals and organizations interested in using open-source technologies.
+description: Making open-source more accessible.
     
 4.  Jordan Open Source Innovation (JOSI): JOSI is a project by the Ministry of ICT in Jordan to promote open-source innovation in the country. They offer funding and support to startups and entrepreneurs working on open-source projects.
     
@@ -26,6 +29,7 @@ Notable Technologists from Jordan:
 2.  Samer Buna: Samer is a software engineer and author from Jordan. He has written several books on web development and is a popular speaker at tech conferences around the world.
     
 3.  Nadia Al-Khater: Nadia is a software engineer and entrepreneur from Jordan. She is the co-founder of Jamalon, an online bookstore that specializes in Arabic books. She is also a board member of the Jordanian Business and Professional Women Association.
+description: Making open-source more accessible.
     
 4.  Ibrahim Al-Kharabsheh: Ibrahim is a computer scientist and professor from Jordan. He is the founder of the Arab Open University, a distance learning institution that uses open-source software to deliver courses to students in the Arab world.
     
@@ -37,21 +41,25 @@ Overall, there are many resources and notable technologists in Jordan that you c
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Jordan" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -70,16 +78,19 @@ Overall, there are many resources and notable technologists in Jordan that you c
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Kazakhstan">Next dojo:  Kazakhstan</a>

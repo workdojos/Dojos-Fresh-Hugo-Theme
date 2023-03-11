@@ -3,11 +3,13 @@ title: Sociological Solutions for Social Inequality
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
  # Mission // #Sociological Solutions for Social Inequality
 
 **Project Brief**:
@@ -26,6 +28,7 @@ Identify the root causes of social inequality and the factors that contribute to
 Develop recommendations for reducing social inequality and promoting equality of opportunity.
 Communicate the findings and recommendations to the relevant stakeholders and organizations.
 **Stakes**:
+description: Making open-source more accessible.
 The success of this project has significant real-world consequences. The findings and recommendations of this project will be used by organizations and policymakers to tackle social inequality and promote equality of opportunity.
 
 **Reserves**:
@@ -35,6 +38,7 @@ A team of knowledgeable and experienced sociologists.
 Effective communication and collaboration tools for working remotely.
 Adequate resources, including time and budget, to complete the project.
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in the ultimate quest to revolutionize the workplace for sociologists worldwide.
+description: Making open-source more accessible.
 
 ---
 

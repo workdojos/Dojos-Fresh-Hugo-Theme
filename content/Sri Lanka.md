@@ -3,11 +3,13 @@ title: Sri Lanka Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Sri Lanka.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 1.  Resources for learning about open-source tech in Sri Lanka:
 
 *   Open Source Sri Lanka - [https://www.opensource.lk/](https://www.opensource.lk/)
@@ -15,6 +17,7 @@ sidebarlogo: wordojos_logo
 *   Sri Lanka Association for Software and Services Companies (SLASSCOM) - [https://www.slasscom.lk/](https://www.slasscom.lk/)
 *   Open Knowledge Sri Lanka - [https://okfn.lk/](https://okfn.lk/)
 *   Sri Lanka Linux User Group - [http://www.sl.linux.org/](http://www.sl.linux.org/)
+description: Making open-source more accessible.
 *   Mozilla Sri Lanka - [https://www.mozilla.lk/](https://www.mozilla.lk/)
 *   Sri Lanka Institute of Information Technology (SLIIT) - [https://www.sliit.lk/](https://www.sliit.lk/)
 *   University of Moratuwa Department of Computer Science and Engineering - [http://cse.mrt.ac.lk/](http://cse.mrt.ac.lk/)
@@ -26,6 +29,7 @@ sidebarlogo: wordojos_logo
 *   Dr. Rohan Samarajiva, Founder of LIRNEasia, a think-tank promoting ICT policy and regulation in Asia
 *   Dr. Harsha Liyanage, Founder and CEO of Zone24x7, an AI and IoT product engineering company
 *   Dr. Gihan Dias, Founder and CEO of hSenid Software International, a global software solutions provider
+description: Making open-source more accessible.
 *   Dr. V.K. Samaranayake, Founder of SLAASCOM and Chairman of the Sri Lanka Institute of Information Technology (SLIIT) Board of Directors
 
 <br>
@@ -33,21 +37,25 @@ sidebarlogo: wordojos_logo
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Sri-Lanka" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -66,16 +74,19 @@ sidebarlogo: wordojos_logo
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Sudan">Next dojo:  Sudan</a>

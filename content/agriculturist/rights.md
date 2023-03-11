@@ -3,6 +3,7 @@ title: The Agriculture  Industry and Agriculturist Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 <figure>
@@ -10,6 +11,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As an agriculturist working in the agriculture industry, it is imperative that we advocate for fair work practices and the protection of worker's rights. In recent years, there have been numerous instances of exploitation and mistreatment of agricultural workers, ranging from low wages and lack of benefits to unsafe working conditions and discrimination.
 
 One of the most pressing issues facing agricultural workers today is the lack of fair wages. Many workers in the agriculture industry are paid far below the minimum wage and are not given access to the same benefits as other workers, such as overtime pay or paid time off. This not only creates financial struggles for these workers, but also hinders their ability to provide for their families and meet their basic needs.
@@ -25,24 +27,29 @@ Ultimately, it is crucial that we stand up for the rights and fair treatment of 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://agriculturist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

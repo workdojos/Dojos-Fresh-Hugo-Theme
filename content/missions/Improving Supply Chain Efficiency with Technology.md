@@ -3,11 +3,13 @@ title: Improving Supply Chain Efficiency with Technology
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Improving Supply Chain Efficiency with Technology
 
 **Project Brief**: Improving Supply Chain Efficiency with Technology
@@ -24,6 +26,7 @@ Research and evaluate existing technology solutions to improve efficiency
 Develop and implement a technology solution that streamlines supply chain processes
 Measure the impact of the solution on costs, delivery times, and overall efficiency
 **Stakes**:
+description: Making open-source more accessible.
 The supply chain industry is a critical component of the global economy and its efficiency has a direct impact on businesses and consumers alike. Inefficient supply chains result in increased costs, longer delivery times, and dissatisfied customers. Our solution must bring real benefits to the industry and help improve the bottom line for businesses.
 
 **Reserves**:
@@ -34,6 +37,7 @@ Budget for purchasing necessary technology solutions
 Dedicated support team for implementation and troubleshooting
 Access to relevant data and analytics to measure impact
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for couriers worldwide. The results of this project will be used to inform future projects and drive continued innovation in the industry.
+description: Making open-source more accessible.
 
 ---
 

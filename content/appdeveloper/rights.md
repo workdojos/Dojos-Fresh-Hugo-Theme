@@ -3,6 +3,7 @@ title: The Software Development  Industry and App Developer Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 <figure>
@@ -10,6 +11,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 The app development industry is rapidly growing and evolving, with many app developers working long hours and facing intense competition to create the next big hit. However, despite the potential for success and lucrative rewards, many app developers face unfair work practices and exploitation.
 
 One of the major issues facing app developers is the lack of fair wages. Many app developers are paid on a project-by-project basis, with no guarantee of steady income or benefits. This can lead to low pay and precarious financial stability, as developers must constantly search for new projects to maintain a steady income. In addition, app developers are often paid a percentage of their app's revenue, which can result in low pay if the app does not perform well.
@@ -25,24 +27,29 @@ Overall, it is clear that app developers deserve fair treatment and proper wages
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://appdeveloper.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

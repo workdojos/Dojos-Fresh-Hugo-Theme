@@ -3,11 +3,13 @@ title: Financial Risk Management
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Financial Risk Management
 
 **Project Brief**: Financial Risk Management
@@ -23,6 +25,7 @@ Develop a financial risk management framework that can be implemented by CFOs in
 Provide practical recommendations and best practices for managing financial risks in the finance industry.
 Evaluate the effectiveness of the risk management framework through simulations and stress tests.
 **Stakes**: The finance industry is heavily dependent on stability and predictability, and any unexpected events or risks can have far-reaching consequences. The successful completion of this project will help the finance industry proactively mitigate financial risks and ensure stability, which will help to build confidence among investors and customers.
+description: Making open-source more accessible.
 
 **Reserves**: The team will have access to the latest financial risk management tools, models, and software, as well as industry experts who can provide guidance and support. The team will also have access to financial data and historical information to help them better understand and assess the risks that the finance industry is exposed to.
 

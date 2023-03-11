@@ -3,6 +3,7 @@ title: The Digital Services  Industry and Web Designer Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a web designer in the digital services industry, it is crucial that fair work practices be put into place to ensure the well-being and success of the workers. In recent years, there have been several trends and events in the industry that highlight the need for fair treatment and proper wages for web designers.
 
 One trend in the industry is the increasing demand for freelance and contract work, which can often result in unstable and uncertain employment for web designers. Many freelancers and contractors do not receive the same benefits and protections as full-time employees, including healthcare, paid time off, and retirement plans. This can lead to financial insecurity and a lack of job stability for web designers.
@@ -26,24 +28,29 @@ In conclusion, it is vital that fair work practices be implemented in the digita
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://webdesigners.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

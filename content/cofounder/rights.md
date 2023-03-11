@@ -3,6 +3,7 @@ title: The Startup  Industry and Cofounder Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 <figure>
@@ -10,6 +11,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As the co-founder of a startup in the services industry, I am committed to ensuring that my employees are treated fairly and with respect. In recent years, there have been numerous stories in the media about startups that have exploited their workers, paying them low wages and expecting long hours of work without proper compensation. This is not only unethical, it is also harmful to the long-term success of the company.
 
 One trend that has emerged in the startup industry is the use of unpaid internships as a way to cut labor costs. While this may seem like a good idea for a company trying to save money, it is actually a form of exploitation. Unpaid internships are often used to fill roles that should be paid positions, and they take away opportunities from those who cannot afford to work for free. This is not only unfair, it is also illegal in many countries.
@@ -23,24 +25,29 @@ As a co-founder, it is my responsibility to ensure that my employees are treated
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://cofounder.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

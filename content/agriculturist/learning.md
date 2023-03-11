@@ -3,11 +3,13 @@ title: Learning & Development for Agriculturists
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 <p>
 For the role of an agriculturist, here are some suggestions for what should appear in a curriculum:
 
@@ -16,6 +18,7 @@ Experience with agricultural technologies and equipment
 Understanding of environmental sustainability and food production systems
 Familiarity with farm management and financial planning
 Some of the best websites for learning about agriculture include:
+description: Making open-source more accessible.
 
 AgCareers.com: This site offers resources for finding jobs in agriculture, as well as educational resources and professional development opportunities.
 Agriculture.com: This website offers news, information, and resources for farmers and those interested in agriculture.
@@ -32,6 +35,7 @@ Emphasize any experience you have with agricultural technologies and equipment.
 Highlight your understanding of environmental sustainability and food production systems.
 Discuss your familiarity with farm management and financial planning.
 Some questions a candidate should be able to answer in an interview for an agriculturist role might include:
+description: Making open-source more accessible.
 
 What are your strengths in plant biology, soil science, and pest management?
 Can you discuss your experience with agricultural technologies and equipment?
@@ -43,24 +47,29 @@ How do you approach farm management and financial planning?
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://agriculturist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://explorers.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

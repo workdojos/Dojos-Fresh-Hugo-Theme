@@ -3,6 +3,7 @@ title: The Travel & Tours  Industry and Travel Agent Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a travel agent working in the travel and tours industry, I strongly believe in fair work practices for all workers in our field. The industry has seen some major changes and trends in recent years, and it is more important than ever that we stand up for the rights and fair treatment of our colleagues.
 
 One trend that has impacted many travel agents is the rise of online booking platforms, which have made it easier for consumers to book their own travel arrangements without the assistance of a professional agent. This shift has led to some companies cutting costs by reducing their staff or hiring independent contractors who may not receive the same benefits and protections as traditional employees.
@@ -26,24 +28,29 @@ In conclusion, as a travel agent and advocate for fair work practices, I believe
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://travelagents.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

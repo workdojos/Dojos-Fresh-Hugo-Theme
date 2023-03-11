@@ -3,6 +3,7 @@ title: The Outdoor Adventure  Industry and Adventurer Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 
 <figure>
@@ -10,6 +11,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As someone who has worked in the outdoor adventure industry for many years, I am all too familiar with the issues surrounding fair work practices. In recent years, there has been a growing trend of companies exploiting their employees in order to cut costs and increase profits. This has resulted in a number of problems, including low wages, long hours, and poor working conditions.
 
 One of the main issues facing outdoor adventure workers is low wages. Many companies pay their employees barely enough to survive, and often do not provide benefits such as health insurance or paid time off. This can be especially problematic for those who are living in remote locations, as they may not have access to the same resources and support as those living in more urban areas.
@@ -27,24 +29,29 @@ As someone who has worked in the industry, I strongly believe that all workers d
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://adventurers.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

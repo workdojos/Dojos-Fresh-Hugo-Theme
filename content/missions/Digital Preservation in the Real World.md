@@ -3,11 +3,13 @@ title: Digital Preservation in the Real World
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Digital Preservation in the Real World
 
 **Project Brief**: Digital Preservation in the Real World
@@ -24,18 +26,21 @@ To improve the accessibility of digital assets, making it easier for researchers
 To reduce the risk of data breaches and unauthorized access to sensitive information.
 To provide cost-effective solutions that can be easily adopted by organizations of all sizes, including small and medium-sized enterprises.
 **Stakes**:
+description: Making open-source more accessible.
 
 The risk of losing valuable digital assets due to technical issues or natural disasters.
 The increasing threat of data breaches and unauthorized access to sensitive information.
 The rising cost of digital preservation as the volume of data continues to grow.
 The need for efficient and accessible solutions to ensure the preservation of our cultural heritage for future generations.
 **Reserves**:
+description: Making open-source more accessible.
 
 90 days for project completion
 Access to remote work environment via PC from home
 Collaboration tools to facilitate teamwork and communication
 Access to digital preservation resources and experts
 Budget to cover any necessary tools and resources
+description: Making open-source more accessible.
 Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to preserve the most precious digital assets. With the real-world consequences of digital preservation becoming increasingly important, this project is crucial in ensuring the preservation of our cultural heritage for future generations.
 
 ---

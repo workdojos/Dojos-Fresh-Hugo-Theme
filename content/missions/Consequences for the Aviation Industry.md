@@ -3,11 +3,13 @@ title: Consequences for the Aviation Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Consequences for the Aviation Industry
 
 **Project Brief**: Dire Consequences for the Aviation Industry
@@ -23,6 +25,7 @@ To develop and implement effective solutions to address these challenges.
 To monitor and evaluate the impact of these solutions on the industry.
 **Stakes**:
 The aviation industry is facing numerous challenges such as declining passenger numbers, rising costs, increased competition, and changing regulations. If these challenges are not addressed, the industry may suffer severe consequences, including bankruptcy, decreased safety, and loss of jobs.
+description: Making open-source more accessible.
 
 **Reserves**:
 The team has access to the latest research and data on the aviation industry, as well as access to experts in the field. The team also has access to technology and tools to help them analyze data and collaborate effectively.

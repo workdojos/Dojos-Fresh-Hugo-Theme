@@ -3,11 +3,13 @@ title: Iraq Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Iraq.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 1.  Join the Iraqi Open Source community: The Iraqi Open Source community is a platform that brings together open source enthusiasts from all over Iraq. They share information and knowledge about open source technology, provide training and resources, and organize events to promote the use of open source technology in Iraq. You can join their Facebook group or follow them on Twitter to stay up-to-date with their activities.
     
 2.  Read online resources: There are many online resources available that provide information about open source technology in Iraq. These resources include blogs, forums, and websites that cover topics related to open source technology. Here are some websites to get started with:
@@ -18,6 +20,7 @@ sidebarlogo: wordojos_logo
 *   Open Source for America: Open Source for America is a group of companies, non-profits, and academics that promote the use of open source technology in government and public policy.
     
 *   Open Source Ecology: Open Source Ecology is a non-profit organization that creates open source technology for sustainable living.
+description: Making open-source more accessible.
     
 
 3.  Attend tech events: Attending tech events in Iraq is a great way to learn more about open source technology and meet like-minded people. Some popular tech events in Iraq include:
@@ -34,6 +37,7 @@ Notable technologists from Iraq throughout history:
 2.  Ibn Al-Haytham (965-1040 AD): Ibn Al-Haytham was an Arab mathematician, physicist, and astronomer who made important contributions to the field of optics. His work on the nature of light and the structure of the eye laid the foundation for modern optics.
     
 3.  Abbasid Caliphate (750-1258 AD): The Abbasid Caliphate was an Islamic empire that spanned much of the Middle East and North Africa. During its reign, the Abbasid Caliphate made significant contributions to the fields of astronomy, mathematics, and medicine.
+description: Making open-source more accessible.
     
 
 In conclusion, learning more about open source technology in Iraq can be done by joining the Iraqi Open Source community, reading online resources, and attending tech events. Additionally, notable technologists from Iraq throughout history include Al-Khwarizmi, Ibn Al-Haytham, and the Abbasid Caliphate.
@@ -41,21 +45,25 @@ In conclusion, learning more about open source technology in Iraq can be done by
 <html>
   <head>
     <style>
+description: Making open-source more accessible.
       .button {
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
+description: Making open-source more accessible.
         color: #ffffff;
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
+description: Making open-source more accessible.
       }
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Iraq" target="_blank">Claim this Dojo</a>
+description: Making open-source more accessible.
   </body>
 </html>
 <br>
@@ -75,16 +83,19 @@ In conclusion, learning more about open source technology in Iraq can be done by
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Ireland">Next dojo:  Ireland</a>

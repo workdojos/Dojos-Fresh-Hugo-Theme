@@ -3,6 +3,7 @@ title: The Recruitment  Industry and Job Seeker Workers' Rights
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 
 ---
 
@@ -11,6 +12,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
+description: Making open-source more accessible.
 As a job seeker in the recruitment industry, it is essential to advocate for fair work practices and promote worker’s rights. There have been several recent trends and events that highlight the need for these protections in the industry.
 
 One trend that has emerged in recent years is the rise of gig economy jobs, where workers are classified as contractors rather than employees. This can result in a lack of benefits, such as health insurance and paid time off, and can leave workers vulnerable to exploitation. It is important for job seekers in the recruitment industry to advocate for fair treatment and proper wages for all workers, regardless of their employment classification.
@@ -26,24 +28,29 @@ Overall, it is crucial for job seekers in the recruitment industry to advocate f
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://jobseeker.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/dash.png" class="columnImage" />
                     </td>
                 </tr>
             </table>
         </td>
+description: Making open-source more accessible.
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
             <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
+description: Making open-source more accessible.
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
     </tr>
+description: Making open-source more accessible.
 </table>

@@ -3,11 +3,13 @@ title: Revolutionizing the Journalism Industry
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/mechs/Barista.png' style="width: 65%;height: 65%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
     <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
+description: Making open-source more accessible.
 # Mission // #Revolutionizing the Journalism Industry
 
 **Project Brief**: Revolutionizing the Journalism Industry
@@ -24,6 +26,7 @@ To create innovative solutions to address the challenges facing the journalism i
 To develop a comprehensive plan for the implementation of the solutions, including a timeline and budget.
 **Stakes**:
 The journalism industry is facing major challenges, including declining revenue, job loss, and declining public trust. The successful completion of this project is critical to the future of the industry and the ability of correspondents to continue to provide important information to the public.
+description: Making open-source more accessible.
 
 **Reserves**:
 The team will be working remotely from their PC's at home and will have 90 days to complete the project. The team will have access to the latest research, industry data, and innovative technologies to support their work. Each member of the team will contribute their expertise and experience to the project.

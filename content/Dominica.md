@@ -3,11 +3,13 @@ title: Dominica Dojo
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
+description: Making open-source more accessible.
 ---
 <figure>
     <img src='/uploads/countries/Dominica.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
+description: Making open-source more accessible.
 Learning about open-source technology in Dominica can be a rewarding experience for those interested in technology and innovation. Some resources to consider for learning more about open-source tech in Dominica include:
 
 1.  The Dominica Linux User Group: This group is dedicated to promoting and supporting open-source technologies in Dominica. They regularly hold events and meetups to discuss and share knowledge about open-source technologies.
@@ -15,6 +17,7 @@ Learning about open-source technology in Dominica can be a rewarding experience 
 2.  The Dominica ICT Hub: The ICT Hub is a government initiative aimed at promoting and supporting the growth of the ICT sector in Dominica. They offer training, resources, and support for those interested in open-source technologies.
     
 3.  The Dominica Open Data Portal: This portal provides access to a range of government data and statistics, including data related to open-source technologies.
+description: Making open-source more accessible.
     
 
 Some notable technologists from Dominica throughout history include:
@@ -24,6 +27,7 @@ Some notable technologists from Dominica throughout history include:
 2.  Dr. Lennox Honychurch: Dr. Honychurch is a historian and cultural activist, but he has also been involved in the development of the ICT sector in Dominica. He has written extensively on the topic of technology and innovation in the Caribbean.
     
 3.  Germaine Felix: Germaine Felix is a software developer and entrepreneur who has been actively involved in promoting open-source technologies in Dominica. She has spoken at various conferences and events about the importance of open-source software and its potential to transform the tech industry.
+description: Making open-source more accessible.
     
 
 In conclusion, there are many resources available for those interested in learning more about open-source technology in Dominica. By exploring these resources and learning about notable technologists from Dominica throughout history, you can gain a deeper understanding of the role that open-source technologies have played in the development of the country's tech industry.
@@ -33,21 +37,25 @@ In conclusion, there are many resources available for those interested in learni
   <head>
     <style>
       .button {
+description: Making open-source more accessible.
         display: inline-block;
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
+description: Making open-source more accessible.
         background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  0%;
       }
+description: Making open-source more accessible.
     </style>
   </head>
   <body>
     <a class="button" href="https://blog.workdojos.com/Dominica" target="_blank">Claim this Dojo</a>
   </body>
+description: Making open-source more accessible.
 </html>
 <br>
 
@@ -66,16 +74,19 @@ In conclusion, there are many resources available for those interested in learni
     <style>
       .button {
         display: inline-block;
+description: Making open-source more accessible.
         padding: 20px 20px;
         text-align: center;
         text-decoration: none;
         color: #ffffff;
         background-color: #FDC858;
+description: Making open-source more accessible.
         border-radius: 33px;
         outline: none;
         line-height:  %;
       }
     </style>
+description: Making open-source more accessible.
   </head>
   <body>
     <a class="button" href="https://workdojos.com/Dominican-Republic">Next dojo:  Dominican Republic</a>
