@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Lighthouse Managers and Entrepreneurs in the Historical Properties  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

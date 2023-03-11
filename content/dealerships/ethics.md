@@ -1,5 +1,6 @@
 ---
 title: Ethical Framework for Car Dealers Working in the Automotive Sales  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

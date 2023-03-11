@@ -1,5 +1,6 @@
 ---
 title: Improving Restaurant Operations in the New Normal
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

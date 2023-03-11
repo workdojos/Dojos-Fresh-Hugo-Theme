@@ -1,5 +1,6 @@
 ---
 title: A Day in the Life of a Downtown Business Owner
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

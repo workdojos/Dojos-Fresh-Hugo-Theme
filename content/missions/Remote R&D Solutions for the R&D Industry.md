@@ -1,5 +1,6 @@
 ---
 title: Remote R&D Solutions for the R&D Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 ---
 title: An Overview for Brew Masters and the Beer Brewing  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

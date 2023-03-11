@@ -1,5 +1,6 @@
 ---
 title: Open-Source Tech for Diner Owners and Others in the Restaurant  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

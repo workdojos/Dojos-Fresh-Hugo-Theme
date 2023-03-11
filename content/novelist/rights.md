@@ -1,5 +1,6 @@
 ---
 title: The Writing & Publishing  Industry and Novelist Workers' Rights
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

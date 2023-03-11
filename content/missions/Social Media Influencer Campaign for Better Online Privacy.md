@@ -1,5 +1,6 @@
 ---
 title: Social Media Influencer Campaign for Better Online Privacy
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

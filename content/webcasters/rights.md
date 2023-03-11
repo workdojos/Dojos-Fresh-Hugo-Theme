@@ -1,5 +1,6 @@
 ---
 title: The Social Media  Industry and Influencer Workers' Rights
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

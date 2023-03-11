@@ -1,5 +1,6 @@
 ---
 title: Open-Source Tech for Agriculturists and Others in the Agriculture  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

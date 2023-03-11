@@ -1,5 +1,6 @@
 ---
 title: Digital Preservation  Industry Controversies and Challenges
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 ---
 title: Learning & Development for Coffee Shop Owners
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Exporters and Entrepreneurs in the Export  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

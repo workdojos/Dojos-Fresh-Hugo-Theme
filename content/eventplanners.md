@@ -1,5 +1,6 @@
 ---
 title: Event Planner's Dojo
+description: Making open-source more accessible.
 sidebar: true
 sidebarlogo: wordojos_logo
 include_footer: true

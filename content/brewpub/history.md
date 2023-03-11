@@ -1,5 +1,6 @@
 ---
 title:  History and Etymology of Brew Pub Owners  and the Breweries & Hospitality  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

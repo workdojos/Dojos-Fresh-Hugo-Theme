@@ -1,5 +1,6 @@
 ---
 title: Ethical Framework for Botanists Working in the Botany  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

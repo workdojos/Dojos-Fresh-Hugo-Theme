@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Lawyers and Entrepreneurs in the Y Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 ---
 title: Ethical Framework for Non-Profits Working in the Non-Profit Organizations   Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

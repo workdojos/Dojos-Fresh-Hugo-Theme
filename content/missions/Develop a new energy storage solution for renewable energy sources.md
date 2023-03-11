@@ -1,5 +1,6 @@
 ---
 title: Develop a new energy storage solution for renewable energy sources
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

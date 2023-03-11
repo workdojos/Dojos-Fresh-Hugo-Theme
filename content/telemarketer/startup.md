@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Telemarketers and Entrepreneurs in the Telemarketing  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

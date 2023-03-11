@@ -1,5 +1,6 @@
 ---
 title: Improving Customer Satisfaction in the Travel Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

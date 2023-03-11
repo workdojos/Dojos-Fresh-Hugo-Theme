@@ -1,5 +1,6 @@
 ---
 title: Open-Source Tech for Race Car Drivers and Others in the Racing And Spectator Sports  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 ---
 title: An Overview for Couriers and the Supply-Chain  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

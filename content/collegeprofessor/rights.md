@@ -1,5 +1,6 @@
 ---
 title: The Higher Education  Industry and College Professor Workers' Rights
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

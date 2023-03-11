@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Moderators and Entrepreneurs in the Support Group  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Lab Techs and Entrepreneurs in the Laboratory Testing  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

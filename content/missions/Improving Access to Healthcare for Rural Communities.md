@@ -1,5 +1,6 @@
 ---
 title: Improving Access to Healthcare for Rural Communities
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

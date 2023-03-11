@@ -1,5 +1,6 @@
 ---
 title: Sociological Solutions for Social Inequality
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 ---
 title: Advice for Guesthouse Owners
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

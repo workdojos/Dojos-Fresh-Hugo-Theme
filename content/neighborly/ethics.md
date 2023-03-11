@@ -1,5 +1,6 @@
 ---
 title: Ethical Framework for Neighborhood Volunteers Working in the Community Services  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

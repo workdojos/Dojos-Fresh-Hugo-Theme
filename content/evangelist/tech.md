@@ -1,5 +1,6 @@
 ---
 title: Open-Source Tech for Evangelists and Others in the Religious Organizations   Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

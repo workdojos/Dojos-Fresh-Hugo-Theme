@@ -1,5 +1,6 @@
 ---
 title: Websites for Race Car Drivers in the Racing And Spectator Sports  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

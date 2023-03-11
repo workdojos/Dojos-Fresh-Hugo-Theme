@@ -1,5 +1,6 @@
 ---
 title: 'Developers'
+description: Making open-source more accessible.
 author: Kevin
 date: '2022-11-17'
 sidebar: true

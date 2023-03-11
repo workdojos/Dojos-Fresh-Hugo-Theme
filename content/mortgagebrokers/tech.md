@@ -1,5 +1,6 @@
 ---
 title: Open-Source Tech for Mortgage Brokers and Others in the Real-Estate  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

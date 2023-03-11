@@ -1,5 +1,6 @@
 ---
 title:  History and Etymology of negotiators and the International Arbitration  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

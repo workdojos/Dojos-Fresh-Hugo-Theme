@@ -1,5 +1,6 @@
 ---
 title: Open-Source Tech for Spiritual Coaches and Others in the Coaching  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

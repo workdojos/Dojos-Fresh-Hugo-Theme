@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Developers and Entrepreneurs in the Virtual Reality  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

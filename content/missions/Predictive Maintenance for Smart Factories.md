@@ -1,5 +1,6 @@
 ---
 title: Predictive Maintenance for Smart Factories
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 ---
 title: An Overview for Cafe Owners and the Cafe & Hospitality  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

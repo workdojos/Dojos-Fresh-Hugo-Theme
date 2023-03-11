@@ -1,5 +1,6 @@
 ---
 title: Open-Source Tech for Academics and Others in the Academia And Higher Education Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

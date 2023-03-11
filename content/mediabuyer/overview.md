@@ -1,5 +1,6 @@
 ---
 title: An Overview for Media Buyers and the Advertising  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

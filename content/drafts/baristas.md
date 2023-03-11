@@ -1,5 +1,6 @@
 ---
 title: AGB
+description: Making open-source more accessible.
 include_footer: true
 draft: true
 

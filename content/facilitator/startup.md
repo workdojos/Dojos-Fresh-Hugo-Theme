@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Project Managers and Entrepreneurs in the Automation  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

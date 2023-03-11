@@ -1,5 +1,6 @@
 ---
 title: Websites for Social Workers in the Behavioral Health  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

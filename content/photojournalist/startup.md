@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Photo Journalists and Entrepreneurs in the Journalism, News, And Media  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

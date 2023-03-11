@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Actuaries and Entrepreneurs in the Risk Assessment  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

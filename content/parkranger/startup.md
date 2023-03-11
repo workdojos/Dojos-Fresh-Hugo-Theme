@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Park Rangers and Entrepreneurs in the Conservation And Park Management  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

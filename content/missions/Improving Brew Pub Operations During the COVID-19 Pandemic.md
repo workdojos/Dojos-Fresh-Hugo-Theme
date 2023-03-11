@@ -1,5 +1,6 @@
 ---
 title: Improving Brew Pub Operations During the COVID-19 Pandemic
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

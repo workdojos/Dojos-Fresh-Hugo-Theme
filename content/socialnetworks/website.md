@@ -1,5 +1,6 @@
 ---
 title: Websites for Social Media Managers in the Sales & Marketing  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

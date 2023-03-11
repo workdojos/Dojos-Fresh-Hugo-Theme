@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Investigators and Entrepreneurs in the Investigation and Security Services  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

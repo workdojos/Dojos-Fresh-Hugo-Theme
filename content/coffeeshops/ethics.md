@@ -1,5 +1,6 @@
 ---
 title: Ethical Framework for Coffee Shop Owners Working in the Coffee and Hospitality  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

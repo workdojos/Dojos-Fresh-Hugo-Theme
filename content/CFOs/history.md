@@ -1,5 +1,6 @@
 ---
 title:  History and Etymology of CFOs and the Finance  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

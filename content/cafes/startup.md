@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Cafe Owners and Entrepreneurs in the Cafe & Hospitality  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

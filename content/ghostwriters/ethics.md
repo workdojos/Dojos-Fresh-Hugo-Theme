@@ -1,5 +1,6 @@
 ---
 title: Ethical Framework for Ghostwriters Working in the Writing And Publishing  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Landowner And Speculators and Entrepreneurs in the Real-Estate  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

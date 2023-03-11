@@ -1,5 +1,6 @@
 ---
 title: Websites for Life Coaches in the Life Coaching  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

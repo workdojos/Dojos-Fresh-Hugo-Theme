@@ -1,5 +1,6 @@
 ---
 title: Ethical Framework for Social Media Managers Working in the Sales & Marketing  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

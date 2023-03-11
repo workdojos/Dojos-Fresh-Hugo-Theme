@@ -1,5 +1,6 @@
 ---
 title: Getting Started as a 4X4 Business Owner in the 4X4 Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 ---
 title: Bartender Automation and Efficiency
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

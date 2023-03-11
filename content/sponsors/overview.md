@@ -1,5 +1,6 @@
 ---
 title: An Overview for Sponsors and the Sponsorship  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

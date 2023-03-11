@@ -1,5 +1,6 @@
 ---
 title: Learning & Development for Guest Speakers
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

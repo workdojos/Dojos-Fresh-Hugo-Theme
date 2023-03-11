@@ -1,5 +1,6 @@
 ---
 title: Ethical Framework for Sales Coaches Working in the Executive Coaching  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Diner Owners and Entrepreneurs in the Restaurant  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

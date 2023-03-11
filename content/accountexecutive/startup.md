@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Account Executives and Entrepreneurs in the Sales Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

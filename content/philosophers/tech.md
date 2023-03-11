@@ -1,5 +1,6 @@
 ---
 title: Open-Source Tech for Philosophers and Others in the Philosophy And Higher Education  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

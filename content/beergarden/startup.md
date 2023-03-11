@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Beer Garden Owners  and Entrepreneurs in the Hospitality  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 ---
 title: Websites for Animators in the Animation Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

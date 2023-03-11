@@ -1,5 +1,6 @@
 ---
 title: Ethical Framework for Race Car Drivers Working in the Racing And Spectator Sports  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

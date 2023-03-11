@@ -1,5 +1,6 @@
 ---
 title: Open-Source Tech for Arcade Owners and Others in the Video Game  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

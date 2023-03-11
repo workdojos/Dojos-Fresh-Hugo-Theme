@@ -1,5 +1,6 @@
 ---
 title: The Digital Preservation  Industry and Digital Preservation Specialist Workers' Rights
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

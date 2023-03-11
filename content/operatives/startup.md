@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Operations Specialists and Entrepreneurs in the Clandestine Services  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

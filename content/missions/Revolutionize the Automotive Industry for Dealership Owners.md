@@ -1,5 +1,6 @@
 ---
 title: Revolutionize the Automotive Industry for Dealership Owners
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

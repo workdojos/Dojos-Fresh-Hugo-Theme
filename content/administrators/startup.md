@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Administrators and Entrepreneurs in the Administration & Book-Keeping  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

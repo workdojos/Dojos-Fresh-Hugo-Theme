@@ -1,5 +1,6 @@
 ---
 title: Open-Source Tech for Telemarketers and Others in the Telemarketing  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

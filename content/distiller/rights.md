@@ -1,5 +1,6 @@
 ---
 title: The Distilled Spirits  Industry and Distiller Workers' Rights
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

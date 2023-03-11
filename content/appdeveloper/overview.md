@@ -1,5 +1,6 @@
 ---
 title: An Overview for App Developers and the Software Development  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 ---
 title: Startup Ideas for Digital Preservation Specialists and Entrepreneurs in the Digital Preservation  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

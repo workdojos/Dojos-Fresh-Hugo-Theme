@@ -1,5 +1,6 @@
 ---
 title:  History and Etymology of Web Jedis and the Digital Marketing Services  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

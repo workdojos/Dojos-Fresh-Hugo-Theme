@@ -1,5 +1,6 @@
 ---
 title: Open-Source Tech for Exhibitionists and Others in the Art And Special Events  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

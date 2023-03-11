@@ -1,5 +1,6 @@
 ---
 title: Getting Started in the Beauty, Health & Wellness  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

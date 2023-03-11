@@ -1,5 +1,6 @@
 ---
 title: Ethical Framework for Developers Working in the Virtual Reality  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

@@ -1,5 +1,6 @@
 c---
 title: Open-Source Tech for negotiators and Others in the International Arbitration  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

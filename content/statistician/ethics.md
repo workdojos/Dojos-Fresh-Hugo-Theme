@@ -1,5 +1,6 @@
 ---
 title: Ethical Framework for Statisticians Working in the Statistical Research & Development  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

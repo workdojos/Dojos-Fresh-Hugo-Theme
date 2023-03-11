@@ -1,5 +1,6 @@
 ---
 title: An Overview for Neighborhood Volunteers and the Community Services  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

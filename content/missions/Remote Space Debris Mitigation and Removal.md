@@ -1,5 +1,6 @@
 ---
 title: Remote Space Debris Mitigation and Removal
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

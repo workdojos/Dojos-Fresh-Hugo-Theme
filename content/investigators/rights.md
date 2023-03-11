@@ -1,5 +1,6 @@
 ---
 title: The Investigation and Security Services  Industry and Investigator Workers' Rights
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

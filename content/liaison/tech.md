@@ -1,5 +1,6 @@
 ---
 title: Open-Source Tech for Liaisons and Others in the International Relations  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

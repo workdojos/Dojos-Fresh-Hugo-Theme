@@ -1,5 +1,6 @@
 ---
 title: An Overview for Lighthouse Managers and the Historical Properties  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

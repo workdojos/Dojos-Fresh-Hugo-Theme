@@ -1,5 +1,6 @@
 ---
 title: Ethical Framework for Landowner And Speculators Working in the Real-Estate  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

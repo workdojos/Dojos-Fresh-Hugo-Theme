@@ -1,5 +1,6 @@
 ---
 title:  History and Etymology of Digital Marketers and the Marketing  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo

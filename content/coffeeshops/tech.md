@@ -1,5 +1,6 @@
 ---
 title: Open-Source Tech for Coffee Shop Owners and Others in the Coffee and Hospitality  Industry
+description: Making open-source more accessible.
 include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
