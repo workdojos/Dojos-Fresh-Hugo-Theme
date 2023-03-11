@@ -211,7 +211,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/docs/start">  
-                        <img src="/uploads/buildash.png" class="columnImage" />
+                        <img src="/uploads/dash 2.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
