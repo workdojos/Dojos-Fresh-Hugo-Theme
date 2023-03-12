@@ -186,7 +186,7 @@ Click the "Sign Up" button in the upper right (includes both a free tier and a f
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/features">  
-                        <img src="/uploads/dev.svg" class="columnImage" />
+                        <img src="/uploads/custom dash 1.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
@@ -202,7 +202,7 @@ Click the "Sign Up" button in the upper right (includes both a free tier and a f
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/partners">
-                        <img src="/uploads/team3.svg" class="columnImage" />
+                        <img src="/uploads/happy workstation.svg" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
@@ -244,7 +244,7 @@ Click the "Sign Up" button in the upper right (includes both a free tier and a f
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
-                        <h1>Collaborate from anywhere.</h1>
+                        <h1>Collaborate anywhere.</h1>
                         Check out our open-source chat server and collaboration hub!
                     </td>
                 </tr>
