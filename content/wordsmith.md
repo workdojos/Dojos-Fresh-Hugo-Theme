@@ -239,7 +239,7 @@ Click the "Sign Up" button in the upper right (includes both a free tier and a f
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://chat.workmates.live">
-                        <img src="/uploads/remote.svg" class="columnImage" />
+                        <img src="/uploads/remote.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
