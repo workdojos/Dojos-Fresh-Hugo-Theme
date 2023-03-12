@@ -227,7 +227,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://chat.workmates.live">
-                        <img src="/uploads/remote.png" class="columnImage" />
+                        <img src="/uploads/remote angel 2.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
