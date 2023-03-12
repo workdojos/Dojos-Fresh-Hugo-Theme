@@ -190,7 +190,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/partners">
-                        <img src="/uploads/happy workstation.svg" class="columnImage" />
+                        <img src="/uploads/partners.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>

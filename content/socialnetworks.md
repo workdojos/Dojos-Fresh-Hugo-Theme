@@ -208,7 +208,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/partners">
-                        <img src="/uploads/happy workstation.svg" class="columnImage" />
+                        <img src="/uploads/partners.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
