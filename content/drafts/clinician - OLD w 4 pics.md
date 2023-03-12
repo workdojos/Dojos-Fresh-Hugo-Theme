@@ -13,7 +13,7 @@ draft: true
 {{% title3 "" %}}
 
 <br>
-{{% subtitle5 "We empower people to build things." %}}
+
 
 
 
@@ -21,7 +21,7 @@ draft: true
 
 <br>
 
-{{% subtitle5 "What do you want to build today?" %}}
+{{% subtitle5 "Dojos empower teams to build things." %}}
 
 Save money by self-hosting your own tech stack! 
 <br>

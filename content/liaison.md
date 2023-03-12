@@ -11,7 +11,7 @@ sidebarlogo: wordojos_logo
 {{% title3 "" %}}
 
 <br>
-{{% subtitle5 "We empower people to build things." %}}
+
 
 
 
@@ -19,7 +19,7 @@ sidebarlogo: wordojos_logo
 
 <br>
 
-{{% subtitle5 "What do you want to build today?" %}}
+{{% subtitle5 "Dojos empower teams to build things." %}}
 
 Save money by self-hosting your own tech stack! 
 <br>

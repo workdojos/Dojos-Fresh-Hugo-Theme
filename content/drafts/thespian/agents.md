@@ -17,7 +17,7 @@ Probably not anything you need to concern yourself with, if you’re really just
 <iframe src="https://thespian.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 <br>
-{{% subtitle5 "We empower people to build things." %}}
+
 
 
 
@@ -25,7 +25,7 @@ Probably not anything you need to concern yourself with, if you’re really just
 
 <br>
 
-{{% subtitle5 "What do you want to build today?" %}}
+{{% subtitle5 "Dojos empower teams to build things." %}}
 
 Save money by self-hosting your own tech stack! 
 <br>
