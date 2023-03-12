@@ -180,7 +180,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Features.</h1>
-                        Learn about some of the cool features to be had for just $25/mo.
+                        Learn about some of the cool features included in a dojo.
                     </td>
                 </tr>
             </table>
@@ -196,7 +196,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Partners.</h1>
-                        Trailblazers in the open-source world!  Thank you to all developers supporting open-source initiatives!
+                          Thank you to all those supporting open-source initiatives!
                     </td>
                 </tr>
             </table>
@@ -216,8 +216,8 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>Let's go.</h1>
-                        Let's get to building!
+                        <h1>The dash.</h1>
+                        Sign up to get one just like it, FOR FREE!
                     </td>
                 </tr>
             </table>
@@ -233,7 +233,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Chat.</h1>
-                        Check out our open-source chat server and collaboration hub!
+                        Workmates.
                     </td>
                 </tr>
             </table>
