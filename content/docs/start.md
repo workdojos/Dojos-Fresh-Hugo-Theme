@@ -276,7 +276,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
-                        <h1>Our partners.</h1>
+                        <h1>Partners.</h1>
                         Trailblazers in the open-source world!
                     </td>
                 </tr>
@@ -297,7 +297,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>Get started</h1>
+                        <h1>Let's go.</h1>
                         Let's get to building!
                     </td>
                 </tr>
@@ -313,7 +313,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
-                        <h1>Collaborate from anywhere.</h1>
+                        <h1>Chat.</h1>
                         Check out our open-source chat server and collaboration hub!
                     </td>
                 </tr>

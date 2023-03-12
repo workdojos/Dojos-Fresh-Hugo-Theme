@@ -19,15 +19,15 @@ Probably not anything you need to concern yourself with, if you’re really just
 <br>
 {{% subtitle5 "We empower people to build things." %}}
 
-The best builders have all the tools!  Open-source tech makes anything possible. A dashboard.  A gateway to another world.  Your world!
 
-For less than a dollar a day you'll sit atop a mountain of building blocks for you, your family, your business, your digital dreams.
+
+
 
 <br>
 
 {{% subtitle5 "What do you want to build today?" %}}
 
-Build a Twitter.  Start a business.  Dish up the coolest family media server on the block.  Organize.  Host it your way! 
+Save money by self-hosting your own tech stack! 
 <br>
 <table>
     <caption></caption>
@@ -195,7 +195,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
-                        <h1>Our partners.</h1>
+                        <h1>Partners.</h1>
                         Trailblazers in the open-source world!  Thank you to all developers supporting open-source initiatives!
                     </td>
                 </tr>
@@ -216,7 +216,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>Get started</h1>
+                        <h1>Let's go.</h1>
                         Let's get to building!
                     </td>
                 </tr>
@@ -232,7 +232,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 </tr>
                 <tr>
                     <td valign="top" class="rightColumnContent">
-                        <h1>Collaborate from anywhere.</h1>
+                        <h1>Chat.</h1>
                         Check out our open-source chat server and collaboration hub!
                     </td>
                 </tr>
