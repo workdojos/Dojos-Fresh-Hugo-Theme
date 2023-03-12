@@ -230,7 +230,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>The dash.</h1>
+                        <h1>Dash.</h1>
                         Sign up to get one just like it, FOR FREE!
                     </td>
                 </tr>
@@ -247,7 +247,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Chat.</h1>
-                        Workmates.
+                        Workmates.live.  Built with Rocket.chat! Channels for every country and every job. 
                     </td>
                 </tr>
             </table>

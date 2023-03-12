@@ -216,7 +216,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>The dash.</h1>
+                        <h1>Dash.</h1>
                         Sign up to get one just like it, FOR FREE!
                     </td>
                 </tr>
@@ -233,7 +233,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Chat.</h1>
-                        Workmates.
+                        Workmates.live.  Built with Rocket.chat! Channels for every country and every job. 
                     </td>
                 </tr>
             </table>

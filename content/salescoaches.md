@@ -153,7 +153,7 @@ Starting any coaching business should start off on the right technical footing. 
 
 Dojo's start with a dashboard.  A place for the most relevant info front and center.  A screen that you can point your browser's start page to it.  This gives you a lot of flexibility where your dashboard will be presented.  On your desktop, your phone, a screen on the wall, or just pure digital.
 
-The dash is just the beginning.  Each dashboard is backed up by coaching-centric apps, backed by marketing support, and a team that cares.
+Dash is just the beginning.  Each dashboard is backed up by coaching-centric apps, backed by marketing support, and a team that cares.
 
 What's in your Dojo?
 </figure>
@@ -232,7 +232,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
-                        <h1>The dash.</h1>
+                        <h1>Dash.</h1>
                         Sign up to get one just like it, FOR FREE!
                     </td>
                 </tr>
@@ -249,7 +249,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Chat.</h1>
-                        Workmates.
+                        Workmates.live.  Built with Rocket.chat! Channels for every country and every job. 
                     </td>
                 </tr>
             </table>
