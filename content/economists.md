@@ -208,7 +208,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Partners.</h1>
-                          Thank you to all those supporting open-source initiatives!
+                          Thank you to those who support open-source initiatives!!
                     </td>
                 </tr>
             </table>

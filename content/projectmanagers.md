@@ -31,12 +31,12 @@ Save money by self-hosting your own tech stack!
         <th scope="col" class="skeletor">Premium SaaS subscriptions</th>
     </tr>
     <tr>
-        <th scope="row">Website</th>
+        <th scope="row">WordPress</th>
         <td>Included FREE</td>
         <td>Squarespace Business $23/mo, Wix Pro $27/mo</td>
     </tr>
     <tr>
-        <th scope="row">Ghost blog</th>
+        <th scope="row">Ghost</th>
         <td>Included FREE</td>
         <td>Ghost Pro $25/mo</td>
     </tr>
@@ -46,12 +46,12 @@ Save money by self-hosting your own tech stack!
         <td>Slack Business $12.50/user/mo</td>
     </tr>
     <tr>
-        <th scope="row">Baserow code-free database</th>
+        <th scope="row">Baserow</th>
         <td>Included FREE</td>
         <td>Baserow Premium $5/user/mo, , Airtable $10/user/mo</td>
     </tr>
     <tr>
-        <th scope="row">n8n Automation</th>
+        <th scope="row">n8n</th>
         <td>Included FREE</td>
         <td>n8n Pro $50/mo</td>
     </tr>
@@ -198,7 +198,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Features.</h1>
-                        Learn about some of the cool features included in a dojo.
+                        Learn about some of the cool features included in every dojo.
                     </td>
                 </tr>
             </table>
@@ -214,7 +214,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Partners.</h1>
-                          Thank you to all those supporting open-source initiatives!
+                          Thank you to those who support open-source initiatives!!
                     </td>
                 </tr>
             </table>

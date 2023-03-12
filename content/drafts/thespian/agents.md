@@ -180,7 +180,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Features.</h1>
-                        Learn about some of the cool features included in a dojo.
+                        Learn about some of the cool features included in every dojo.
                     </td>
                 </tr>
             </table>
@@ -196,7 +196,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Partners.</h1>
-                          Thank you to all those supporting open-source initiatives!
+                          Thank you to those who support open-source initiatives!!
                     </td>
                 </tr>
             </table>
