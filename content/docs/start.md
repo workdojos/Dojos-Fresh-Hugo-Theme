@@ -261,7 +261,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Features.</h1>
-                        Workmates, built with Rocket.chat. Channel for every country and every job. 
+                        Workmates:  1000 channels, for every country and every job. 
                     </td>
                 </tr>
             </table>
@@ -314,7 +314,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Chat.</h1>
-                        Workmates, built with Rocket.chat. Channel for every country and every job. 
+                        Workmates:  1000 channels, for every country and every job. 
                     </td>
                 </tr>
             </table>
