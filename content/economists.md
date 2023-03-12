@@ -192,7 +192,7 @@ Click the "Sign Up" button in the upper right (includes both a free tier and a f
                 <tr>
                     <td valign="top" class="leftColumnContent">
                         <h1>Features.</h1>
-                        Learn about some of the cool features to be had for just $25/mo.
+                        Learn about some of the cool features to be had FOR FREE!
                     </td>
                 </tr>
             </table>
@@ -208,7 +208,7 @@ Click the "Sign Up" button in the upper right (includes both a free tier and a f
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Our partners.</h1>
-                        Trailblazers in the open-source world!  Thank you to all developers supporting open-source initiatives!
+                        Trailblazers in the open-source world!  Thank you to all those supporting open-source initiatives!
                     </td>
                 </tr>
             </table>
