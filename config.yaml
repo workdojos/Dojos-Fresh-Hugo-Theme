@@ -852,13 +852,13 @@ params:
     subtitle: A gateway to everything open-source.
     features:
     - title: Your server, your data.
-      text: For as little as $8/month you can create an entire digital ecosystem for yourself, your passions, projects, and people.
+      text: For as little as $10/month you can create an entire digital ecosystem for yourself, your passions, projects, and people.
       icon: plug-cloud
     - title: Dojo.
       text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  The ultimate sandbox.
       icon: laptop-cloud
     - title: To be dependent on Big Tech is to be at a disadvantage.
-      text: Prepare for the digital future AND save money.  $100/month in value a real person to talk to.  
+      text: Prepare for the digital future AND save money.  $100/month in value and a real person to talk to.  
       icon: mobile-feed
     - title: Build the next big thing.
       text: With millions of open-source apps and micro-services at your beck and call, you CAN build the next big thing!
