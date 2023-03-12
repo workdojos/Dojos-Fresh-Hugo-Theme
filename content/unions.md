@@ -247,7 +247,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Chat.</h1>
-                        Workmates.live.  Built with Rocket.chat! Channels for every country and every job. 
+                        Workmates, built with Rocket.chat. Channel for every country and every job. 
                     </td>
                 </tr>
             </table>

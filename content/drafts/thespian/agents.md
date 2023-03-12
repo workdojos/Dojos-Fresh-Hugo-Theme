@@ -233,7 +233,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 <tr>
                     <td valign="top" class="rightColumnContent">
                         <h1>Chat.</h1>
-                        Workmates.live.  Built with Rocket.chat! Channels for every country and every job. 
+                        Workmates, built with Rocket.chat. Channel for every country and every job. 
                     </td>
                 </tr>
             </table>

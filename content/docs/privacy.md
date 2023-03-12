@@ -9,9 +9,9 @@ sidebarlogo: wordojos_logo
 {{% title3 "" %}}
 <h1>Work Dojos LLC</h1>
 
-<p>Work Dojos LLC operates the Workdojos.com and Workmates.live.  Built with Rocket.chat! Channels for every country and every job. live websites, which provide the SERVICE.</p>
+<p>Work Dojos LLC operates the Workdojos.com and Workmates, built with Rocket.chat. Channel for every country and every job. live websites, which provide the SERVICE.</p>
 
-<p>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the Work Dojos or Workmates.live.  Built with Rocket.chat! Channels for every country and every job. live websites.</p>
+<p>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the Work Dojos or Workmates, built with Rocket.chat. Channel for every country and every job. live websites.</p>
 
 <p>If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. Our Privacy Policy was created with the help of the <a href="https://www.privacypolicytemplate.net">Privacy Policy Template</a> and the <a href="https://www.generateprivacypolicy.com">Privacy Policy Generator</a>.</p>
 
