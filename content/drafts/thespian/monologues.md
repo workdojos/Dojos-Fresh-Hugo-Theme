@@ -33,37 +33,37 @@ Build a Twitter.  Start a business.  Dish up the coolest family media server on 
     </tr>
     <tr>
         <th scope="row">Website</th>
-        <td>Included in your Dojo</td>
+        <td>Included FREE</td>
         <td>Squarespace Business $23/mo, Wix Pro $27/mo</td>
     </tr>
     <tr>
         <th scope="row">Ghost blog</th>
-        <td>Included in your Dojo</td>
+        <td>Included FREE</td>
         <td>Ghost Pro $25/mo</td>
     </tr>
     <tr>
         <th scope="row">Rocket.chat</th>
-        <td>Included in your Dojo</td>
+        <td>Included FREE</td>
         <td>Slack Business $12.50/user/mo</td>
     </tr>
     <tr>
         <th scope="row">Baserow code-free database</th>
-        <td>Included in your Dojo</td>
+        <td>Included FREE</td>
         <td>Baserow Premium $5/user/mo, , Airtable $10/user/mo</td>
     </tr>
     <tr>
         <th scope="row">n8n Automation</th>
-        <td>Included in your Dojo</td>
+        <td>Included FREE</td>
         <td>n8n Pro $50/mo</td>
     </tr>
     <tr>
         <th scope="row">Wiki.js</th>
-        <td>Included in your Dojo</td>
+        <td>Included FREE</td>
         <td>Free to host on your own server</td>
     </tr>
     <tr>
         <th scope="row">Yearly costs</th>
-        <td>Work Dojos $25/mo or $250/yr </td>
+        <td>Work Dojos $10/mo or $100/yr </td>
         <td>Premium SaaS apps $124.50/mo * 12 = $1494/yr  </td>
     </tr>
 </table>
