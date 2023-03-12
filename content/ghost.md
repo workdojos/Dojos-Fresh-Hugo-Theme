@@ -43,7 +43,7 @@ Wait until you hear that running your Ghost server only uses up a fraction of th
 {{% title3 "Why Ghost?" %}}
 The UI is built on newer technology than say Wordpress.  It's faster, sleeker, and simpler.  Ghost also has memberships and payments built in.  Ghost Pro is certainly a viable alternative, but for those truly cash-strapped, self-hosting Ghost is the way to go.  Let us guide you through the process.  Sign up for a trial in the upper right or save 25% off a subscription with the following link:
 
- <a href="https://blog.workdojos.com/deal-on-a-dojo">Deal on a Dojo</a> 
+ <a href="https://blog.workdojos.com/free-dojo">Free Lifetime Dojo</a> 
 
  
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">

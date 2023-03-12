@@ -157,23 +157,23 @@ Get tools and tricks related to app development.  Cheatsheets for the types of c
 <br>
 
 {{% subtitle5 "We support small business because we are a small business." %}}
-We are an employee-owned company.  We believe in revitalizing the world through grassroots good old-fashioned teamwork.  Whoever you are, whatever you do, you are welcome here!  We believe in opportunity and fairness and our mission is to deliver value in everything that we do.  
-
- <ul>
-  <li>Are you looking to start a business or have a hobby that you'd like to take to the next level?</li>
-  <li>Do you work at an existing business and are you looking to cut costs and get rid of excessive SaaS subscriptions?</li>
-  <li>Are you a researcher looking for some amazing tools to help you do your job?</li>
-    <li>Or a student looking to learn about self-hosting and web app development?</li>
-      <li>Do you want to get involved or just have a question and want to talk to someone? </li>
-</ul> 
-
-Hop aboard, it's going to be a fun ride!  Back out anytime, but we think you won't want to!  
-
-Click the "Sign Up" button in the upper right (includes both a free tier and a free trial) or get 25% off for 12 consecutive months using the following link through the end of the year.  
 
 
+ 
+  
+  
+  
+    
+      
+ 
 
- <a href="https://blog.workdojos.com/deal-on-a-dojo">Deal on a Dojo</a> 
+  
+
+Click the "Sign Up" button in the upper right to claim this dojo or build your own, FOR FREE via the following link:  
+
+
+
+ <a href="https://blog.workdojos.com/free-dojo">Free Lifetime Dojo</a> 
 
 
 

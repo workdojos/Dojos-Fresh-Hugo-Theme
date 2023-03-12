@@ -113,4 +113,4 @@ Github:  https://github.com/requarks/wiki
 
  <br>
 
- [Deal on a dojo.](https://blog.workdojos.com/deal-on-a-dojo)
+ [Deal on a dojo.](https://blog.workdojos.com/free-dojo)

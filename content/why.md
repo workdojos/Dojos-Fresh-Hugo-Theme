@@ -6,12 +6,12 @@ sidebar: true
 sidebarlogo: wordojos_logo
 ---
 {{< unsafe >}}
-<ul>
+
 <figure>
     <img src='/uploads/passion.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
     <figcaption>Why we're here.</figcaption>
 </figure>
-</ul>
+
 {{< /unsafe >}}
 **THE PITCH**
 <br>

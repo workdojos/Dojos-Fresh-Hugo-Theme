@@ -46,7 +46,7 @@ Imagine the things you could build if you were able to organize knowledge in ama
 
 See what Wiki.js can do for you.  Sign up for a trial in the upper right or save 25% off a year's subscription with the following link:
 
- <a href="https://blog.workdojos.com/deal-on-a-dojo">Deal on a Dojo</a> 
+ <a href="https://blog.workdojos.com/free-dojo">Free Lifetime Dojo</a> 
 
  
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
