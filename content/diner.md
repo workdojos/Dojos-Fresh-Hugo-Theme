@@ -179,7 +179,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or build your o
 
 
 
- <a href="https://blog.workdojos.com/free-dojo">Free Lifetime Dojo</a> 
+ <a href="https://blog.workdojos.com/free-dojo">Let's go.</a> 
 
 
 

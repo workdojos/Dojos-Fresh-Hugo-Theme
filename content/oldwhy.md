@@ -48,7 +48,7 @@ Take back your data privacy.  We will teach you how to manager your own server, 
 
 
 
- <a href="https://blog.workdojos.com/free-dojo">Free Lifetime Dojo</a> 
+ <a href="https://blog.workdojos.com/free-dojo">Let's go.</a> 
 
 
 

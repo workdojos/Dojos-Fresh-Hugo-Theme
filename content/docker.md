@@ -45,7 +45,7 @@ All the apps that we deploy for your are deployed with Docker.  Let us guide you
 
 See what Docker can do for you.  Sign up for a trial in the upper right or save 25% off a year's subscription with the following link:
 
- <a href="https://blog.workdojos.com/free-dojo">Free Lifetime Dojo</a> 
+ <a href="https://blog.workdojos.com/free-dojo">Let's go.</a> 
 
  
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">

@@ -43,7 +43,7 @@ Premium plans with Bitwarden are still a worthy (and wise) option.  Self-hosting
 
 Sign up for a trial in the upper right or save 25% off a subscription with the following link:
 
- <a href="https://blog.workdojos.com/free-dojo">Free Lifetime Dojo</a> 
+ <a href="https://blog.workdojos.com/free-dojo">Let's go.</a> 
 
  
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
