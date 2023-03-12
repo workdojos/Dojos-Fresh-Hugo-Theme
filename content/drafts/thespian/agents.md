@@ -174,7 +174,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/features">  
-                        <img src="/uploads/dev.svg" class="columnImage" />
+                        <img src="/uploads/custom dash 1.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
@@ -190,7 +190,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/partners">
-                        <img src="/uploads/team3.svg" class="columnImage" />
+                        <img src="/uploads/happy workstation.svg" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
@@ -227,7 +227,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://chat.workmates.live">
-                        <img src="/uploads/remote.svg" class="columnImage" />
+                        <img src="/uploads/remote.png" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
