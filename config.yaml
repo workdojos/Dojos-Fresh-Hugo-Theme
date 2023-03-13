@@ -35,7 +35,7 @@ params:
     # Main hero title
     title: Dashboard. Dojo.  Business in a Box.
     # Hero subtitle (optional)
-    subtitle: Ditch your dependency on Big Tech.  Build your own kingdom on your own server.  For free. 
+    subtitle: Ditch your dependency on Big Tech.  Build your own kingdom on your own server. 
     # Button text
     buttontext: Browse dojos
     # Where the main hero button links to
@@ -831,25 +831,25 @@ params:
     title: The dashboard.
     subtitle: Sign up to get one just like it FOR FREE.
     tiles:
-    - title: Connected to your own domain.
+    - title: Bookmarks and links to YOUR OWN apps front and center.
       icon: mouse-globe
-      text: Links to all your open-source apps and more.      
+      text: And the dashboard is just the beginning.      
       url: https://admins.workdojos.com
       buttonText: See it live
-    - title: Your kingdom front and center.  
+    - title: Your kingdom kingdom starts here.  
       icon: laptop-cloud
-      text: Set your browser's start page to it.  An uncluttered space for you and your apps.
+      text: Set your browser's start page to it.  An uncluttered space for you FOR FREE.
       url: https://workdojos.com/ghost
       buttonText: See apps
     - title: Self-hosting's never been easier.
       icon: plug-cloud
-      text: Experience the thrill of being the almighty ADMIN!
+      text: Experience the thrill of being the almighty ADMIN!  Your kingdom awaits!
       url: https://blog.workdojos.com/#/portal/signup
       buttonText: Free trial
 
   section2:
     title: The ultimate sandbox.
-    subtitle: The ultimate stomping ground for teams big and small.  Does your family, team, and organization host its own server yet?  Become technologically self-sufficient with our help! 
+    subtitle: The ultimate stomping ground for teams big and small.  Does your family, team, and organization host its own server yet?  Become technologically self-sufficient with our free at-cost service! 
     features:
     - title: Your server, your data.
       text: For as little as $10/month for your own server you can then create an entire digital ecosystem for yourself, your passions, projects, and people.  We will help you build that kingdom FOR FREE!
