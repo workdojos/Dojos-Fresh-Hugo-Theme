@@ -15,7 +15,7 @@ To learn more about open-source tech in Mongolia, you can check out the followin
     
 2.  FOSS Mongolia: This is a blog that covers open-source news and events in Mongolia. You can read their articles to learn more about the latest developments in the Mongolian open-source community.
     
-3.  Mongolinux: This is a project to develop a Mongolian language version of Linux. You can download their ISO images and try it out for yourself.
+3.  Mongolinux: This is a project to develop a Mongolian language version of Linux. You can download their ISO images and try one out for yourself.
     
 4.  Mongolian Free and Open Source Software Association (MOFOSS): This is a non-profit organization that promotes the use of free and open-source software in Mongolia. You can visit their website to learn more about their activities.
     

@@ -169,7 +169,7 @@ Real-time car data.  Real-time product info.  Real-time connections to car buyer
 
   
 
-Click the "Sign Up" button in the upper right to claim this dojo or build your own, FOR FREE via the following link:  
+Click the "Sign Up" button in the upper right to claim this dojo or try one out for free via the following link:  
 
 
 

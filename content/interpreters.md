@@ -172,7 +172,7 @@ It all starts with a dashboard.  An interpreter's interface so to speak.  Your i
 
   
 
-Click the "Sign Up" button in the upper right to claim this dojo or build your own, FOR FREE via the following link:  
+Click the "Sign Up" button in the upper right to claim this dojo or try one out for free via the following link:  
 
 
 

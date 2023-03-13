@@ -169,7 +169,7 @@ Use it for your daily reminders or to on-board new staff.  Create an online comm
 
   
 
-Click the "Sign Up" button in the upper right to claim this dojo or build your own, FOR FREE via the following link:  
+Click the "Sign Up" button in the upper right to claim this dojo or try one out for free via the following link:  
 
 
 

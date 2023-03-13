@@ -169,7 +169,7 @@ Serve up a portfolio for your clients or put all the best animation tools on you
 
   
 
-Click the "Sign Up" button in the upper right to claim this dojo or build your own, FOR FREE via the following link:  
+Click the "Sign Up" button in the upper right to claim this dojo or try one out for free via the following link:  
 
 
 
