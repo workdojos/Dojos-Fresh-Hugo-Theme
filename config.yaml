@@ -833,7 +833,7 @@ params:
     tiles:
     - title: Links to YOUR OWN apps.
       icon: mouse-globe
-      text: Ad-free and connected your own domain.      
+      text: Ad-free and connected to your own domain.      
       url: https://admins.workdojos.com
       buttonText: See it live
     - title: Some of the best apps of 2023.  
@@ -852,10 +852,10 @@ params:
     subtitle: The ultimate educational stomping ground!  Become technologically self-sufficient with our AT-COST service! 
     features:
     - title: Your server, your data.
-      text: For as little as $10/month for your own AT-COST server you can then create an entire digital ecosystem for yourself, your passions, projects, and people.  We will help you build that kingdom FOR FREE!
+      text: For as little as $10/month for your own AT-COST server you can then create an entire digital ecosystem for yourself, your passions, projects, and people.  We will help you build your kingdom FOR FREE!
       icon: plug-cloud
     - title: Dojo.
-      text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.
+      text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  Your dojo is your place.
       icon: laptop-cloud
     - title: To be dependent on Big Tech is to be at a disadvantage.
       text: Prepare for the digital future AND save money by building your own open-source kingdom.  
@@ -884,7 +884,7 @@ params:
       job: Graphic Designer
       img: 2
     - name: Jessi
-      quote: Save a ton of money over apps that charge per person by simply going open-source.  Our Dojo has a whopping 20 WordPress sites on it (with space left over for more), as well as a chat app and company wiki.  Our teams like the autonomy they get by having their own private space to collaborate.
+      quote: Save a ton of money over apps that charge per person by simply going open-source.  Our dojo has a whopping 20 WordPress sites on it (with space left over for more), as well as a chat app and company wiki.  Our teams like the autonomy they get by having their own private space to collaborate.
       job: HR Manager
       img: 1
   section5: false
