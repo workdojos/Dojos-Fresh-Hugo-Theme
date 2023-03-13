@@ -18,7 +18,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
-  description: Dashboard.  Dojo.  Business in a Box.  We are a free at-cost service that will guide you into the world of self-hosted open-source technology.
+  description: Dashboard.  Dojo.  Business in a Box.  We are a free at-cost service that will help you take that first step into the world of self-hosted open-source technology.
   # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
   # preloader: false
   navbarlogo:
@@ -37,7 +37,7 @@ params:
     # Hero subtitle (optional)
     subtitle: Ditch your dependency on Big Tech.  Build your own kingdom on your own server.  For free. 
     # Button text
-    buttontext: Get a dojo
+    buttontext: Browse dojos
     # Where the main hero button links to
     buttonlink: "https://workdojos.com/marketplace"
     # Hero image (from static/images/___)
@@ -828,12 +828,12 @@ params:
         url: https://chat.workmates.live/channel/Jobseeker
 
   section1:
-    title: It start with a simple dashboard.
-    subtitle: An easy first step into everything open-source.
+    title: The dashboard.
+    subtitle: Sign up to get one just like it FOR FREE.
     tiles:
-    - title: A dashboard to rule them all.
+    - title: Connected to your own domain.
       icon: mouse-globe
-      text: Because it's all yours (including your own domain)      
+      text: Links to all your open-source apps and more.      
       url: https://admins.workdojos.com
       buttonText: See it live
     - title: Your kingdom front and center.  
@@ -849,10 +849,10 @@ params:
 
   section2:
     title: The ultimate sandbox.
-    subtitle: A gateway to everything open-source.
+    subtitle: The ultimate stomping ground for teams big and small.  Does your family, team, and organization host its own server yet?  Become technologically self-sufficient with our help! 
     features:
     - title: Your server, your data.
-      text: For as little as $10/month you can create an entire digital ecosystem for yourself, your passions, projects, and people.
+      text: For as little as $10/month for your own server you can then create an entire digital ecosystem for yourself, your passions, projects, and people.  We will help you build that kingdom FOR FREE!
       icon: plug-cloud
     - title: Dojo.
       text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  The ultimate sandbox.
