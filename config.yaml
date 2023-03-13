@@ -852,7 +852,7 @@ params:
     subtitle: The ultimate stomping ground for teams!  Does your family or team host its own server yet?  Become technologically self-sufficient with our FREE at-cost service! 
     features:
     - title: Your server, your data.
-      text: For as little as $10/month for your own server you can then create an entire digital ecosystem for yourself, your passions, projects, and people.  We will help you build that kingdom FOR FREE!
+      text: For as little as $10/month for your own AT-COST server you can then create an entire digital ecosystem for yourself, your passions, projects, and people.  We will help you build that kingdom FOR FREE!
       icon: plug-cloud
     - title: Dojo.
       text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  The ultimate sandbox.
@@ -884,7 +884,7 @@ params:
       job: Graphic Designer
       img: 2
     - name: Jessi
-      quote: Save a ton of money over expensive SaaS apps that charge per person per month (and predatory webhost pricing that goes way up after the first year) by simply going open-source.  We deployed a whopping 20 websites on a single server with space left over for more, as well as a chat app and company wiki.  Our teams also like the autonomy they get by having their own private space to collaborate and build things.
+      quote: Save a ton of money over apps that charge per person by simply going open-source.  Our Dojo has a whopping 20 WordPress sites on it (with space left over for more), as well as a chat app and company wiki.  Our teams like the autonomy they get by having their own private space to collaborate.
       job: HR Manager
       img: 1
   section5: false
