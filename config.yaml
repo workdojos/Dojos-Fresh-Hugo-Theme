@@ -849,13 +849,13 @@ params:
 
   section2:
     title: The ultimate sandbox.
-    subtitle: The ultimate stomping ground for teams!  Does your family or team host its own server yet?  Become technologically self-sufficient with our FREE at-cost service! 
+    subtitle: The ultimate educational stomping ground!  Become technologically self-sufficient with our AT-COST service! 
     features:
     - title: Your server, your data.
       text: For as little as $10/month for your own AT-COST server you can then create an entire digital ecosystem for yourself, your passions, projects, and people.  We will help you build that kingdom FOR FREE!
       icon: plug-cloud
     - title: Dojo.
-      text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  The ultimate sandbox.
+      text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.
       icon: laptop-cloud
     - title: To be dependent on Big Tech is to be at a disadvantage.
       text: Prepare for the digital future AND save money by building your own open-source kingdom.  
