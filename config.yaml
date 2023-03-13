@@ -831,12 +831,12 @@ params:
     title: The dashboard.
     subtitle: Sign up to get one just like it FOR FREE.
     tiles:
-    - title: Bookmarks and links to YOUR OWN apps front and center.
+    - title: Links to YOUR OWN apps front and center.
       icon: mouse-globe
-      text: And the dashboard is just the beginning.      
+      text: And the dashboard is just the beginning!      
       url: https://admins.workdojos.com
       buttonText: See it live
-    - title: Your kingdom kingdom starts here.  
+    - title: Your kingdom starts here.  
       icon: laptop-cloud
       text: Set your browser's start page to it.  An uncluttered space for you FOR FREE.
       url: https://workdojos.com/ghost
@@ -849,7 +849,7 @@ params:
 
   section2:
     title: The ultimate sandbox.
-    subtitle: The ultimate stomping ground for teams big and small.  Does your family, team, and organization host its own server yet?  Become technologically self-sufficient with our free at-cost service! 
+    subtitle: The ultimate stomping ground for teams!  Does your family, team, and organization host its own server yet?  Become technologically self-sufficient with our FREE at-cost service! 
     features:
     - title: Your server, your data.
       text: For as little as $10/month for your own server you can then create an entire digital ecosystem for yourself, your passions, projects, and people.  We will help you build that kingdom FOR FREE!
@@ -858,7 +858,7 @@ params:
       text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  The ultimate sandbox.
       icon: laptop-cloud
     - title: To be dependent on Big Tech is to be at a disadvantage.
-      text: Prepare for the digital future AND save money.  $100/month in value and a real person to talk to.  
+      text: Prepare for the digital future AND save money by building your own open-source kingdom.  
       icon: mobile-feed
     - title: Build the next big thing.
       text: With millions of open-source apps and micro-services at your beck and call, you CAN build the next big thing!
@@ -876,15 +876,15 @@ params:
     subtitle: To make open-source more accessible.
     clients:
     - name: Sean
-      quote: I never thought I could host my own server.  I didn't even know what "self-hosting" meant (I do now ... and it's changed everything). Dojos showed me the way and it's been a fun ride!
+      quote: I never thought I could host my own server.  Dojos showed me the way and it's been a real game-changer!
       job: Social Media Marketer
       img: 3
     - name: John
-      quote: Linux used to freak me out.  Now I kind of like it.  Even as a non-dev I can make it do what I want (kinda sorta, but sometime's that's just enough!).  Most of the time I don't have to do anything, it's all pretty plug 'n play and very user-friendly (and cost-friendly) overall.  
+      quote: Even as a non-dev it's easy to administrate your own server.  It's all pretty plug 'n play after Dojos does its thing.  
       job: Graphic Designer
       img: 2
     - name: Jessi
-      quote: We saved a ton of money over expensive SaaS apps (and predatory webhost pricing that goes way up after the first year) by simply going open-source.  We deployed a whopping 20 websites in a single dojo with space left over for more, as well as a chat app and company wiki.  Our teams also like the autonomy they get by having their own private spaces.
+      quote: Save a ton of money over expensive SaaS apps that charge per person per month (and predatory webhost pricing that goes way up after the first year) by simply going open-source.  We deployed a whopping 20 websites on a single server with space left over for more, as well as a chat app and company wiki.  Our teams also like the autonomy they get by having their own private space to collaborate and build things.
       job: HR Manager
       img: 1
   section5: false
