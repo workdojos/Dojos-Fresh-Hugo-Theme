@@ -33,7 +33,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Dashboard. Dojo.  Business in a Box.
+    title: Free Dashboard. Dojo.  Business in a Box.
     # Hero subtitle (optional)
     subtitle: Ditch your dependency on Big Tech.  Build your own kingdom on your own server. 
     # Button text
@@ -831,25 +831,25 @@ params:
     title: The dashboard.
     subtitle: Sign up to get one just like it FOR FREE.
     tiles:
-    - title: Links to YOUR OWN apps front and center.
+    - title: Links to YOUR OWN apps.
       icon: mouse-globe
-      text: And the dashboard is just the beginning!      
+      text: Ad-free and connected your own domain.      
       url: https://admins.workdojos.com
       buttonText: See it live
-    - title: Your kingdom starts here.  
+    - title: Some of the best apps of 2023.  
       icon: laptop-cloud
-      text: Set your browser's start page to it.  An uncluttered space for you FOR FREE.
+      text: WordPress, Ghost, Rocket.chat, Wiki.js, and more.
       url: https://workdojos.com/ghost
       buttonText: See apps
     - title: Self-hosting's never been easier.
       icon: plug-cloud
-      text: Experience the thrill of being the almighty ADMIN!  Your kingdom awaits!
+      text: Experience the thrill of being the almighty ADMIN!
       url: https://blog.workdojos.com/#/portal/signup
-      buttonText: Free trial
+      buttonText: Sign up
 
   section2:
     title: The ultimate sandbox.
-    subtitle: The ultimate stomping ground for teams!  Does your family, team, and organization host its own server yet?  Become technologically self-sufficient with our FREE at-cost service! 
+    subtitle: The ultimate stomping ground for teams!  Does your family or team host its own server yet?  Become technologically self-sufficient with our FREE at-cost service! 
     features:
     - title: Your server, your data.
       text: For as little as $10/month for your own server you can then create an entire digital ecosystem for yourself, your passions, projects, and people.  We will help you build that kingdom FOR FREE!
