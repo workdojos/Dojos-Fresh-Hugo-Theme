@@ -210,7 +210,7 @@ Building your image.  Building your portfolio.  Building your message.  Building
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://workdojos.com/docs/start">  
+                      <a href="https://blog.workdojos.com/#/portal/signup">  
                         <img src="/uploads/dash 2.png" class="columnImage" />
                     </td>
                 </tr>

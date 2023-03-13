@@ -226,7 +226,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or try one out 
             <table border="0" cellpadding="10" cellspacing="0" width="100%">
                 <tr>
                     <td class="leftColumnContent">
-                      <a href="https://workdojos.com/docs/start">  
+                      <a href="https://blog.workdojos.com/#/portal/signup">  
                         <img src="/uploads/dash 2.png" class="columnImage" />
                     </td>
                 </tr>
