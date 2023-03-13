@@ -2,7 +2,7 @@
 title: Get a dojo.
 description: Making open-source more accessible.
 include_footer: true
-sidebar: false
+sidebar: true
 sidebarlogo: wordojos_logo
 ---
 <iframe src="https://workmates.live/marketplace-2" style="width: 100%;height: 1100px;overflow: hidden;border: none;" align="middle"></iframe>
