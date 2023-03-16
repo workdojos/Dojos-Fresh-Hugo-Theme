@@ -13,21 +13,10 @@ markup:
       unsafe: true # Allows you to write raw html in your md files
       hardWraps: true
 
-module:
-  module.imports:
-    - path: github.com/divinerites/plausible-hugo
-
-
-plausible:
-  proxy_netlify: true
-  imports:
-    - path: github.com/divinerites/plausible-hugo
-      enable: true
-      domain: workdojos.com
-      outbound_link: true 
-      file_downloads: true 
-      gitstar: false
-      proxy_netlify: true
+params:
+  plausible:
+    dataDomain: workdojos.com
+    javaScript: https://workdojos.com/js/script.js
 
 
 params:
