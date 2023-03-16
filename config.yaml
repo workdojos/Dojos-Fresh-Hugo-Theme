@@ -17,7 +17,20 @@ params:
   plausible:
     dataDomain: workdojos.com
     proxy_netlify: true
+    enable: true
+    domain: "my-domain-id"
+    outbound_link: true
+    file_downloads: true
+    debug: false
+    gitstar: false
 
+module:
+  imports:
+    - path: github.com/divinerites/plausible-hugo
+      ignoreConfig: true
+      mounts:
+      - source: content/test
+        target: content/note
 
 params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
