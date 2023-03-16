@@ -239,7 +239,7 @@ Also included with your Dojo, some of the coolest open-source apps on the planet
 
   
 
-Click the "Sign Up" button in the upper right to claim this dojo or try one out for free via the following link:  
+Click the "Sign Up" button in the upper right to claim a dojo or try one out for free via the following link:  
 
 
 
