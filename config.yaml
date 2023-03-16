@@ -2,7 +2,6 @@ baseURL: https://workdojos.com
 languageCode: en-us
 title: Work Dojos
 theme: hugo-fresh
-theme: plausible-hugo
 disablePathToLower: true
 # Disables warnings
 disableKinds:
@@ -14,13 +13,20 @@ markup:
       unsafe: true # Allows you to write raw html in your md files
       hardWraps: true
 
-params.plausible:
-  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
-  enable: true
-  # Used as meta data; describe your site to make Google Bots happy
-  domain: workdojos.com
-  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
-  # preloader: false
+module:
+  module.imports:
+    - path: github.com/divinerites/plausible-hugo
+
+
+plausible:
+  imports:
+    - path: github.com/divinerites/plausible-hugo
+      enable: true
+      domain: workdojos.com
+      outbound_link: true 
+      file_downloads: true 
+      gitstar: false 
+      
 
 params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
