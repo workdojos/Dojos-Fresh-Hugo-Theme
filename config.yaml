@@ -16,7 +16,7 @@ markup:
 params:
   plausible:
     dataDomain: workdojos.com
-    javaScript: https://plausible.io/js/script.js
+    proxy_netlify: true
 
 
 params:
