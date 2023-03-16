@@ -1,8 +1,0 @@
-# Netlify redirects from aliases
-{{ range $p := site.Pages -}}
-{{ range .Aliases }}
-{{  . | printf "%-35s" }} {{ $p.RelPermalink }} 301!
-{{ end -}}
-{{- end -}}
-
-{{ partial "plausible_redirects_netlify.html" . }}

@@ -1,3 +1,6 @@
 <head>
-  {{ partial "plausible_head.html" . }}
+  ...
+  {{/* Analytics */}}
+  {{ partialCached "analytics.html" .Site }}
+  ...
   </head>
