@@ -19,6 +19,7 @@ module:
 
 
 plausible:
+  proxy_netlify: true
   imports:
     - path: github.com/divinerites/plausible-hugo
       enable: true
