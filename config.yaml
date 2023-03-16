@@ -15,8 +15,8 @@ markup:
       hardWraps: true
 
 module:
-  imports:
-  - path: github.com/divinerites/plausible-hugo
+	  imports:
+	    - path: "github.com/divinerites/plausible-hugo"
 
 params:
   plausible:
@@ -28,10 +28,6 @@ params:
     file_downloads: true
     debug: false
     gitstar: false
-
-module:
-  imports:
-  - path: github.com/divinerites/plausible-hugo
 
 params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
