@@ -25,8 +25,9 @@ plausible:
       domain: workdojos.com
       outbound_link: true 
       file_downloads: true 
-      gitstar: false 
-      
+      gitstar: false
+      proxy_netlify: true
+
 
 params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
