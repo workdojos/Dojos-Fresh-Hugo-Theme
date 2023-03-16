@@ -14,6 +14,10 @@ markup:
       unsafe: true # Allows you to write raw html in your md files
       hardWraps: true
 
+module:
+  imports:
+  - path: github.com/divinerites/plausible-hugo
+
 params:
   plausible:
     dataDomain: workdojos.com
@@ -27,11 +31,7 @@ params:
 
 module:
   imports:
-    - path: github.com/divinerites/plausible-hugo
-      ignoreConfig: true
-      mounts:
-      - source: content/test
-        target: content/note
+  - path: github.com/divinerites/plausible-hugo
 
 params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
