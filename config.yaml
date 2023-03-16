@@ -2,7 +2,6 @@ baseURL: https://workdojos.com
 languageCode: en-us
 title: Work Dojos
 theme: hugo-fresh
-theme: plausible-hugo
 disablePathToLower: true
 # Disables warnings
 disableKinds:
