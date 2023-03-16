@@ -16,7 +16,7 @@ markup:
 params:
   plausible:
     dataDomain: workdojos.com
-    javaScript: https://workdojos.com/js/script.js
+    javaScript: https://plausible.io/js/script.js
 
 
 params:
