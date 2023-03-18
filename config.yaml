@@ -33,7 +33,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Free Dashboard. Dojo.  Business in a Box.
+    title: Dojo and Dashboard.  Business in a Box.
     # Hero subtitle (optional)
     subtitle: Ditch your dependency on Big Tech.  Build your own kingdom on your own server. 
     # Button text
@@ -49,7 +49,7 @@ params:
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Around the World
+  - title: Open-Source Around the World
     sublinks:
     - title: Australia
       url: https://workdojos.com/Australia
@@ -65,8 +65,6 @@ params:
       url: https://workdojos.com/Finland
     - title: Germany
       url: https://workdojos.com/Germany
-    - title: Iceland
-      url: https://workdojos.com/Iceland
     - title: Ireland
       url: https://workdojos.com/Ireland
     - title: Italy
@@ -81,8 +79,6 @@ params:
       url: https://workdojos.com/Philippines
     - title: Portugal
       url: https://workdojos.com/Portugal
-    - title: Qatar
-      url: https://workdojos.com/Qatar
     - title: South Korea
       url: https://workdojos.com/South-Korea
     - title: Spain
@@ -91,8 +87,6 @@ params:
       url: https://workdojos.com/Switzerland
     - title: Thailand
       url: https://workdojos.com/Thailand
-    - title: Tunisia
-      url: https://workdojos.com/Tunisia
     - title: UK
       url: https://workdojos.com/United-Kingdom
     - title: USA
