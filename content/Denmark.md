@@ -57,7 +57,7 @@ These are just a few of the many notable technologists from Denmark. You can fin
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Denmark" target="_blank">Claim this Dojo</a>
+
   </body>
 </html>
 <br>
