@@ -828,7 +828,7 @@ params:
     - title: Links to YOUR OWN apps.
       icon: mouse-globe
       text: Ad-free and connected to your own domain.      
-      url: https://admins.workdojos.com
+      url: https://librarian.workdojos.com/
       buttonText: See it live
     - title: Some of the best apps of 2023.  
       icon: laptop-cloud
