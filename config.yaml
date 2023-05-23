@@ -37,7 +37,7 @@ params:
     # Hero subtitle (optional)
     subtitle: Using free and open-source technology. 
     # Button text
-    buttontext: Browse dojos
+    buttontext: Browse all
     # Where the main hero button links to
     buttonlink: "https://workdojos.com/marketplace"
     # Hero image (from static/images/___)
@@ -865,22 +865,7 @@ params:
     image: logos/undraw_road_to_knowledge_m8s0.svg
     buttonText: Browse dojos
     buttonLink: "https://workmates.live/marketplace"
-  section4:
-    title: Our mission.
-    subtitle: To make open-source more accessible.
-    clients:
-    - name: Sean
-      quote: I never thought I could host my own server.  Dojos showed me the way and it's been a real game-changer!
-      job: Social Media Marketer
-      img: 3
-    - name: John
-      quote: Even as a non-dev it's easy to administrate your own server.  It's all pretty plug 'n play after Dojos does its thing.  
-      job: Graphic Designer
-      img: 2
-    - name: Jessi
-      quote: Save a ton of money over apps that charge per person by simply going open-source.  Our dojo has a whopping 20 WordPress sites on it (with space left over for more), as well as a chat app and company wiki.  Our teams like the autonomy they get by having their own private space to collaborate.
-      job: HR Manager
-      img: 1
+  
   section5: false
   footer:
     # Logo (from /images/logos/___)
