@@ -230,3 +230,25 @@ Click the "Sign Up" button in the upper right to claim this dojo or try one out 
                         Don't stop being there because you can't be there.  Be present now.
                     </td>
                 </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="rightColumnContent">
+                      <a href="https://workdojos.com/registerednurse">
+                        <img src="https://workmates.live/wp-content/uploads/2022/01/RegisteredNurse-scaled.jpg" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="rightColumnContent">
+                        <h1>Help others.</h1>
+                        Share your ideas for revolutionizing the world of healthcare.
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+<br><br>

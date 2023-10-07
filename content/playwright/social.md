@@ -46,3 +46,26 @@ Pin images of your favorite plays and performances, along with a brief descripti
 <br>
 <a href="https://workdojos.com/playwright/startup">next: startup ideas</a>
 </p>
+<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+    <tr>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="leftColumnContent">
+                      <a href="https://playwright.workdojos.com">
+                        <img src="/uploads/dash.png" class="columnImage" />
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="rightColumnContent">
+                      <a href="https://physicist.workdojos.com">
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
+                    </td>
+            </table>
+        </td>
+    </tr>
+</table>

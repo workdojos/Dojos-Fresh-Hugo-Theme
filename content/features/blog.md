@@ -57,3 +57,25 @@ Don’t settle for another basic profile that looks just like everyone else. Mak
 
 {{% title3 "Native analytics." %}}
 Understand what's working. Detailed engagement analytics for your audience so you can understand what content is getting the most attention, and who your biggest fans are..
+
+
+
+{{% title3 "Offers & promotions." %}}
+Entice new subscribers with offers and promotions to grow your business. Run a 30% discount for your first 100 subscribers, an 80%-off Black Friday sale, or a special promotion for a live event.
+
+<br>
+
+
+
+Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
+
+[Deal on a dojo.]https://blog.workdojos.com/free-dojo 
+
+ <br>
+
+ <a href="https://ghost.org/">Consider supporting and subscribing to Ghost directly.</a> 
+
+ <br>
+
+ <a href="https://workdojos.com/features/chat">Next feature</a> 
+

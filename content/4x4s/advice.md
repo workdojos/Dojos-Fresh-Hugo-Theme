@@ -10,7 +10,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-First of all guy, it's great that you have a specific industry in mind that you are interested in pursuing. The 4x4 industry can be a rewarding and exciting field to work in, with many opportunities for growth and development.
+First of all dog, it's great that you have a specific industry in mind that you are interested in pursuing. The 4x4 industry can be a rewarding and exciting field to work in, with many opportunities for growth and development.
 
 To determine if a career as a 4x4 business owner is the right fit for you, it's important to consider your skills, interests, and experience. Do you have a strong mechanical aptitude and enjoy working with vehicles? Do you have experience in the 4x4 industry, whether through work or personal hobbies? Do you have a passion for off-road adventure and a desire to help others experience it as well? If you answered yes to these questions, a career as a 4x4 business owner could be a great fit for you.
 
@@ -23,3 +23,26 @@ Overall, a career as a 4x4 business owner can be a rewarding and exciting path f
 <br>
 <a href="https://workdojos.com/4X4s/rights">next: workers' rights</a>
 </p>
+<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+    <tr>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="leftColumnContent">
+                      <a href="https://4X4s.workdojos.com">
+                        <img src="/uploads/dash.png" class="columnImage" />
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="rightColumnContent">
+                      <a href="https://lifecoaches.workdojos.com">
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
+                    </td>
+            </table>
+        </td>
+    </tr>
+</table>

@@ -37,3 +37,25 @@ Edit documents together using Etherpad
 <br>
 
 {{% title3 "Pick fun meeting URLs for every meeting." %}}
+Trade messages and emojis while you video conference, with integrated chat.
+
+<br>
+
+<img src="/uploads/j3.jpg" 
+     width="600" 
+     height="600" />
+
+<br>
+
+
+Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
+
+[Deal on a dojo.](https://blog.workdojos.com/free-dojo)
+
+ <br>
+
+ <a href="https://jitsi.org/">Consider supporting and subscribing to Jitsi.org directly.</a> 
+
+ <br>
+
+ <a href="https://workdojos.com/features/voip">Next feature</a> 

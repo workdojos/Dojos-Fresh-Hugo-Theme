@@ -44,3 +44,26 @@ E2E encrypted, ISO 27001 certified, and supporting compliance with GDPR, CCPA, L
 <br>
 
 {{% title3 "100% Customizable." %}}
+Integrate with your ecosystem using our open API. Enjoy a wide range of customization and white-labeling options. Perfect as in-app or livestream chat..
+
+<br>
+
+<img src="/uploads/r5.png" 
+     width="600" 
+     height="600" />
+
+
+Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
+
+[Deal on a dojo.](https://blog.workdojos.com/free-dojo)
+
+
+
+
+ <br>
+
+ <a href="https://www.rocket.chat/">Consider supporting and subscribing to Rocket.chat directly.</a> 
+
+ <br>
+
+ <a href="https://workdojos.com/features/db">Next feature</a> 

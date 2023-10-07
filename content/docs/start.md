@@ -222,3 +222,26 @@ Also included with your Dojo, some of the coolest open-source apps on the planet
         </td>
     </tr>
 </table>
+
+
+<br>
+
+{{% subtitle5 "We support small business because we are a small business." %}}
+
+
+ 
+  
+  
+  
+    
+      
+ 
+
+  
+
+Click the "Sign Up" button in the upper right to claim a dojo or try one out for free via the following link:  
+
+
+
+ <a href="https://blog.workdojos.com/free-dojo">Let's go.</a> 
+

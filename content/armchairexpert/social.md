@@ -33,3 +33,26 @@ Overall, the key to creating an engaging campaign is to share valuable and relev
 <br>
 <a href="https://workdojos.com/armchairexpert/startup">next: startup ideas</a>
 </p>
+<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+    <tr>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="leftColumnContent">
+                      <a href="https://armchairexpert.workdojos.com">
+                        <img src="/uploads/dash.png" class="columnImage" />
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="rightColumnContent">
+                      <a href="https://physicist.workdojos.com">
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
+                    </td>
+            </table>
+        </td>
+    </tr>
+</table>

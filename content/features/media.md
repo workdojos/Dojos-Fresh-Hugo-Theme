@@ -33,3 +33,25 @@ Your data is displayed alongside your settings, making edge cases easy to track 
 
 {{% title3 "Use templates to get started fast." %}}
 1000+ workflow templates available from our core team and our community.
+
+<br>
+
+<img src="/uploads/n8n3.png" 
+     width="600" 
+     height="600" />
+
+<br>
+
+{{% title3 "Code when you need it, UI when you don't." %}}
+Your data is displayed alongside your settings, making edge cases easy to track down.
+
+<br>
+
+<img src="/uploads/n8n4.png" 
+     width="600" 
+     height="600" />
+
+<br>
+
+
+

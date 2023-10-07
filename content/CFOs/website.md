@@ -29,3 +29,27 @@ In conclusion, using open-source technology to build your business website can b
 <br>
 <br>
 </p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+    <tr>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="leftColumnContent">
+                      <a href="https://CFOs.workdojos.com">
+                        <img src="/uploads/dash.png" class="columnImage" />
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="rightColumnContent">
+                      <a href="https://cosmonaut.workdojos.com">
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
+                    </td>
+            </table>
+        </td>
+    </tr>
+</table>

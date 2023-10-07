@@ -223,3 +223,26 @@ Building your image.  Building your portfolio.  Building your message.  Building
             </table>
         </td>
         <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="rightColumnContent">
+                      <a href="https://chat.workmates.live">
+                        <img src="/uploads/remote angel 2.png" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="rightColumnContent">
+                        <h1>Chat.</h1>
+                        Workmates:  1000 channels, for every country and every job. 
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+
+<br><br>
+
+
+ <a href="https://workdojos.com/Tokenomic">Next Dojo</a> 

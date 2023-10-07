@@ -26,3 +26,26 @@ Remember, a career as a pharmacist in the pharmaceutical industry can be extreme
 <br>
 <a href="https://workdojos.com/pharmacists/learning">next: learning</a>
 </p>
+<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+    <tr>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="leftColumnContent">
+                      <a href="https://pharmacists.workdojos.com">
+                        <img src="/uploads/dash.png" class="columnImage" />
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="rightColumnContent">
+                      <a href="https://captains.workdojos.com">
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
+                    </td>
+            </table>
+        </td>
+    </tr>
+</table>

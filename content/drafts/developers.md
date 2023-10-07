@@ -26,3 +26,26 @@ draft: true
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
+                        <h1>Left Column</h1>
+                        Lorem ipsum dolor sit amet.
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="rightColumnContent">
+                        <img src="/baristas (3).png" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="rightColumnContent">
+                        <h1>Right Column</h1>
+                        Lorem ipsum dolor sit amet.
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>

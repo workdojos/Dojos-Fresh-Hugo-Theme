@@ -42,3 +42,26 @@ sidebarlogo: wordojos_logo
     To provide the Service on our behalf;</li>
     To perform Service-related services; or</li>
     To assist us in analyzing how our Service is used.</li>
+
+
+<p>We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.</p>
+
+<h2>Security</h2>
+
+<p>We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.</p>
+
+<h2>Links to Other Sites</h2>
+
+<p>Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</p>
+
+<p>Children's Privacy</p>
+
+<p>Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.</p>
+
+<h2>Changes to This Privacy Policy</h2>
+
+<p>We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.</p>
+
+<h2>Contact Us</h2>
+
+<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.</p>

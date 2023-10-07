@@ -41,3 +41,27 @@ Your data is displayed alongside your settings, making edge cases easy to track 
      height="500" />
 
 <br>
+
+{{% title3 "Code when you need it, UI when you don't." %}}
+Your data is displayed alongside your settings, making edge cases easy to track down.
+
+<br>
+
+<img src="/uploads/n8n4.png" 
+     width="900" 
+     height="500" />
+
+<br>
+
+Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
+
+[Deal on a dojo.](https://blog.workdojos.com/free-dojo)
+
+
+ <br>
+
+ <a href="https://n8n.io/">Consider supporting and subscribing to n8n directly.</a> 
+
+ <br>
+
+ <a href="https://workdojos.com/features/blog">Next feature</a> 

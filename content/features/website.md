@@ -44,3 +44,25 @@ Hugo ships with pre-made templates to make quick work of SEO, commenting, analyt
 <br>
 
 {{% title3 "HTML not enough?" %}}
+Hugo allows you to output your content in multiple formats, including JSON or AMP, and makes it easy to create your own. 
+
+<br>
+
+<img src="/uploads/h2.png" 
+     width="600" 
+     height="600" />
+
+<br>
+
+Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
+
+[Deal on a dojo.](https://blog.workdojos.com/free-dojo)
+
+ <br>
+
+ <a href="https://gohugo.io/">Consider supporting and subscribing to Hugo directly.</a> 
+
+ <br>
+
+ <a href="https://workdojos.com/features/automation">Next feature</a> 
+

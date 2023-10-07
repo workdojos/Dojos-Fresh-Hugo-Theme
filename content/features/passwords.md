@@ -38,3 +38,25 @@ Bitwarden Send is a feature that allows all users to transmit data directly to o
 <br>
 
 <img src="/uploads/bit3.svg" 
+     width="600" 
+     height="600" />
+
+<br>
+
+{{% title3 "Generate, consolidate, and autofill strong and secure passwords for all your accounts." %}}
+Bitwarden gives you power to create and manage unique passwords, so you can strengthen privacy and boost productivity online from any device or location.
+
+
+Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
+
+[Deal on a dojo.](https://blog.workdojos.com/free-dojo)
+
+
+ <br>
+
+ <a href="https://bitwarden.com/">Consider supporting and subscribing to Bitwarden directly.</a> 
+
+ <br>
+
+ <a href="https://workdojos.com/features/virtualcafe">Next feature</a> 
+

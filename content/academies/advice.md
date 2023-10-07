@@ -10,7 +10,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-First of all dude, I would like to congratulate you on your interest in pursuing a career in academia and higher education. This field is both rewarding and challenging, and requires a strong passion for teaching and learning.
+First of all, I would like to congratulate you on your interest in pursuing a career in academia and higher education. This field is both rewarding and challenging, and requires a strong passion for teaching and learning.
 
 To determine whether this career path is suitable for you, we should first take a look at your skills, interests, and experience. Do you have a strong background in a particular subject area? Do you enjoy researching and staying up-to-date on the latest developments in your field? Do you have excellent communication and presentation skills, and enjoy working with others in a collaborative environment? These are all important qualities to have as an academic.
 
@@ -22,3 +22,26 @@ Overall, a career in academia and higher education can be very rewarding for tho
 <br>
 <a href="https://workdojos.com/academies/rights">next: workers' rights</a>
 </p>
+<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+    <tr>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="leftColumnContent">
+                      <a href="https://academies.workdojos.com">
+                        <img src="/uploads/dash.png" class="columnImage" />
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+                <tr>
+                    <td class="rightColumnContent">
+                      <a href="https://lifecoaches.workdojos.com">
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
+                    </td>
+            </table>
+        </td>
+    </tr>
+</table>
