@@ -35,15 +35,3 @@ So don't be afraid to take the leap and explore this exciting career path. With 
                     </td>
                 </tr>
             </table>
-        </td>
-        <td align="center" valign="top" width="50%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
-                <tr>
-                    <td class="rightColumnContent">
-                      <a href="https://captains.workdojos.com">
-                        <img src="/uploads/randomdojo.png" class="columnImage" />
-                    </td>
-            </table>
-        </td>
-    </tr>
-</table>
