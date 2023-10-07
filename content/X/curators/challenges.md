@@ -1,0 +1,23 @@
+---
+title: Art  Industry Controversies and Challenges
+description: Making open-source more accessible.
+include_footer: true
+sidebar: true
+sidebarlogo: wordojos_logo
+---
+<figure>
+    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
+<p>
+The art curation industry has faced numerous controversies in recent years, and it is crucial that we address these challenges to improve the field. One of the main controversies facing curators today is the lack of diversity in the field. Many curators are white and male, and this lack of diversity often leads to a homogenized view of art. To combat this issue, it is essential that we make it easier for curators from diverse backgroundto find work and be recognized for their contributions.
+
+Another significant challenge facing curators is the lack of financial stability. Many curators are paid low wages, and the industry is known for being unstable. It is essential that we pay curators more to ensure that they can devote their time and energy to their work without worrying about financial stability. By paying curators more, we can also attract more talented individuals to the field and create a more vibrant and dynamic art curation industry.
+
+Finally, the art curation industry as a whole can be improved by fostering a more collaborative and inclusive culture. Curators should work closely with artists and other stakeholders to create exhibitions that reflect diverse perspectives and experiences. By embracing collaboration, we can create exhibitions that are more engaging and meaningful to a wider audience.
+
+In conclusion, the art curation industry faces significant challenges, including a lack of diversity and financial stability. To improve the field, we need to make it easier for curators from diverse backgroundto find work, pay curators more, and foster a more collaborative and inclusive culture. By addressing these issues, we can create a more vibrant and dynamic art curation industry that benefits everyone.
+
+<br>
+<a href="https://workdojos.com/curators/history">next: history</a>
+</p>

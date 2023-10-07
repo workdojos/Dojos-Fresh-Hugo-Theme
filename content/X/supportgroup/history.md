@@ -1,0 +1,29 @@
+---
+title:  History and Etymology of Moderators and the Support Group  Industry
+description: Making open-source more accessible.
+include_footer: true
+sidebar: true
+sidebarlogo: wordojos_logo
+
+---
+<figure>
+    <img src='/uploads/history.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='old sailing vessel';/>
+    <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
+</figure>
+<p>
+Moderator:
+
+The word "moderator" comes from the Latin word "moderator," which means "one who moderates or controls." It was originally used in the context of managing or regulating the temperature or intensity of something, such as a fire or debate.
+
+The modern use of the word "moderator" has evolved to refer to a person who presides over or controls a discussion or forum, often acting as a mediator or neutral party to ensure that the conversation stays on track and respectful.
+
+Support Group:
+
+The phrase "support group" likely originated in the 20th century, as a way to describe a group of people who come together to offer mutual support, encouragement, and assistance to each other in dealing with a particular challenge or issue.
+
+The concept of support groups likely has roots in ancient societies, where people would come together in communal settings to share stories, offer advice, and provide emotional and physical support to one another. However, the term "support group" as we know it today likely emerged more recently, as a way to describe a structured, organized group that meets regularly to provide support to its members.
+
+<br>
+<a href="https://workdojos.com/supportgroup/advice">next: advice</a>
+<br>
+</p>
