@@ -10,7 +10,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-First of all, I would like to congratulate you on your interest in pursuing a career in academia and higher education. This field is both rewarding and challenging, and requires a strong passion for teaching and learning.
+First of all dude, I would like to congratulate you on your interest in pursuing a career in academia and higher education. This field is both rewarding and challenging, and requires a strong passion for teaching and learning.
 
 To determine whether this career path is suitable for you, we should first take a look at your skills, interests, and experience. Do you have a strong background in a particular subject area? Do you enjoy researching and staying up-to-date on the latest developments in your field? Do you have excellent communication and presentation skills, and enjoy working with others in a collaborative environment? These are all important qualities to have as an academic.
 
