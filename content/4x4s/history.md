@@ -26,8 +26,8 @@ The meaning of the term "business owner" has remained relatively constant over t
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
-        <td align="center" valign="top" width="50%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+
+            
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://4X4s.workdojos.com">
@@ -36,8 +36,8 @@ The meaning of the term "business owner" has remained relatively constant over t
                 </tr>
             </table>
         </td>
-        <td align="center" valign="top" width="50%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
+
+            
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
