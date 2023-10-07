@@ -39,7 +39,7 @@ Ultimately, the development of an ethical framework for starting a career as a w
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://retailers.workdojos.com">
-                        < />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

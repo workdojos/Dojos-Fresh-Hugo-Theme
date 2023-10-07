@@ -43,7 +43,7 @@ In conclusion, open-source technology is a powerful force in the 4x4 industry, a
 
             
                 <tr>
-                    <td class="rightColumnContent">
+
                       <a href="https://dealerships.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>

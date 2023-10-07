@@ -41,7 +41,7 @@ Overall, the wine industry is facing numerous challenges and controversies that 
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://animators.workdojos.com">
-                        < />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

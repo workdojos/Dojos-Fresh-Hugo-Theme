@@ -42,7 +42,7 @@ In conclusion, fair work practices are crucial for both the success of a wine ba
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://musicalartist.workdojos.com">
-                        < />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

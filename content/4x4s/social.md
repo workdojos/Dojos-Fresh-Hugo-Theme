@@ -43,7 +43,7 @@ Overall, it's important to be consistent and engaging with your followers on all
 
             
                 <tr>
-                    <td class="rightColumnContent">
+
                       <a href="https://physicist.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>

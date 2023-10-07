@@ -47,7 +47,7 @@ Overall, the 4x4 industry is a dynamic and exciting field with endless opportuni
 
             
                 <tr>
-                    <td class="rightColumnContent">
+
                       <a href="https://videogamers.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>

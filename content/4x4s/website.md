@@ -47,7 +47,7 @@ In order to determine the best web builder for your 4x4 business, it is importan
 
             
                 <tr>
-                    <td class="rightColumnContent">
+
                       <a href="https://cosmonaut.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>

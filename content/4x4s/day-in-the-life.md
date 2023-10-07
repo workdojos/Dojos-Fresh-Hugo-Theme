@@ -41,7 +41,7 @@ Jake was proud to be part of the 4x4 industry, and he knew that there were many 
 
             
                 <tr>
-                    <td class="rightColumnContent">
+
                       <a href="https://biologist.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>

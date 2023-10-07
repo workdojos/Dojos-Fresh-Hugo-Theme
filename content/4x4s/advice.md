@@ -38,7 +38,7 @@ Overall, a career as a 4x4 business owner can be a rewarding and exciting path f
 
             
                 <tr>
-                    <td class="rightColumnContent">
+
                       <a href="https://lifecoaches.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>

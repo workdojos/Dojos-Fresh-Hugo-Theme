@@ -40,7 +40,7 @@ Overall, developing an ethical framework for starting a business as a 4x4 busine
 
             
                 <tr>
-                    <td class="rightColumnContent">
+
                       <a href="https://retailers.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>

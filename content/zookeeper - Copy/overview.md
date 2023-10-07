@@ -48,7 +48,7 @@ In conclusion, the wine industry is a growing and exciting field with many oppor
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://videogamers.workdojos.com">
-                        < />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

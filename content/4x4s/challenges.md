@@ -36,7 +36,7 @@ In order to address these controversies and challenges, we need to make it easie
 
             
                 <tr>
-                    <td class="rightColumnContent">
+
                       <a href="https://animators.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>

@@ -42,7 +42,7 @@ Share your excitement with others: One of the best ways to get others excited ab
 
             
                 <tr>
-                    <td class="rightColumnContent">
+
                       <a href="https://captains.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>

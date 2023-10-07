@@ -41,7 +41,7 @@ Overall, the key to creating an engaging campaign on these platforms is to be co
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://physicist.workdojos.com">
-                        < />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

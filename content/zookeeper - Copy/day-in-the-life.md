@@ -44,7 +44,7 @@ Marcel was inspired by these great wine bar owners and vowed to continue sharing
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://biologist.workdojos.com">
-                        < />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

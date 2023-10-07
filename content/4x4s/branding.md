@@ -37,7 +37,7 @@ Overall, my goal as the social media manager for the 4x4 organization would be t
 
             
                 <tr>
-                    <td class="rightColumnContent">
+
                       <a href="https://screenwriter.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>

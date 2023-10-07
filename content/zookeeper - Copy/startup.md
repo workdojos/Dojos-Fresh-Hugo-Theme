@@ -60,7 +60,7 @@ Potential Business Challenges: Competition from other online wine retailers, dif
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://clinician.workdojos.com">
-                        < />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>

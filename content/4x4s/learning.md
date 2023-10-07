@@ -57,7 +57,7 @@ How do you ensure excellent customer service in your business?
 
             
                 <tr>
-                    <td class="rightColumnContent">
+
                       <a href="https://explorers.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>

@@ -42,7 +42,7 @@ Potential Business ChallengesCompetition from other 4x4 business directories, d
 
             
                 <tr>
-                    <td class="rightColumnContent">
+
                       <a href="https://clinician.workdojos.com">
                         <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>

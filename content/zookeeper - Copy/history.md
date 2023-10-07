@@ -40,7 +40,7 @@ The meaning of "wine bar owner" has remained relatively unchanged throughout its
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://bartenders.workdojos.com">
-                        < />
+                        <img src="/uploads/randomdojo.png" class="columnImage" />
                     </td>
             </table>
         </td>
