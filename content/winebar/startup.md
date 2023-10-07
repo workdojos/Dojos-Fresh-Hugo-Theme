@@ -42,3 +42,4 @@ Potential Business Challenges: Competition from other online wine retailers, dif
 <br>
 <br>
 <a href="https://workdojos.com/winebar/tech">next: open-source tech</a>
+</p>

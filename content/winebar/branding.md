@@ -20,3 +20,4 @@ Finally, I would seek out opportunities for collaboration with other accounts in
 
 <br>
 <a href="https://workdojos.com/winebar/ethics">next: ethical framework</a>
+</p>
