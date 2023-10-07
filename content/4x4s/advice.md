@@ -10,7 +10,7 @@ sidebarlogo: wordojos_logo
     <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
 </figure>
 <p>
-First of all, it's great that you have a specific industry in mind that you are interested in pursuing. The 4x4 industry can be a rewarding and exciting field to work in, with many opportunities for growth and development.
+First of all guy, it's great that you have a specific industry in mind that you are interested in pursuing. The 4x4 industry can be a rewarding and exciting field to work in, with many opportunities for growth and development.
 
 To determine if a career as a 4x4 business owner is the right fit for you, it's important to consider your skills, interests, and experience. Do you have a strong mechanical aptitude and enjoy working with vehicles? Do you have experience in the 4x4 industry, whether through work or personal hobbies? Do you have a passion for off-road adventure and a desire to help others experience it as well? If you answered yes to these questions, a career as a 4x4 business owner could be a great fit for you.
 
