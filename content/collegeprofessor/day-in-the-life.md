@@ -28,26 +28,3 @@ Dr. Emma knew that she had big shoes to fill, but she was determined to make a l
 <a href="https://workdojos.com/collegeprofessor/history">next: history</a>
 <br>
 </p>
-<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
-    <tr>
-        <td align="center" valign="top" width="50%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
-                <tr>
-                    <td class="leftColumnContent">
-                      <a href="https://collegeprofessor.workdojos.com">
-                        <img src="/uploads/dash.png" class="columnImage" />
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td align="center" valign="top" width="50%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
-                <tr>
-                    <td class="rightColumnContent">
-                      <a href="https://biologist.workdojos.com">
-                        <img src="/uploads/randomdojo.png" class="columnImage" />
-                    </td>
-            </table>
-        </td>
-    </tr>
-</table>

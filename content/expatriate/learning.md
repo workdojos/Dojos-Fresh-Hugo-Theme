@@ -47,26 +47,3 @@ What skills or qualities do you think are important for an expat to have?
 <br>
 <a href="https://workdojos.com/expatriate/rights">next: workers' rights</a>
 </p>
-<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
-    <tr>
-        <td align="center" valign="top" width="50%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
-                <tr>
-                    <td class="leftColumnContent">
-                      <a href="https://expatriate.workdojos.com">
-                        <img src="/uploads/dash.png" class="columnImage" />
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td align="center" valign="top" width="50%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
-                <tr>
-                    <td class="rightColumnContent">
-                      <a href="https://explorers.workdojos.com">
-                        <img src="/uploads/randomdojo.png" class="columnImage" />
-                    </td>
-            </table>
-        </td>
-    </tr>
-</table>

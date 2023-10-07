@@ -30,26 +30,3 @@ By following these steps, you should be able to effectively manage your sales or
 <br>
 <a href="https://workdojos.com/accountexecutive/ethics">next: ethical framework</a>
 </p>
-<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
-    <tr>
-        <td align="center" valign="top" width="50%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
-                <tr>
-                    <td class="leftColumnContent">
-                      <a href="https://accountexecutive.workdojos.com">
-                        <img src="/uploads/dash.png" class="columnImage" />
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td align="center" valign="top" width="50%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" height="100%" width="100px">
-                <tr>
-                    <td class="rightColumnContent">
-                      <a href="https://screenwriter.workdojos.com">
-                        <img src="/uploads/randomdojo.png" class="columnImage" />
-                    </td>
-            </table>
-        </td>
-    </tr>
-</table>
