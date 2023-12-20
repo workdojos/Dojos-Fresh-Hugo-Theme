@@ -23,7 +23,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/workdojos_logo_small_2.svg
+    image: logos/workdojos_logo.png
     link: /
     # Default width/height. Uncomment if you need to change
     # width: 112
@@ -41,7 +41,7 @@ params:
     # Where the main hero button links to
     buttonlink: "https://workdojos.com/marketplace"
     # Hero image (from static/images/___)
-    image: logos/inspire.svg
+    image: logos/dojofans.gif
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     
@@ -49,48 +49,7 @@ params:
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Open-Source Around the World
-    sublinks:
-    - title: Australia
-      url: https://workdojos.com/Australia
-    - title: Belgium
-      url: https://workdojos.com/Belgium
-    - title: Canada
-      url: https://workdojos.com/Canada
-    - title: Denmark
-      url: https://workdojos.com/Denmark
-    - title: Egypt
-      url: https://workdojos.com/Egypt
-    - title: Finland
-      url: https://workdojos.com/Finland
-    - title: Germany
-      url: https://workdojos.com/Germany
-    - title: Ireland
-      url: https://workdojos.com/Ireland
-    - title: Italy
-      url: https://workdojos.com/Italy
-    - title: Mexico
-      url: https://workdojos.com/Mexico
-    - title: New Zealand
-      url: https://workdojos.com/New-Zealand
-    - title: Norway
-      url: https://workdojos.com/Norway
-    - title: Philippines
-      url: https://workdojos.com/Philippines
-    - title: Portugal
-      url: https://workdojos.com/Portugal
-    - title: South Korea
-      url: https://workdojos.com/South-Korea
-    - title: Spain
-      url: https://workdojos.com/Spain
-    - title: Switzerland
-      url: https://workdojos.com/Switzerland
-    - title: Thailand
-      url: https://workdojos.com/Thailand
-    - title: UK
-      url: https://workdojos.com/United-Kingdom
-    - title: USA
-      url: https://workdojos.com/USA
+
 
 
   - title: Features
@@ -114,7 +73,7 @@ params:
       url: /features/wiki
 
 
-  - title: Featured dojos
+  - title: Featured
     sublinks:
     - title: Administrator Dojo
       url: https://workdojos.com/administrators
@@ -170,7 +129,7 @@ params:
 
 
 
-    - title: Browse dojos
+    - title: Browse
       icon: image
       links:
       - text: AccountExecutive
@@ -800,13 +759,13 @@ params:
       icon: envelope
       links:
       - text: Our founder
-        url: mailto:workdojos@gmail.com
+        url: mailto:admin@workdojos.com
       - text: Technical support
-        url: mailto:workmates.live@gmail.com
+        url: mailto:admin@workdojos.com
       - text: Investors
-        url: mailto:workmates.live@outlook.com
+        url: mailto:admin@workdojos.com
       - text: HR
-        url: mailto:workmates.live@outlook.com
+        url: mailto:admin@workdojos.com
 
 
     - title: Chat now
@@ -869,7 +828,7 @@ params:
   section5: false
   footer:
     # Logo (from /images/logos/___)
-    logo: workdojos_logo_small_2.svg
+    logo: workdojos_logo.png
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
