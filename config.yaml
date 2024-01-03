@@ -41,7 +41,7 @@ params:
     # Where the main hero button links to
     buttonlink: "https://workdojos.com/marketplace"
     # Hero image (from static/images/___)
-    image: logos/garden.webp
+    image: logos/dojopic2.webp
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     
