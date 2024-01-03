@@ -124,7 +124,7 @@ params:
     button: true
   sidebar:
     # Logo (from /images/logos/___.svg)
-    logo: workdojos_logo_small_2
+    logo: workmates logo NEW NEW red green
     sections:
 
 
@@ -828,7 +828,7 @@ params:
   section5: false
   footer:
     # Logo (from /images/logos/___)
-    logo: workdojos_logo_small_2.svg
+    logo: workmates logo NEW NEW red green.svg
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
