@@ -758,7 +758,7 @@ params:
     - title: E-mail us
       icon: envelope
       links:
-      - text: Our founder
+      - text: Our owner
         url: mailto:admin@workdojos.com
       - text: Technical support
         url: mailto:admin@workdojos.com
