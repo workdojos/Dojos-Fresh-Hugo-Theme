@@ -806,7 +806,7 @@ params:
     features:
     - title: Your server, your data.
       text: For as little as $10/month for your own AT-COST server you can then create an entire digital ecosystem for yourself, your passions, projects, and people.  We will help you build your kingdom FOR FREE!
-      icon: plug-cloud
+      icon: /uploads/tv sandbox sunset.svg
     - title: Dojo.
       text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  Your dojo is your place.
       icon: laptop-cloud
