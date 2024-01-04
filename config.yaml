@@ -780,9 +780,6 @@ params:
       - text: Recruiting
         url: https://chat.workmates.live/channel/Jobseeker
 
-  section1:
-    title: The dashboard.
-    subtitle: Sign up to get one just like it FOR FREE.
 
   section2:
     title: The ultimate sandbox.
@@ -799,12 +796,21 @@ params:
       icon:  bg
 
 
+  section1:
+    title: The dashboard.
+    subtitle: Sign up to get one just like it FOR FREE.
+
   section3:
     title: Pick a path.
     subtitle: Choose from over 200 pre-built dojos or blaze your own trail.
     image: logos/blaze.png
     buttonText: Browse pre-built
     buttonLink: "https://workmates.live/marketplace"
+
+  section6:
+    title: Electrify your business with AI.
+    subtitle: Check out our Youtube channel dedicated to AI.
+    
     
   
   section5: false
