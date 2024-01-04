@@ -802,20 +802,17 @@ params:
 
   section2:
     title: The ultimate sandbox.
-    subtitle: The ultimate educational stomping ground!  Become technologically self-sufficient with our AT-COST service! 
+    subtitle: Become technologically self-sufficient with our AT-COST service! 
     features:
     - title: Your server, your data.
       text: For as little as $10/month for your own AT-COST server you can then create an entire digital ecosystem for yourself, your passions, projects, and people.  We will help you build your kingdom FOR FREE!
-      icon: /uploads/tv sandbox sunset.svg
+      image: /uploads/tv guy.svg
     - title: Dojo.
       text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  Your dojo is your place.
-      icon: laptop-cloud
-    - title: To be dependent on Big Tech is to be at a disadvantage.
-      text: Prepare for the digital future AND save money by building your own open-source kingdom.  
-      icon: mobile-feed
+      image: /uploads/tv guy.svg
     - title: Build the next big thing.
       text: With millions of open-source apps and micro-services at your beck and call, you CAN build the next big thing!
-      icon: mouse-globe
+      image: /uploads/tv guy.svg
 
 
   section3:
