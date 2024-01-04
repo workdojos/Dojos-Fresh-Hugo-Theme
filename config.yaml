@@ -810,10 +810,11 @@ params:
   section6:
     title: Electrify your business with AI.
     subtitle: Check out our Youtube channel dedicated to AI.
-    
+
     
   
   section5: false
+  
   footer:
     # Logo (from /images/logos/___)
     logo: workmates logo NEW NEW red green.svg
