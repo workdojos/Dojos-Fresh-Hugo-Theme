@@ -807,12 +807,6 @@ params:
     buttonText: Browse pre-built
     buttonLink: "https://workmates.live/marketplace"
 
-  section6:
-    title: Electrify your business with AI.
-    subtitle: Check out our Youtube channel dedicated to AI.
-    image: logos/placard.webp
-    buttonText: Check it out
-    buttonLink: "https://dojofans.com"
     
   
   section5: false
