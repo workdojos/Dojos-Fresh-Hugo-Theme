@@ -785,14 +785,14 @@ params:
     title: The ultimate sandbox.
     subtitle: For team-building and education.
     features:  
-    - title: Put the nuts and bolts of open-source technology to work for you, your family, your business.
-      text: A buffet of free functionality that will spark creative inspiration and bring your ideas to life.
+    - title: The nuts and bolts of tech.
+      text: A buffet of free functionality that will spark inspiration and bring everyone's ideas to life.
       icon:  nuts
     - title: Dojo.
-      text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  Your dojo is your place, your way.
+      text: “The place of the way.” An honored place for deliberate practice and constructive building.
       icon:  cube
     - title: Build the next big thing.
-      text: With some help from our free at-cost service.
+      text: With some help from our free at-cost service, you can blaze an exciting new digital trail.
       icon:  bg
 
 
