@@ -1,7 +1,7 @@
 ---
 title: AGB
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: fresh-white-alt
 ---
 

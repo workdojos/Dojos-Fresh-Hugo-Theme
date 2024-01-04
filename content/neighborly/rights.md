@@ -1,8 +1,8 @@
 ---
 title: The Community Services  Industry and Neighborhood Volunteer Workers' Rights
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 
 ---

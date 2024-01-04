@@ -2,7 +2,7 @@
 title: The Academia And Higher Education Industry and Academic Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
-sidebar: true
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 

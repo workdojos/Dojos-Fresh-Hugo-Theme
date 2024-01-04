@@ -1,8 +1,8 @@
 ---
 title: An Overview for Social Workers and the Behavioral Health  Industry
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 
 ---

@@ -1,8 +1,8 @@
 ---
 title: An Overview for Physical Therapists and the Physical Therapy  Industry
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 
 ---

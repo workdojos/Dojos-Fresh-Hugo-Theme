@@ -1,8 +1,8 @@
 ---
 title: Websites for Clerks in the Small Business and Retail  Industry
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 <figure>

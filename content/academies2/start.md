@@ -2,7 +2,7 @@
 title: Getting Started as an Academic in the Higher Education Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: true
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 <figure>

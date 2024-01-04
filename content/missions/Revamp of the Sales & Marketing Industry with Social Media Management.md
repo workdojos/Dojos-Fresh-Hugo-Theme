@@ -1,8 +1,8 @@
 ---
 title: Revamp of the Sales & Marketing Industry with Social Media Management
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 <figure>

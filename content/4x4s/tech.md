@@ -1,8 +1,8 @@
 ---
 title: Open-Source Tech for 4X4 Business Owners and Others in the 4X4 Industry
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 <figure>

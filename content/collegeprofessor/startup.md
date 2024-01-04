@@ -1,8 +1,8 @@
 ---
 title: Startup Ideas for College Professors and Entrepreneurs in the Higher Education  Industry
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 <figure>

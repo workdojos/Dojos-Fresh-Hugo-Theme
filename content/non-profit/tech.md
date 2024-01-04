@@ -1,8 +1,8 @@
 ---
 title: Open-Source Tech for Non-Profits and Others in the Non-Profit Organizations   Industry
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 
 ---

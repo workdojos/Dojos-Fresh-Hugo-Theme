@@ -1,8 +1,8 @@
 ---
 title:  History and Etymology of Brew Masters and the Beer Brewing  Industry
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 <figure>

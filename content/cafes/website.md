@@ -1,8 +1,8 @@
 ---
 title: Websites for Cafe Owners in the Cafe & Hospitality  Industry
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 <figure>

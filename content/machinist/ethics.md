@@ -1,8 +1,8 @@
 ---
 title: Ethical Framework for Machinists Working in the Machining  Industry
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 
 ---

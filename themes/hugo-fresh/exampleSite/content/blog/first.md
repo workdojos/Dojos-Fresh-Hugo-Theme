@@ -1,6 +1,6 @@
 ---
 title: First
-sidebar: true
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 

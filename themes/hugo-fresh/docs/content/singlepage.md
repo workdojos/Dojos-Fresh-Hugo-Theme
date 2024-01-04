@@ -1,6 +1,6 @@
 ---
 title: Single page
-sidebar: true
+sidebar: false
 sidebarlogo: fresh-white
 include_footer: false
 ---
@@ -10,7 +10,7 @@ Single pages displays a single unit of information and are more or less independ
 
 You can create single pages in the `content` directory (even sub-dirs are possible).
 
-If you'd like to have the footer displayed on your single page include `include_footer: true` in your front matter.
+If you'd like to have the footer displayed on your single page include `include_footer: false` in your front matter.
 
 <details>
 <summary>Code</summary>
@@ -18,9 +18,9 @@ If you'd like to have the footer displayed on your single page include `include_
 ```yaml
 ---
 title: AGB
-sidebar: true # or false to display the sidebar
+sidebar: false # or false to display the sidebar
 sidebarlogo: fresh-white-alt # From (static/images/logo/)
-include_footer: true # or false to display the footer
+include_footer: false # or false to display the footer
 ---
 ```
 

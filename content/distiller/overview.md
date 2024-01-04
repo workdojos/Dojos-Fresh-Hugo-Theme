@@ -1,8 +1,8 @@
 ---
 title: An Overview for Distillers and the Distilled Spirits  Industry
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 
 ---

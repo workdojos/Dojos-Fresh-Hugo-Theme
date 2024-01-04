@@ -1,8 +1,8 @@
 ---
 title: Startup Ideas for Importers and Entrepreneurs in the Supply-Chain  Industry
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 
 ---

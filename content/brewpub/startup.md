@@ -1,8 +1,8 @@
 ---
 title: Startup Ideas for Brew Pub Owners  and Entrepreneurs in the Breweries & Hospitality  Industry
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 <figure>

@@ -1,8 +1,8 @@
 ---
 title: Features
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 The open-source revolution is about supporting open-source creators, fostering and empowering development communities, and making open-source more accessible.  We encourage you to browse the app creators own sites, to sign up for their services, and become an active part of their communities.  Links to each creator site as well as to their respective Github repositories will be provided below.  
@@ -64,7 +64,7 @@ You and only you are the almighty Admin.  With great power comes great responsib
 
 <br>
 
-<img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" 
+<img src="/uploads/hey.webp" 
      width="300" 
      height="200" />
 Rocket.Chat's site:  https://rocket.chat

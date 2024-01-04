@@ -60,7 +60,7 @@ See what Rocket.chat can do for you.  Sign up for a trial in the upper right or 
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://www.rocket.chat/">  
-                        <img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" class="columnImage" />
+                        <img src="/uploads/hey.webp" class="columnImage" />
                     </td>
                 </tr>
                 <tr>

@@ -1,8 +1,8 @@
 ---
 title:  History and Etymology of Guest Speakers and the Motivational Speaking  Industry
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 
 ---

@@ -1,8 +1,8 @@
 ---
 title: Clinician's Dojo
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 draft: true
 
@@ -106,7 +106,7 @@ Save money by self-hosting your own tech stack!
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/chat">  
-                        <img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" class="columnImage" />
+                        <img src="/uploads/hey.webp" class="columnImage" />
                     </td>
                 </tr>
                 <tr>

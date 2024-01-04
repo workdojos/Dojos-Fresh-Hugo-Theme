@@ -1,11 +1,11 @@
 ---
 title: Chat server by Rocket.chat
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
-<img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" 
+<img src="/uploads/hey.webp" 
      width="300" 
      height="200" />
 

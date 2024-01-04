@@ -2,7 +2,7 @@
 title: Ethical Framework for Academics Working in the Academia And Higher Education Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: true
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 <figure>

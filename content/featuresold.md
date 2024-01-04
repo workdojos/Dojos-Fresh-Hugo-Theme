@@ -1,8 +1,8 @@
 ---
 title: Features
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 
@@ -43,7 +43,7 @@ Static sites to the rescue.  Since Work Dojos moved to Hugo (a static site gener
 Ever wanted to have a separate number that you can use to distance yourself from pesky scammers and spammers.  Now you can.  VoIP numbers with Twilio cost about a buck a month but come included with your Work Dojo.  And better yet, this VoIP number talked to your chat app!
 
 <a href="https://workdojos.com/features/chat">
-<img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" 
+<img src="/uploads/hey.webp" 
      width="300" 
      height="200" />
      
@@ -109,7 +109,7 @@ We here at Work Dojos run both a Ghost blog and a static website built with Hugo
 {{% title3 "Rocket.chat" %}}
 Think Slack.  It's just like it.  But it's better.  Can you guess why?  Because it's self-hosted of course.  This is YOUR chat app.  This is YOU as the almighty Admin.  You can deploy a call center, integrate with AI bots, and even reply to SMS messages from within the web app.  Rocket.chat comes with your Dojo.
 
-<img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" 
+<img src="/uploads/hey.webp" 
      width="300" 
      height="200" />
      

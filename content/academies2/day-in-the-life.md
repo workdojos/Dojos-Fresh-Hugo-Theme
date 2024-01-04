@@ -2,7 +2,7 @@
 title: A Day in the Life of an Academic
 description: Making open-source more accessible.
 include_footer: false
-sidebar: true
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 <figure>

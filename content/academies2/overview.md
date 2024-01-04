@@ -2,7 +2,7 @@
 title: An Overview for Academics and the Higher Education Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: true
+sidebar: false
 sidebarlogo: wordojos_logo
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---

@@ -61,7 +61,7 @@ Github:  https://github.com/gohugoio/hugo
 {{% title3 "Rocket.chat." %}}
 Think Slack.  It's just like it.  But it's better.  Can you guess why?  Because it's self-hosted of course.  This is YOUR chat app.  This is YOU as the almighty Admin.  You can deploy a call center, integrate with AI bots, and even reply to SMS messages from within the web app.  Rocket.chat comes with your Dojo.
 
-<img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" 
+<img src="/uploads/hey.webp" 
      width="300" 
      height="200" />
 Rocket.Chat's site:  https://rocket.chat

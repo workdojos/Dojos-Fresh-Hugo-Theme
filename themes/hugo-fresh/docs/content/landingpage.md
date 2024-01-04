@@ -1,6 +1,6 @@
 ---
 title: Landing page
-sidebar: true
+sidebar: false
 sidebarlogo: fresh-white
 include_footer: false
 ---

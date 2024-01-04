@@ -1,8 +1,8 @@
 ---
 title: Nomadically Dojo
 description: Making open-source more accessible.
-include_footer: true
-sidebar: true
+include_footer: false
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 <iframe src="https://nomadically.workdojos.com" style="width: 100%;height: 630px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
@@ -104,7 +104,7 @@ Save money by self-hosting your own tech stack!
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/chat">  
-                        <img src="https://workmates.live/wp-content/uploads/2022/11/rocket.chat-logo.png" class="columnImage" />
+                        <img src="/uploads/hey.webp" class="columnImage" />
                     </td>
                 </tr>
                 <tr>
