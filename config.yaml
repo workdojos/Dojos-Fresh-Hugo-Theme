@@ -802,20 +802,23 @@ params:
 
   section2:
     title: The ultimate sandbox.
-    subtitle: Build things with others!
+    subtitle: For team-building and education.
     features:  
-    - title: Collaboration has never been more rewarding.
-      text: A private space for teams.
+    - title: Put the nuts and bolts of open-source technology to work for you, your family, your business.
+      text: A buffett of free functionality that will spark creative inspiration and bring your ideas to life.
+      icon:  plug-cloud
     - title: Dojo.
-      text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  Your dojo is your place.
+      text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  Your dojo is your place, your way.
+      icon:  plug-laptop
     - title: Build the next big thing.
-      text: On your own architecture.
+      text: With some help from our free at-cost service.
+      icon:  mobile-feed
 
 
   section3:
     title: Pick a path.
-    subtitle: Choose from over 1000 areas of expertise or blaze your own trail.
-    image: logos/undraw_road_to_knowledge_m8s0.svg
+    subtitle: Choose from over 200 pre-built dojos or blaze your own trail.
+    image: blaze.svg
     buttonText: Browse dojos
     buttonLink: "https://workmates.live/marketplace"
   
