@@ -796,7 +796,7 @@ params:
       icon:  cube
     - title: Build the next big thing.
       text: With some help from our free at-cost service.
-      icon:  bigthing
+      icon:  bg
 
 
   section3:
