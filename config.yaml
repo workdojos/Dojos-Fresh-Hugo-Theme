@@ -802,17 +802,14 @@ params:
 
   section2:
     title: The ultimate sandbox.
-    subtitle: Become technologically self-sufficient with our AT-COST service! 
-    features:
-    - title: Your server, your data.
-      text: For as little as $10/month for your own AT-COST server you can then create an entire digital ecosystem for yourself, your passions, projects, and people.  We will help you build your kingdom FOR FREE!
-      image: /uploads/tv guy.svg
+    subtitle: Build things with others!
+    features:  
+    - title: Collaboration has never been more rewarding.
+      text: A private space for teams.
     - title: Dojo.
       text: “The place of the way” in Japanese. An honored place for deliberate practice and building things.  Your dojo is your place.
-      image: /uploads/tv guy.svg
     - title: Build the next big thing.
-      text: With millions of open-source apps and micro-services at your beck and call, you CAN build the next big thing!
-      image: /uploads/tv guy.svg
+      text: On your own architecture.
 
 
   section3:
