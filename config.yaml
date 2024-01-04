@@ -787,13 +787,13 @@ params:
     features:  
     - title: The nuts and bolts of tech.
       text: A buffet of free functionality that will spark inspiration and bring everyone's ideas to life.
-      icon:  nuts2
+      icon:  nuts
     - title: Dojo.
       text: “The place of the way.” An honored place for deliberate practice and constructive building.
-      icon:  cube2
+      icon:  cube
     - title: Build the next big thing.
       text: With some help from our free at-cost service, you can blaze an exciting new digital trail.
-      icon:  bigthing2
+      icon:  bigthing
 
 
   section1:
