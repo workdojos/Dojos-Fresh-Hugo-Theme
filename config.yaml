@@ -40,6 +40,10 @@ params:
     buttontext: Browse all
     # Where the main hero button links to
     buttonlink: "https://workdojos.com/marketplace"
+    # Button text
+    buttontext: Sign up for free
+    # Where the main hero button links to
+    buttonlink: "https://blog.workdojos.com/#/portal/signup"
     # Hero image (from static/images/___)
     image: logos/dojopic4.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -818,9 +822,11 @@ params:
   section3:
     title: Pick a path.
     subtitle: Choose from over 200 pre-built dojos or blaze your own trail.
-    image: /uploads/blaze.svg
-    buttonText: Browse dojos
+    image: logos/blaze.svg
+    buttonText: Browse pre-built
     buttonLink: "https://workmates.live/marketplace"
+    buttonText: Blaze your own trail
+    buttonLink: "https://blog.workdojos.com/#/portal/signup"
   
   section5: false
   footer:
