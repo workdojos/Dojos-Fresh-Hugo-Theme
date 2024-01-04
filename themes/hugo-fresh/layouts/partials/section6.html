@@ -1,36 +1,28 @@
-{{- $section6 := .Site.Params.section6 }}
-{{- $title    := index $section6 "title" }}
-{{- $subtitle := index $section6 "subtitle" }}
-{{- $tiles    := index $section6 "tiles" }}
+{{- $section6   := .Site.Params.section6 }}
+{{- $title      := index $section6 "title" }}
+{{- $subtitle   := index $section6 "subtitle" }}
+{{- $image      := index $section6 "image" }}
+{{- $buttonText := index $section6 "buttontext" }}
+{{- $buttonLink := index $section6 "buttonlink" }}
 <section class="section section-feature-grey is-medium" id="section6">
   <div class="container">
+    <div class="columns">
+      <div class="column is-10 is-offset-1">
+        <div class="has-text-centered">
+          <img class="pushed-image" src="{{ printf "/images/%s" $image | relURL }}">
+        </div>
+      </div>
+    </div>
+
     <div class="title-wrapper has-text-centered">
       <h2 class="title is-2">{{ $title }}</h2>
       <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3>
-      <div class="divider is-centered"></div>
     </div>
-    <img src="/logos/25.gif" style="width: 640px;height: 360px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
-    <div class="content-wrapper">
-      <div class="columns">
-        {{- range $tiles }}
-        <div class="column is-one-third">
-          <div class="feature-card is-bordered has-text-centered revealOnScroll delay-1" data-animation="fadeInLeft">
-            <div class="card-title">
-              <h4>{{ .title }}</h4>
-            </div>
-            <div class="card-icon">
-                <img src="{{ printf "/images/illustrations/icons/%s.svg" .icon | relURL }}">
-            </div>
-            <div class="card-text">
-                <p>{{ .text }}</p>
-            </div>
-            <div class="card-action">
-              <a href="{{ .url }}" class="button btn-align-md accent-btn raised">{{ .buttonText }}</a>
-            </div>
-          </div>
-        </div>
-        {{- end }}
-      </div>
-    </div>
+
+    <p class="has-text-centered mt-20">
+      <a class="button cta is-large rounded secondary-btn raised" href="{{ $buttonLink }}">
+        {{ $buttonText }}
+      </a>
+    </p>
   </div>
 </section>
