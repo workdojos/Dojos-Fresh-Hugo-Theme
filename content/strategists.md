@@ -72,7 +72,7 @@ Save money by self-hosting your own tech stack!
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
     <tr>
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+            <table border="0" cellpadding="5" cellspacing="0" width="50%">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/wiki">  
@@ -86,7 +86,7 @@ Save money by self-hosting your own tech stack!
             </table>
         </td>
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+            <table border="0" cellpadding="5" cellspacing="0" width="50%">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/n8n">  
@@ -100,7 +100,7 @@ Save money by self-hosting your own tech stack!
             </table>
         </td>
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+            <table border="0" cellpadding="5" cellspacing="0" width="50%">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/chat">  
@@ -114,7 +114,7 @@ Save money by self-hosting your own tech stack!
             </table>
         </td>
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+            <table border="0" cellpadding="5" cellspacing="0" width="50%">
                 <tr>
                     <td class="leftColumnContent">
                       <a href="https://workdojos.com/db">  
@@ -128,7 +128,7 @@ Save money by self-hosting your own tech stack!
             </table>
         </td>
         <td align="center" valign="top" width="15%" class="templateColumnContainer">
-            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+            <table border="0" cellpadding="5" cellspacing="0" width="50%">
                 <tr>
                     <td class="rightColumnContent">
                       <a href="https://workdojos.com/ghost">
