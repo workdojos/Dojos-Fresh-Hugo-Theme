@@ -69,9 +69,9 @@ Save money by self-hosting your own tech stack!
 
 <br><br>
 
-<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns">
+<table border="0" cellpadding="0" cellspacing="0" width="300" id="templateColumns">
     <tr>
-        <td align="center" valign="top" width="15%" class="templateColumnContainer">
+        <td align="center" valign="top" width="5%" class="templateColumnContainer">
             <table border="0" cellpadding="5" cellspacing="0" width="50%">
                 <tr>
                     <td class="leftColumnContent">
@@ -85,7 +85,7 @@ Save money by self-hosting your own tech stack!
                 </tr>
             </table>
         </td>
-        <td align="center" valign="top" width="15%" class="templateColumnContainer">
+        <td align="center" valign="top" width="5%" class="templateColumnContainer">
             <table border="0" cellpadding="5" cellspacing="0" width="50%">
                 <tr>
                     <td class="leftColumnContent">
@@ -99,7 +99,7 @@ Save money by self-hosting your own tech stack!
                 </tr>
             </table>
         </td>
-        <td align="center" valign="top" width="15%" class="templateColumnContainer">
+        <td align="center" valign="top" width="5%" class="templateColumnContainer">
             <table border="0" cellpadding="5" cellspacing="0" width="50%">
                 <tr>
                     <td class="leftColumnContent">
@@ -113,7 +113,7 @@ Save money by self-hosting your own tech stack!
                 </tr>
             </table>
         </td>
-        <td align="center" valign="top" width="15%" class="templateColumnContainer">
+        <td align="center" valign="top" width="5%" class="templateColumnContainer">
             <table border="0" cellpadding="5" cellspacing="0" width="50%">
                 <tr>
                     <td class="leftColumnContent">
@@ -127,7 +127,7 @@ Save money by self-hosting your own tech stack!
                 </tr>
             </table>
         </td>
-        <td align="center" valign="top" width="15%" class="templateColumnContainer">
+        <td align="center" valign="top" width="5%" class="templateColumnContainer">
             <table border="0" cellpadding="5" cellspacing="0" width="50%">
                 <tr>
                     <td class="rightColumnContent">
