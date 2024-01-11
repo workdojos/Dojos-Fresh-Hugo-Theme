@@ -39,7 +39,8 @@ params:
     # Button text
     buttontext: Browse all
     # Where the main hero button links to
-    buttonlink: "https://workdojos.com/marketplace" "newtab"
+    buttonlink: "https://workdojos.com/marketplace"
+    hrefTargetBlank: true
     # Hero image (from static/images/___)
     image: logos/dojopic4.svg
     # Footer logos (from static/images/logos/clients/___.svg)
