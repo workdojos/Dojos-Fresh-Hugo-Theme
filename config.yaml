@@ -33,7 +33,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Create your own walled garden.
+    title: Create your own kingdom.
     # Hero subtitle (optional)
     subtitle: Using free and open-source technology. 
     # Button text
@@ -804,7 +804,6 @@ params:
   section3:
     title: Pick a path.
     subtitle: Choose from over 200 pre-built dojos or blaze your own trail.
-    image: logos/blaze.png
     buttonText: Browse all
     buttonLink: "https://workmates.live/marketplace"
 
