@@ -49,3 +49,33 @@ In conclusion, to learn more about open-source tech in Slovenia, you can check o
 </html>
 <br>
 
+---
+
+
+
+
+<iframe src="https://traveler.town/Slovenia" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+
+
+<br><br>
+
+<html>
+  <head>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 20px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #FDC858;
+        border-radius: 33px;
+        outline: none;
+        line-height:  %;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://workdojos.com/Solomon-Islands">Next dojo:  Solomon Islands</a>
+  </body>
+</html>

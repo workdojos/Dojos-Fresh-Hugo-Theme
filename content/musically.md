@@ -228,3 +228,33 @@ Click the "Sign Up" button in the upper right to claim this dojo or try one out 
                 </tr>
                 <tr>
                     <td valign="top" class="leftColumnContent">
+                        <h1>Dash.</h1>
+                        Sign up to get one just like it, FOR FREE!
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top" width="50%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                <tr>
+                    <td class="rightColumnContent">
+                      <a href="https://chat.workmates.live">
+                        <img src="/uploads/remote angel 2.png" class="columnImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="rightColumnContent">
+                        <h1>Chat.</h1>
+                        Workmates:  1000 channels, for every country and every job. 
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+
+<br><br>
+
+
+ <a href="https://workdojos.com/Negotiator">Next Dojo</a> 

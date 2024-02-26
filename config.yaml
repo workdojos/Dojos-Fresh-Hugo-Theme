@@ -127,227 +127,109 @@ params:
       links:
       - text: AccountExecutive
         url: https://workdojos.com/AccountExecutive
-      - text: Actuaries
-        url: https://workdojos.com/Actuaries
       - text: Administrators
         url: https://workdojos.com/Administrators
-      - text: Adventurers
-        url: https://workdojos.com/Adventurers
       - text: Agriculturist
         url: https://workdojos.com/Agriculturist
       - text: Animators
         url: https://workdojos.com/Animators
       - text: AppDeveloper
         url: https://workdojos.com/AppDeveloper
-      - text: ArmchairExpert
-        url: https://workdojos.com/ArmchairExpert
       - text: Aviationist
         url: https://workdojos.com/Aviationist
-      - text: Bankroller
-        url: https://workdojos.com/Bankroller
       - text: Baristas
         url: https://workdojos.com/Baristas
       - text: Bartenders
         url: https://workdojos.com/Bartenders
       - text: Beauticians
         url: https://workdojos.com/Beauticians
-      - text: BeerGarden
-        url: https://workdojos.com/BeerGarden
       - text: Biologist
         url: https://workdojos.com/Biologist
       - text: Botanist
         url: https://workdojos.com/Botanist
       - text: BrewMasters
-        url: https://workdojos.com/BrewMasters
-      - text: Captains
-        url: https://workdojos.com/Captains
-      - text: Curators
-        url: https://workdojos.com/Curators
       - text: DigitalMarketers
         url: https://workdojos.com/DigitalMarketers
       - text: Economists
         url: https://workdojos.com/Economists
-      - text: Evangelist
-        url: https://workdojos.com/Evangelist
       - text: EventPlanners
         url: https://workdojos.com/EventPlanners
-      - text: ExecutiveSearch
-        url: https://workdojos.com/ExecutiveSearch
       - text: Exhibitionist
         url: https://workdojos.com/Exhibitionist
-      - text: Expatriate
-        url: https://workdojos.com/Expatriate
       - text: Explorers
         url: https://workdojos.com/Explorers
       - text: Exporter
         url: https://workdojos.com/Exporter
-      - text: Facilitator
-        url: https://workdojos.com/Facilitator
       - text: Financier
         url: https://workdojos.com/Financier
       - text: Firefighters
         url: https://workdojos.com/Firefighters
-      - text: Franchiser
-        url: https://workdojos.com/Franchiser
-      - text: Geneticist
-        url: https://workdojos.com/Geneticist
-      - text: Ghostwriters
-        url: https://workdojos.com/Ghostwriters
       - text: GraphicDesigner
         url: https://workdojos.com/GraphicDesigner
       - text: Growers
         url: https://workdojos.com/Growers
-      - text: Healers
-        url: https://workdojos.com/Healers
-      - text: Importer
-        url: https://workdojos.com/Importer
       - text: Interpreters
         url: https://workdojos.com/Interpreters
-      - text: Investigators
-        url: https://workdojos.com/Investigators
       - text: InvestmentBanker
         url: https://workdojos.com/InvestmentBanker
       - text: Jeweler
         url: https://workdojos.com/Jeweler
-      - text: JobSeeker
-        url: https://workdojos.com/JobSeeker
       - text: Labtech
         url: https://workdojos.com/Labtech
-      - text: Landowners
-        url: https://workdojos.com/Landowners
       - text: LawEnforcement
         url: https://workdojos.com/LawEnforcement
       - text: LeadGenerator
         url: https://workdojos.com/LeadGenerator
-      - text: Legislator
-        url: https://workdojos.com/Legislator
-      - text: Liaison
-        url: https://workdojos.com/Liaison
       - text: Librarian
         url: https://workdojos.com/Librarian
       - text: LifeCoaches
         url: https://workdojos.com/LifeCoaches
-      - text: Lighthouses
-        url: https://workdojos.com/Lighthouses
       - text: Litigator
         url: https://workdojos.com/Litigator
-      - text: Logistician
-        url: https://workdojos.com/Logistician
       - text: Lyricist
         url: https://workdojos.com/Lyricist
       - text: Machinist
         url: https://workdojos.com/Machinist
-      - text: Manufacturers
-        url: https://workdojos.com/Manufacturers
-      - text: MediaBuyer
-        url: https://workdojos.com/MediaBuyer
-      - text: Metaversial
-        url: https://workdojos.com/Metaversial
       - text: MortgageBrokers
         url: https://workdojos.com/MortgageBrokers
-      - text: Motivators
-        url: https://workdojos.com/Motivators
       - text: MusicAlartist
         url: https://workdojos.com/MusicAlartist
       - text: Negotiator
         url: https://workdojos.com/Negotiator
-      - text: Neurologists
-        url: https://workdojos.com/Neurologists
-      - text: Non-Profit
-        url: https://workdojos.com/Non-Profit
       - text: Novelist
         url: https://workdojos.com/Novelist
       - text: Operatives
         url: https://workdojos.com/Operatives
       - text: ParkRanger
         url: https://workdojos.com/ParkRanger
-      - text: Pathologist
-        url: https://workdojos.com/Pathologist
-      - text: Pharmacists
-        url: https://workdojos.com/Pharmacists
       - text: Philosophers
         url: https://workdojos.com/Philosophers
       - text: PhotoJournalist
       - text: PhysicalTherapist
         url: https://workdojos.com/PhysicalTherapist
-      - text: Physicist
-        url: https://workdojos.com/Physicist
-      - text: Playwright
-        url: https://workdojos.com/Playwright
-      - text: Politician
-        url: https://workdojos.com/Politician
-      - text: Practitioner
-        url: https://workdojos.com/Practitioner
       - text: ProjectManagers
         url: https://workdojos.com/ProjectManagers
-      - text: PublicRelations
-        url: https://workdojos.com/PublicRelations
-      - text: Racers
-        url: https://workdojos.com/Racers
       - text: RegisteredNurse
         url: https://workdojos.com/RegisteredNurse
-      - text: RemoteWorker
-        url: https://workdojos.com/RemoteWorker
-      - text: Researchers
-        url: https://workdojos.com/Researchers
-      - text: Retailers
-        url: https://workdojos.com/Retailers
-      - text: SalesCoaches
-        url: https://workdojos.com/SalesCoaches
-      - text: Schoolmates
-        url: https://workdojos.com/Schoolmates
       - text: SchoolTeachers
         url: https://workdojos.com/SchoolTeachers
       - text: Screenwriter
         url: https://workdojos.com/Screenwriter
       - text: SocialWorker
         url: https://workdojos.com/SocialWorker
-      - text: Sociologist
-        url: https://workdojos.com/Sociologist
-      - text: SpiritualCoach
-        url: https://workdojos.com/SpiritualCoach
       - text: Statistician
         url: https://workdojos.com/Statistician
       - text: Strategists
         url: https://workdojos.com/Strategists
-      - text: System Administrators
-        url: https://workdojos.com/Admins
-      - text: Telemarketer
-        url: https://workdojos.com/Telemarketer
       - text: Theologian
         url: https://workdojos.com/Theologian
       - text: Thespian
         url: https://workdojos.com/Thespian
-      - text: TownSquare
-        url: https://workdojos.com/TownSquare
       - text: TravelAgents
         url: https://workdojos.com/TravelAgents
-      - text: Travelers
-        url: https://workdojos.com/Travelers
-      - text: Trustees
-        url: https://workdojos.com/Trustees
-      - text: Unions
-        url: https://workdojos.com/Unions
-      - text: VideoGamers
-        url: https://workdojos.com/VideoGamers
       - text: WebDesigners
         url: https://workdojos.com/WebDesigners
-      - text: WebJedi
-        url: https://workdojos.com/WebJedi
-      - text: WeekendWarrior
-        url: https://workdojos.com/WeekendWarrior
-      - text: Wholesalers
-        url: https://workdojos.com/Wholesalers
-      - text: Wingman
-        url: https://workdojos.com/Wingman
-      - text: Wordsmith
-        url: https://workdojos.com/Wordsmith
-      - text: Workmates
-        url: https://workmates.live
-      - text: YogaInstructor
-        url: https://workdojos.com/YogaInstructor
-      - text: Zookeeper
-        url: https://workdojos.com/Zookeeper
+
     - title: Around the world
       icon: globe
       links:
@@ -791,12 +673,12 @@ params:
 
   section1:
     title: The dashboard.
-    subtitle: Sign up to get one just like it FOR FREE.
+    subtitle: Sign up to get one just like it for free, parked on your own domain.
 
   section3:
     title: Pick a path.
     subtitle: Choose from over 200 pre-built dojos or blaze your own trail.
-    image: logos/drive.gif
+    image: logos/workmates.png
     buttonText: Browse all
     buttonLink: "https://workmates.live/marketplace"
 
@@ -814,10 +696,6 @@ params:
 
       # Icons are from Font Awesome
       
-    - link: https://www.instagram.com/workdojos/
-      icon: instagram
-    - link: https://www.pinterest.com/workdojos/
-      icon: pinterest
     - link: https://twitter.com/workdojos
       icon: twitter
     bulmalogo: false
