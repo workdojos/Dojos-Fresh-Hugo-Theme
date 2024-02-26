@@ -33,7 +33,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Take the first step into free and self-hosted open-source tech.
+    title: Create your own digital kingdom.
     # Hero subtitle (optional)
     subtitle: Using free and open-source technology. 
     # Button text
