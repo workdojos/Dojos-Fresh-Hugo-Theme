@@ -59,7 +59,7 @@ Notable technologists from the Democratic Republic of Congo throughout history i
 
 
 
-<iframe src="https://traveler.town/Democratic Republic_of_the_Congo" style="width: 100%;height: 1030px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+Democratic Republic_of_the_Congo
 
 
 <br><br>

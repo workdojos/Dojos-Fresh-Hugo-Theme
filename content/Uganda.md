@@ -59,7 +59,7 @@ Some notable technologists from Uganda throughout history include:
 
 
 
-<iframe src="https://traveler.town/Uganda" style="width: 100%;height: 1030px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+Uganda
 
 
 <br><br>

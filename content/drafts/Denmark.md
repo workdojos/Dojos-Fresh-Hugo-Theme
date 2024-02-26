@@ -67,7 +67,7 @@ These are just a few of the many notable technologists from Denmark. You can fin
 
 **Traveler Town:**   our in-house open-source chat app.  One chat room per country (powered by <a href="https://rocket.chat" >Rocket.Chat </a>  (**Included in every Dojo**):  
 
-<iframe src="https://chat.traveler.town/channel/Denmark" style="width: 100%;height: 1030px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://chat.traveler.town/channel/Denmark
 
 
 <br><br>

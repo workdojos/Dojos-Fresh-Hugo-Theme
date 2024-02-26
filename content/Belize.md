@@ -59,7 +59,7 @@ Overall, Belize is slowly embracing open-source technology, and with the right r
 
 
 
-<iframe src="https://traveler.town/Belize" style="width: 100%;height: 1030px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+Belize
 
 
 <br><br>

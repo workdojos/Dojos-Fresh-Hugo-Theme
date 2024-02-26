@@ -57,7 +57,7 @@ In conclusion, learning about open-source tech in Tonga can be an exciting journ
 
 
 
-<iframe src="https://traveler.town/Tonga" style="width: 100%;height: 1030px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+Tonga
 
 
 <br><br>

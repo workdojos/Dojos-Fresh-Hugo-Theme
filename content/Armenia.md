@@ -54,7 +54,7 @@ I hope this information helps you explore the world of open-source tech in Armen
 
 
 
-<iframe src="https://traveler.town/Armenia" style="width: 100%;height: 1030px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+Armenia
 
 
 <br><br>

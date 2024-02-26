@@ -61,7 +61,7 @@ Overall, the Albanian tech community is growing and thriving, with many talented
 
 
 
-<iframe src="https://traveler.town/Albania" style="width: 100%;height: 1030px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+Albania
 
 
 <br><br>
