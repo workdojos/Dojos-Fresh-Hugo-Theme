@@ -70,7 +70,7 @@ Overall, there are several resources available for learning more about open sour
 
 
 
-<iframe src="https://traveler.town/Rwanda" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://traveler.town/Rwanda" style="width: 100%;height: 1030px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 
 
 <br><br>

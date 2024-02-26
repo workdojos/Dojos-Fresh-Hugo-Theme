@@ -5,4 +5,4 @@ include_footer: true
 sidebar: true
 sidebarlogo: wordojos_logo
 ---
-<iframe src="https://workmates.live/marketplace-2" style="width: 100%;height: 1100px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://workmates.live/marketplace" style="width: 100%;height: 1100px;overflow: hidden;border: none;" align="middle"></iframe>

@@ -56,7 +56,7 @@ Overall, there are many resources and notable technologists in El Salvador who a
 
 
 
-<iframe src="https://traveler.town/El_Salvador" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://traveler.town/El_Salvador" style="width: 100%;height: 1030px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 
 
 <br><br>

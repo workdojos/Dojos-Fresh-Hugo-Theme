@@ -61,7 +61,7 @@ Overall, learning about open-source tech in Indonesia requires a combination of 
 
 
 
-<iframe src="https://traveler.town/Indonesia" style="width: 100%;height: 530px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
+<iframe src="https://traveler.town/Indonesia" style="width: 100%;height: 1030px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 
 
 <br><br>
