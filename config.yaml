@@ -656,19 +656,6 @@ params:
         url: https://chat.workmates.live/channel/Jobseeker
 
 
-  section2:
-    title: The ultimate sandbox.
-    subtitle: For team-building and education.
-    features:  
-    - title: The nuts and bolts of tech.
-      text: A buffet of free functionality that will spark inspiration and bring everyone's ideas to life.
-      icon:  nuts
-    - title: Dojo.
-      text: “The place of the way.” An honored place for deliberate practice and constructive building.
-      icon:  cube
-    - title: Build the next big thing.
-      text: With some help from our free at-cost service, you can blaze an exciting new digital trail.
-      icon:  bigthing
 
 
   section1:
