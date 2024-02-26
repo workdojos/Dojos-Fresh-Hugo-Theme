@@ -673,11 +673,11 @@ params:
 
   section1:
     title: The dashboard.
-    subtitle: Sign up to get one just like it for free, parked on your own domain.
+    subtitle: Sign up to get one just like it for free.
 
   section3:
     title: Pick a path.
-    subtitle: Choose from over 200 pre-built dojos or blaze your own trail.
+    subtitle: Choose from over 100 pre-built dojos or blaze your own trail.
     image: logos/workmates.png
     buttonText: Browse all
     buttonLink: "https://workmates.live/marketplace"
