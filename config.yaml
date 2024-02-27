@@ -259,8 +259,8 @@ params:
     buttonLink: "https://workmates.live/marketplace"
 
   section3a:
-    title: Free and Open-Source AI.
-    subtitle: Check out our Youtube channel featuring 16 AI avatars!
+    title: Open-Source AI.
+    subtitle: Check out our Youtube channel featuring a cast of 16 AI avatars!
     image: logos/dojofans.webp
     buttonText: Go to Youtube
     buttonLink: "https://youtube.com/@dojofans"
