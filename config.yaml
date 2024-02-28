@@ -266,9 +266,9 @@ params:
     buttonLink: "https://youtube.com/@dojofans"
 
   section3b:
-    title: Self-hosted chat server.
-    subtitle: Powered by Rocket.Chat
-    image: logos/hey.webp
+    title: Self-hosted chat server in every Dojo.
+    subtitle: Powered by Rocket.Chat.
+    image: logos/hey2.webp
     buttonText: Try It
     buttonLink: "https://chat.workmates.live"
     
