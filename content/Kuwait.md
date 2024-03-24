@@ -43,7 +43,7 @@ By joining local tech communities and attending events, you can connect with oth
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Kuwait" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

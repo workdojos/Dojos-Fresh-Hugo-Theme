@@ -42,7 +42,7 @@ Overall, learning about open-source technology and its development in Nauru may 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Nauru" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

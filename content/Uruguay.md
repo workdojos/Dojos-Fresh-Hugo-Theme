@@ -79,6 +79,6 @@ Uruguay
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Uzbekistan">Next dojo:  Uzbekistan</a>
+    <a class="button" href="https://workdojos.com/">Next dojo:  Uzbekistan</a>
   </body>
 </html>

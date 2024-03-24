@@ -53,7 +53,7 @@ By exploring these resources and learning from notable technologists from Argent
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Argentina" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -46,7 +46,7 @@ Overall, there are various resources available to learn about open-source techno
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Barbados" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

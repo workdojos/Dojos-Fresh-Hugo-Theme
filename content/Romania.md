@@ -61,7 +61,7 @@ Here are some useful links to get you started:
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Romania" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

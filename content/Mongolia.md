@@ -55,7 +55,7 @@ Overall, there is a growing community of open-source enthusiasts in Mongolia who
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Mongolia" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

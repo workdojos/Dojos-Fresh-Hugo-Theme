@@ -43,7 +43,7 @@ By exploring these resources and learning about the contributions of notable tec
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Uzbekistan" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

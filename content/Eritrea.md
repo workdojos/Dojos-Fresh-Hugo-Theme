@@ -57,7 +57,7 @@ Overall, there is limited information available about open-source tech in Eritre
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Eritrea" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

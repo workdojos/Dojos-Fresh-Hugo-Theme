@@ -69,7 +69,7 @@ Learning about open-source tech in Montenegro requires one to engage in the comm
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Montenegro" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

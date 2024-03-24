@@ -45,7 +45,7 @@ These are just a few examples of notable technologists from Haiti who have contr
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Haiti" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

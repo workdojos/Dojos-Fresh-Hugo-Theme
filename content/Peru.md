@@ -51,7 +51,7 @@ Overall, Peru has a vibrant open-source community with many resources available 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Peru" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

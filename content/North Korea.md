@@ -47,7 +47,7 @@ Overall, exploring open-source technology in North Korea can be challenging, but
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/North-Korea" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

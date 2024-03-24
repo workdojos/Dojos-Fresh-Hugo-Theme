@@ -47,7 +47,7 @@ Overall, these resources and technologists provide a wealth of information on op
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Djibouti" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

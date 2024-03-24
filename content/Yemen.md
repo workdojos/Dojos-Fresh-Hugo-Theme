@@ -47,7 +47,7 @@ In conclusion, learning about open-source tech in Yemen requires some effort, bu
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Yemen" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

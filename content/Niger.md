@@ -49,7 +49,7 @@ In conclusion, to learn more about open-source tech in Niger, you can explore on
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Niger" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

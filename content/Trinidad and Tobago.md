@@ -52,7 +52,7 @@ In conclusion, learning about open-source technology in Trinidad and Tobago can 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Trinidad-and-Tobago" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

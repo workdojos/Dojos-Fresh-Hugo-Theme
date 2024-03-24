@@ -49,7 +49,7 @@ Some notable technologists from Nicaragua throughout history include:
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Nicaragua" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

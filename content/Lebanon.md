@@ -51,7 +51,7 @@ These are just a few examples of the many technologists who have contributed to 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Lebanon" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

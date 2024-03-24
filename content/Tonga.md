@@ -47,7 +47,7 @@ In conclusion, learning about open-source tech in Tonga can be an exciting journ
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Tonga" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

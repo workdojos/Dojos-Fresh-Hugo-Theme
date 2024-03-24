@@ -46,7 +46,7 @@ In summary, to learn more about open-source tech in Côte-d'Ivoire, you can star
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Ivory-Coast" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

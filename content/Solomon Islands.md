@@ -47,7 +47,7 @@ Overall, there is a growing community of open-source technology enthusiasts in S
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Solomon-Islands" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

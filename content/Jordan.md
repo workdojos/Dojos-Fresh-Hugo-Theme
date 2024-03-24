@@ -51,7 +51,7 @@ Overall, there are many resources and notable technologists in Jordan that you c
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Jordan" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

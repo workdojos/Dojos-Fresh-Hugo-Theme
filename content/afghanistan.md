@@ -51,17 +51,13 @@ By joining open-source communities, attending tech conferences, reading blogs an
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Afghanistan" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>
 
 ---
 
-
-**Traveler Town:**   our in-house open-source chat app.  One chat room per country (powered by <a href="https://rocket.chat" >Rocket.Chat </a>  (**Included in every Dojo**):  
-
-<iframe src="https://chat.traveler.town/channel/Afghanistan
 
 
 <br><br>

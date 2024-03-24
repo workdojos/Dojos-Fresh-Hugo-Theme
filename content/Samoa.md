@@ -47,7 +47,7 @@ In conclusion, learning more about open-source tech in Samoa requires a bit of r
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Samoa" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -51,7 +51,7 @@ Overall, the Albanian tech community is growing and thriving, with many talented
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Albania" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

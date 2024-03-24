@@ -49,7 +49,7 @@ Notable technologists from Bosnia and Herzegovina throughout history include:
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Bosnia-and-Herzegovina" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/B" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

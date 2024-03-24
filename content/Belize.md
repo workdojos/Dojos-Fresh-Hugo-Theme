@@ -49,7 +49,7 @@ Overall, Belize is slowly embracing open-source technology, and with the right r
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Belize" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

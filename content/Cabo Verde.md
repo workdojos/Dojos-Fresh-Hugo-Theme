@@ -49,7 +49,7 @@ Overall, the use of open-source technology in Cabo Verde is growing, and there a
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Cabo-Verde" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

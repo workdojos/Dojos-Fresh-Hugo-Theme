@@ -49,7 +49,7 @@ Overall, the open-source technology scene in Fiji is growing, and there are many
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Fiji" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

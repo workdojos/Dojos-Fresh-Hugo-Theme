@@ -52,7 +52,7 @@ These are just a few examples of the many Bulgarian technologists who have made 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Bulgaria" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

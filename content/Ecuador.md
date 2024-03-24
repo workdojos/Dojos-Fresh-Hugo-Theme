@@ -53,7 +53,7 @@ In conclusion, learning about open-source tech in Ecuador requires exploring the
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Ecuador" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

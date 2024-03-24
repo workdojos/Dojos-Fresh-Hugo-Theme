@@ -42,7 +42,7 @@ By exploring these resources and learning about the work of these notable techno
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Saint-Vincent-and-the-Grenadines" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

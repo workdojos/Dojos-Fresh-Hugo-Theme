@@ -47,7 +47,7 @@ Overall, the open-source tech scene in Burundi is still developing, but there ar
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Burundi" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

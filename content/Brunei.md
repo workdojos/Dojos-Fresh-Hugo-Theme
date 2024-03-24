@@ -47,7 +47,7 @@ Overall, there are several resources and communities in Brunei that can help ind
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Brunei" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

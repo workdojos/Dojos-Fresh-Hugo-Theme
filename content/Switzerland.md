@@ -53,7 +53,7 @@ Overall, Switzerland has a strong open-source community and has produced many no
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Switzerland" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

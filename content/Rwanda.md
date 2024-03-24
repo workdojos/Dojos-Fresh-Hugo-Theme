@@ -60,7 +60,7 @@ Overall, there are several resources available for learning more about open sour
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Rwanda" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

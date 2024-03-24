@@ -50,7 +50,7 @@ Some notable technologists from North Macedonia throughout history are:
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/North-Macedonia" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -53,7 +53,7 @@ Overall, while it may be challenging to find specific resources on open-source t
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Syria" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

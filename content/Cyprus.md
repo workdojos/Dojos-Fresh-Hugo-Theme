@@ -51,7 +51,7 @@ Overall, there are many resources available for individuals and organizations in
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Cyprus" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

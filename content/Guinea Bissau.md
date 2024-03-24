@@ -51,7 +51,7 @@ Overall, it seems that the open-source tech community in Guinea-Bissau is still 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Guinea-Bissau" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

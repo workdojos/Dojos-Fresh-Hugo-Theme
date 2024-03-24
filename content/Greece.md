@@ -53,7 +53,7 @@ In conclusion, there are various resources available to learn more about open-so
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Greece" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -42,7 +42,7 @@ In summary, to learn more about open-source tech in Comoros, join online tech co
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Comoros" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

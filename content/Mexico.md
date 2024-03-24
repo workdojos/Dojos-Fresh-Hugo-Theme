@@ -44,7 +44,7 @@ By exploring these resources and learning about notable technologists from Mexic
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Mexico" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

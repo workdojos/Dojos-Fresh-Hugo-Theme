@@ -43,7 +43,7 @@ Overall, learning about open-source technology in South Sudan requires a combina
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/South-Sudan" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

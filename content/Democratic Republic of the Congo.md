@@ -49,7 +49,7 @@ Notable technologists from the Democratic Republic of Congo throughout history i
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Democratic-Republic-of-the-Congo" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

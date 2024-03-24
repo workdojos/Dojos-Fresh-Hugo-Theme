@@ -59,7 +59,7 @@ Overall, there are numerous opportunities to learn more about Open Source tech i
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Kenya" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

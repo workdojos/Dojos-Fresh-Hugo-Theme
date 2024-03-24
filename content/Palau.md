@@ -51,7 +51,7 @@ Notable technologists from Palau throughout history:
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Palau" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -40,7 +40,7 @@ In addition to these resources, you can also check out online forums and social 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Tuvalu" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

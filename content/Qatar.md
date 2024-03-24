@@ -49,7 +49,7 @@ Overall, Qatar is an emerging hub for technology and innovation in the Middle Ea
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Qatar" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -51,7 +51,7 @@ In conclusion, learning more about open-source technology in Mozambique can be a
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Mozambique" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

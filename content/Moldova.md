@@ -49,7 +49,7 @@ Overall, there are many resources and individuals in Moldova that are contributi
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Moldova" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

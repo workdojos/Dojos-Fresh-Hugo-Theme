@@ -47,7 +47,7 @@ In conclusion, learning more about open-source technology in Maldives requires s
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Maldives" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

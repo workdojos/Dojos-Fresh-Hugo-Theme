@@ -44,7 +44,7 @@ I hope this information helps you explore the world of open-source tech in Armen
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Armenia" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -43,7 +43,7 @@ c. Chhunly Pagenburg: Chhunly Pagenburg is a Cambodian-American entrepreneur and
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Cambodia" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -47,7 +47,7 @@ In conclusion, to learn more about open-source technology in Palestine, one can 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Palestine" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

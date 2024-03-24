@@ -53,7 +53,7 @@ Overall, learning about open-source tech in Colombia can be a great way to gain 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Colombia" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

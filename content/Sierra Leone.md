@@ -49,7 +49,7 @@ In conclusion, there are several resources and notable technologists that you ca
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Sierra-Leone" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

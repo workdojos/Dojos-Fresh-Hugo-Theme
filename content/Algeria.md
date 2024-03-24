@@ -49,7 +49,7 @@ In conclusion, learning about open-source tech in Algeria requires a combination
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Algeria" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

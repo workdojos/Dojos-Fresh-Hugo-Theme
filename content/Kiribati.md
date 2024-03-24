@@ -48,7 +48,7 @@ By connecting with these technologists and engaging in online communities, you c
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Kiribati" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

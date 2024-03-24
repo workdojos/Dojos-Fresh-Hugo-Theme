@@ -53,7 +53,7 @@ Overall, there are plenty of resources and notable technologists in the Republic
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Georgia" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

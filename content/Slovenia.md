@@ -44,7 +44,7 @@ In conclusion, to learn more about open-source tech in Slovenia, you can check o
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Slovenia" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

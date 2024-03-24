@@ -45,7 +45,7 @@ Notable technologists from Saint Kitts and Nevis throughout history include:
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Saint-Kitts-and-Nevis" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -48,7 +48,7 @@ In summary, there are several resources and links to learn more about open-sourc
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Andorra" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

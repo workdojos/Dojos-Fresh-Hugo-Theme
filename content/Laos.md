@@ -51,7 +51,7 @@ These are just a few notable technologists from Laos. There are many more indivi
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Laos" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

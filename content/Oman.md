@@ -51,7 +51,7 @@ In conclusion, learning about open-source technology in Oman requires some effor
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Oman" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

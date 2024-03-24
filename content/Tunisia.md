@@ -49,7 +49,7 @@ Notable Technologists from Tunisia throughout History:
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Tunisia" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -51,7 +51,7 @@ Overall, there are many resources and notable figures in New Zealand's open-sour
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/New-Zealand" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

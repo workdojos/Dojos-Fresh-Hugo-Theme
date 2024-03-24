@@ -51,7 +51,7 @@ Overall, Togo has a growing community of open-source technologists who are worki
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Togo" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

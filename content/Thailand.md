@@ -53,7 +53,7 @@ Notable technologists from Thailand throughout history:
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Thailand" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

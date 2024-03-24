@@ -53,7 +53,7 @@ These notable technologists have contributed significantly to the open-source co
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Mauritius" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

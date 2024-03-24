@@ -51,7 +51,7 @@ Learning more about open-source technology in Cameroon and the technologists tha
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Cameroon" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

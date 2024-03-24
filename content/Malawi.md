@@ -47,7 +47,7 @@ Overall, there are many resources and individuals in Malawi who are passionate a
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Malawi" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -51,7 +51,7 @@ Overall, the Dominican Republic has a thriving open-source community, and there 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Dominican-Republic" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

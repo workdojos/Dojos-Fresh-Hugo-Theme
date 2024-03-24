@@ -46,7 +46,7 @@ Overall, there are many resources and notable technologists in El Salvador who a
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/El-Salvador" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

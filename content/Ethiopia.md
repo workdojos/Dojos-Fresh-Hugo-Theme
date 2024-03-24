@@ -47,7 +47,7 @@ In conclusion, the above resources and technologists are just a few examples of 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Ethiopia" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -53,7 +53,7 @@ By exploring these resources and learning more about the contributions of notabl
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Kyrgystan" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

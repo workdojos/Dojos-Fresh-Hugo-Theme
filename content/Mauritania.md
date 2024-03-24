@@ -49,7 +49,7 @@ Some notable technologists from Mauritania throughout history include:
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Mauritania" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

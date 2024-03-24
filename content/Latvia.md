@@ -51,7 +51,7 @@ Learning more about open-source tech in Latvia can provide great opportunities f
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Latvia" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

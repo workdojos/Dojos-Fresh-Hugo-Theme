@@ -49,7 +49,7 @@ In conclusion, there are various resources available online to learn more about 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Vanuatu" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

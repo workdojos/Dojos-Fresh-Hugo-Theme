@@ -51,7 +51,7 @@ Some notable technologists from Timor-Leste throughout history are:
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Timor-Leste" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

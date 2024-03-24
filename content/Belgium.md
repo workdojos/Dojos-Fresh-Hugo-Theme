@@ -48,7 +48,7 @@ Overall, there are many resources available to learn more about open-source tech
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Belgium" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

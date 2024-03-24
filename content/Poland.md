@@ -55,7 +55,7 @@ Overall, there is a vibrant open-source tech community in Poland, and many notab
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Poland" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -52,7 +52,7 @@ Overall, the open source community in Saudi Arabia is growing and there are many
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Saudi-Arabia" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

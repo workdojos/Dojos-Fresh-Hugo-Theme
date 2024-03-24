@@ -49,7 +49,7 @@ Learning more about open-source technology in Central African Republic can be ch
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Central-African-Republic" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

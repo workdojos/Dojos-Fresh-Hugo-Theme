@@ -41,7 +41,7 @@ By exploring the resources and learning about the achievements of these technolo
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Egypt" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

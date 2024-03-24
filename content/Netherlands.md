@@ -56,7 +56,7 @@ Overall, to learn more about open-source technology in the Netherlands, you can 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Netherlands" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

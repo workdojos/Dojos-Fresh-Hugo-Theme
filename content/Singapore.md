@@ -51,7 +51,7 @@ Learning about open-source technology in Singapore can be a rewarding experience
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Singapore" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

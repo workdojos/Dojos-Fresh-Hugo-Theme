@@ -55,7 +55,7 @@ Overall, learning about open-source tech in Italy can involve a combination of a
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Italy" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

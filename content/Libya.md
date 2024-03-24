@@ -49,7 +49,7 @@ In conclusion, open-source technology is a growing field in Libya, and there are
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Libya" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

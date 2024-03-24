@@ -47,7 +47,7 @@ Overall, Luxembourg has a vibrant open-source community, with many organizations
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Luxembourg" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

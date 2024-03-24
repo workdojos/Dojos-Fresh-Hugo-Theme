@@ -51,7 +51,7 @@ These individuals and organizations have contributed to the development and diss
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Burkina-Faso" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

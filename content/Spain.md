@@ -53,7 +53,7 @@ Notable technologists from Spain throughout history include:
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Spain" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

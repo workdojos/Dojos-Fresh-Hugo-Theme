@@ -47,7 +47,7 @@ Overall, there is a growing interest in open-source technologies in Turkmenistan
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Turkmenistan" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

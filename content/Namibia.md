@@ -51,7 +51,7 @@ Overall, there are many resources and individuals in Namibia who are dedicated t
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Namibia" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

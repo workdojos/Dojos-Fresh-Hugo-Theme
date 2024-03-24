@@ -55,7 +55,7 @@ Learning from these notable technologists' works and contributions can help you 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Ireland" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

@@ -45,7 +45,7 @@ By exploring these resources and learning more about the notable technologists f
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Suriname" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

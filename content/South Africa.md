@@ -51,7 +51,7 @@ Overall, South Africa has a rich history of contributions to the field of techno
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/South-Africa" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

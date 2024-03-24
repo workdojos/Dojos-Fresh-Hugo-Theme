@@ -47,7 +47,7 @@ Learning more about open-source tech in Honduras can be an enriching experience.
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Honduras" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

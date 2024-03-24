@@ -53,7 +53,7 @@ These resources and notable technologists can give you a good starting point for
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Iran" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

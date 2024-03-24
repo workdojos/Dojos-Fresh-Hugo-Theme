@@ -54,7 +54,7 @@ Notable Technologists from Kazakhstan Throughout History:
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Kazakhstan" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

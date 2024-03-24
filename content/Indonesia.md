@@ -51,7 +51,7 @@ Overall, learning about open-source tech in Indonesia requires a combination of 
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Indonesia" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>

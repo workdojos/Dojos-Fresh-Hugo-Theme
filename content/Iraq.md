@@ -56,7 +56,7 @@ In conclusion, learning more about open source technology in Iraq can be done by
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Iraq" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>
