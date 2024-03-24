@@ -59,8 +59,6 @@ Overall, Belize is slowly embracing open-source technology, and with the right r
 
 
 
-Belize
-
 
 <br><br>
 
@@ -73,7 +71,7 @@ Belize
         text-align: center;
         text-decoration: none;
         color: #ffffff;
-        background-color: #104a8e;
+        background-color: #FDC858;
         border-radius: 33px;
         outline: none;
         line-height:  %;
@@ -81,6 +79,10 @@ Belize
     </style>
   </head>
   <body>
+    <figure>
+    <img src='/uploads/countries/Benin.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
     <a class="button" href="https://workdojos.com/Benin">Next dojo:  Benin</a>
   </body>
 </html>
