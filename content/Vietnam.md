@@ -44,7 +44,7 @@ By exploring these resources and learning about the notable technologists in Vie
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/Vietnam" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>
@@ -76,6 +76,6 @@ Vietnam
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Yemen">Next Dojo:  Yemen</a>
+    <a class="button" href="https://workdojos.com/Yemen">Next dojo:  Yemen</a>
   </body>
 </html>

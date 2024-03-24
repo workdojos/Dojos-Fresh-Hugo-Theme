@@ -53,7 +53,7 @@ By exploring these resources and the work of these notable technologists, you ca
     </style>
   </head>
   <body>
-    <a class="button" href="https://blog.workdojos.com/USA" target="_blank">Claim this Dojo</a>
+    <a class="button" href="https://blog.workdojos.com/signup" target="_blank">Claim this Dojo</a>
   </body>
 </html>
 <br>
@@ -85,6 +85,6 @@ By exploring these resources and the work of these notable technologists, you ca
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Uruguay">Next Dojo:  Uruguay</a>
+    <a class="button" href="https://workdojos.com/Uruguay">Next dojo:  Uruguay</a>
   </body>
 </html>
