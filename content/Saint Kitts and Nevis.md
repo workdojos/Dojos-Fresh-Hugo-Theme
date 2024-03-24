@@ -55,7 +55,7 @@ Notable technologists from Saint Kitts and Nevis throughout history include:
 
 
 
-Saint_Kitts_and_Nevis
+
 
 
 <br><br>
@@ -77,6 +77,10 @@ Saint_Kitts_and_Nevis
     </style>
   </head>
   <body>
+                        <figure>
+    <img src='/uploads/countries/Saint Lucia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
     <a class="button" href="https://workdojos.com/Saint-Lucia">Next Dojo:  Saint Lucia</a>
   </body>
 </html>

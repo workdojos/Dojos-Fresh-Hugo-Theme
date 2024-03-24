@@ -59,7 +59,7 @@ Some notable technologists from Mauritania throughout history include:
 
 
 
-Mauritania
+
 
 
 <br><br>
@@ -82,7 +82,7 @@ Mauritania
   </head>
   <body>
                     <figure>
-    <img src='/uploads/countries/Albania.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <img src='/uploads/countries/Mauritius.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
     <a class="button" href="https://workdojos.com/Mauritius">Next Dojo:  Mauritius</a>

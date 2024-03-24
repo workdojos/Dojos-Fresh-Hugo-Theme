@@ -66,7 +66,7 @@ Overall, to learn more about open-source technology in the Netherlands, you can 
 
 
 
-Netherlands
+
 
 
 <br><br>
@@ -89,7 +89,7 @@ Netherlands
   </head>
   <body>
                     <figure>
-    <img src='/uploads/countries/Albania.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <img src='/uploads/countries/New Zealand.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
     <a class="button" href="https://workdojos.com/New-Zealand">Next Dojo:  New Zealand</a>

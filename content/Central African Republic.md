@@ -59,7 +59,7 @@ Learning more about open-source technology in Central African Republic can be ch
 
 
 
-Central_African_Republic
+
 
 
 <br><br>
@@ -82,7 +82,7 @@ Central_African_Republic
   </head>
   <body>
                     <figure>
-    <img src='/uploads/countries/Albania.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <img src='/uploads/countries/Chad.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
     <a class="button" href="https://workdojos.com/Chad">Next Dojo:  Chad</a>

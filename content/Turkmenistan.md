@@ -57,7 +57,7 @@ Overall, there is a growing interest in open-source technologies in Turkmenistan
 
 
 
-Turkmenistan
+
 
 
 <br><br>
@@ -80,7 +80,7 @@ Turkmenistan
   </head>
   <body>
                     <figure>
-    <img src='/uploads/countries/Albania.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <img src='/uploads/countries/Tuvalu.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
     <a class="button" href="https://workdojos.com/Tuvalu">Next Dojo:  Tuvalu</a>

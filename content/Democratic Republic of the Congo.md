@@ -59,7 +59,7 @@ Notable technologists from the Democratic Republic of Congo throughout history i
 
 
 
-Democratic Republic_of_the_Congo
+
 
 
 <br><br>
@@ -82,7 +82,7 @@ Democratic Republic_of_the_Congo
   </head>
   <body>
                     <figure>
-    <img src='/uploads/countries/Albania.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <img src='/uploads/countries/Denmark.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
     <a class="button" href="https://workdojos.com/Denmark">Next Dojo:  Denmark</a>

@@ -57,7 +57,7 @@ In conclusion, learning about open-source tech in Yemen requires some effort, bu
 
 
 
-Yemen
+
 
 
 <br><br>

@@ -70,7 +70,7 @@ Overall, there are several resources available for learning more about open sour
 
 
 
-Rwanda
+
 
 
 <br><br>
@@ -93,7 +93,7 @@ Rwanda
   </head>
   <body>
                     <figure>
-    <img src='/uploads/countries/Albania.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <img src='/uploads/countries/Saint Kitts and Nevis.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
     <a class="button" href="https://workdojos.com/Saint-Kitts-and-Nevis">Next Dojo:  Saint Kitts and Nevis</a>

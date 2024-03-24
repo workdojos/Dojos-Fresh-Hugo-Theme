@@ -65,7 +65,7 @@ Overall, South Africa has a rich history of contributions to the field of techno
 
 
 
-South_Africa
+
 
 
 <br><br>
@@ -87,6 +87,10 @@ South_Africa
     </style>
   </head>
   <body>
+                        <figure>
+    <img src='/uploads/countries/South Korea.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <figcaption>Making open-source more accessible.</figcaption>
+</figure>
     <a class="button" href="https://workdojos.com/South-Korea">Next Dojo:  South Korea</a>
   </body>
 </html>
