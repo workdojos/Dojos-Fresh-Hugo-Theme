@@ -61,8 +61,6 @@ Learning more about open-source tech in Latvia can provide great opportunities f
 
 
 
-Latvia
-
 
 <br><br>
 
