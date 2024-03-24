@@ -76,9 +76,9 @@ By joining local tech communities and attending events, you can connect with oth
   </head>
   <body>
                     <figure>
-    <img src='/uploads/countries/Kyrgystan.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
+    <img src='/uploads/countries/Kyrgyzstan.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-    <a class="button" href="https://workdojos.com/Kyrgystan">Next Dojo:  Kyrgystan</a>
+    <a class="button" href="https://workdojos.com/Kyrgyzstan">Next Dojo:  Kyrgyzstan</a>
   </body>
 </html>
