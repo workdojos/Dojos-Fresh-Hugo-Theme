@@ -83,6 +83,6 @@ Dominican_Republic
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Ecuador">Next dojo:  Ecuador</a>
+    <a class="button" href="https://workdojos.com/Ecuador">Next Dojo:  Ecuador</a>
   </body>
 </html>

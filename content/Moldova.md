@@ -81,6 +81,6 @@ Moldova
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Monaco">Next dojo:  Monaco</a>
+    <a class="button" href="https://workdojos.com/Monaco">Next Dojo:  Monaco</a>
   </body>
 </html>

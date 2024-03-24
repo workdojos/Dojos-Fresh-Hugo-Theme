@@ -83,6 +83,6 @@ Timor_Leste
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Togo">Next dojo:  Togo</a>
+    <a class="button" href="https://workdojos.com/Togo">Next Dojo:  Togo</a>
   </body>
 </html>

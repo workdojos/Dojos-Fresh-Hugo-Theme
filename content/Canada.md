@@ -83,6 +83,6 @@ Canada
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Central-African-Republic">Next dojo:  Central African Republic</a>
+    <a class="button" href="https://workdojos.com/Central-African-Republic">Next Dojo:  Central African Republic</a>
   </body>
 </html>

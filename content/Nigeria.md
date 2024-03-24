@@ -90,6 +90,6 @@ Nigeria
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/North-Korea">Next dojo:  North Korea</a>
+    <a class="button" href="https://workdojos.com/North-Korea">Next Dojo:  North Korea</a>
   </body>
 </html>

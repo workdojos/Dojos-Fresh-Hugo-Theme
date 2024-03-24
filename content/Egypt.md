@@ -73,6 +73,6 @@ Egypt
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/El-Salvador">Next dojo:  El Salvador</a>
+    <a class="button" href="https://workdojos.com/El-Salvador">Next Dojo:  El Salvador</a>
   </body>
 </html>

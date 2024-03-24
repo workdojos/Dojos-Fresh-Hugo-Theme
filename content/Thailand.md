@@ -85,6 +85,6 @@ Thailand
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Timor Leste">Next dojo:  Timor Leste</a>
+    <a class="button" href="https://workdojos.com/Timor Leste">Next Dojo:  Timor Leste</a>
   </body>
 </html>

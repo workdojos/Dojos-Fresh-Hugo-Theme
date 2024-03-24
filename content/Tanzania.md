@@ -83,6 +83,6 @@ Tanzania
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Thailand">Next dojo:  Thailand</a>
+    <a class="button" href="https://workdojos.com/Thailand">Next Dojo:  Thailand</a>
   </body>
 </html>

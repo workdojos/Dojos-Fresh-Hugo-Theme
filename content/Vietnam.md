@@ -76,6 +76,6 @@ Vietnam
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Yemen">Next dojo:  Yemen</a>
+    <a class="button" href="https://workdojos.com/Yemen">Next Dojo:  Yemen</a>
   </body>
 </html>

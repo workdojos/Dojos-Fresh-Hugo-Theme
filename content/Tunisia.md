@@ -81,6 +81,6 @@ Tunisia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Turkey">Next dojo:  Turkey</a>
+    <a class="button" href="https://workdojos.com/Turkey">Next Dojo:  Turkey</a>
   </body>
 </html>

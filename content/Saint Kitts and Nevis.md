@@ -77,6 +77,6 @@ Saint_Kitts_and_Nevis
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Saint-Lucia">Next dojo:  Saint Lucia</a>
+    <a class="button" href="https://workdojos.com/Saint-Lucia">Next Dojo:  Saint Lucia</a>
   </body>
 </html>

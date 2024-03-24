@@ -81,6 +81,6 @@ Sierra_Leone
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Singapore">Next dojo:  Singapore</a>
+    <a class="button" href="https://workdojos.com/Singapore">Next Dojo:  Singapore</a>
   </body>
 </html>

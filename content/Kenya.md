@@ -91,6 +91,6 @@ Kenya
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Kiribati">Next dojo:  Kiribati</a>
+    <a class="button" href="https://workdojos.com/Kiribati">Next Dojo:  Kiribati</a>
   </body>
 </html>

@@ -85,6 +85,6 @@ Kyrgystan
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Laos">Next dojo:  Laos</a>
+    <a class="button" href="https://workdojos.com/Laos">Next Dojo:  Laos</a>
   </body>
 </html>

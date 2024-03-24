@@ -83,6 +83,6 @@ Laos
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Latvia">Next dojo:  Latvia</a>
+    <a class="button" href="https://workdojos.com/Latvia">Next Dojo:  Latvia</a>
   </body>
 </html>

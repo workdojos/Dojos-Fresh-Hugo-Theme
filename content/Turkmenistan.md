@@ -79,6 +79,6 @@ Turkmenistan
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Tuvalu">Next dojo:  Tuvalu</a>
+    <a class="button" href="https://workdojos.com/Tuvalu">Next Dojo:  Tuvalu</a>
   </body>
 </html>

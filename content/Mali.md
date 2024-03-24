@@ -77,6 +77,6 @@ Mali
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Malta">Next dojo:  Malta</a>
+    <a class="button" href="https://workdojos.com/Malta">Next Dojo:  Malta</a>
   </body>
 </html>

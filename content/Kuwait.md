@@ -75,6 +75,6 @@ Kuwait
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Kyrgystan">Next dojo:  Kyrgystan</a>
+    <a class="button" href="https://workdojos.com/Kyrgystan">Next Dojo:  Kyrgystan</a>
   </body>
 </html>

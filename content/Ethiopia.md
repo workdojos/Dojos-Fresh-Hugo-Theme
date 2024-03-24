@@ -79,6 +79,6 @@ Ethiopia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Fiji">Next dojo:  Fiji</a>
+    <a class="button" href="https://workdojos.com/Fiji">Next Dojo:  Fiji</a>
   </body>
 </html>

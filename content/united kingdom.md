@@ -74,6 +74,6 @@ United_Kingdom
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/USA">Next dojo:  USA</a>
+    <a class="button" href="https://workdojos.com/USA">Next Dojo:  USA</a>
   </body>
 </html>

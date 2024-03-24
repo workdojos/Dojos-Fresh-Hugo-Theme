@@ -84,6 +84,6 @@ Saudi_Arabia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Senegal">Next dojo:  Senegal</a>
+    <a class="button" href="https://workdojos.com/Senegal">Next Dojo:  Senegal</a>
   </body>
 </html>

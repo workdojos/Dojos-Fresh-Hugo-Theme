@@ -83,6 +83,6 @@ Bahrain
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Barbados">Next dojo:  Barbados</a>
+    <a class="button" href="https://workdojos.com/Barbados">Next Dojo:  Barbados</a>
   </body>
 </html>

@@ -74,6 +74,6 @@ Saint_Vincent_and_the_Grenadines
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Samoa">Next dojo:  Samoa</a>
+    <a class="button" href="https://workdojos.com/Samoa">Next Dojo:  Samoa</a>
   </body>
 </html>

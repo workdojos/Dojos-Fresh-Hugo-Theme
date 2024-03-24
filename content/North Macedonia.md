@@ -82,6 +82,6 @@ North_Macedonia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Norway">Next dojo:  Norway</a>
+    <a class="button" href="https://workdojos.com/Norway">Next Dojo:  Norway</a>
   </body>
 </html>

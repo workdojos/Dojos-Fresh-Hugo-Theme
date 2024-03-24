@@ -75,6 +75,6 @@ Cambodia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Cameroon">Next dojo:  Cameroon</a>
+    <a class="button" href="https://workdojos.com/Cameroon">Next Dojo:  Cameroon</a>
   </body>
 </html>

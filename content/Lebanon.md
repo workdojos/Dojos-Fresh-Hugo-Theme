@@ -83,6 +83,6 @@ Lebanon
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Lesotho">Next dojo:  Lesotho</a>
+    <a class="button" href="https://workdojos.com/Lesotho">Next Dojo:  Lesotho</a>
   </body>
 </html>

@@ -81,6 +81,6 @@ Bolivia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Bosnia-and-Herzegovina">Next dojo:  Bosnia and Herzegovina</a>
+    <a class="button" href="https://workdojos.com/Bosnia-and-Herzegovina">Next Dojo:  Bosnia and Herzegovina</a>
   </body>
 </html>

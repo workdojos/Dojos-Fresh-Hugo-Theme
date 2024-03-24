@@ -83,6 +83,6 @@ Portugal
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Qatar">Next dojo:  Qatar</a>
+    <a class="button" href="https://workdojos.com/Qatar">Next Dojo:  Qatar</a>
   </body>
 </html>

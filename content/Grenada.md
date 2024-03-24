@@ -83,6 +83,6 @@ Grenada
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Guatemala">Next dojo:  Guatemala</a>
+    <a class="button" href="https://workdojos.com/Guatemala">Next Dojo:  Guatemala</a>
   </body>
 </html>

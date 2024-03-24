@@ -93,6 +93,6 @@ Romania
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Russia">Next dojo:  Russia</a>
+    <a class="button" href="https://workdojos.com/Russia">Next Dojo:  Russia</a>
   </body>
 </html>

@@ -83,7 +83,6 @@ Overall, Belize is slowly embracing open-source technology, and with the right r
     <img src='/uploads/countries/Benin.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
     <figcaption>Making open-source more accessible.</figcaption>
 </figure>
-    <a href="https://workdojos.com">Go home.</a>
-    <a class="button" href="https://workdojos.com/Benin">Next dojo:  Benin</a>
+    <a class="button" href="https://workdojos.com/Benin">Next Dojo:  Benin</a>
   </body>
 </html>

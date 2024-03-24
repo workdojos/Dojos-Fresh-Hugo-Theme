@@ -79,6 +79,6 @@ Tonga
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Trinidad-and-Tobago">Next dojo:  Trinidad and Tobago</a>
+    <a class="button" href="https://workdojos.com/Trinidad-and-Tobago">Next Dojo:  Trinidad and Tobago</a>
   </body>
 </html>

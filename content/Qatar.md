@@ -81,6 +81,6 @@ Qatar
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Romania">Next dojo:  Romania</a>
+    <a class="button" href="https://workdojos.com/Romania">Next Dojo:  Romania</a>
   </body>
 </html>

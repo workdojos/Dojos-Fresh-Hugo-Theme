@@ -85,6 +85,6 @@ Venezuela
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Vietnam">Next dojo:  Vietnam</a>
+    <a class="button" href="https://workdojos.com/Vietnam">Next Dojo:  Vietnam</a>
   </body>
 </html>

@@ -85,6 +85,6 @@ Greece
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Grenada">Next dojo:  Grenada</a>
+    <a class="button" href="https://workdojos.com/Grenada">Next Dojo:  Grenada</a>
   </body>
 </html>

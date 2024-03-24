@@ -81,6 +81,6 @@ Algeria
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Andorra">Next dojo:  Andorra</a>
+    <a class="button" href="https://workdojos.com/Andorra">Next Dojo:  Andorra</a>
   </body>
 </html>

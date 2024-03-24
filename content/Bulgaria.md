@@ -84,6 +84,6 @@ Bulgaria
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Burkina-Faso">Next dojo:  Burkina-Faso</a>
+    <a class="button" href="https://workdojos.com/Burkina-Faso">Next Dojo:  Burkina-Faso</a>
   </body>
 </html>

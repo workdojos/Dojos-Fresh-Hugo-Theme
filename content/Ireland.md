@@ -87,6 +87,6 @@ Ireland
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Israel">Next dojo:  Israel</a>
+    <a class="button" href="https://workdojos.com/Israel">Next Dojo:  Israel</a>
   </body>
 </html>

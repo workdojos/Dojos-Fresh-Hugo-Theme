@@ -81,6 +81,6 @@ Brazil
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Brunei">Next dojo:  Brunei</a>
+    <a class="button" href="https://workdojos.com/Brunei">Next Dojo:  Brunei</a>
   </body>
 </html>

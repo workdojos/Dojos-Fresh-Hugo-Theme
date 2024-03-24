@@ -80,6 +80,6 @@ Kiribati
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Kuwait">Next dojo:  Kuwait</a>
+    <a class="button" href="https://workdojos.com/Kuwait">Next Dojo:  Kuwait</a>
   </body>
 </html>

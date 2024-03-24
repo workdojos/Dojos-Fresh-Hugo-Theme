@@ -85,6 +85,6 @@ Gambia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Georgia">Next dojo:  Georgia</a>
+    <a class="button" href="https://workdojos.com/Georgia">Next Dojo:  Georgia</a>
   </body>
 </html>

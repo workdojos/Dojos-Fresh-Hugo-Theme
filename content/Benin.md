@@ -78,6 +78,6 @@ Benin
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Bhutan">Next dojo:  Bhutan</a>
+    <a class="button" href="https://workdojos.com/Bhutan">Next Dojo:  Bhutan</a>
   </body>
 </html>

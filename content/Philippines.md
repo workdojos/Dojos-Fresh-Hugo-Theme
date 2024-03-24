@@ -90,6 +90,6 @@ Phillippines
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Poland">Next dojo:  Poland</a>
+    <a class="button" href="https://workdojos.com/Poland">Next Dojo:  Poland</a>
   </body>
 </html>

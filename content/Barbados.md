@@ -78,6 +78,6 @@ Barbados
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Belarus">Next dojo:  Belarus</a>
+    <a class="button" href="https://workdojos.com/Belarus">Next Dojo:  Belarus</a>
   </body>
 </html>

@@ -74,6 +74,6 @@ San_Marino
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Sao-Tome-and-Principe">Next dojo:  Sao Tome and Principe</a>
+    <a class="button" href="https://workdojos.com/Sao-Tome-and-Principe">Next Dojo:  Sao Tome and Principe</a>
   </body>
 </html>

@@ -81,6 +81,6 @@ Liechtenstein
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Lithuania">Next dojo:  Lithuania</a>
+    <a class="button" href="https://workdojos.com/Lithuania">Next Dojo:  Lithuania</a>
   </body>
 </html>

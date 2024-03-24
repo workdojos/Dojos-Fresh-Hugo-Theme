@@ -79,6 +79,6 @@ Panama
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Papua-New-Guinea">Next dojo:  Papua New Guinea</a>
+    <a class="button" href="https://workdojos.com/Papua-New-Guinea">Next Dojo:  Papua New Guinea</a>
   </body>
 </html>

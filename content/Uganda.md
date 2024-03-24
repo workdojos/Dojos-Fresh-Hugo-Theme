@@ -81,6 +81,6 @@ Uganda
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Ukraine">Next dojo:  Ukraine</a>
+    <a class="button" href="https://workdojos.com/Ukraine">Next Dojo:  Ukraine</a>
   </body>
 </html>

@@ -74,6 +74,6 @@ Nauru
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Nepal">Next dojo:  Nepal</a>
+    <a class="button" href="https://workdojos.com/Nepal">Next Dojo:  Nepal</a>
   </body>
 </html>

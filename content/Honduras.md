@@ -79,6 +79,6 @@ Honduras
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Hungary">Next dojo:  Hungary</a>
+    <a class="button" href="https://workdojos.com/Hungary">Next Dojo:  Hungary</a>
   </body>
 </html>

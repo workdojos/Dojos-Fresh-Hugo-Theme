@@ -79,6 +79,6 @@ United_Arab_Emirates
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/United-Kingdom">Next dojo:  United Kingdom</a>
+    <a class="button" href="https://workdojos.com/United-Kingdom">Next Dojo:  United Kingdom</a>
   </body>
 </html>

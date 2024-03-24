@@ -79,6 +79,6 @@ Paraguay
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Peru">Next dojo:  Peru</a>
+    <a class="button" href="https://workdojos.com/Peru">Next Dojo:  Peru</a>
   </body>
 </html>

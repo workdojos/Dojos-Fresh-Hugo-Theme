@@ -84,6 +84,6 @@ Chad
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Chile">Next dojo:  Chile</a>
+    <a class="button" href="https://workdojos.com/Chile">Next Dojo:  Chile</a>
   </body>
 </html>

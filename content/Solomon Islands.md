@@ -79,6 +79,6 @@ Solomon_Islands
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Somalia">Next dojo:  Somalia</a>
+    <a class="button" href="https://workdojos.com/Somalia">Next Dojo:  Somalia</a>
   </body>
 </html>

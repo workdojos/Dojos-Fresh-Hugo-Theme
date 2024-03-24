@@ -80,6 +80,6 @@ Holy_See
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Honduras">Next dojo:  Honduras</a>
+    <a class="button" href="https://workdojos.com/Honduras">Next Dojo:  Honduras</a>
   </body>
 </html>

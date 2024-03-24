@@ -85,6 +85,6 @@ Iran
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Iraq">Next dojo:  Iraq</a>
+    <a class="button" href="https://workdojos.com/Iraq">Next Dojo:  Iraq</a>
   </body>
 </html>

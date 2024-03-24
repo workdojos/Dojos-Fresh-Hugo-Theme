@@ -93,6 +93,6 @@ Australia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Austria">Next dojo:  Austria</a>
+    <a class="button" href="https://workdojos.com/Austria">Next Dojo:  Austria</a>
   </body>
 </html>

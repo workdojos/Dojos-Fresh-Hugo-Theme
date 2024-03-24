@@ -81,6 +81,6 @@ Slovakia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Slovenia">Next dojo:  Slovenia</a>
+    <a class="button" href="https://workdojos.com/Slovenia">Next Dojo:  Slovenia</a>
   </body>
 </html>

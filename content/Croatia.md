@@ -83,6 +83,6 @@ Croatia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Cuba">Next dojo:  Cuba</a>
+    <a class="button" href="https://workdojos.com/Cuba">Next Dojo:  Cuba</a>
   </body>
 </html>

@@ -83,6 +83,6 @@ Jordan
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Kazakhstan">Next dojo:  Kazakhstan</a>
+    <a class="button" href="https://workdojos.com/Kazakhstan">Next Dojo:  Kazakhstan</a>
   </body>
 </html>

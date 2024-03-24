@@ -77,6 +77,6 @@ Somalia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/South-Africa">Next dojo:  South Africa</a>
+    <a class="button" href="https://workdojos.com/South-Africa">Next Dojo:  South Africa</a>
   </body>
 </html>

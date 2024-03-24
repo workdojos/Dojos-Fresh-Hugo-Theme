@@ -79,6 +79,6 @@ Luxembourg
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Madagascar">Next dojo:  Madagascar</a>
+    <a class="button" href="https://workdojos.com/Madagascar">Next Dojo:  Madagascar</a>
   </body>
 </html>

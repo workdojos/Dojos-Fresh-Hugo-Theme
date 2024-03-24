@@ -89,6 +89,6 @@ These are just a few of the many notable technologists from Denmark. You can fin
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Djibouti">Next dojo:  Djibouti</a>
+    <a class="button" href="https://workdojos.com/Djibouti">Next Dojo:  Djibouti</a>
   </body>
 </html>

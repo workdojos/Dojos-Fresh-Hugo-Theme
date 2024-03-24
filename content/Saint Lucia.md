@@ -77,6 +77,6 @@ Saint_Lucia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Saint-Vincent-and-the-Grenadines">Next dojo:  Saint Vincent and the Grenadines</a>
+    <a class="button" href="https://workdojos.com/Saint-Vincent-and-the-Grenadines">Next Dojo:  Saint Vincent and the Grenadines</a>
   </body>
 </html>

@@ -87,6 +87,6 @@ Pakistan
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Palau">Next dojo:  Palau</a>
+    <a class="button" href="https://workdojos.com/Palau">Next Dojo:  Palau</a>
   </body>
 </html>

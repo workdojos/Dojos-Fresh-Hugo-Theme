@@ -92,6 +92,6 @@ Rwanda
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Saint-Kitts-and-Nevis">Next dojo:  Saint Kitts and Nevis</a>
+    <a class="button" href="https://workdojos.com/Saint-Kitts-and-Nevis">Next Dojo:  Saint Kitts and Nevis</a>
   </body>
 </html>

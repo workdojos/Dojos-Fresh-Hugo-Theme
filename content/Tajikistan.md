@@ -77,6 +77,6 @@ Tajikistan
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Tanzania">Next dojo:  Tanzania</a>
+    <a class="button" href="https://workdojos.com/Tanzania">Next Dojo:  Tanzania</a>
   </body>
 </html>

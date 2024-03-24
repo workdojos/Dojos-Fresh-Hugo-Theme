@@ -75,6 +75,6 @@ South_Sudan
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Spain">Next dojo:  Spain</a>
+    <a class="button" href="https://workdojos.com/Spain">Next Dojo:  Spain</a>
   </body>
 </html>

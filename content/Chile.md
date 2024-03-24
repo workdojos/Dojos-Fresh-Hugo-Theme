@@ -83,6 +83,6 @@ Chile
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/China">Next dojo:  China</a>
+    <a class="button" href="https://workdojos.com/China">Next Dojo:  China</a>
   </body>
 </html>

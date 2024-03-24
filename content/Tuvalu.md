@@ -72,6 +72,6 @@ Tuvalu
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Uganda">Next dojo:  Uganda</a>
+    <a class="button" href="https://workdojos.com/Uganda">Next Dojo:  Uganda</a>
   </body>
 </html>

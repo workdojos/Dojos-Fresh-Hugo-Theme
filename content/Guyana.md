@@ -78,6 +78,6 @@ Guyana
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Haiti">Next dojo:  Haiti</a>
+    <a class="button" href="https://workdojos.com/Haiti">Next Dojo:  Haiti</a>
   </body>
 </html>

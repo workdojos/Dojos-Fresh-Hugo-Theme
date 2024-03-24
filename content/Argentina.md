@@ -85,6 +85,6 @@ Argentina
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Armenia">Next dojo:  Armenia</a>
+    <a class="button" href="https://workdojos.com/Armenia">Next Dojo:  Armenia</a>
   </body>
 </html>

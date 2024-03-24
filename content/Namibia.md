@@ -83,6 +83,6 @@ Namibia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Nauru">Next dojo:  Nauru</a>
+    <a class="button" href="https://workdojos.com/Nauru">Next Dojo:  Nauru</a>
   </body>
 </html>

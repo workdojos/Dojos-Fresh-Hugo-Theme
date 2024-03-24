@@ -87,6 +87,6 @@ Mongolia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Montenegro">Next dojo:  Montenegro</a>
+    <a class="button" href="https://workdojos.com/Montenegro">Next Dojo:  Montenegro</a>
   </body>
 </html>

@@ -88,6 +88,6 @@ Equatorial_Guinea
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Eritrea">Next dojo:  Eritrea</a>
+    <a class="button" href="https://workdojos.com/Eritrea">Next Dojo:  Eritrea</a>
   </body>
 </html>

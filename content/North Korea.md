@@ -79,6 +79,6 @@ North_Korea
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/North-Macedonia">Next dojo:  North Macedonia</a>
+    <a class="button" href="https://workdojos.com/North-Macedonia">Next Dojo:  North Macedonia</a>
   </body>
 </html>

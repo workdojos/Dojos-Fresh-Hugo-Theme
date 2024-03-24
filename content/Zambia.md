@@ -99,6 +99,6 @@ Zambia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Zimbabwe">Next dojo:  Zimbabwe</a>
+    <a class="button" href="https://workdojos.com/Zimbabwe">Next Dojo:  Zimbabwe</a>
   </body>
 </html>

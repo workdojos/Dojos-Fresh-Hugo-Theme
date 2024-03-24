@@ -87,6 +87,6 @@ Hungary
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Iceland">Next dojo:  Iceland</a>
+    <a class="button" href="https://workdojos.com/Iceland">Next Dojo:  Iceland</a>
   </body>
 </html>

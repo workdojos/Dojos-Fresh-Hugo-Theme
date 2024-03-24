@@ -75,6 +75,6 @@ Marshall_Islands
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Mauritania">Next dojo:  Mauritania</a>
+    <a class="button" href="https://workdojos.com/Mauritania">Next Dojo:  Mauritania</a>
   </body>
 </html>

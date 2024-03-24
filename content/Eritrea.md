@@ -89,6 +89,6 @@ Eritrea
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Estonia">Next dojo:  Estonia</a>
+    <a class="button" href="https://workdojos.com/Estonia">Next Dojo:  Estonia</a>
   </body>
 </html>

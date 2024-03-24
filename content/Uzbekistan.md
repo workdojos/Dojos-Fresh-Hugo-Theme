@@ -75,6 +75,6 @@ Uzbekistan
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Vanuatu">Next dojo:  Vanuatu</a>
+    <a class="button" href="https://workdojos.com/Vanuatu">Next Dojo:  Vanuatu</a>
   </body>
 </html>

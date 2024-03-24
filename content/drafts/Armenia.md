@@ -76,6 +76,6 @@ I hope this information helps you explore the world of open-source tech in Armen
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Australia">Next dojo:  Australia</a>
+    <a class="button" href="https://workdojos.com/Australia">Next Dojo:  Australia</a>
   </body>
 </html>

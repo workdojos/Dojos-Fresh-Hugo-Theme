@@ -85,6 +85,6 @@ Switzerland
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Syria">Next dojo:  Syria</a>
+    <a class="button" href="https://workdojos.com/Syria">Next Dojo:  Syria</a>
   </body>
 </html>

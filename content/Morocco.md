@@ -81,6 +81,6 @@ Morocco
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Mozambique">Next dojo:  Mozambique</a>
+    <a class="button" href="https://workdojos.com/Mozambique">Next Dojo:  Mozambique</a>
   </body>
 </html>

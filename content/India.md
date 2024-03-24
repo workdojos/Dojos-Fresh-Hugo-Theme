@@ -83,6 +83,6 @@ India
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Indonesia">Next dojo:  Indonesia</a>
+    <a class="button" href="https://workdojos.com/Indonesia">Next Dojo:  Indonesia</a>
   </body>
 </html>

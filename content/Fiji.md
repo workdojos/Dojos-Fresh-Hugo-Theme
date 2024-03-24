@@ -81,6 +81,6 @@ Fiji
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/France">Next dojo:  France</a>
+    <a class="button" href="https://workdojos.com/France">Next Dojo:  France</a>
   </body>
 </html>

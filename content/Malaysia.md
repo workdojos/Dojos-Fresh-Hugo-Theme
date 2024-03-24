@@ -79,6 +79,6 @@ Malaysia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Maldives">Next dojo:  Maldives</a>
+    <a class="button" href="https://workdojos.com/Maldives">Next Dojo:  Maldives</a>
   </body>
 </html>

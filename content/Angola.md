@@ -74,6 +74,6 @@ Angola
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Antigua-and-Barbuda">Next dojo:  Antigua and Barbuda</a>
+    <a class="button" href="https://workdojos.com/Antigua-and-Barbuda">Next Dojo:  Antigua and Barbuda</a>
   </body>
 </html>

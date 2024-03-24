@@ -83,6 +83,6 @@ Mozambique
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Myanmar">Next dojo:  Myanmar</a>
+    <a class="button" href="https://workdojos.com/Myanmar">Next Dojo:  Myanmar</a>
   </body>
 </html>

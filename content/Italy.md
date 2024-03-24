@@ -87,6 +87,6 @@ Italy
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Jamaica">Next dojo:  Jamaica</a>
+    <a class="button" href="https://workdojos.com/Jamaica">Next Dojo:  Jamaica</a>
   </body>
 </html>

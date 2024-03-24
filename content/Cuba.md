@@ -83,6 +83,6 @@ Cuba
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Cyprus">Next dojo:  Cyprus</a>
+    <a class="button" href="https://workdojos.com/Cyprus">Next Dojo:  Cyprus</a>
   </body>
 </html>

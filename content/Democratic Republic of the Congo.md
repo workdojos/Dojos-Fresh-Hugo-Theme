@@ -81,6 +81,6 @@ Democratic Republic_of_the_Congo
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Denmark">Next dojo:  Denmark</a>
+    <a class="button" href="https://workdojos.com/Denmark">Next Dojo:  Denmark</a>
   </body>
 </html>

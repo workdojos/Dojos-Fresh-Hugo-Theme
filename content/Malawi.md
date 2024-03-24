@@ -79,6 +79,6 @@ Malawi
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Malaysia">Next dojo:  Malaysia</a>
+    <a class="button" href="https://workdojos.com/Malaysia">Next Dojo:  Malaysia</a>
   </body>
 </html>

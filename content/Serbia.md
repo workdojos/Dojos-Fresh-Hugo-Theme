@@ -75,6 +75,6 @@ Serbia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Seychelles">Next dojo:  Seychelles</a>
+    <a class="button" href="https://workdojos.com/Seychelles">Next Dojo:  Seychelles</a>
   </body>
 </html>

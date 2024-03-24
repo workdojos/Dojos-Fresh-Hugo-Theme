@@ -76,6 +76,6 @@ Liberia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Libya">Next dojo:  Libya</a>
+    <a class="button" href="https://workdojos.com/Libya">Next Dojo:  Libya</a>
   </body>
 </html>

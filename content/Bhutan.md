@@ -79,6 +79,6 @@ Bhutan
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Bolivia">Next dojo:  Bolivia</a>
+    <a class="button" href="https://workdojos.com/Bolivia">Next Dojo:  Bolivia</a>
   </body>
 </html>

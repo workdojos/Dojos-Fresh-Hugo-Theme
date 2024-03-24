@@ -75,6 +75,6 @@ Malta
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Marshall-Islands">Next dojo:  Marshall Islands</a>
+    <a class="button" href="https://workdojos.com/Marshall-Islands">Next Dojo:  Marshall Islands</a>
   </body>
 </html>

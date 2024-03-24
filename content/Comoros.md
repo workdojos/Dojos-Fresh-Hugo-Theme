@@ -74,6 +74,6 @@ Comoros
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Congo-Brazzaville">Next dojo:  Congo Brazzaville</a>
+    <a class="button" href="https://workdojos.com/Congo-Brazzaville">Next Dojo:  Congo Brazzaville</a>
   </body>
 </html>

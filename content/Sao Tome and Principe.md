@@ -81,6 +81,6 @@ Sao_Tome_and_Principe
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Saudi-Arabia">Next dojo:  Saudi Arabia</a>
+    <a class="button" href="https://workdojos.com/Saudi-Arabia">Next Dojo:  Saudi Arabia</a>
   </body>
 </html>

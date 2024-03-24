@@ -79,6 +79,6 @@ Burundi
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Ivory-Coast">Next dojo:  Ivory Coast</a>
+    <a class="button" href="https://workdojos.com/Ivory-Coast">Next Dojo:  Ivory Coast</a>
   </body>
 </html>

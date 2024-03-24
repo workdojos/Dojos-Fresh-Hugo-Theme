@@ -85,6 +85,6 @@ Syria
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Tajikistan">Next dojo:  Tajikistan</a>
+    <a class="button" href="https://workdojos.com/Tajikistan">Next Dojo:  Tajikistan</a>
   </body>
 </html>

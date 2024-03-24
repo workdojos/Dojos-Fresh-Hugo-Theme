@@ -82,6 +82,6 @@ Czech
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Democratic-Republic-of-the-Congo">Next dojo:  Democratic Republic of the Congo</a>
+    <a class="button" href="https://workdojos.com/Democratic-Republic-of-the-Congo">Next Dojo:  Democratic Republic of the Congo</a>
   </body>
 </html>

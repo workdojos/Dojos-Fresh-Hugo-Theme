@@ -83,6 +83,6 @@ Cameroon
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Canada">Next dojo:  Canada</a>
+    <a class="button" href="https://workdojos.com/Canada">Next Dojo:  Canada</a>
   </body>
 </html>

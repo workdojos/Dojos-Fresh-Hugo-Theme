@@ -81,6 +81,6 @@ Botswana
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Brazil">Next dojo:  Brazil</a>
+    <a class="button" href="https://workdojos.com/Brazil">Next Dojo:  Brazil</a>
   </body>
 </html>

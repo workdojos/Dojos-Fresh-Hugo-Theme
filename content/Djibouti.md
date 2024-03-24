@@ -79,6 +79,6 @@ Djibouti
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Dominica">Next dojo:  Dominica</a>
+    <a class="button" href="https://workdojos.com/Dominica">Next Dojo:  Dominica</a>
   </body>
 </html>

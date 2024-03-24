@@ -81,6 +81,6 @@ Ghana
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Greece">Next dojo:  Greece</a>
+    <a class="button" href="https://workdojos.com/Greece">Next Dojo:  Greece</a>
   </body>
 </html>

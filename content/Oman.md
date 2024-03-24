@@ -83,6 +83,6 @@ Oman
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Pakistan">Next dojo:  Pakistan</a>
+    <a class="button" href="https://workdojos.com/Pakistan">Next Dojo:  Pakistan</a>
   </body>
 </html>

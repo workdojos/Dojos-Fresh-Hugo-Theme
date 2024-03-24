@@ -73,6 +73,6 @@ Nepal
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Netherlands">Next dojo:  Netherlands</a>
+    <a class="button" href="https://workdojos.com/Netherlands">Next Dojo:  Netherlands</a>
   </body>
 </html>

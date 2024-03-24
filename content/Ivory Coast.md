@@ -78,6 +78,6 @@ Cote_dIvoire
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Cabo-Verde">Next dojo:  Cabo Verde</a>
+    <a class="button" href="https://workdojos.com/Cabo-Verde">Next Dojo:  Cabo Verde</a>
   </body>
 </html>

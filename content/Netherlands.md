@@ -88,6 +88,6 @@ Netherlands
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/New-Zealand">Next dojo:  New Zealand</a>
+    <a class="button" href="https://workdojos.com/New-Zealand">Next Dojo:  New Zealand</a>
   </body>
 </html>

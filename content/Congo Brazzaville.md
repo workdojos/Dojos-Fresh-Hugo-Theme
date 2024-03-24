@@ -83,6 +83,6 @@ Congo-Brazzaville
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Costa-Rica">Next dojo:  Costa Rica</a>
+    <a class="button" href="https://workdojos.com/Costa-Rica">Next Dojo:  Costa Rica</a>
   </body>
 </html>

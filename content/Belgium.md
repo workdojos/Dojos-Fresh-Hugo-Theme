@@ -80,6 +80,6 @@ Belgium
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Belize">Next dojo:  Belize</a>
+    <a class="button" href="https://workdojos.com/Belize">Next Dojo:  Belize</a>
   </body>
 </html>

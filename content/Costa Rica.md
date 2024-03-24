@@ -84,6 +84,6 @@ Costa_Rica
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Croatia">Next dojo:  Croatia</a>
+    <a class="button" href="https://workdojos.com/Croatia">Next Dojo:  Croatia</a>
   </body>
 </html>

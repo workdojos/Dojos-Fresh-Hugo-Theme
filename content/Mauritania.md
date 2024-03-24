@@ -81,6 +81,6 @@ Mauritania
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Mauritius">Next dojo:  Mauritius</a>
+    <a class="button" href="https://workdojos.com/Mauritius">Next Dojo:  Mauritius</a>
   </body>
 </html>

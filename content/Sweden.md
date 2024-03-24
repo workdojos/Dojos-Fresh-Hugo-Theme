@@ -83,6 +83,6 @@ Sweden
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Switzerland">Next dojo:  Switzerland</a>
+    <a class="button" href="https://workdojos.com/Switzerland">Next Dojo:  Switzerland</a>
   </body>
 </html>

@@ -83,6 +83,6 @@ New_Zealand
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Nicaragua">Next dojo:  Nicaragua</a>
+    <a class="button" href="https://workdojos.com/Nicaragua">Next Dojo:  Nicaragua</a>
   </body>
 </html>

@@ -81,6 +81,6 @@ Bosnia_and_Herzegovina
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Botswana">Next dojo:  Botswana</a>
+    <a class="button" href="https://workdojos.com/Botswana">Next Dojo:  Botswana</a>
   </body>
 </html>

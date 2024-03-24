@@ -79,6 +79,6 @@ Yemen
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Zambia">Next dojo:  Zambia</a>
+    <a class="button" href="https://workdojos.com/Zambia">Next Dojo:  Zambia</a>
   </body>
 </html>

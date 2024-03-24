@@ -79,6 +79,6 @@ Dominica
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Dominican-Republic">Next dojo:  Dominican Republic</a>
+    <a class="button" href="https://workdojos.com/Dominican-Republic">Next Dojo:  Dominican Republic</a>
   </body>
 </html>

@@ -81,6 +81,6 @@ Seychelles
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Sierra-Leone">Next dojo:  Sierra Leone</a>
+    <a class="button" href="https://workdojos.com/Sierra-Leone">Next Dojo:  Sierra Leone</a>
   </body>
 </html>

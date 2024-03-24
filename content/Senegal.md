@@ -83,6 +83,6 @@ Senegal
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Serbia">Next dojo:  Serbia</a>
+    <a class="button" href="https://workdojos.com/Serbia">Next Dojo:  Serbia</a>
   </body>
 </html>

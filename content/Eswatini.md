@@ -77,6 +77,6 @@ Eswatini
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Ethiopia">Next dojo:  Ethiopia</a>
+    <a class="button" href="https://workdojos.com/Ethiopia">Next Dojo:  Ethiopia</a>
   </body>
 </html>

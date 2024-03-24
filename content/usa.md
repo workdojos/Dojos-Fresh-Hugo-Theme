@@ -85,6 +85,6 @@ By exploring these resources and the work of these notable technologists, you ca
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Uruguay">Next dojo:  Uruguay</a>
+    <a class="button" href="https://workdojos.com/Uruguay">Next Dojo:  Uruguay</a>
   </body>
 </html>

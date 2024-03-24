@@ -83,6 +83,6 @@ Burkina_Faso
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Burundi">Next dojo:  Burundi</a>
+    <a class="button" href="https://workdojos.com/Burundi">Next Dojo:  Burundi</a>
   </body>
 </html>

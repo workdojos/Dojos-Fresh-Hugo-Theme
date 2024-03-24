@@ -79,6 +79,6 @@ Palestine
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Panama">Next dojo:  Panama</a>
+    <a class="button" href="https://workdojos.com/Panama">Next Dojo:  Panama</a>
   </body>
 </html>

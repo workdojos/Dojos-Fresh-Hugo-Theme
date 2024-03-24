@@ -83,6 +83,6 @@ South_Korea
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/South-Sudan">Next dojo:  South Sudan</a>
+    <a class="button" href="https://workdojos.com/South-Sudan">Next Dojo:  South Sudan</a>
   </body>
 </html>

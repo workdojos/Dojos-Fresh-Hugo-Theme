@@ -101,6 +101,6 @@ France
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Gabon">Next dojo:  Gabon</a>
+    <a class="button" href="https://workdojos.com/Gabon">Next Dojo:  Gabon</a>
   </body>
 </html>

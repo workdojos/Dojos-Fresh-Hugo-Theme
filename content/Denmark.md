@@ -89,6 +89,6 @@ Denmark
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/">Next dojo:  Djibouti</a>
+    <a class="button" href="https://workdojos.com/">Next Dojo:  Djibouti</a>
   </body>
 </html>

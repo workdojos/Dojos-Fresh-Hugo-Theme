@@ -83,6 +83,6 @@ Israel
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Italy">Next dojo:  Italy</a>
+    <a class="button" href="https://workdojos.com/Italy">Next Dojo:  Italy</a>
   </body>
 </html>

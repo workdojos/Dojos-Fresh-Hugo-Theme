@@ -84,6 +84,6 @@ Trinidad_and_Tobago
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Tunisia">Next dojo:  Tunisia</a>
+    <a class="button" href="https://workdojos.com/Tunisia">Next Dojo:  Tunisia</a>
   </body>
 </html>

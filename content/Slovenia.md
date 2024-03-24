@@ -76,6 +76,6 @@ Slovenia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Solomon-Islands">Next dojo:  Solomon Islands</a>
+    <a class="button" href="https://workdojos.com/Solomon-Islands">Next Dojo:  Solomon Islands</a>
   </body>
 </html>

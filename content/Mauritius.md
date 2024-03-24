@@ -85,6 +85,6 @@ Mauritius
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Mexico">Next dojo:  Mexico</a>
+    <a class="button" href="https://workdojos.com/Mexico">Next Dojo:  Mexico</a>
   </body>
 </html>

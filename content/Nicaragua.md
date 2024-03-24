@@ -81,6 +81,6 @@ Nicaragua
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Niger">Next dojo:  Niger</a>
+    <a class="button" href="https://workdojos.com/Niger">Next Dojo:  Niger</a>
   </body>
 </html>

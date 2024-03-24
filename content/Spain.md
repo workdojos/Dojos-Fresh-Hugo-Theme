@@ -85,6 +85,6 @@ Spain
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Sri-Lanka">Next dojo:  Sri Lanka</a>
+    <a class="button" href="https://workdojos.com/Sri-Lanka">Next Dojo:  Sri Lanka</a>
   </body>
 </html>

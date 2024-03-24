@@ -81,6 +81,6 @@ Guinea
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Guinea-Bissau">Next dojo:  Guinea Bissau</a>
+    <a class="button" href="https://workdojos.com/Guinea-Bissau">Next Dojo:  Guinea Bissau</a>
   </body>
 </html>

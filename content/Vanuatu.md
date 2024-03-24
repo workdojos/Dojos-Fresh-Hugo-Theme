@@ -81,6 +81,6 @@ Vanuatu
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Venezuela">Next dojo:  Venezuela</a>
+    <a class="button" href="https://workdojos.com/Venezuela">Next Dojo:  Venezuela</a>
   </body>
 </html>

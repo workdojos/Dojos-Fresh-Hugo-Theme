@@ -76,6 +76,6 @@ Japan
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Jordan">Next dojo:  Jordan</a>
+    <a class="button" href="https://workdojos.com/Jordan">Next Dojo:  Jordan</a>
   </body>
 </html>

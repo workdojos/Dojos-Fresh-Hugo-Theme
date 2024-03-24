@@ -87,6 +87,6 @@ Ukraine
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/UAE">Next dojo:  United Arab Emirates</a>
+    <a class="button" href="https://workdojos.com/UAE">Next Dojo:  United Arab Emirates</a>
   </body>
 </html>

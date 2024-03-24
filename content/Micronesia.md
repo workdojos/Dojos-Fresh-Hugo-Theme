@@ -71,6 +71,6 @@ Micronesia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Moldova">Next dojo:  Moldova</a>
+    <a class="button" href="https://workdojos.com/Moldova">Next Dojo:  Moldova</a>
   </body>
 </html>

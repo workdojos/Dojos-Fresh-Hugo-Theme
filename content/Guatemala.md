@@ -83,6 +83,6 @@ Guatemala
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Guinea">Next dojo:  Guinea</a>
+    <a class="button" href="https://workdojos.com/Guinea">Next Dojo:  Guinea</a>
   </body>
 </html>

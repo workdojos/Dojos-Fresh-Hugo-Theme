@@ -85,6 +85,6 @@ Colombia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Comoros">Next dojo:  Comoros</a>
+    <a class="button" href="https://workdojos.com/Comoros">Next Dojo:  Comoros</a>
   </body>
 </html>

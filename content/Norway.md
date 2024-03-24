@@ -86,6 +86,6 @@ Norway
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Oman">Next dojo:  Oman</a>
+    <a class="button" href="https://workdojos.com/Oman">Next Dojo:  Oman</a>
   </body>
 </html>

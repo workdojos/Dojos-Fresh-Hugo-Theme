@@ -83,6 +83,6 @@ Gabon
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Gambia">Next dojo:  Gambia</a>
+    <a class="button" href="https://workdojos.com/Gambia">Next Dojo:  Gambia</a>
   </body>
 </html>

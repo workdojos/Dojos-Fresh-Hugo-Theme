@@ -81,6 +81,6 @@ Libya
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Liechtenstein">Next dojo:  Liechtenstein</a>
+    <a class="button" href="https://workdojos.com/Liechtenstein">Next Dojo:  Liechtenstein</a>
   </body>
 </html>

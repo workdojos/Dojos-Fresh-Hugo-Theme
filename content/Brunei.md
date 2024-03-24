@@ -79,6 +79,6 @@ Brunei
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Bulgaria">Next dojo:  Bulgaria</a>
+    <a class="button" href="https://workdojos.com/Bulgaria">Next Dojo:  Bulgaria</a>
   </body>
 </html>

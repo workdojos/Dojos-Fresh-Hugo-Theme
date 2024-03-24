@@ -85,6 +85,6 @@ Ecuador
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Egypt">Next dojo:  Egypt</a>
+    <a class="button" href="https://workdojos.com/Egypt">Next Dojo:  Egypt</a>
   </body>
 </html>

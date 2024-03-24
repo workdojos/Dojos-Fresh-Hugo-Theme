@@ -82,6 +82,6 @@ China
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Colombia">Next dojo:  Colombia</a>
+    <a class="button" href="https://workdojos.com/Colombia">Next Dojo:  Colombia</a>
   </body>
 </html>

@@ -81,6 +81,6 @@ Estonia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Eswatini">Next dojo:  Eswatini</a>
+    <a class="button" href="https://workdojos.com/Eswatini">Next Dojo:  Eswatini</a>
   </body>
 </html>

@@ -85,6 +85,6 @@ Myanmar
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Namibia">Next dojo:  Namibia</a>
+    <a class="button" href="https://workdojos.com/Namibia">Next Dojo:  Namibia</a>
   </body>
 </html>

@@ -81,6 +81,6 @@ Cabo_Verde
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Cambodia">Next dojo:  Cambodia</a>
+    <a class="button" href="https://workdojos.com/Cambodia">Next Dojo:  Cambodia</a>
   </body>
 </html>

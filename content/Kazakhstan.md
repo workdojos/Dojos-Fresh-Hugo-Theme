@@ -86,6 +86,6 @@ Kazakhstan
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Kenya">Next dojo:  Kenya</a>
+    <a class="button" href="https://workdojos.com/Kenya">Next Dojo:  Kenya</a>
   </body>
 </html>

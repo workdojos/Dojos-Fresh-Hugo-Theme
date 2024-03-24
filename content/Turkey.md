@@ -83,6 +83,6 @@ Turkey
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Turkmenistan">Next dojo:  Turkmenistan</a>
+    <a class="button" href="https://workdojos.com/Turkmenistan">Next Dojo:  Turkmenistan</a>
   </body>
 </html>

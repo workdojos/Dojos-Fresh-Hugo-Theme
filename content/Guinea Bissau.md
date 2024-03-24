@@ -83,6 +83,6 @@ Guinea_Bissau
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Guyana">Next dojo:  Guyana</a>
+    <a class="button" href="https://workdojos.com/Guyana">Next Dojo:  Guyana</a>
   </body>
 </html>

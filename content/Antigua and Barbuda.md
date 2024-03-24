@@ -81,6 +81,6 @@ Antigua_and_Barbuda
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Argentina">Next dojo:  Argentina</a>
+    <a class="button" href="https://workdojos.com/Argentina">Next Dojo:  Argentina</a>
   </body>
 </html>

@@ -83,6 +83,6 @@ Togo
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Tonga">Next dojo:  Tonga</a>
+    <a class="button" href="https://workdojos.com/Tonga">Next Dojo:  Tonga</a>
   </body>
 </html>

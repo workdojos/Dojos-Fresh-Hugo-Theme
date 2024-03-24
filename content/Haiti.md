@@ -77,6 +77,6 @@ Haiti
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Holy-See">Next dojo:  Holy See</a>
+    <a class="button" href="https://workdojos.com/Holy-See">Next Dojo:  Holy See</a>
   </body>
 </html>

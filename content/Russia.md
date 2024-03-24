@@ -90,6 +90,6 @@ Russia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Rwanda">Next dojo:  Rwanda</a>
+    <a class="button" href="https://workdojos.com/Rwanda">Next Dojo:  Rwanda</a>
   </body>
 </html>

@@ -78,6 +78,6 @@ El_Salvador
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Equatorial-Guinea">Next dojo:  Equatorial Guinea</a>
+    <a class="button" href="https://workdojos.com/Equatorial-Guinea">Next Dojo:  Equatorial Guinea</a>
   </body>
 </html>

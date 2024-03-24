@@ -79,6 +79,6 @@ Sri_Lanka
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Sudan">Next dojo:  Sudan</a>
+    <a class="button" href="https://workdojos.com/Sudan">Next Dojo:  Sudan</a>
   </body>
 </html>

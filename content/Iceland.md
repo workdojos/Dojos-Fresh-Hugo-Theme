@@ -76,6 +76,6 @@ Iceland
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/India">Next dojo:  India</a>
+    <a class="button" href="https://workdojos.com/India">Next Dojo:  India</a>
   </body>
 </html>

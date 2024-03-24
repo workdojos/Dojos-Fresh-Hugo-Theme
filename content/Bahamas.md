@@ -74,6 +74,6 @@ Bahamas
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Bahrain">Next dojo:  Bahrain</a>
+    <a class="button" href="https://workdojos.com/Bahrain">Next Dojo:  Bahrain</a>
   </body>
 </html>

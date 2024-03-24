@@ -85,6 +85,6 @@ Georgia
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Germany">Next dojo:  Germany</a>
+    <a class="button" href="https://workdojos.com/Germany">Next Dojo:  Germany</a>
   </body>
 </html>

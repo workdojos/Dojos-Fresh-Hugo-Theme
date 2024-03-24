@@ -79,6 +79,6 @@ Sudan
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Suriname">Next dojo:  Suriname</a>
+    <a class="button" href="https://workdojos.com/Suriname">Next Dojo:  Suriname</a>
   </body>
 </html>

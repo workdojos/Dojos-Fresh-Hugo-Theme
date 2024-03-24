@@ -79,6 +79,6 @@ Lithuania
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Luxembourg">Next dojo:  Luxembourg</a>
+    <a class="button" href="https://workdojos.com/Luxembourg">Next Dojo:  Luxembourg</a>
   </body>
 </html>

@@ -83,6 +83,6 @@ Albania
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Algeria">Next dojo:  Algeria</a>
+    <a class="button" href="https://workdojos.com/Algeria">Next Dojo:  Algeria</a>
   </body>
 </html>

@@ -79,6 +79,6 @@ Austria
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Azerbaijan">Next dojo:  Azerbaijan</a>
+    <a class="button" href="https://workdojos.com/Azerbaijan">Next Dojo:  Azerbaijan</a>
   </body>
 </html>

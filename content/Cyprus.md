@@ -83,6 +83,6 @@ Cyprus
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Czech">Next dojo:  Czech</a>
+    <a class="button" href="https://workdojos.com/Czech">Next Dojo:  Czech</a>
   </body>
 </html>

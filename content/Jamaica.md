@@ -81,6 +81,6 @@ Jamaica
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Japan">Next dojo:  Japan</a>
+    <a class="button" href="https://workdojos.com/Japan">Next Dojo:  Japan</a>
   </body>
 </html>

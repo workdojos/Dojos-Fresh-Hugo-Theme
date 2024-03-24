@@ -80,6 +80,6 @@ Lesotho
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Liberia">Next dojo:  Liberia</a>
+    <a class="button" href="https://workdojos.com/Liberia">Next Dojo:  Liberia</a>
   </body>
 </html>

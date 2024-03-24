@@ -101,6 +101,6 @@ Montenegro
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Morocco">Next dojo:  Morocco</a>
+    <a class="button" href="https://workdojos.com/Morocco">Next Dojo:  Morocco</a>
   </body>
 </html>

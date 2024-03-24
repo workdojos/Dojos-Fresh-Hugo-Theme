@@ -81,6 +81,6 @@ Central_African_Republic
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Chad">Next dojo:  Chad</a>
+    <a class="button" href="https://workdojos.com/Chad">Next Dojo:  Chad</a>
   </body>
 </html>

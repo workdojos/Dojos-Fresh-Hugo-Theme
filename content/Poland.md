@@ -87,6 +87,6 @@ Poland
     </style>
   </head>
   <body>
-    <a class="button" href="https://workdojos.com/Portugal">Next dojo:  Portugal</a>
+    <a class="button" href="https://workdojos.com/Portugal">Next Dojo:  Portugal</a>
   </body>
 </html>
