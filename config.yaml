@@ -290,15 +290,15 @@ params:
           link: /features
         - text: Partners
           link: /partners
-        - text: Why choose us?
-          link: /why
         - text: Free trial
+          link: https://blog.workdojos.com/#/portal/signup
+        - text: 60-Day Self-Hosting Challenge
           link: https://blog.workdojos.com/#/portal/signup
       column2:
         title: "Docs"
         links:
-        - text: Get started
-          link: /docs/start
+        - text: Dashboards
+          link: https://admins.workdojos.com
         - text: Compare pricing
           link: https://workdojos.com/ghost/
         - text: Privacy policy
@@ -310,10 +310,10 @@ params:
         links:
         - text: Blog
           link: https://blog.workdojos.com
-        - text: Pitch
-          link: https://workdojos.com/pitch
-        - text: Investors
-          link: https://workdojos.com/pitch
+        - text: About Us
+          link: https://blog.workdojos.com/about-us
         - text: Get involved
-          link: https://workdojos.com/get-involved
+          link: https://home.workdojos.com/#contact
+        - text: Chat Now
+          link: https://chat.workmates.live/channel/support
 
