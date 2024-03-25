@@ -69,7 +69,7 @@ Entice new subscribers with offers and promotions to grow your business. Run a 3
 
 Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
 
-[Deal on a dojo.]https://blog.workdojos.com/free-dojo 
+[Deal on a dojo.]https://blog.workdojos.com/getadojo 
 
  <br>
 

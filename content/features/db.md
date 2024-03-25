@@ -50,7 +50,7 @@ Sign up for our service during the holidays and save 25% with the link below!  T
 
  <br>
 
-[Deal on a dojo.](https://blog.workdojos.com/free-dojo)
+[Deal on a dojo.](https://blog.workdojos.com/getadojo)
 
  <br>
 

@@ -137,7 +137,7 @@ Hugo is a static site, while Wordpress is considered dynamic.  If you want peopl
 
 <br>
 
- <a href="https://blog.workdojos.com/free-dojo">Check out our blog.</a> 
+ <a href="https://blog.workdojos.com/getadojo">Check out our blog.</a> 
 <br>
 <br>
 
@@ -243,5 +243,5 @@ Click the "Sign Up" button in the upper right to claim a dojo or try one out for
 
 
 
- <a href="https://blog.workdojos.com/free-dojo">Let's go.</a> 
+ <a href="https://blog.workdojos.com/getadojo">Let's go.</a> 
 

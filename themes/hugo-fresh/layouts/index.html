@@ -12,6 +12,21 @@
     {{ partial "section1.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.section1b }}
+    {{ partial "section1b.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.section1c }}
+    {{ partial "section1c.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.section1d }}
+    {{ partial "section1d.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.section1e }}
+    {{ partial "section1e.html" . }}
+    {{ end }}
 
     {{ if .Site.Params.section3 }}
     {{ partial "section3.html" . }}

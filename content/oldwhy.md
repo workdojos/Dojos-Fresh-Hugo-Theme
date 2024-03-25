@@ -48,9 +48,9 @@ Take back your data privacy.  We will teach you how to manager your own server, 
 
 
 
- <a href="https://blog.workdojos.com/free-dojo">Let's go.</a> 
+ <a href="https://blog.workdojos.com/getadojo">Let's go.</a> 
 
 
 
-<a href="https://blog.workdojos.com/free-dojo"><img src="/uploads/inspire.svg" /></a>
+<a href="https://blog.workdojos.com/getadojo"><img src="/uploads/inspire.svg" /></a>
 

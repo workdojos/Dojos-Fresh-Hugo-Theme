@@ -178,7 +178,7 @@ Click the "Sign Up" button in the upper right to claim this dojo or try one out 
 
 
 
- <a href="https://blog.workdojos.com/free-dojo">Let's go.</a> 
+ <a href="https://blog.workdojos.com/getadojo">Let's go.</a> 
 
 
 

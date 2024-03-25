@@ -248,8 +248,24 @@ params:
 
 
   section1:
-    title: The dashboard.
-    subtitle: Sign up to get one for free.
+    title: Free dashboards.
+    subtitle: Sign up to try your own for free.
+
+  section1b:
+    title: Free chat apps.
+    subtitle: Sign up to create your own chat room for free.
+
+  section1c:
+    title: Free templates.
+    subtitle: Sign up to get a free guide to self-hosting.
+
+  section1d:
+    title: Free React apps.
+    subtitle: Sign up to get your own free landing page built in React.
+
+  section1e:
+    title: Customized to your profession for free.
+    subtitle: Sign up to get a free dashboard with fresh content suited to you and your mission.
 
   section3:
     title: Pick a path.
