@@ -269,8 +269,8 @@ params:
     image: logos/workmates.png
 
   section3:
-    title: Pick a path.  Customized to your profession
-    subtitle: Choose from over 100 pre-built dojos or blaze your own trail.
+    title: Pick a path.  For any profession.
+    subtitle: Choose from over 100 pre-built Dojos or blaze your own trail.
     image: logos/workmates.png
     buttonText: Browse all
     buttonLink: "https://workmates.live/marketplace"
