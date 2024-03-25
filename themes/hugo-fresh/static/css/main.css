@@ -8,6 +8,6 @@
 }
 
 .fullwidth {
-  width: 100vw;
-  margin-left: calc(50% - 150vw);
+  width: 60vw;
+  margin-left: calc(30% - 50vw);
 }
