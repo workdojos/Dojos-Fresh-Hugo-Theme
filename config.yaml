@@ -249,11 +249,11 @@ params:
 
   section1:
     title: Free dashboards.
-    subtitle: Sign up to try your own for free.
+    subtitle: Sign up to get your own for free.
 
   sectionZb:
     title: Free chat apps.
-    subtitle: Sign up to create your own chat room for free.
+    subtitle: Sign up to create a chat server for free.
 
   sectionZc:
     title: Free templates.
@@ -261,7 +261,7 @@ params:
 
   sectionZd:
     title: Free React apps.
-    subtitle: Sign up to get your own free landing page built in React.
+    subtitle: Sign up to get a free landing page built in React.
 
   sectionZe:
     title: Pick a path.
