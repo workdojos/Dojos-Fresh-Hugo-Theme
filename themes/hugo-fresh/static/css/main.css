@@ -9,5 +9,5 @@
 
 .fullwidth {
   width: 100vw;
-  margin-left: calc(80% - 50vw);
+  margin-left: calc(50% - 50vw);
 }
