@@ -42,7 +42,7 @@ params:
     buttonlink: "https://workmates.live/marketplace"
     hrefTargetBlank: true
     # Hero image (from static/images/___)
-    image: logos/dojopic8.svg
+    image: logos/flick.gif
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     
