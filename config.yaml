@@ -37,7 +37,7 @@ params:
     # Hero subtitle (optional)
     subtitle: With free and open-source technology. 
     # Button text
-    buttontext: Browse all
+    buttontext: Get inspired
     # Where the main hero button links to
     buttonlink: "https://workmates.live/marketplace"
     hrefTargetBlank: true
@@ -252,8 +252,8 @@ params:
     subtitle: Sign up to get your own for free.
 
   section1Z:
-    title: Educational and fun for the whole family.
-    subtitle: Spin up the ultimate Learning Management System for free!
+    title: Educational and FUN for the whole family.
+    subtitle: Spin up a Learning Management System for free!
 
   sectionZb:
     title: Free chat apps.
