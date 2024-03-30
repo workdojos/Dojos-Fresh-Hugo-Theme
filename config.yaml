@@ -1,6 +1,6 @@
 baseURL: https://workdojos.com
 languageCode: en-us
-title: Dojos
+title: WorkDojos
 theme: hugo-fresh
 disablePathToLower: true
 # Disables warnings
@@ -18,7 +18,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
-  description: Take the first step into free and self-hosted open-source tech.
+  description: Free and open-source technology for all.
   # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
   # preloader: false
   navbarlogo:
@@ -250,6 +250,10 @@ params:
   section1:
     title: Free dashboards.
     subtitle: Sign up to get your own for free.
+
+  section1Z:
+    title: Educational for the whole family.
+    subtitle: Spin up the ultimate Learning Management System for free!
 
   sectionZb:
     title: Free chat apps.
