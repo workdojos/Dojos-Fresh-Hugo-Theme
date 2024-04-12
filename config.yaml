@@ -252,7 +252,7 @@ params:
     subtitle: Sign up to get your own for free.
 
   section1Z:
-    title: Educational and FUN for the whole family.
+    title: For families and teachers.
     subtitle: Spin up a Learning Management System for free!
 
   sectionZb:
@@ -280,9 +280,9 @@ params:
     buttonLink: "https://workmates.live/marketplace"
 
   section3a:
-    title: Open-Source AI.
-    subtitle: Check out our Youtube channel featuring a cast of 16 AI avatars!
-    image: logos/multisad bigger.gif
+    title: Free and Open-Source AI.
+    subtitle: Check out our Youtube channel featuring a cast of 16 AI avatars made exclusively with open-souce technology.
+    image: logos/multisad smaller.gif
     buttonText: Go to Youtube
     buttonLink: "https://youtube.com/@dojofans"
 
