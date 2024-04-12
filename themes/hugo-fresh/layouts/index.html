@@ -21,13 +21,10 @@
     #{{ partial "sectionZc.html" . }}
   #  {{ end }}
 
-
-
-
-    {{ if .Site.Params.section3 }}
-    {{ partial "section3.html" . }}
+    {{ if .Site.Params.sectionZd }}
+    {{ partial "sectionZd.html" . }}
     {{ end }}
-
+    
     {{ if .Site.Params.section1Z }}
     {{ partial "section1Z.html" . }}
     {{ end }}
@@ -36,10 +33,10 @@
     {{ partial "section3a.html" . }}
     {{ end }}
 
-    {{ if .Site.Params.sectionZd }}
-    {{ partial "sectionZd.html" . }}
-    {{ end }}
 
+    {{ if .Site.Params.section3 }}
+    {{ partial "section3.html" . }}
+    {{ end }}
 
     {{ if .Site.Params.section4 }}
     {{ partial "section4.html" . }}
