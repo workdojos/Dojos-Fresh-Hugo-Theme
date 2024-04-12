@@ -259,9 +259,9 @@ params:
     title: Free chat apps.
     subtitle: Sign up to create a chat server for free.
 
-  sectionZc:
-    title: Free templates.
-    subtitle: Sign up to get a free guide to self-hosting.
+#  sectionZc:
+   # title: Free templates.
+   # subtitle: Sign up to get a free guide to self-hosting.
 
   sectionZd:
     title: Free React apps.
