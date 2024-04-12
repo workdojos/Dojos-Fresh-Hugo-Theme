@@ -282,7 +282,7 @@ params:
   section3a:
     title: Free and Open-Source AI.
     subtitle: Check out our Youtube channel featuring a cast of 16 AI avatars made exclusively with open-souce technology.
-    image: logos/multisad smallergif.gif
+    image: logos/multisad bigger.gif
     buttonText: Go to Youtube
     buttonLink: "https://youtube.com/@dojofans"
 
