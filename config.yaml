@@ -37,7 +37,7 @@ params:
     # Hero subtitle (optional)
     subtitle: With free and open-source technology. 
     # Button text
-    buttontext: Get inspired
+    buttontext: Browse all
     # Where the main hero button links to
     buttonlink: "https://workmates.live/marketplace"
     hrefTargetBlank: true
