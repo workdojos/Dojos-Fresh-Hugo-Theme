@@ -2,7 +2,7 @@
 title: Wiki.js
 description: Making open-source more accessible.
 include_footer: true
-sidebar: true
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 

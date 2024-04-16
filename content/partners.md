@@ -2,7 +2,7 @@
 title: Partners
 description: Making open-source more accessible.
 include_footer: true
-sidebar: true
+sidebar: false
 sidebarlogo: wordojos_logo
 ---
 {{% title3 "Some of our favorite open-source apps and partners." %}}
