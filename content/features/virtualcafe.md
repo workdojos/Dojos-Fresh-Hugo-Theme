@@ -48,9 +48,9 @@ Trade messages and emojis while you video conference, with integrated chat.
 <br>
 
 
-Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
 
-[Deal on a dojo.](https://blog.workdojos.com/getadojo)
+
+
 
  <br>
 

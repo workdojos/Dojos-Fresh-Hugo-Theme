@@ -53,9 +53,9 @@ Integrate with your ecosystem using our open API. Enjoy a wide range of customiz
      height="600" />
 
 
-Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
 
-[Deal on a dojo.](https://blog.workdojos.com/getadojo)
+
+
 
 
 

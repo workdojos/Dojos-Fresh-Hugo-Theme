@@ -77,37 +77,37 @@ params:
   - title: Featured
     sublinks:
     - title: Administrator Dojo
-      url: https://workdojos.com/administrators
+      url: https://administrators.workdojos.com/
     - title: Biologist Dojo
-      url: https://workdojos.com/biologist
+      url: https://biologist.workdojos.com/
     - title: Clinician Dojo
-      url: https://workdojos.com/clinician
+      url: https://clinician.workdojos.com/
     - title: Firefighter Dojo
-      url: https://workdojos.com/firefighters
+      url: https://firefighters.workdojos.com/
     - title: Grower Dojo
-      url: https://workdojos.com/growers
+      url: https://growers.workdojos.com/
     - title: Interpreter Dojo
-      url: https://workdojos.com/interpreters
+      url: https://interpreters.workdojos.com/
     - title: Life Coach Dojo
-      url: https://workdojos.com/lifecoaches
+      url: https://lifecoaches.workdojos.com/
     - title: Lyricist Dojo
-      url: https://workdojos.com/lyricist
+      url: https://lyricist.workdojos.com/
     - title: Novelist Dojo
-      url: https://workdojos.com/novelist
+      url: https://novelist.workdojos.com/
     - title: Musician Dojo
-      url: https://workdojos.com/musicalartist
+      url: https://musicalartist.workdojos.com/
     - title: Novelist Dojo
-      url: https://workdojos.com/novelist
+      url: https://novelist.workdojos.com/
     - title: Philosopher Dojo
-      url: https://workdojos.com/philosophers
+      url: https://philosophers.workdojos.com/
     - title: Physicist Dojo
-      url: https://workdojos.com/physicist
+      url: https://physicist.workdojos.com/
     - title: Teacher Dojo
-      url: https://workdojos.com/schoolteachers
+      url: https://schoolteachers.workdojos.com/
     - title: Social Worker Dojo
-      url: https://workdojos.com/socialworker
+      url: https://socialworker.workdojos.com/
     - title: Thespian Dojo
-      url: https://workdojos.com/thespian
+      url: https://thespian.workdojos.com/
   - title: Pricing
     url: https://blog.workdojos.com/#/portal/signup
   - title: Log in
@@ -115,135 +115,6 @@ params:
   - title: Sign up
     url: https://blog.workdojos.com/#/portal/signup
     button: true
-  sidebar:
-    # Logo (from /images/logos/___.svg)
-    logo: workmates logo NEW NEW red green
-    sections:
-
-
-
-    - title: Browse
-      icon: image
-      links:
-      - text: AccountExecutive
-        url: https://workdojos.com/AccountExecutive
-      - text: Administrators
-        url: https://workdojos.com/Administrators
-      - text: Agriculturist
-        url: https://workdojos.com/Agriculturist
-      - text: Animators
-        url: https://workdojos.com/Animators
-      - text: AppDeveloper
-        url: https://workdojos.com/AppDeveloper
-      - text: Baristas
-        url: https://workdojos.com/Baristas
-      - text: Bartenders
-        url: https://workdojos.com/Bartenders
-      - text: Beauticians
-        url: https://workdojos.com/Beauticians
-      - text: Biologist
-        url: https://workdojos.com/Biologist
-      - text: Botanist
-        url: https://workdojos.com/Botanist
-      - text: DigitalMarketers
-        url: https://workdojos.com/DigitalMarketers
-      - text: Economists
-        url: https://workdojos.com/Economists
-      - text: EventPlanners
-        url: https://workdojos.com/EventPlanners
-      - text: Exhibitionist
-        url: https://workdojos.com/Exhibitionist
-      - text: Explorers
-        url: https://workdojos.com/Explorers
-      - text: Financier
-        url: https://workdojos.com/Financier
-      - text: Firefighters
-        url: https://workdojos.com/Firefighters
-      - text: GraphicDesigner
-        url: https://workdojos.com/GraphicDesigner
-      - text: Growers
-        url: https://workdojos.com/Growers
-      - text: Interpreters
-        url: https://workdojos.com/Interpreters
-      - text: InvestmentBanker
-        url: https://workdojos.com/InvestmentBanker
-      - text: Jeweler
-        url: https://workdojos.com/Jeweler
-      - text: Labtech
-        url: https://workdojos.com/Labtech
-      - text: LawEnforcement
-        url: https://workdojos.com/LawEnforcement
-      - text: Librarian
-        url: https://workdojos.com/Librarian
-      - text: LifeCoaches
-        url: https://workdojos.com/LifeCoaches
-      - text: Litigator
-        url: https://workdojos.com/Litigator
-      - text: Lyricist
-        url: https://workdojos.com/Lyricist
-      - text: Machinist
-        url: https://workdojos.com/Machinist
-      - text: MusicAlartist
-        url: https://workdojos.com/MusicAlartist
-      - text: Novelist
-        url: https://workdojos.com/Novelist
-      - text: ParkRanger
-        url: https://workdojos.com/ParkRanger
-      - text: Philosophers
-        url: https://workdojos.com/Philosophers
-      - text: PhotoJournalist
-      - text: PhysicalTherapist
-        url: https://workdojos.com/PhysicalTherapist
-      - text: ProjectManagers
-        url: https://workdojos.com/ProjectManagers
-      - text: RegisteredNurse
-        url: https://workdojos.com/RegisteredNurse
-      - text: SchoolTeachers
-        url: https://workdojos.com/SchoolTeachers
-      - text: Screenwriter
-        url: https://workdojos.com/Screenwriter
-      - text: SocialWorker
-        url: https://workdojos.com/SocialWorker
-      - text: Statistician
-        url: https://workdojos.com/Statistician
-      - text: Strategists
-        url: https://workdojos.com/Strategists
-      - text: Theologian
-        url: https://workdojos.com/Theologian
-      - text: Thespian
-        url: https://workdojos.com/Thespian
-      - text: TravelAgents
-        url: https://workdojos.com/TravelAgents
-      - text: WebDesigners
-        url: https://workdojos.com/WebDesigners
-
-
-
-    - title: E-mail us
-      icon: envelope
-      links:
-      - text: Our owner
-        url: mailto:admin@workdojos.com
-      - text: Technical support
-        url: mailto:admin@workdojos.com
-      - text: Investors
-        url: mailto:admin@workdojos.com
-      - text: HR
-        url: mailto:admin@workdojos.com
-
-
-    - title: Chat now
-      icon: user
-      links:
-      - text: Our admins
-        url: https://chat.workmates.live/channel/Admins
-      - text: Our founders
-        url: https://chat.workmates.live/channel/Cofounder
-      - text: Technical support
-        url: https://chat.workmates.live/channel/support
-      - text: Recruiting
-        url: https://chat.workmates.live/channel/Jobseeker/support
-
 
 
 

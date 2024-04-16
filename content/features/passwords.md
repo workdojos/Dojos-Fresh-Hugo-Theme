@@ -47,9 +47,9 @@ Bitwarden Send is a feature that allows all users to transmit data directly to o
 Bitwarden gives you power to create and manage unique passwords, so you can strengthen privacy and boost productivity online from any device or location.
 
 
-Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
 
-[Deal on a dojo.](https://blog.workdojos.com/getadojo)
+
+
 
 
  <br>

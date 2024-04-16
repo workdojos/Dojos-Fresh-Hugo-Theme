@@ -46,11 +46,11 @@ Software tailored to your needs instead of the other way around. Clear and acces
 Easily create custom plugins with our boilerplate or use third party ones. Because Baserow is built with modern and proven frameworks it feels like a breeze for developers.
 
 
-Sign up for our service during the holidays and save 25% with the link below!  That's just $18.75 per month.  Cancel anytime.
+
 
  <br>
 
-[Deal on a dojo.](https://blog.workdojos.com/getadojo)
+
 
  <br>
 
