@@ -184,15 +184,15 @@ params:
           link: /partners
         - text: Free trial
           link: https://blog.workdojos.com/#/portal/signup
-        - text: 60-Day Self-Hosting Challenge
+        - text: 60-Day Challenge
           link: https://blog.workdojos.com/#/portal/signup
       column2:
         title: "Docs"
         links:
         - text: Dashboards
           link: https://admins.workdojos.com
-        - text: Compare pricing
-          link: https://workdojos.com/ghost/
+        - text: Pricing
+          link: https://blog.workdojos.com/#/portal/signup
         - text: Privacy policy
           link: /docs/privacy
         - text: Built with Hugo
@@ -202,8 +202,6 @@ params:
         links:
         - text: Blog
           link: https://blog.workdojos.com
-        - text: About Us
-          link: https://blog.workdojos.com/about-us
         - text: Get involved
           link: https://home.workdojos.com/#contact
         - text: Chat Now
