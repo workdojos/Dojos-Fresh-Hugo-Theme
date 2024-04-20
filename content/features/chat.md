@@ -2,7 +2,7 @@
 title: Chat server by Rocket.chat
 description: Making open-source more accessible.
 include_footer: true
-type: page
+type: page2
 layout: single3
 ---
 <img src="/uploads/hey.webp" 
