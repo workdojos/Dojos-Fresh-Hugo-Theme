@@ -3,7 +3,7 @@ title: Websites by Hugo
 description: Making open-source more accessible.
 include_footer: true
 sidebar: false
-layout: single
+layout: single3
 ---
 <img src="https://workmates.live/wp-content/uploads/2022/11/hugo.png" 
      width="300" 
