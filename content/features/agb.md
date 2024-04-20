@@ -1,7 +1,7 @@
 ---
 title: AGB
 description: Making open-source more accessible.
-include_footer: false
+include_footer: true
 sidebar: false
 sidebarlogo: wordojos_logo
 draft: true
