@@ -3,7 +3,7 @@ title: The Philosophy And Higher Education  Industry and Philosopher Workers' Ri
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 

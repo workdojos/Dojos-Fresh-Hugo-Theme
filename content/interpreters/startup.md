@@ -3,7 +3,7 @@ title: Startup Ideas for Interpreters and Entrepreneurs in the Translation & Int
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

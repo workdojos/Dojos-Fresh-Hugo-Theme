@@ -3,7 +3,7 @@ title: Websites for Graphic Designers in the Graphic Design And Graphic Arts  In
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

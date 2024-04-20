@@ -3,7 +3,7 @@ title: Open-Source Tech for Park Rangers and Others in the Conservation And Park
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

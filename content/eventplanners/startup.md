@@ -3,7 +3,7 @@ title: Startup Ideas for Event Planners and Entrepreneurs in the Special Events 
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

@@ -3,7 +3,7 @@ title: Economist's Dojo
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 toc_hide: true
 hide_summary: true
 ---

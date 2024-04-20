@@ -4,7 +4,7 @@ description: Making open-source more accessible.
 author: Kevin
 date: '2022-11-17'
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 draft: true
 
 

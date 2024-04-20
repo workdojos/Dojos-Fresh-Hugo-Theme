@@ -3,7 +3,7 @@ title: The Conservation And Park Management  Industry and Park Ranger Workers' R
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 

@@ -3,7 +3,7 @@ title: The Journalism, News, And Media  Industry and Photo Journalist Workers' R
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 

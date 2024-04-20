@@ -3,7 +3,7 @@ title:  History and Etymology of Web Designers and the Digital Services  Industr
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

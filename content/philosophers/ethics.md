@@ -3,7 +3,7 @@ title: Ethical Framework for Philosophers Working in the Philosophy And Higher E
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

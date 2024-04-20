@@ -3,7 +3,7 @@ title: The Coffee And Hospitality  Industry and Barista Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 ---
 
 <figure>

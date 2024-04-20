@@ -3,7 +3,7 @@ title: Ethical Framework for Graphic Designers Working in the Graphic Design And
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

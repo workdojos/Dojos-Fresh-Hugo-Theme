@@ -3,7 +3,7 @@ title: Open-Source Tech for Physicists and Others in the Physics And Higher Educ
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

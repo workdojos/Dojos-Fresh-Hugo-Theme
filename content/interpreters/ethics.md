@@ -3,7 +3,7 @@ title: Ethical Framework for Interpreters Working in the Translation & Interpret
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

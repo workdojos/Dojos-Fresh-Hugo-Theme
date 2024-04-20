@@ -3,7 +3,7 @@ title: Websites for Firefighters in the Public Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

@@ -3,7 +3,7 @@ title: Open-Source Tech for Musical Artists and Others in the Music  Industry
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

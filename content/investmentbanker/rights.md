@@ -3,7 +3,7 @@ title: The Financial Services  Industry and Investment Banker Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 

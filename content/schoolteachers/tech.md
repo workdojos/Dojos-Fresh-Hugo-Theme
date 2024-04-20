@@ -3,7 +3,7 @@ title: Open-Source Tech for School Teachers and Others in the Education  Industr
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

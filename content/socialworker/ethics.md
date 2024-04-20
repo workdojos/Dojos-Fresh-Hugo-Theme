@@ -3,7 +3,7 @@ title: Ethical Framework for Social Workers Working in the Behavioral Health  In
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

@@ -3,7 +3,7 @@ title: An Overview for Administrators and the Administration & Book-Keeping  Ind
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 <figure>

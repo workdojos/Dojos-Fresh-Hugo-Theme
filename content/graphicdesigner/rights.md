@@ -3,7 +3,7 @@ title: The Graphic Design And Graphic Arts  Industry and Graphic Designer Worker
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 

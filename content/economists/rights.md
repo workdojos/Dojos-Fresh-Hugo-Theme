@@ -3,7 +3,7 @@ title: The Data Science  Industry and Economist Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 

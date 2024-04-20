@@ -3,7 +3,7 @@ title: Ethical Framework for Statisticians Working in the Statistical Research &
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

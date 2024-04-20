@@ -3,7 +3,7 @@ title: The why.
 description: Making open-source more accessible.
 include_footer: true
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 ---
 {{< unsafe >}}
 

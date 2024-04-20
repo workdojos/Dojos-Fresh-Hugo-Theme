@@ -3,7 +3,7 @@ title: A Day in the Life of a Interpreter
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

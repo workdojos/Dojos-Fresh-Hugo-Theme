@@ -3,7 +3,7 @@ title:  History and Etymology of Interpreters and the Translation & Interpretati
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

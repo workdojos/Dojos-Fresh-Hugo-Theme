@@ -3,7 +3,7 @@ title: The Education  Industry and School Teacher Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 

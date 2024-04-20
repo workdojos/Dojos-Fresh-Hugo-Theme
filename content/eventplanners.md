@@ -2,7 +2,7 @@
 title: Event Planner's Dojo
 description: Making open-source more accessible.
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 include_footer: false
 ---
 <iframe src="https://eventplanners.workdojos.com" style="width: 100%;height: 960px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>

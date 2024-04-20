@@ -3,7 +3,7 @@ title:  History and Etymology of Lead Generators and the Marketing Services  Ind
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

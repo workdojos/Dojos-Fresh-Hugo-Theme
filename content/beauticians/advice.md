@@ -3,7 +3,7 @@ title: Advice for Beauticians
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 layout: single2
 ---
 <figure>

@@ -3,7 +3,7 @@ title: Startup Ideas for Novelists and Entrepreneurs in the Writing & Publishing
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

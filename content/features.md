@@ -3,7 +3,7 @@ title: Features
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 ---
 The open-source revolution is about supporting open-source creators, fostering and empowering development communities, and making open-source more accessible.  We encourage you to browse the app creators own sites, to sign up for their services, and become an active part of their communities.  Links to each creator site as well as to their respective Github repositories will be provided below.  
 

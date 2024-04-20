@@ -3,7 +3,7 @@ title: Ethical Framework for Theologians Working in the Religious Organizations 
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

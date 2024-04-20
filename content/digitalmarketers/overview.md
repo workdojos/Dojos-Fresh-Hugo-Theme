@@ -3,7 +3,7 @@ title: An Overview for Digital Marketers and the Marketing  Industry
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 <figure>

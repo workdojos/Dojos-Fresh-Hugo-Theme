@@ -3,7 +3,7 @@ title: Websites for Lab Techs in the Laboratory Testing  Industry
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

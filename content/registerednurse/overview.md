@@ -3,7 +3,7 @@ title: An Overview for Registered Nurses and the Healthcare  Industry
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

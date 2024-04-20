@@ -3,7 +3,7 @@ title: Startup Ideas for Mortgage Brokers and Entrepreneurs in the Real-Estate  
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

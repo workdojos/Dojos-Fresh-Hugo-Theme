@@ -3,7 +3,7 @@ title: The Statistical Research & Development  Industry and Statistician Workers
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 

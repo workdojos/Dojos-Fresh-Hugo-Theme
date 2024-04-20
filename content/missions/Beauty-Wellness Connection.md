@@ -3,7 +3,7 @@ title: Beauty-Wellness Connection
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 ---
 # Mission // #Beauty-Wellness Connection
 

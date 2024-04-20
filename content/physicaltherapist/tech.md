@@ -3,7 +3,7 @@ title: Open-Source Tech for Physical Therapists and Others in the Physical Thera
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

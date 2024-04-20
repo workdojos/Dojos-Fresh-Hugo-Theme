@@ -3,7 +3,7 @@ title: Ethical Framework for Park Rangers Working in the Conservation And Park M
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

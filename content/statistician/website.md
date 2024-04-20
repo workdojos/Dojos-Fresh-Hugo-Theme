@@ -3,7 +3,7 @@ title: Websites for Statisticians in the Statistical Research & Development  Ind
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

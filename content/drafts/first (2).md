@@ -2,7 +2,7 @@
 title: First
 description: Making open-source more accessible.
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 draft: true
 
 ---

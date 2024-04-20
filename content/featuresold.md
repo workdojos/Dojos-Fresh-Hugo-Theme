@@ -3,7 +3,7 @@ title: Features
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 ---
 
 {{% title3 "Orchestrate your triggers and actions." %}}

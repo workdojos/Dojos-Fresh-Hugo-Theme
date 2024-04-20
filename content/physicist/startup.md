@@ -3,7 +3,7 @@ title: Startup Ideas for Physicists and Entrepreneurs in the Physics And Higher 
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

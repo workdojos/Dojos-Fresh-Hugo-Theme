@@ -3,7 +3,7 @@ title: Startup Ideas for Economists and Entrepreneurs in the Data Science  Indus
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

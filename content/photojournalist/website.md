@@ -3,7 +3,7 @@ title: Websites for Photo Journalists in the Journalism, News, And Media  Indust
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

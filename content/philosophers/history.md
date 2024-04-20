@@ -3,7 +3,7 @@ title:  History and Etymology of Philosophers and the Philosophy And Higher Educ
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

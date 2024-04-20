@@ -3,7 +3,7 @@ title: Startup Ideas for School Teachers and Entrepreneurs in the Education  Ind
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

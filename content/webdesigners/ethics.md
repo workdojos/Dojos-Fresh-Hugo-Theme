@@ -3,7 +3,7 @@ title: Ethical Framework for Web Designers Working in the Digital Services  Indu
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

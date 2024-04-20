@@ -3,7 +3,7 @@ title: Open-Source Tech for Event Planners and Others in the Special Events  Ind
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

@@ -3,7 +3,7 @@ title: An Overview for Physicists and the Physics And Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

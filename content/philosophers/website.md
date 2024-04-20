@@ -3,7 +3,7 @@ title: Websites for Philosophers in the Philosophy And Higher Education  Industr
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

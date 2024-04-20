@@ -3,7 +3,7 @@ title: Break away from the herd.
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 draft: true
 ---
 <br>

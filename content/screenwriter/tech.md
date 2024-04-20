@@ -3,7 +3,7 @@ title: Open-Source Tech for Screenwriters and Others in the Film  Industry
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

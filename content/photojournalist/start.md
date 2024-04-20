@@ -3,7 +3,7 @@ title: Getting Started in the Journalism, News, And Media  Industry
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

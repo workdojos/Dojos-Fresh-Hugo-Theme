@@ -3,7 +3,7 @@ title: Websites for Jewelers in the Luxury Goods  Industry
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

@@ -3,7 +3,7 @@ title:  History and Etymology of Project Managers and the Broader Business  Indu
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

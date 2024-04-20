@@ -3,7 +3,7 @@ title: Team
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 ---
 <iframe src="https://players.workdojos.com" style="width: 100%;height: 100%;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>

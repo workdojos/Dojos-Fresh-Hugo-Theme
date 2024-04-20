@@ -3,7 +3,7 @@ title: Startup Ideas for Musical Artists and Entrepreneurs in the Music  Industr
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

@@ -3,7 +3,7 @@ title: Startup Ideas for Machinists and Entrepreneurs in the Machining  Industry
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

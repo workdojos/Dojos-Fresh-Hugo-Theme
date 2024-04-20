@@ -3,7 +3,7 @@ title: Ethical Framework for Exhibitionists Working in the Art And Special Event
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

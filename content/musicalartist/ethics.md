@@ -3,7 +3,7 @@ title: Ethical Framework for Musical Artists Working in the Music  Industry
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

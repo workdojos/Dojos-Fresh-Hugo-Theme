@@ -3,7 +3,7 @@ title: An Overview for Police Officers and the Protective Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>

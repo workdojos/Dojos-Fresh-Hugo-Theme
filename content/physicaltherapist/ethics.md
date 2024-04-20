@@ -3,7 +3,7 @@ title: Ethical Framework for Physical Therapists Working in the Physical Therapy
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-sidebarlogo: wordojos_logo
+layout: single2
 
 ---
 <figure>
