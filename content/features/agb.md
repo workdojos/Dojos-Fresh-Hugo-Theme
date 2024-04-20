@@ -2,8 +2,8 @@
 title: AGB
 description: Making open-source more accessible.
 include_footer: true
-type: page2
-layout: single3
+
+layout: single
 draft: true
 ---
 

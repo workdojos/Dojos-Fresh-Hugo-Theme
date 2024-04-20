@@ -2,8 +2,8 @@
 title: Virtual cafe by Jitsi Meet
 description: Making open-source more accessible.
 include_footer: true
-type: page2
-layout: single3
+
+layout: single
 ---
 <img src="https://workmates.live/wp-content/uploads/2022/11/jitsi-logo.png" 
      width="300" 
