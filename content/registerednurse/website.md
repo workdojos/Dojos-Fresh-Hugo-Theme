@@ -2,7 +2,7 @@
 title: Websites for Registered Nurses in the Healthcare  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

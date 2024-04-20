@@ -2,7 +2,7 @@
 title: Ethical Framework for Registered Nurses Working in the Healthcare  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

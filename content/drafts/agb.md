@@ -2,7 +2,7 @@
 title: AGB
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 sidebarlogo: fresh-white-alt
 draft: true
 

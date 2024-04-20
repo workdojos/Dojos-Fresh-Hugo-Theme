@@ -2,7 +2,7 @@
 title: Open-Source Tech for Machinists and Others in the Machining  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

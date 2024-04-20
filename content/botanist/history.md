@@ -2,7 +2,7 @@
 title:  History and Etymology of Botanists and the Botany  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 ---
 

@@ -2,7 +2,7 @@
 title: Websites for Physical Therapists in the Physical Therapy  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

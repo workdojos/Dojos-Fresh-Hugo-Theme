@@ -2,7 +2,7 @@
 title: Getting Started in the Statistical Research & Development  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

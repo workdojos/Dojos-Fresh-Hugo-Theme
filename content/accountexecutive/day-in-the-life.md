@@ -2,7 +2,7 @@
 title: A Day in the Life of an Account Executive
 description: Making open-source more accessible.
 include_footer: true
-sidebar: false
+type: page
 layout: single2
 ---
 

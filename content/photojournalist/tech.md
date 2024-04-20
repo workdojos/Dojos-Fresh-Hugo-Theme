@@ -2,7 +2,7 @@
 title: Open-Source Tech for Photo Journalists and Others in the Journalism, News, And Media  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

@@ -2,7 +2,7 @@
 title: Startup Ideas for Digital Marketers and Entrepreneurs in the Marketing  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 ---
 

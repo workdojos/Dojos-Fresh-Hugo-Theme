@@ -2,7 +2,7 @@
 title: Data Science  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

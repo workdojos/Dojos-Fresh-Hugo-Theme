@@ -1,7 +1,7 @@
 ---
 title: Second
 description: Making open-source more accessible.
-sidebar: false
+type: page
 sidebarlogo: fresh-white-alt
 draft: true
 

@@ -2,7 +2,7 @@
 title: Open-Source Tech for Beauticians and Others in the Beauty, Health & Wellness  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 ---
 

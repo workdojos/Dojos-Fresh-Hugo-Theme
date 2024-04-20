@@ -2,7 +2,7 @@
 title: An Overview for Animators and the Animation Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---

@@ -2,7 +2,7 @@
 title:  History and Etymology of Couriers and the Supply-Chain  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 ---
 

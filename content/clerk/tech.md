@@ -2,7 +2,7 @@
 title: Open-Source Tech for Clerks and Others in the Small Business and Retail  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 ---
 

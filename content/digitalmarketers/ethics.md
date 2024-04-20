@@ -2,7 +2,7 @@
 title: Ethical Framework for Digital Marketers Working in the Marketing  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 ---
 

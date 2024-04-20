@@ -2,7 +2,7 @@
 title:  History and Etymology of Clerks and the Small Business and Retail  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 ---
 

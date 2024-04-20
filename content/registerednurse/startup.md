@@ -2,7 +2,7 @@
 title: Startup Ideas for Registered Nurses and Entrepreneurs in the Healthcare  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

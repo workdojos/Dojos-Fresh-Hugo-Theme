@@ -5,7 +5,7 @@ author: Kevin
 date: '2022-11-17'
 image: '/static/uploads/brewer (5).png'
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 ---
 <iframe src="https://administrators.workdojos.com" style="width: 100%;height: 960px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>

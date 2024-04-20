@@ -1,7 +1,7 @@
 ---
 title: First
 description: Making open-source more accessible.
-sidebar: false
+type: page
 layout: single2
 draft: true
 

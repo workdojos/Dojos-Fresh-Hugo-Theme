@@ -2,7 +2,7 @@
 title: Ethical Framework for Physicists Working in the Physics And Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

@@ -2,7 +2,7 @@
 title: The Cannabis  Industry and Grower Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

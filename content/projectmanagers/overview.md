@@ -2,7 +2,7 @@
 title: An Overview for Project Managers and the Broader Business  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

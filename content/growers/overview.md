@@ -2,7 +2,7 @@
 title: An Overview for Growers and the Cannabis  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

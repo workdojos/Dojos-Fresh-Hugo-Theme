@@ -2,7 +2,7 @@
 title: Advice for Strategists
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

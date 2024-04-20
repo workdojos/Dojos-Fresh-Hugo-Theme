@@ -2,7 +2,7 @@
 title: Startup Ideas for Aviationists and Entrepreneurs in the Aviation  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 ---
 

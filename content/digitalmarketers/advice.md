@@ -2,7 +2,7 @@
 title: Advice for Digital Marketers
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 ---
 

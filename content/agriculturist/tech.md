@@ -2,7 +2,7 @@
 title: Open-Source Tech for Agriculturists and Others in the Agriculture  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 ---
 

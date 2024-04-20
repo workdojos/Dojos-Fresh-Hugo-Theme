@@ -2,7 +2,7 @@
 title: Ethical Framework for Agriculturists Working in the Agriculture  Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 ---
 

@@ -2,7 +2,7 @@
 title: An Overview for Web Designers and the Digital Services Industry
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---

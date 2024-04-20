@@ -2,7 +2,7 @@
 title: The Luxury Goods  Industry and Jeweler Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
-sidebar: false
+type: page
 layout: single2
 
 ---
