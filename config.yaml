@@ -53,61 +53,43 @@ params:
 
 
 
-  - title: Features
-    url: /features
-    sublinks:
-    - title: Your own website
-      url: /features/website
-    - title: Your own chat app
-      url: /features/chat
-    - title: Your own blogging engine
-      url: /features/blog
-    - title: Your own automation app
-      url: /features/automation
-    - title: Your own database app
-      url: /features/db
-    - title: Your own password manager
-      url: /features/passwords
-    - title: Your own virtual cafe
-      url: /features/virtualcafe
-    - title: Your own wiki
-      url: /features/wiki
+
 
 
   - title: Featured
     sublinks:
     - title: Administrator Dojo
-      url: https://administrators.workdojos.com/
+      url: https://dashboards.workdojos.com/#Administrators
     - title: Biologist Dojo
-      url: https://biologist.workdojos.com/
+      url: https://dashboards.workdojos.com/#Biologist
     - title: Clinician Dojo
-      url: https://clinician.workdojos.com/
+      url: https://dashboards.workdojos.com/#Doctors
     - title: Firefighter Dojo
-      url: https://firefighters.workdojos.com/
+      url: https://dashboards.workdojos.com/#Firefighters
     - title: Grower Dojo
-      url: https://growers.workdojos.com/
+      url: https://dashboards.workdojos.com/#Growers
     - title: Interpreter Dojo
-      url: https://interpreters.workdojos.com/
+      url: https://dashboards.workdojos.com/#Interpreters
     - title: Life Coach Dojo
-      url: https://lifecoaches.workdojos.com/
+      url: https://dashboards.workdojos.com/#Life-Coaches
     - title: Lyricist Dojo
-      url: https://lyricist.workdojos.com/
+      url: https://dashboards.workdojos.com/#Lyricist
     - title: Novelist Dojo
-      url: https://novelist.workdojos.com/
+      url: https://dashboards.workdojos.com/#Novelist
     - title: Musician Dojo
-      url: https://musicalartist.workdojos.com/
+      url: https://dashboards.workdojos.com/#Musical-Artists
     - title: Novelist Dojo
-      url: https://novelist.workdojos.com/
+      url: https://dashboards.workdojos.com/#Novelist
     - title: Philosopher Dojo
-      url: https://philosophers.workdojos.com/
+      url: https://dashboards.workdojos.com/#Philosophers
     - title: Physicist Dojo
-      url: https://physicist.workdojos.com/
+      url: https://dashboards.workdojos.com/#Physicist
     - title: Teacher Dojo
-      url: https://schoolteachers.workdojos.com/
+      url: https://dashboards.workdojos.com/#School-Teachers
     - title: Social Worker Dojo
-      url: https://socialworker.workdojos.com/
+      url: https://dashboards.workdojos.com/#Social-Workers
     - title: Thespian Dojo
-      url: https://thespian.workdojos.com/
+      url: https://dashboards.workdojos.com/#Thespian
   - title: Pricing
     url: https://blog.workdojos.com/#/portal/signup
   - title: Log in
@@ -178,10 +160,6 @@ params:
       column1:
         title: "Product"
         links:
-        - text: Features
-          link: /features
-        - text: Partners
-          link: /partners
         - text: Free trial
           link: https://blog.workdojos.com/#/portal/signup
         - text: 60-Day Challenge
