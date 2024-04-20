@@ -1,0 +1,209 @@
+baseURL: https://workdojos.com
+languageCode: en-us
+title: WorkDojos
+theme: hugo-fresh
+disablePathToLower: true
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+      hardWraps: true
+
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  description: Free and open-source technology for all.
+  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
+  # preloader: false
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/workmates logo NEW NEW red green.svg
+    link: /
+    # Default width/height. Uncomment if you need to change
+    # width: 112
+    # height: 28
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Build a business.
+    # Hero subtitle (optional)
+    subtitle: With free and open-source technology. 
+    # Button text
+    buttontext: Browse
+    # Where the main hero button links to
+    buttonlink: "https://www.workdojos.com/marketplace/"
+    hrefTargetBlank: true
+    # Hero image (from static/images/___)
+    image: logos/flick3.gif
+    # Footer logos (from static/images/logos/clients/___.svg)
+    clientlogos:
+    
+
+
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+
+
+
+  - title: Features
+    url: /features
+    sublinks:
+    - title: Your own website
+      url: /features/website
+    - title: Your own chat app
+      url: /features/chat
+    - title: Your own blogging engine
+      url: /features/blog
+    - title: Your own automation app
+      url: /features/automation
+    - title: Your own database app
+      url: /features/db
+    - title: Your own password manager
+      url: /features/passwords
+    - title: Your own virtual cafe
+      url: /features/virtualcafe
+    - title: Your own wiki
+      url: /features/wiki
+
+
+  - title: Featured
+    sublinks:
+    - title: Administrator Dojo
+      url: https://administrators.workdojos.com/
+    - title: Biologist Dojo
+      url: https://biologist.workdojos.com/
+    - title: Clinician Dojo
+      url: https://clinician.workdojos.com/
+    - title: Firefighter Dojo
+      url: https://firefighters.workdojos.com/
+    - title: Grower Dojo
+      url: https://growers.workdojos.com/
+    - title: Interpreter Dojo
+      url: https://interpreters.workdojos.com/
+    - title: Life Coach Dojo
+      url: https://lifecoaches.workdojos.com/
+    - title: Lyricist Dojo
+      url: https://lyricist.workdojos.com/
+    - title: Novelist Dojo
+      url: https://novelist.workdojos.com/
+    - title: Musician Dojo
+      url: https://musicalartist.workdojos.com/
+    - title: Novelist Dojo
+      url: https://novelist.workdojos.com/
+    - title: Philosopher Dojo
+      url: https://philosophers.workdojos.com/
+    - title: Physicist Dojo
+      url: https://physicist.workdojos.com/
+    - title: Teacher Dojo
+      url: https://schoolteachers.workdojos.com/
+    - title: Social Worker Dojo
+      url: https://socialworker.workdojos.com/
+    - title: Thespian Dojo
+      url: https://thespian.workdojos.com/
+  - title: Pricing
+    url: https://blog.workdojos.com/#/portal/signup
+  - title: Log in
+    url: https://blog.workdojos.com/#/portal/login
+  - title: Sign up
+    url: https://blog.workdojos.com/#/portal/signup
+    button: true
+
+
+
+  section1:
+    title: Free dashboards.
+    subtitle: Sign up to get your own for free.
+
+  section1Z:
+    title: For parents and teachers.
+    subtitle: Spin up a Learning Management System for free!
+
+  sectionZb:
+    title: Free chat apps.
+    subtitle: Sign up to create a chat server for free.
+
+#  sectionZc:
+   # title: Free templates.
+   # subtitle: Sign up to get a free guide to self-hosting.
+
+  sectionZd:
+    title: Free React apps.
+    subtitle: Sign up to get a free landing page built in React.
+
+  sectionZe:
+    title: Pick a path.
+    subtitle: Choose from below or blaze your own trail.
+    image: logos/workmates.png
+
+  section3:
+    title: Pick a path.  For any profession.
+    subtitle: Choose from over 100 pre-built Dojos or blaze your own trail.
+    image: logos/workmates.png
+    buttonText: Browse all
+    buttonLink: "https://workmates.live/marketplace"
+
+  section3a:
+    title: Free and Open-Source AI.
+    subtitle: Check out our Youtube channel featuring a cast of 16 AI avatars made exclusively with open-souce technology.
+    image: logos/multisad bigger.gif
+    buttonText: Go to Youtube
+    buttonLink: "https://youtube.com/@dojofans"
+
+    
+  
+  section5: false
+  
+  footer:
+    # Logo (from /images/logos/___)
+    logo: workmates logo NEW NEW red green.svg
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+
+      # Icons are from Font Awesome
+      
+    - link: https://twitter.com/workdojos
+      icon: twitter
+    bulmalogo: false
+    quicklinks:
+      column1:
+        title: "Product"
+        links:
+        - text: Features
+          link: /features
+        - text: Partners
+          link: /partners
+        - text: Free trial
+          link: https://blog.workdojos.com/#/portal/signup
+        - text: 60-Day Challenge
+          link: https://blog.workdojos.com/#/portal/signup
+      column2:
+        title: "Docs"
+        links:
+        - text: Dashboards
+          link: https://admins.workdojos.com
+        - text: Pricing
+          link: https://blog.workdojos.com/#/portal/signup
+        - text: Privacy policy
+          link: /docs/privacy
+        - text: Built with Hugo
+          link: https://gohugo.io/             
+      column3:
+        title: "Company"
+        links:
+        - text: Blog
+          link: https://blog.workdojos.com
+        - text: Get involved
+          link: https://home.workdojos.com/#contact
+        - text: Chat Now
+          link: https://chat.workmates.live/channel/support
+

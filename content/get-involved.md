@@ -3,7 +3,6 @@ title: Join us.
 description: Making open-source more accessible.
 include_footer: false
 sidebar: false
-layout: single2
 ---
 {{< unsafe >}}
 

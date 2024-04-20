@@ -3,7 +3,6 @@ title: Partners
 description: Making open-source more accessible.
 include_footer: true
 sidebar: false
-layout: mytype
 ---
 {{% title3 "Some of our favorite open-source apps and partners." %}}
 
