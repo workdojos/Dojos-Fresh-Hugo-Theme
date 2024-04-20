@@ -3,7 +3,7 @@ title: Chat server by Rocket.chat
 description: Making open-source more accessible.
 include_footer: true
 sidebar: false
-layout: single2
+sidebarlogo: wordojos_logo
 ---
 <img src="/uploads/hey.webp" 
      width="300" 

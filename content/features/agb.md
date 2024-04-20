@@ -3,7 +3,7 @@ title: AGB
 description: Making open-source more accessible.
 include_footer: true
 sidebar: false
-layout: single2
+sidebarlogo: wordojos_logo
 draft: true
 ---
 
