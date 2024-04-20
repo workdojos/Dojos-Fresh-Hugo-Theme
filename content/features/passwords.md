@@ -2,7 +2,7 @@
 title: Password management by Vaultwarden (a fork of Bitwarden)
 description: Making open-source more accessible.
 include_footer: true
-sidebar: false
+type: page
 layout: single3
 ---
 <img src="https://workmates.live/wp-content/uploads/2022/11/bitwardenlogo4.png" 

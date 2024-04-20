@@ -2,7 +2,7 @@
 title: AGB
 description: Making open-source more accessible.
 include_footer: true
-sidebar: false
+type: page
 layout: single3
 draft: true
 ---
