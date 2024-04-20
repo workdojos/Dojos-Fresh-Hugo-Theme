@@ -151,16 +151,7 @@ Save money by self-hosting your own tech stack!
 </table>
 
 
-<figure>
-    <blockquote cite="">
-        <p></p>
-    {{% subtitle5 "Do you want to become an actor?" %}}
-We can help you spice up your digital life!  We are an advocate of open-source technology and we both enable and empower aspiring entrepreneurs to build things.
 
-Starting with a dashboard, we customize the things you need for making your acting career everything you have always dreamt that it would be.  No matter your age or technical skills, we can guide you through the process of building.
-
-Building your image.  Building your portfolio.  Building your message.  Building your Dojo.
-</figure>
 
 <br>
 

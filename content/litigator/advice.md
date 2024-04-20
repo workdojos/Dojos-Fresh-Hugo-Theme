@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/no-fear.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='firecracker';/>
-    <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a career counselor, I believe that a career as a lawyer can be a fulfilling and rewarding choice for individuals with the right skills and interests. Some key qualities that are essential for a successful career as a lawyer include strong communication skills, attention to detail, problem-solving abilities, and the ability to think critically and analytically.
 

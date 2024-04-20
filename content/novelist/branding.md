@@ -6,9 +6,7 @@ sidebar: false
 layout: single2 
 
 ---
-<figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
-    <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 First, I would suggest creating a content calendar for the organization's social media accounts. This would involve planning out the type of content to be posted on each platform, as well as the frequency of posts. For example, Twitter could be used for more frequent updates, while Instagram and Pinterest could be used for more visual content such as book covers and quotes from published works.
 

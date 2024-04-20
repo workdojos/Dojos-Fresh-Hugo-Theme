@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/webdesigners.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The digital services industry is a rapidly growing sector that encompasses a wide range of areas including web design, software development, online marketing, and social media management. According to a recent report by the U.S. Bureau of Labor Statistics, employment in the digital services industry is expected to increase by 13% from 2019 to 2029, much faster than the average for all occupations.
 

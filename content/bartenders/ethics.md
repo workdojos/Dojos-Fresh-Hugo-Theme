@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/ethical-framework.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='namaste hands';/>
-    <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a philosopher, one approach to developing an ethical framework for a career in the bartending and hospitality industry might be to consider the various ethical theories that have been proposed by philosophers throughout history. For example, some philosophers have argued that the ethical actions are those that promote the greatest happiness or well-being for the greatest number of people. This is known as the principle of utility, and it suggests that actions that bring pleasure or happiness to the greatest number of people are the most ethical.
 

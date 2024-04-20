@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The outdoor industry is facing a number of controversies and challenges that need to be addressed in order to ensure the success and sustainability of the industry. One of the biggest controversies facing the outdoor industry is the lack of diversity and representation within the field. Many people who work in the outdoor industry are white and male, which leads to a lack of representation for people of color and women. This lack of diversity can lead to a number of problems, including a lack of understanding and sensitivity to different cultures and experiences, and a lack of diversity in the ideas and perspectives that are brought to the table.
 

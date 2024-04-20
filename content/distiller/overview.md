@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/distiller.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The distilled spirits industry is a thriving and rapidly growing industry that offers numerous opportunities for those interested in pursuing a career in the field. According to recent data from the Distilled Spirits Council of the United States, the industry generated over $27 billion in revenue in 2018, with a 4.9% increase in sales from the previous year. This growth is expected to continue in the coming years, as the demand for high-quality spirits continues to rise.
 

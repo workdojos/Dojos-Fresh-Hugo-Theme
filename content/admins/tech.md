@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/open-source-tech.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='desktop computer and open-source code';/>
-    <figcaption>Open-source tech, the best bang-for-your-buck in the digital world.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 The server administration industry is an integral part of our modern economy, as it plays a crucial role in the smooth functioning of businesses of all sizes. In recent years, there has been a growing trend towards the use of open-source technology in the server administration industry, and this shift has brought with it numerous benefits.
 
 One of the main advantages of open-source technology is that it is freely available to anyone who wishes to use it. This means that businesses, large and small, can take advantage of its many benefits without having to pay exorbitant fees for proprietary software. Open-source technology is also highly customizable, which means that businesses can tailor it to their specific needs, rather than having to make do with a one-size-fits-all solution.

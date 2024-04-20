@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The film industry has always been a controversial and constantly evolving industry, with numerous controversies and challenges facing both filmmakers and screenwriters. From the lack of diversity and representation on screen, to the challenges of finding work and getting paid fairly, the film industry has a lot of room for improvement. In this essay, we will explore some of the major controversies and challenges facing the film industry, and argue for why it is important to make it easier for screenwriters to find work, and how the industry can get better in the years to come.
 

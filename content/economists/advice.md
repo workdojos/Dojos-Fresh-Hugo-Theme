@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/no-fear.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='firecracker';/>
-    <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a career counselor, I would first assess the individual's skills, interests, and experience to determine their suitability for a career as an economist working in the data science industry. Some key skills that would be beneficial in this field include strong analytical and problem-solving skills, as well as the ability to communicate complex ideas effectively. The individual should also have an interest in economics and data science, as well as experience working with data and statistical analysis software.
 

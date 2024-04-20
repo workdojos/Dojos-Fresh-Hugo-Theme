@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/a-day-in-the-life.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='sunny day working abroad in an exotic locale';/>
-    <figcaption>What it's like living a day in the life.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 Once upon a time, there was a young woman named Maria who was fascinated by the natural world. She spent hours studying plants, animals, and their interactions with each other and their environment. When it was time for her to choose a career, she knew exactly what she wanted to do – become a biologist.
 

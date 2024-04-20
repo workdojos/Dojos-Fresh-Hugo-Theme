@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads//small/jeweler.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The luxury goods industry is a rapidly growing and highly competitive field that is constantly evolving. According to a report by Bain & Company, the global luxury goods market was valued at $1.3 trillion in 2019, with the Asia-Pacific region accounting for nearly half of this figure.
 

@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
-<figure>
-    <img src='/uploads/small/animators.jpg style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The animation industry is a rapidly growing and exciting field that offers a wide range of opportunities for those interested in pursuing a career in this field. According to the Bureau of Labor Statistics, employment in the field of animation is expected to grow by 8% between 2018 and 2028. This growth is driven by the increasing demand for animated content in film, television, video games, and other media.
 

@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The physics and higher education industry is currently facing a number of controversies and challenges that are affecting the work and career opportunities of physicists. One of the main issues is the lack of job security and stability in the field, as many physicists struggle to find employment after completing their education. This is partly due to the competitive nature of the industry and the limited number of job openings, but it is also due to the lack of support and resources available to physicists as they search for work.
 

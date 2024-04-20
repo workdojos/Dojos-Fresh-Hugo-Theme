@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The medical industry is facing a number of controversies and challenges that are impacting the way healthcare is delivered and received. One of the biggest controversies is the high cost of healthcare, which has led to a lack of access for many individuals and families. This is a significant problem, as it means that people are unable to get the medical care they need, which can have serious consequences for their health and well-being.
 

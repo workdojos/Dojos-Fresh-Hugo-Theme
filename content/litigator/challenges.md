@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The legal industry is facing a number of controversies and challenges that impact both lawyers and the justice system as a whole. One of the biggest issues is the lack of access to legal representation for those who cannot afford it, leading to a system that is stacked in favor of the wealthy. This is a problem that needs to be addressed in order to create a more equitable and fair justice system.
 

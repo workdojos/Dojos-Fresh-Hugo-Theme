@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The coffee and hospitality industry has been facing numerous controversies in recent years, including issues surrounding pay and working conditions for baristas. It is clear that we need to take steps to make it easier for baristato find work and to ensure that they are paid a fair wage. In addition, the industry as a whole has the potential to improve significantly in the coming years if we address these issues and work to create a more sustainable and equitable system.
 

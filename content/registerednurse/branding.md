@@ -6,9 +6,7 @@ sidebar: false
 layout: single2 
 
 ---
-<figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
-    <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a social media manager, I would first do a thorough analysis of the healthcare organization's current social media presence and identify any areas that need improvement. This includes looking at the organization's current content strategy, follower growth, engagement rates, and overall brand presence on each platform.
 

@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/history.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='old sailing vessel';/>
-    <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The word "thespian" comes from the ancient Greek word "thespis," which referred to a poet or actor in Greek theater. The word "thespis" was later adopted into Latin as "thespius," which was eventually shortened to "thespian" in English. The word "thespian" originally referred to any actor, but now it is more commonly used to refer specifically to an actor in theater or the performing arts.
 

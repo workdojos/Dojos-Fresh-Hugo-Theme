@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
-<figure>
-    <img src='/uploads/small/cinematographer.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The cinema industry is a rapidly growing and ever-evolving field, with a global box office revenue of over $40 billion in 2019. With the rise of streaming platforms and the increasing importance of visual media, the demand for skilled professionals in the film industry is higher than ever.
 

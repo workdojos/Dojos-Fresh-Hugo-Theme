@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The statistical research and development industry has faced numerous controversies in recent years, ranging from accusations of statistical fraud to concerns over the accuracy and reliability of statistical models. These controversies have caused many statisticians to feel uncertain about their future in the industry, leading to a lack of confidence in the field as a whole. However, despite these challenges, there are still many reasons why we need to make it easier for statisticians to find work, and why the statistical research and development industry has the potential to become much stronger in the years ahead.
 

@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/a-day-in-the-life.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='sunny day working abroad in an exotic locale';/>
-    <figcaption>What it's like living a day in the life.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 Once upon a time, in the bustling world of real estate, there was a mortgage broker named Jane. Every day, Jane woke up at the crack of dawn and spent hours on end working with clients to secure the best possible mortgage rates for their dream homes. She had a knack for finding the perfect lender for each individual, and her clients couldn't thank her enough.
 

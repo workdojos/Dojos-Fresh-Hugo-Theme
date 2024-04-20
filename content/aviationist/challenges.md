@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The aviation industry is a crucial part of modern society, providing transportation for people and goods across the globe. However, it is also an industry facing numerous controversies and challenges. From concerns over safety and security to the struggle to attract and retain skilled workers, the aviation industry has its fair share of issues to contend with. In this essay, we will delve into some of the controversies facing the aviation industry, the challenges that aviationists face in finding work and earning fair wages, and discuss ways in which the industry can improve in the future.
 

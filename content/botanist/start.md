@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/getting-started.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='rocketship';/>
-    <figcaption>How to get going?  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 Great! It sounds like you have a specific goal in mind and are looking to learn more about the perks and benefits of working as a botanist in the botany industry. First of all, let me tell you that pursuing a career in botany can be extremely rewarding and fulfilling. Not only will you have the opportunity to work with and study plants, which are essential to our planet and our well-being, but you will also have the chance to make a positive impact on the environment and contribute to important research and conservation efforts.
 

@@ -5,9 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
-    <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a social media manager for your marketing organization, I would first focus on developing a clear strategy for each platform. This would involve researching and understanding your target audience, as well as identifying specific goals for each platform (such as increasing brand awareness, recruiting followers, driving traffic to your website, or facilitating collaborations with other marketing professionals).
 

@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/no-fear.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='firecracker';/>
-    <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 First of all, it is important to consider the skills and experience that the individual has in order to determine if they are well-suited for a career as a registered nurse. Some key skills that are necessary for this profession include strong communication and interpersonal skills, the ability to work well under pressure, and a strong sense of empathy and compassion. Additionally, it is important for registered nurses to have a strong attention to detail and the ability to problem-solve effectively.
 

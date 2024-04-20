@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
-<figure>
-    <img src='/uploads/small/clinician.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The medical industry is a vast and dynamic field that offers a wide range of opportunities for individuals interested in pursuing a career in healthcare. According to the Bureau of Labor Statistics, the medical industry is projected to grow by 14% between 2018 and 2028, which is much faster than the average for all occupations. This growth is expected to create millions of new jobs in the medical field, making it an attractive career path for those interested in making a difference in the lives of others.
 

@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/ethical-framework.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='namaste hands';/>
-    <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a philosopher, one of the first things to consider when developing an ethical framework for a career in the distilled spirits industry is the potential consequences of one's actions. This could involve considering the potential harm that could be caused to individuals or communities through the production and distribution of alcohol, as well as the potential for addiction and negative health outcomes.
 

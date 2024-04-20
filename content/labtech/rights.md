@@ -7,10 +7,7 @@ layout: single2
 
 ---
 
-<figure>
-    <img src='/uploads/workers-rights.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='a cityscape of workers and office buildings';/>
-    <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The laboratory testing industry is a vital sector of the economy, responsible for conducting important scientific research and producing reliable results that are used in a variety of fields, including healthcare, environmental protection, and product safety. However, the lab techs who work in these laboratories often face challenges in terms of fair work practices, including low wages, long hours, and a lack of job security.
 

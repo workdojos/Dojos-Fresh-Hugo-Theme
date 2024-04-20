@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/website.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='desktop computer opened to a beautiful website';/>
-    <figcaption>"Hey Admin!".  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <br>
 <p>
 There are several benefits to using open-source technology to build your own website, especially in the botany industry. One of the main benefits is cost savings. Open-source technology is free to use, which means that you won't have to pay for expensive proprietary software or licenses. This can be especially beneficial for small businesses or startups that are working with a limited budget.

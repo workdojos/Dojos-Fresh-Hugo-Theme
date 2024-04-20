@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
-<figure>
-    <img src='/uploads/small/aviationist.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 
 The aviation industry is a vital and rapidly growing sector, with numerous opportunities for those looking to pursue a career in this field. According to the International Air Transport Association (IATA), the global aviation industry generates over $746 billion in economic activity each year, with over 3.7 billion passengers transported in 2019 alone.
 

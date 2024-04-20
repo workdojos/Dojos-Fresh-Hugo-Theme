@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
-<figure>
-    <img src='/uploads/small/baristas.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The coffee and hospitality industry is a multi-billion dollar industry that spans across the globe. According to data from the International Coffee Organization, the global coffee market is worth approximately $100 billion, with over 150 countries producing coffee beans. The hospitality industry, which includes hotels, restaurants, and other hospitality-related businesses, is worth even more, with estimates ranging from $500 billion to over $1 trillion.
 

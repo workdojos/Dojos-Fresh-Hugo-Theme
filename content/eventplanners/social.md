@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/socialmedia.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='social media';/>
-    <figcaption>Gain presence in the world of social media.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 First, let's start with Instagram. I would create a series of visually stunning posts showcasing some of the events I have planned in the past. These could include photos of the venue, décor, and guests having a great time. I would also utilize Instagram stories to give a behind-the-scenes look at the planning process and to show off my creativity and attention to detail. I would also utilize Instagram hashtags related to the event planning industry and engage with other event planners and industry professionals.
 

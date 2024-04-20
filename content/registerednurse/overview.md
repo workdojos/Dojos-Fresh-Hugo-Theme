@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/registerednurse.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The healthcare industry is a vast and complex field, encompassing everything from hospitals and clinics to nursing homes and home health agencies. According to the Bureau of Labor Statistics, healthcare is the fastest-growing sector in the United States, with employment expected to grow by 18% between 2019 and 2029. This growth presents numerous opportunities for those looking to enter or advance within the industry.
 

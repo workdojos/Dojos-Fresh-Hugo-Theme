@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The higher education industry is facing numerous controversies in recent years, with issues ranging from rising tuition costs to the value of a college degree. One area that has particularly garnered attention is the lack of job opportunities for philosophers. While the study of philosophy may be seen as an abstract and potentially impractical field, the reality is that philosophers have a lot to offer in terms of critical thinking skills and innovative ideas.
 

@@ -6,9 +6,7 @@ sidebar: false
 layout: single2 
 
 ---
-<figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
-    <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 First, I would conduct a social media audit to assess the current state of the organization's presence on these platforms. This would involve analyzing the current content, engagement levels, and overall aesthetic to determine what is and is not working.
 

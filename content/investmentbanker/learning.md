@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
-    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 Sure! As an investment banker, you will be expected to have a strong understanding of financial markets, securities, and investment products. You will also need to be proficient in financial modeling and analysis, as well as be able to communicate complex financial concepts to clients and colleagues. Here are some things that should appear in a curriculum for an investment banker:
 

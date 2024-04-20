@@ -6,9 +6,7 @@ sidebar: false
 layout: single2 
 
 ---
-<figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
-    <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As the social media manager for this religious organization, I would first research and analyze the current presence of the organization on Twitter, Instagram, and Pinterest. This includes analyzing the number of followers, engagement rates, and any current campaigns or initiatives being promoted on these platforms.
 

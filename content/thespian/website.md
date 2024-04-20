@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/website.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='desktop computer opened to a beautiful website';/>
-    <figcaption>"Hey Admin!".  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <br>
 <p>
 As a web design consultant, I would recommend using open-source technology to build your own website for several reasons. Firstly, open-source technology is free to use, which can greatly reduce the overall cost of building and maintaining a website. Secondly, open-source technology is constantly being updated and improved upon by a community of developers, which means that your website will have access to the latest and most advanced features and technologies. Additionally, using open-source technology allows you to have complete control over the design and functionality of your website, which can be especially important for a thespian working in the performing arts industry where a professional and visually appealing website is essential for promoting your work.

@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/ethical-framework.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='namaste hands';/>
-    <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a philosopher, one could approach the task of developing an ethical framework for a career in botany from a number of different angles. One possible approach would be to consider the ethical implications of the botany industry as a whole, including issues such as the impact of botanical research on the environment, the ethical considerations involved in the cultivation and harvest of plants, and the potential ethical dilemmas that may arise in the application of botanical knowledge.
 

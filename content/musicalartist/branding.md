@@ -6,9 +6,7 @@ sidebar: false
 layout: single2 
 
 ---
-<figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
-    <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a social media manager, I would first research the music organization's current social media presence and gather data on their target audience. This would involve analyzing their current followers, engagement rates, and content performance. From this information, I would create a content calendar that includes a mix of promotional posts, industry news, and engaging content that aligns with the organization's brand.
 

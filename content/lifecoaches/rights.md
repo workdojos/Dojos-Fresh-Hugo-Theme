@@ -7,10 +7,7 @@ layout: single2
 
 ---
 
-<figure>
-    <img src='/uploads/workers-rights.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='a cityscape of workers and office buildings';/>
-    <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a life coach working in the industry, I am deeply concerned about the fair treatment of workers in this field. In recent years, there have been a number of trends and events that have brought attention to the need for improved work practices in the life coaching industry.
 

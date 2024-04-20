@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads//small/statistician.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The statistical research and development industry is a vital sector that plays a crucial role in a wide range of fields, including business, healthcare, education, and government. According to the National Science Foundation, the statistical research and development industry employed over 50,000 people in 2018, with an average salary of $98,000 per year.
 

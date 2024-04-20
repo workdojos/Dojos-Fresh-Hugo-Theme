@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 5555555555555555sThe behavioral health industry is facing numerous controversies and challenges in recent years, particularly in regards to the treatment of mental health and addiction disorders. One of the major controversies is the overreliance on medication as a form of treatment, which has led to a rise in prescription drug abuse and addiction. Another controversy is the lack of access to quality care for marginalized and underserved populations, including low-income individuals and communities of color.
 

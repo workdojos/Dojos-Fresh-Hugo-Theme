@@ -7,10 +7,7 @@ layout: single2
 
 ---
 
-<figure>
-    <img src='/uploads/workers-rights.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='a cityscape of workers and office buildings';/>
-    <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a thespian working in the performing arts industry, I have witnessed firsthand the challenges and injustices faced by many of my colleagues. From long and grueling rehearsals to the constant uncertainty of securing steady work, the life of a performer can be filled with hardship. However, one of the most pressing issues facing the industry is the lack of fair work practices, including inadequate wages and mistreatment of workers.
 

@@ -7,10 +7,7 @@ layout: single2
 
 ---
 
-<figure>
-    <img src='/uploads/workers-rights.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='a cityscape of workers and office buildings';/>
-    <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a theologian working in the religious organizations industry, I am deeply committed to advocating for fair work practices and promoting the rights and well-being of workers. In recent years, there have been a number of disturbing trends and events that have highlighted the need for greater focus on these issues within our industry.
 

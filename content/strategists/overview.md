@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/strategists.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The consulting industry is a rapidly growing field that offers a wide range of opportunities for professionals with a variety of skills and expertise. According to recent data from the Bureau of Labor Statistics, the consulting industry is expected to grow by 8% between 2018 and 2028, faster than the average for all occupations.
 

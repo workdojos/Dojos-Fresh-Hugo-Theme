@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/countries/Armenia.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Making open-source more accessible.</figcaption>
-</figure>
+
 Learning more about open-source tech in Armenia can be a great way to explore the country's technological innovation and contributions to the global tech community. Here are some resources and notable technologists to help get you started:
 
 ### Resources:

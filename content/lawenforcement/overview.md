@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/lawenforcement.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The protective services industry, specifically law enforcement, is facing numerous controversies and challenges that have brought its effectiveness and integrity into question. One of the main issues facing police officers is the difficulty in finding work, as many departments have strict hiring practices and limited budgets for new hires. This problem is compounded by the low pay that many police officers receive, which can make it difficult for them to support themselves and their families.
 

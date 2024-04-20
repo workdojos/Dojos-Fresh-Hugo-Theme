@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/financier.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 Startup financing is a rapidly growing industry that offers a variety of opportunities for those seeking to work in the field. According to data from the National Venture Capital Association, venture capital investment in startups reached a record high of $131.9 billion in 2018, with the number of deals totaling 9,527. This trend has continued in recent years, with 2019 seeing a total of $142.5 billion invested in startups.
 

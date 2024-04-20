@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/history.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='old sailing vessel';/>
-    <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The word "theologian" is derived from the Greek word "theologos," which literally means "one who speaks about God." It is a combination of "theos," meaning "God," and "logos," meaning "word" or "speech." The first recorded use of this term was by the ancient Greeks, who used it to refer to those who studied and wrote about the nature and attributes of the gods.
 

@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/novelist.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The writing and publishing industry is a vast and complex field, with a wide range of opportunities for those who are interested in pursuing a career in this field. According to the Bureau of Labor Statistics, employment in the publishing industry is expected to grow by about 2% between 2018 and 2028, which is slower than the average for all occupations. However, this industry is constantly evolving and adapting to new technologies, which means that there will always be new opportunities for writers and publishers to explore.
 

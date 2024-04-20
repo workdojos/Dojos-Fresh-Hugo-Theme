@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The travel and tours industry is facing numerous controversies and challenges in the current market. From the rise of online booking platforms to the ongoing COVID-19 pandemic, the industry has had to adapt and overcome numerous obstacles. One of the biggest controversies facing the travel and tours industry is the issue of travel agents. Many people argue that the rise of online booking platforms has made travel agents obsolete, while others argue that travel agents are still a vital part of the industry.
 

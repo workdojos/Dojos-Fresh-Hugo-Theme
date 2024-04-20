@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The journalism, news, and media industry is facing numerous controversies and challenges in the modern world. One of the major challenges facing photojournalists is the ability to find work and make a living in an increasingly competitive and unstable industry. With the rise of social media and citizen journalism, traditional media outlets are struggling to stay afloat, and many photographers are finding it difficult to secure steady employment.
 

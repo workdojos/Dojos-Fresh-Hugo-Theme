@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/getting-started.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='rocketship';/>
-    <figcaption>How to get going?  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 Great, let's start by focusing on the benefits and perks of working as a beautician in the health & wellness industry. First of all, it's important to note that the health & wellness industry is a rapidly growing field, with a projected growth of 13% by 2028. This means that there are plenty of job opportunities available for skilled beauticians in this industry.
 

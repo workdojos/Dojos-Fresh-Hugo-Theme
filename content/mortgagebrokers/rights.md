@@ -7,10 +7,7 @@ layout: single2
 
 ---
 
-<figure>
-    <img src='/uploads/workers-rights.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='a cityscape of workers and office buildings';/>
-    <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The real estate industry, specifically the mortgage broker sector, has recently faced numerous debates surrounding fair work practices and the treatment of workers. As someone who supports the promotion of worker's rights, fair treatment, and proper wages, it is clear that there are a few key issues that need to be addressed in order to create a more equitable and just industry.
 

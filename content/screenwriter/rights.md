@@ -7,10 +7,7 @@ layout: single2
 
 ---
 
-<figure>
-    <img src='/uploads/workers-rights.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='a cityscape of workers and office buildings';/>
-    <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a debater, I would argue that fair work practices for screenwriters in the film industry are crucial in order to ensure that these creative professionals are treated with the respect and dignity they deserve. There have been several recent trends and events in the industry that highlight the need for better protections for screenwriters, including the proliferation of unpaid or low-paid internships, the rise of non-union productions, and the increasing use of "writer's rooms" to develop scripts.
 

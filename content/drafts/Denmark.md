@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/countries/Denmark.jpg' style="width: 85%;height: 85%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Making open-source more accessible.</figcaption>
-</figure>
+
 1.  Open-source tech in Denmark:
 
 Denmark has a thriving tech industry and a growing open-source community. If you are looking to learn more about open-source tech in Denmark, here are some resources you can explore:

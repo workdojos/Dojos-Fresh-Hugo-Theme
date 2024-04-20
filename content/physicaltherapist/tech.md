@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/open-source-tech.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='desktop computer and open-source code';/>
-    <figcaption>Open-source tech, the best bang-for-your-buck in the digital world.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The physical therapy industry is an essential part of healthcare, helping individuals recover from injuries, surgeries, and chronic conditions. Despite its importance, the industry has historically been slow to adopt new technologies and techniques, relying heavily on manual therapies and traditional approaches. However, with the rise of open-source technology and the increasing demand for more personalized and effective treatments, it's time for the physical therapy industry to embrace these innovations.
 

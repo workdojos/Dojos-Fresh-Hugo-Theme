@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/history.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='old sailing vessel';/>
-    <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The word "school" is believed to have originated from the Greek word "skhole," which means leisure, rest, or time spent in leisure activities. It was originally used to describe a place where people gathered to learn and engage in philosophical discussions. The word "teacher," on the other hand, is derived from the Latin word "magister," which means master or chief.
 

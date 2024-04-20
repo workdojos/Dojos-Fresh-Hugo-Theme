@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/no-fear.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='firecracker';/>
-    <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a career counselor, I would begin by discussing the individual's skills, interests, and experience to determine if teaching is a good fit for them. Some key skills that are important for teachers include strong communication skills, the ability to motivate and inspire students, and the ability to manage a classroom effectively. It is also important for teachers to have a strong passion for education and a desire to make a positive impact on the lives of their students.
 

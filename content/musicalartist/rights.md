@@ -7,10 +7,7 @@ layout: single2
 
 ---
 
-<figure>
-    <img src='/uploads/workers-rights.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='a cityscape of workers and office buildings';/>
-    <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The music industry is a complex and rapidly changing field that has faced numerous challenges in recent years. From the decline of physical record sales to the rise of streaming platforms, artists and industry professionals have had to adapt to new ways of working and earning a living. However, amidst these changes, one constant has remained: the need for fair work practices for musical artists.
 

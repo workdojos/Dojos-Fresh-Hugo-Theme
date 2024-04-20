@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/ethical-framework.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='namaste hands';/>
-    <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a philosopher, one approach to developing an ethical framework for starting a career as a statistician in the statistical research and development industry would be to consider the moral principles that guide one's actions and decisions. These principles could include respect for the truth and the pursuit of knowledge, honesty and integrity in one's work, and a commitment to fairness and justice.
 Sure, I'd be happy to help you develop an ethical framework for your career as a statistician. Before we begin, it's important to note that there is no one "correct" ethical framework that can be applied universally to all situations. Instead, ethical frameworks are tools that can be used to guide decision-making and help individuals and organizations consider the potential consequences of their actions.

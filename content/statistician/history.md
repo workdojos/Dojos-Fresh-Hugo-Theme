@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/history.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='old sailing vessel';/>
-    <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The word "statistician" comes from the Latin word "statisticus," which means "pertaining to the state." This word was derived from the Greek word "statistikos," which means "of or relating to affairs of state." The first recorded use of the word "statistician" was in the early 18th century, and it referred to someone who collected and analyzed data about the state or government.
 

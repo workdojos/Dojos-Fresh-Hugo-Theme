@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/getting-started.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='rocketship';/>
-    <figcaption>How to get going?  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 First off, let me start by saying that the cinema industry is an exciting and dynamic field with endless opportunities for creative expression and growth. As a cinematographer, you have the opportunity to bring your vision to life through the art of cinematography, using your skills and expertise to capture and create breathtaking visual stories that captivate audiences.
 

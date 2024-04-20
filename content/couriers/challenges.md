@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 Introduction:
 The supply-chain industry plays a crucial role in the global economy, ensuring that goods and products are delivered to consumers in a timely and efficient manner. However, this industry is facing numerous controversies and challenges that have the potential to disrupt the entire system. In this essay, we will delve into some of these controversies and challenges, and argue that steps need to be taken to make it easier for courierto find work and receive fair pay. We will also discuss how the supply-chain industry as a whole can improve in the coming years.

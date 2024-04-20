@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/economists.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The data science industry is one of the fastest growing and most lucrative industries in the world today. According to a recent report from the International Data Corporation (IDC), the global data science market is expected to reach $250 billion by 2024. This explosive growth is being driven by the increasing demand for data-driven insights and solutions from businesses across all sectors.
 

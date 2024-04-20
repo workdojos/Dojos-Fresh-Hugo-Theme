@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/history.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='old sailing vessel';/>
-    <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The word distiller is derived from the Latin word distillare, which means "to drip or trick down." The term originally referred to the process of distillation, which involves the separation of a mixture of liquids based on their boiling points. The word distillation has been used in various contexts throughout history, including in the production of essential oils, perfumes, and medicinal remedies.
 

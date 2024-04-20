@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The biosciences industry is a rapidly expanding field that has seen a number of controversies and challenges in recent years. From debates surrounding the ethics of genetic engineering to concerns about the safety of genetically modified organisms, the biosciences industry has been at the forefront of many important and contentious issues. In this essay, I will argue that we need to make it easier for biologistto find work, pay them more, and improve the biosciences industry as a whole in order to address these controversies and challenges.
 

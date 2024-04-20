@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/history.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='old sailing vessel';/>
-    <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The word "park ranger" dates back to the late 19th century, with its earliest known use recorded in 1894. The word "park" is derived from the Old English word "pearc," which means an enclosed area of land set aside for hunting or recreation. The word "ranger" is derived from the Old French word "range," which means to roam or wander. Together, the term "park ranger" refers to someone who is responsible for managing and protecting an area of land set aside for recreational purposes.
 

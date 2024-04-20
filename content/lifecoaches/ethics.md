@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/ethical-framework.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='namaste hands';/>
-    <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a philosopher, one could approach this question by examining various ethical theories and determining which one best aligns with the values and goals of the life coaching industry. For example, one could consider the principles of deontology, which emphasizes the importance of acting in accordance with moral duties and rules. In the context of life coaching, this could involve treating clients with respect and upholding confidentiality, even when it may be inconvenient or challenging to do so.
 

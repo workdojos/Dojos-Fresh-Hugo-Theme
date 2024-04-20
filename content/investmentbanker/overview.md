@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/investmentbanker.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The financial services industry is a rapidly growing and highly competitive field that offers a wide range of career opportunities for those with the right skills and qualifications. According to data from the U.S. Bureau of Labor Statistics, employment in the financial services sector is expected to grow by 9% between 2016 and 2026, faster than the average for all occupations.
 

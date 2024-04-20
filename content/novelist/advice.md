@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/no-fear.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='firecracker';/>
-    <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a career counselor, it is my duty to provide you with guidance and advice on your potential career as a novelist. Firstly, it is important to assess your skills and interests in relation to this career path. Do you have a passion for writing and storytelling? Do you have strong writing skills, including grammar and syntax? Are you able to effectively convey your ideas through written communication? These are all important factors to consider when determining if a career as a novelist is suitable for you.
 

@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/history.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='old sailing vessel';/>
-    <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The word "photojournalism" is a combination of the words "photo," which is short for "photograph," and "journalism." The word "photograph" comes from the Greek words "phos," which means "light," and "graph," which means "to draw." The word "journalism" comes from the French word "journal," which means "daily," and the suffix "-ism," which denotes a practice or theory.
 

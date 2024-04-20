@@ -5,9 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
-    <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 To start, I would recommend creating a social media calendar that outlines the content and campaigns we will be posting on each platform. This will help us stay organized and ensure that we are consistently posting relevant and engaging content.
 

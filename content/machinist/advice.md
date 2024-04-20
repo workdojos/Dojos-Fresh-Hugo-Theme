@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/no-fear.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='firecracker';/>
-    <figcaption>Some friendly advice.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a career counselor, I would recommend conducting a thorough assessment of the individual's skills, interests, and experience in order to determine if a career as a machinist is a good fit. Some key factors to consider would include the individual's level of technical aptitude, mechanical skills, and attention to detail. It would also be important to consider the individual's interests in working with machinery and their ability to work independently or as part of a team.
 

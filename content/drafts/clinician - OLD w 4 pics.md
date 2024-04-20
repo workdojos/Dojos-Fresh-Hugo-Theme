@@ -147,12 +147,7 @@ Save money by self-hosting your own tech stack!
 </table>
 
 
-<figure>
-    <blockquote cite="">
-        <p></p>
-    {{% subtitle5 "Do you work in the medical field?" %}}
-If you would like a dashboard customized to your practice or profession, if you work for a hospital or clinic that is looking for something both better and cheaper, or if you're just looking to stay in-the-know about a particular medical field, then maybe our service can be of benefit to you!
-</figure>
+
 
 <br>
 

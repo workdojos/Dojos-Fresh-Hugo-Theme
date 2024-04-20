@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The animation industry is a constantly evolving field that has faced a number of controversies and challenges in recent years. Animators, the creative minds behind the beloved characters and stories we see on screen, often face difficulty in finding work and are underpaid for the amount of effort and skill they put into their craft. It is time for the industry to take action and make it easier for animatorto find work, pay them fairly for their talent, and strive for overall improvement in the industry as a whole.
 

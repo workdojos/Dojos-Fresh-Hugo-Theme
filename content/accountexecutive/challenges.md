@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The sales industry is facing a number of controversies and challenges, particularly for account executives who are tasked with securing and maintaining client relationships. Despite the crucial role that these professionals play in the success of any business, they often face difficulties in finding and retaining employment, as well as receiving fair compensation for their efforts. In order to address these issues and improve the sales industry as a whole, it is necessary to make it easier for account executiveto find work, pay them more, and address the various controversies facing the industry.
 

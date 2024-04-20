@@ -146,14 +146,7 @@ Save money by self-hosting your own tech stack!
 </table>
 
 
-<figure>
-    <blockquote cite="">
-        <p></p>
-    {{% subtitle5 "Do you want to excel in life as a true adventurer?" %}}
-Most adventures take planning and organization!  That's what Adventurer's Dojo is for.  A place to collect all the information, all the teams, all the chats, all the trip info, as well as the beautiful photos and videos that usually accompany every adventure.
 
-Start a business in the advenutre industry on the right footing.  It all starts with your own server, your own dashboard.  You dojo.
-</figure>
 
 <br>
 

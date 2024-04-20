@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The small business industry is facing numerous controversies that are causing difficulties for clerks and the industry as a whole. One major challenge is the difficulty in finding work. Many small businesses struggle to compete with larger corporations, which often have more resources and better marketing strategies. As a result, clerks may struggle to find employment opportunities, even if they have the necessary skills and qualifications.
 

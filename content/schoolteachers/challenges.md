@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The education industry is facing numerous controversies and challenges, and it is crucial that we address these issues in order to make the industry more effective and efficient. One major controversy is the increasing privatization of education, which has led to the creation of charter schools and vouchers that allow students to attend private schools with public funds. While proponents argue that these measures increase competition and improve academic outcomes, opponents argue that they drain resources from traditional public schools and lead to further segregation.
 

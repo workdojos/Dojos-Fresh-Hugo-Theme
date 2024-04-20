@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The conservation and park management industry is facing numerous controversies in recent years. From issues surrounding the destruction of natural habitats to conflicts with local communities, the industry is facing challenges that can be difficult to navigate. One of the biggest challenges facing park rangers is the lack of job opportunities. Many park rangers struggle to find work, which can be frustrating and demoralizing.
 

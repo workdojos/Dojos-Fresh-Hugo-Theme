@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/ethical-framework.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='namaste hands';/>
-    <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 In order to develop an ethical framework for starting a career as a philosopher working in the philosophy and higher education industry, it is important to consider a number of different factors. These might include the values and principles that guide our work as philosophers, the ethical responsibilities we have to our students and colleagues, and the potential impact our work might have on society at large.
 

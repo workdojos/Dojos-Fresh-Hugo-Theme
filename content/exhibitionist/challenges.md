@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The art and special events industry is facing a number of controversies that are affecting exhibitionists and the industry as a whole. One major challenge that exhibitionists face is the difficulty in finding work and being paid fairly for their talents. This has led to a lack of representation and opportunities for marginalized communities within the industry, perpetuating systemic inequalities. It is crucial that we address these issues and make it easier for exhibitionistto find work and receive fair compensation for their skills.
 

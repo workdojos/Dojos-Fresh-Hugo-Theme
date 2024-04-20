@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/exhibitionist.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The art and special events industry is a vibrant and diverse field that offers a wide range of opportunities for those interested in working in the arts. According to the National Endowment for the Arts, the arts and cultural production industry contributed over $853 billion to the U.S. economy in 2016, making it a significant contributor to the national economy.
 

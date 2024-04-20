@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/getting-started.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='rocketship';/>
-    <figcaption>How to get going?  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 Great! It sounds like you are interested in learning more about a career as a content creator in the content creation industry. First, let me tell you that this is an exciting and growing industry with lots of upside potential. There are many perks and benefits to working as a content creator, including the opportunity to work with a variety of clients and projects, the ability to express your creativity and share your ideas with a larger audience, and the potential to earn a good income from your work.
 

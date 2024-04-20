@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/ethical-framework.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='namaste hands';/>
-    <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a philosopher, I would begin by considering the fundamental principles that guide ethical decision-making. One key principle is respect for autonomy, or the right of individuals to make their own choices and decisions. In the context of starting a career as a graphic designer, this principle would suggest that you have a moral obligation to respect the autonomy of your clients by allowing them to make their own decisions about the direction of their projects and the content they wish to convey.
 

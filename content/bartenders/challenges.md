@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The bartending and hospitality industry is facing several controversies that impact both the employees and the overall success of the industry. One major issue is the difficulty that many bartenders face in finding steady work. This can be attributed to the competitive nature of the industry and the lack of support for new and inexperienced bartenders. In addition, many bartenders are not paid a fair wage for their hard work and dedication to the industry. This not only affects the financial stability of individual bartenders, but also has negative consequences for the industry as a whole.
 

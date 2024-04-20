@@ -7,10 +7,7 @@ layout: single2
 
 ---
 
-<figure>
-    <img src='/uploads/workers-rights.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='a cityscape of workers and office buildings';/>
-    <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As someone who has worked in the art and special events industry for several years, I can speak firsthand to the importance of fair work practices. Unfortunately, this is an industry that has a history of exploiting workers, particularly those who are just starting out or are in more marginalized positions. However, there are some recent trends and events that have brought attention to this issue and are pushing for change.
 

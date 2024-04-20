@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/getting-started.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='rocketship';/>
-    <figcaption>How to get going?  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 vFirst of all, let me just say that becoming a registered nurse is an incredibly rewarding and fulfilling career choice. Not only do you have the opportunity to make a real difference in the lives of others, but you also have the opportunity to work in an exciting and growing industry with plenty of upside potential. Here are a few little-known facts about working as a registered nurse in the healthcare industry:
 

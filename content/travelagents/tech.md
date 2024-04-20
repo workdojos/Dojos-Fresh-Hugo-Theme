@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/open-source-tech.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='desktop computer and open-source code';/>
-    <figcaption>Open-source tech, the best bang-for-your-buck in the digital world.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The travel and tours industry has always been an integral part of the global economy, but the pandemic has highlighted just how important it is for the economy to have a diverse and resilient foundation. The travel and tours industry has been hit particularly hard by the pandemic, with restrictions on travel and a decrease in demand leading to significant losses for many businesses. However, there is hope on the horizon, as the industry is beginning to bounce back and adapt to the new normal.
 

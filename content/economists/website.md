@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/website.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='desktop computer opened to a beautiful website';/>
-    <figcaption>"Hey Admin!".  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <br>
 <p>
 As a web design consultant, I would recommend considering open-source technology as a solution for building your website for several reasons. First, open-source technology is typically free to use and modify, which can significantly reduce the cost of building and maintaining a website compared to proprietary solutions. Additionally, open-source technology is often supported by a large community of developers and users who contribute to its development and improvement, which means you have access to a wide range of resources and support for troubleshooting issues or adding new features.

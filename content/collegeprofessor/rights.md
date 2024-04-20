@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 ---
 
-<figure>
-    <img src='/uploads/workers-rights.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='a cityscape of workers and office buildings';/>
-    <figcaption>Fighting for a level playing field.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 Fair work practices for college professors in the higher education industry have been a topic of much debate in recent years. On one hand, there are those who argue that professors should be paid a fair wage for their hard work and dedication to their students, and that they should be treated with respect and dignity in the workplace. On the other hand, there are those who argue that professors are already well compensated for their work and that any additional efforts to improve their working conditions would be unnecessary and potentially damaging to the financial stability of higher education institutions.
 

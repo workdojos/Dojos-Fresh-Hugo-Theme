@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/graphicdesigner.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 Graphic design and graphic arts are thriving industries that offer a wide range of career opportunities for creative individuals. According to the Bureau of Labor Statistics, employment in the graphic design field is expected to grow by 4% from 2019 to 2029, faster than the average for all occupations. This growth is driven by the increasing use of technology in marketing and the increasing demand for visual content in various industries.
 

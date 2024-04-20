@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The performing arts industry is a field that has long been a source of entertainment and inspiration for people around the world. However, it is also an industry that has faced numerous controversies and challenges over the years. One of the most pressing issues facing the industry is the lack of opportunities for thespians, or actors and actresses, to find work. This problem is compounded by the fact that many thespians are struggling to make ends meet due to low pay and precarious working conditions.
 

@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/getting-started.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='rocketship';/>
-    <figcaption>How to get going?  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 I want you to act as a web design consultant. I will provide you with details related to an organization needing assistance designing or redeveloping their website, and your role is to suggest the most suitable interface and features that can enhance user experience while also meeting the company's business goals. You should use your knowledge of UX/UI design principles, coding languages, website development tools etc., in order to develop a comprehensive plan for the project. My first request is "I need help understanding the benefits of using open-source technology to build my own website and about creating a website for my business as a college professor working in the higher education  industry, including some of the leading open-source web builders, static-site generators, and other popular open-source apps that deliver a great overall experience and can be deployed on your own server. As well as the pros and coGreat! It sounds like you have a clear goal in mind and are interested in exploring the potential benefits of working as a college professor in the higher education industry. First, let's start with some little-known facts about this career path. Did you know that college professors often have the opportunity to conduct research and contribute to the academic community in a meaningful way? This means that you will have the chance to not only teach and inspire your students, but also make a real impact in your field of study.
 

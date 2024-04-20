@@ -6,14 +6,9 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/musically.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
-<p>
-The music industry is a vast and complex field, encompassing a wide range of roles and opportunities for those who are passionate about music. Whether you are a musician, songwriter, producer, or manager, there are countless ways to break into the industry and find success. Here are some key facts and figures about the music industry, as well as tips on finding opportunities, networking, and learning more about the field.
 
-According to a recent report by the Recording Industry Association of America (RIAA), the global music industry generated over $20 billion in revenue in 2020. This figure includes all forms of music, from streaming services and downloads to physical album sales and live performances. In the United States alone, the music industry generated over $7 billion in revenue in 2020, with the majority of this coming from streaming services like Spotify, Apple Music, and Pandora.
+<p>
+The music industry is a vast and complex field, encompassing a wide range of roles and opportunities for those who are passionate about music. Whether you are a musician, songwriter, producer, or manager, there are countless ways to break into the industry and find success. Here are some key facts and  includes all forms of music, from streaming services and downloads to physical album sales and live performances. In the United States alone, the music industry generated over $7 billion in revenue in 2020, with the majority of this coming from streaming services like Spotify, Apple Music, and Pandora.
 
 For those who are looking to break into the music industry, there are many ways to find opportunities and get your foot in the door. One of the most effective ways to do this is by networking with those who are already established in the industry. This can be done through social media, attending music conferences and festivals, or joining music industry organizations and groups. Additionally, internships and entry-level positions are often a great way to gain experience and make connections in the industry.
 

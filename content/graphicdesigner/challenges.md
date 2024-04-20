@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The graphic design and graphic arts industry is facing numerous controversies that are causing challenges for graphic designers. One of the main issues is the abundance of free or low-cost design resources available online, which can often lead to undervaluation of the work that graphic designers do. This can make it difficult for them to find paid work and earn a fair wage for their skills and expertise.
 

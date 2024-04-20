@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The laboratory testing industry is currently facing a number of controversies and challenges that have the potential to significantly impact the quality and reliability of test results. One major issue is the lack of standardization and regulation within the industry, which can lead to inconsistent results and a lack of trust in the accuracy of tests. Additionally, the industry is struggling to attract and retain qualified lab technicians, leading to a shortage of skilled workers and increasing workloads for those who are employed.
 

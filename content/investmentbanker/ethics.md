@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/ethical-framework.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='namaste hands';/>
-    <figcaption>Choosing the right path.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As a philosopher, I would approach this question by first considering the fundamental ethical principles that should guide any career. These might include concepts like honesty, integrity, fairness, and responsibility. From there, I would consider the specific challenges and ethical dilemmas that might arise in the context of a career as an investment banker. This might include questions around conflicts of interest, the proper use of insider information, the ethical implications of financial risk-taking, and the responsibility to act in the best interests of clients and stakeholders.
 

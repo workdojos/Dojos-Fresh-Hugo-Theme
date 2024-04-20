@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads//small/growers.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The cannabis industry is a rapidly growing and exciting field, with numerous opportunities for those interested in working in this industry. According to a report by New Frontier Data, the global cannabis market is expected to reach $57 billion by 2027. In the United States alone, the legal cannabis industry generated $10.4 billion in revenue in 2018 and is projected to reach $30 billion by 2025.
 

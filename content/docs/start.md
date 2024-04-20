@@ -26,20 +26,7 @@ It won't be hard, it may be a bit boring at times, but we guarantee you'll learn
 
 <br>
 
-<figure>
-    <blockquote cite="">
-        <p></p>
 
-{{% subtitle5 "Disclaimer" %}}
-
-Our service is NOT a managed hosting service.  We do not want to host your things in a centralized cloud because we believe in the importance of encouraging people to host their own in a more decentralized fashion.  Our service is to equip you with the basics for confidently running your own cloud servers and get you started with some of the cool apps we deploy for you on top of it.
-
-Please note that these apps are NOT our apps.  These apps and their developers are are in no way affiliated with Work Dojos beyond our believing they are good apps and ones we are happy to recommend.  These are open-source apps whose source code is posted publicly on Github.
-
-As with most open-source apps out in the wild, you don't get any support and documentation can be hit or miss or sorely lacking.  This is the nature of open-source.  We here at Work Dojos also do not offer any sort of technical support related to these apps, and we do not have any relationship with the app provider, however, we do offer very responsive CUSTOMER support.  It's our priority #1 in fact!
-
-Customers should be prepared, understand the limitations of open-source, and think about whether or not open-source is suitable for them.  In many (perhaps most) cases, a customer is better off with one of the app provider's premium plans.  With many of these premium plans you do get access to priority support and more.  Please weigh carefully whether or not you wish to take on the challenge of self-hosting, out in the wild, on your own (if you're like us, then the answer is ABSO-freakin-LUTELY!)
-</figure>
 
 {{% subtitle5 "Dashboard to rule them all." %}}
 <br>

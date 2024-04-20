@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/curriculum.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='student in hoody with laptop';/>
-    <figcaption>In the pursuit of knowledge.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 For a physicist, it is important to have a strong foundation in math and science, particularly in physics and related fields such as chemistry and engineering. A curriculum should include courses in classical mechanics, thermodynamics, electromagnetism, quantum mechanics, and statistical mechanics. In addition, it is important to have experience with data analysis and programming, as well as experience with lab equipment and experiments.
 

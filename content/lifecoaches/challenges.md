@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The life coaching industry is facing numerous controversies and challenges that need to be addressed. One of the main controversies facing the industry is the lack of regulation. Many people claim that anyone can become a life coach and that the industry is not regulated enough. This has led to a proliferation of unqualified and ineffective coaches, which has resulted in a lack of trust in the industry.
 

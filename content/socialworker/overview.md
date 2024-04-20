@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads//small/socialworker.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The behavioral health industry is a rapidly growing field that focuses on helping individuals with mental health issues and substance abuse disorders. According to the National Institutes of Mental Health (NIMH), approximately 1 in 5 adults in the United States experiences some form of mental illness in a given year. This high demand for mental health services has led to a surge in job opportunities within the behavioral health industry.
 

@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/explorers.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The outdoor industry is a diverse and growing sector that offers a range of exciting opportunities for those interested in working in the field. According to the Outdoor Industry Association, the outdoor industry generated $887 billion in consumer spending in 2019, making it a significant contributor to the economy. The industry also employs millions of people in a variety of roles, including sales, marketing, design, manufacturing, and more.
 

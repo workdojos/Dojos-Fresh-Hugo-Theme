@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/open-source-tech.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='desktop computer and open-source code';/>
-    <figcaption>Open-source tech, the best bang-for-your-buck in the digital world.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As someone who has studied philosophy and worked in the higher education industry, I have seen firsthand the importance of open-source technology in serving this field. For those unfamiliar with open-source technology, it refers to software or other resources that are freely available for use and modification by anyone. This is in contrast to proprietary technology, which is owned by a company or individual and can only be used or modified with their permission.
 

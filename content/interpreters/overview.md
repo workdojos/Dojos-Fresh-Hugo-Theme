@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/small/interpreters.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The translation and interpretation industry is a rapidly growing field that is in high demand due to the increasing globalization of the world economy. According to a report from the US Bureau of Labor Statistics, employment in the field is expected to grow by 20% between 2018 and 2028, faster than the average for all occupations.
 

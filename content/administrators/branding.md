@@ -5,9 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure><img src='/uploads/branding.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='tools to brand your new business';/>
-    <figcaption>Branding whatever it is that you do.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The Administration & book-keeping industry is a vital part of the business world, as it involves managing financial records and ensuring that everything is organized and running smoothly. According to the United States Bureau of Labor Statistics, the industry is expected to grow by 5% between 2019 and 2029, which means that there will be plenty of opportunities for those looking to work in this field.
 

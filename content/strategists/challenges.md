@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads/challenges.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='warrior's spear';/>
-    <figcaption>Overcoming difficulties in a challenging environment.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The consulting industry has long been a source of controversy, with many people questioning the value of consultants and their tactics. However, there are a few key controversies that stand out as particularly pressing issues in the industry. One of the most significant controversies facing the consulting industry is the use of questionable practices, such as selling unnecessary or underperforming services to clients. This can create a negative perception of the industry as a whole, making it difficult for consultants to gain credibility and find work.
 

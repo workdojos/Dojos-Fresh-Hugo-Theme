@@ -6,10 +6,7 @@ sidebar: false
 layout: single2
 
 ---
-<figure>
-    <img src='/uploads//small/photojournalist.jpg' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='firecracker';/>
-    <figcaption>An overview of this exciting industry. AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 As an essay writer, I have researched the journalism, news, and media industry and have found some interesting facts and figures. According to the Bureau of Labor Statistics, there are approximately 41,000 journalists working in the United States. The median salary for a journalist is $43,490 per year, with the top 10% earning over $80,000.
 

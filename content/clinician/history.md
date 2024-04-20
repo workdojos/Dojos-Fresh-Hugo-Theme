@@ -5,10 +5,7 @@ include_footer: false
 sidebar: false
 layout: single2
 ---
-<figure>
-    <img src='/uploads/history.jpg' style="width: 90%;height: 90%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px;overflow: hidden;border: none;" align="middle"; alt='alt'; alt='old sailing vessel';/>
-    <figcaption>Taking a look back in time.  AI-generated content from OpenAI's latest: <a href="https://openai.com/blog/chatgpt/" >ChatGPT</a>.</figcaption>
-</figure>
+
 <p>
 The word "clinician" comes from the Latin word "clinicus", which means "belonging to a bed" or "belonging to a sick person." It was originally used to describe a doctor or medical practitioner who worked with patients in a hospital or other medical setting. The word "medical" also comes from the Latin word "medicus", which means "healer" or "physician." It was originally used to describe someone who practiced medicine or was trained in the art of healing.
 
