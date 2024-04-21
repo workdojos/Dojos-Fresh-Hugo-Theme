@@ -29,11 +29,11 @@ Overall, a career as an administrator in the administration and book-keeping ind
 
 <br>
 
-{{< iframe width="85%" height="0" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" autoplay frameborder="0" style="border:0" >}}
+{{< iframe width="85%" height="0" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" frameborder="0" style="border:0" >}}
 
 <br>
 <figure>
-    <a href="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" autoplay>
+    <a href="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS">
     <img src='/uploads/arrow.png' style="width: 15%;height: 15%;padding: 3px; overflow: hidden;border: none; align="left"; alt='alt'; alt='An orange arrow pointing right';/>
     <figcaption>Next:  Getting started.</figcaption>
     </a>
