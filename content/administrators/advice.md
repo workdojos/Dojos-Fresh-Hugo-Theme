@@ -17,21 +17,21 @@ Overall, a career as an administrator in the administration and book-keeping ind
 
 <br>
 <figure>
-    <img src='/uploads/rosamund.webp' style="width: 25%;height: 25%;padding: 10px; overflow: hidden;border: none;" align="middle"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
+    <img src='/uploads/rosamund.webp' style="width: 25%;height: 25%;padding: 10px; overflow: hidden;border: none;" text-align:left; align="left"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
     <figcaption>Narrated in the likeness of Rosamund Pike.</figcaption>
 </figure>
 
 <figure>
-    <img src='/uploads/play.png' style="width: 25%;height: 25%;padding: 10px; overflow: hidden;border: none;" align="middle"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
+    <img src='/uploads/play.png' style="width: 25%;height: 25%;padding: 10px; overflow: hidden;border: none;" text-align:left; align="left"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
     <figcaption>Click to play.</figcaption>
 </figure>
 
 <br>
-{{< iframe width="100%" height="0" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px; frameborder="0" style="border:0" >}}
+{{< iframe width="100%" height="200px" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" box-shadow: 0 3px 5px rgba(0,0,0,.3);border-radius: 25px; frameborder="0" style="border:0" >}}
 <br>
 <figure>
     <a href="https://workdojos.com/administrators/advice">
-    <img src='/uploads/arrow.png' style="width: 25%;height: 25%;padding: 3px; overflow: hidden;border: none;" align="middle"; alt='alt'; alt='An orange arrow pointing right';/>
+    <img src='/uploads/arrow.png' style="width: 15%;height: 15%;padding: 3px; overflow: hidden;border: none;" text-align:left; align="left"; alt='alt'; alt='An orange arrow pointing right';/>
     <figcaption>Next:  Getting started.</figcaption>
     </a>
 </figure>
