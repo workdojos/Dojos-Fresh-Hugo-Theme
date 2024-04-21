@@ -17,22 +17,23 @@ Overall, a career as an administrator in the administration and book-keeping ind
 
 <br>
 <figure>
-    <img src='/uploads/rosamund.webp' style="width: 25%;height: 25%;padding: 10px; overflow: hidden;border: none; align="left"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
+    <img src='/uploads/rosamund.webp' style="width: 36%;height: 36%;padding: 10px; overflow: hidden;border: none; align="left"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
     <figcaption>Narrated in the likeness of Rosamund Pike.</figcaption>
 </figure>
 
 <figure>
-    <img src='/uploads/play.png' style="width: 25%;height: 25%;padding: 10px; overflow: hidden; border: none; align="left"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
+    <a href="https://workdojos.com/administrators/advice">
+    <img src='/uploads/play.png' style="width: 15%;height: 15%;padding: 10px; overflow: hidden; border: none; align="left"; alt='alt'; alt='A play symbol';/>
     <figcaption>Click to play.</figcaption>
 </figure>
 
 <br>
 
-{{< iframe width="85%" height="260" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" frameborder="0" style="border:0" >}}
+{{< iframe width="85%" height="0" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" autoplay frameborder="0" style="border:0" >}}
 
 <br>
 <figure>
-    <a href="https://workdojos.com/administrators/advice">
+    <a href="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" autoplay>
     <img src='/uploads/arrow.png' style="width: 15%;height: 15%;padding: 3px; overflow: hidden;border: none; align="left"; alt='alt'; alt='An orange arrow pointing right';/>
     <figcaption>Next:  Getting started.</figcaption>
     </a>
