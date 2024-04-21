@@ -16,16 +16,22 @@ In terms of qualifications, it is beneficial to have a strong foundation in busi
 Overall, a career as an administrator in the administration and book-keeping industry can be very rewarding and fulfilling. With the right skills and qualifications, you can find success and growth in this field. I hope this information has been helpful and wish you the best of luck in your career pursuits.
 
 <br>
-Listen to this passage in the likeness of Rosamund Pike:
+(Narrated in the likeness of Rosamund Pike.)
 <br>
 <figure>
     <img src='/uploads/rosamund.webp' style="width: 100%;height: 100%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);overflow: hidden;border: none;" align="middle"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
     <figcaption>Rosamund loves everything open-source!</figcaption>
 </figure>
 <br>
-{{< iframe width="100%" height="120" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" frameborder="0" style="border:0" >}}
+{{< iframe width="100%" height="1" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" frameborder="0" style="border:0" >}}
 <br>
 <a href="https://workdojos.com/administrators/start">next: getting started</a>
+
+<figure>
+    <a href="https://workdojos.com/administrators/start">next: getting started</a>
+    <img src='/uploads/arrow.png' style="width: 25%;height: 25%;padding: 3px; box-shadow: 0 3px 5px rgba(0,0,0,.3);overflow: hidden;border: none;" align="middle"; alt='alt'; alt='An arrow pointing right';/>
+    <figcaption>Learn more about everything open-source!</figcaption>
+</figure>
 
 
 
