@@ -23,7 +23,7 @@ Overall, a career as an administrator in the administration and book-keeping ind
 
 <figure>
     <a href="https://workdojos.com/administrators/advice">
-    <img src='/uploads/play.png' style="width: 15%;height: 15%;padding: 10px; overflow: hidden; border: none; align="left"; alt='alt'; alt='A play symbol';/>
+    <img src='/uploads/play.png' style="width: 10%;height: 10%;padding: 10px; overflow: hidden; border: none; align="left"; alt='alt'; alt='A play symbol';/>
     <figcaption>Click to play.</figcaption>
 </figure>
 
