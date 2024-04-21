@@ -18,3 +18,8 @@ Overall, a career as an administrator in the administration and book-keeping ind
 <br>
 <a href="https://workdojos.com/administrators/start">next: getting started</a>
 </p>
+Listen to this passage in the likeness of Rosamund Pike:
+{{< iframe width="85%" height="2400" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" frameborder="0" style="border:0" >}}
+
+
+
