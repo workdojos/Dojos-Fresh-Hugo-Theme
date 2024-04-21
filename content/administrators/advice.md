@@ -27,8 +27,9 @@ Overall, a career as an administrator in the administration and book-keeping ind
 </figure>
 
 <br>
-{{< iframe width="100%" height="260px" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" 
-border-radius: 25px; frameborder="0" style="border:0" >}}
+
+{{< iframe width="85%" height="260" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" frameborder="0" style="border:0" >}}
+
 <br>
 <figure>
     <a href="https://workdojos.com/administrators/advice">
