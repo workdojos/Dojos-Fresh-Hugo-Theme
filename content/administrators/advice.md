@@ -17,19 +17,15 @@ Overall, a career as an administrator in the administration and book-keeping ind
 
 <br>
 <figure>
-    <img src='/uploads/rosamund.webp' style="width: 36%;height: 36%;padding: 3px; overflow: hidden;border: none; align="left"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
+    <img src='/uploads/rosamund.webp' style="width: 38%;height: 38%;padding: 3px; overflow: hidden;border: none; align="left"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
     <figcaption>Narrated in the likeness of Rosamund Pike.</figcaption>
 </figure>
-
+{{< iframe width="85%" height="0" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" frameborder="0" style="border:0" >}}
 <figure>
     <a href="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS">
-    <img src='/uploads/play.png' style="width: 10%;height: 10%;padding: 3px; overflow: hidden; border: none; align="left"; alt='alt'; alt='A play symbol';/>
+    <img src='/uploads/play.png' style="width: 8%;height: 8%;padding: 3px; overflow: hidden; border: none; align="left"; alt='alt'; alt='A play symbol';/>
     <figcaption>Click to play.</figcaption>
 </figure>
-
-
-{{< iframe width="85%" height="0" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" frameborder="0" style="border:0" >}}
-
 <br>
 <figure>
     <a href="https://workdojos.com/administrators/start">
