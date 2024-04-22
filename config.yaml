@@ -33,7 +33,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Build a business.
+    title: Build anything.
     # Hero subtitle (optional)
     subtitle: With free and open-source technology. 
     # Button text
@@ -110,19 +110,19 @@ params:
 
   sectionZb:
     title: Free chat apps.
-    subtitle: Sign up to create a chat server for free.
+    subtitle: Sign up to create a PRIVATE chat server for free.
 
 #  sectionZc:
    # title: Free templates.
    # subtitle: Sign up to get a free guide to self-hosting.
 
   sectionZd:
-    title: Free React apps.
-    subtitle: Sign up to get a free landing page built in React.
+    title: Free landing pages.
+    subtitle: Sign up to spin up a free landing page built in React for free.
 
   sectionZe:
     title: Pick a path.
-    subtitle: Choose from below or blaze your own trail.
+    subtitle: Choose from below or blaze your own trail!
     image: logos/workmates.png
 
   section3:
