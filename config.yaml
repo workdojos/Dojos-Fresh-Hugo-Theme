@@ -50,10 +50,10 @@ params:
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-
-
-
-
+  - title: About
+    url: https://about.workdojos.com
+  - title: Dashboards
+    url: https://dashboards.workdojos.com
 
 
   - title: Featured
@@ -90,13 +90,13 @@ params:
       url: https://dashboards.workdojos.com/#Social-Workers
     - title: Thespian Dojo
       url: https://dashboards.workdojos.com/#Thespian
-  - title: Pricing
-    url: https://blog.workdojos.com/#/portal/signup
-  - title: Log in
-    url: https://blog.workdojos.com/#/portal/login
+
   - title: Sign up
     url: https://blog.workdojos.com/#/portal/signup
     button: true
+  - title: Pricing
+    url: https://blog.workdojos.com/#/portal/signup
+
 
 
 
@@ -152,7 +152,8 @@ params:
     socialmedia:
 
       # Icons are from Font Awesome
-      
+    - link: https://github.com/workdojos
+      icon: github
     - link: https://twitter.com/workdojos
       icon: twitter
     bulmalogo: false
@@ -164,13 +165,15 @@ params:
           link: https://blog.workdojos.com/#/portal/signup
         - text: 60-Day Challenge
           link: https://blog.workdojos.com/#/portal/signup
+        - text: Dashboards
+          link: https://dashboards.workdojos.com
+        - text: Pricing
+          link: https://blog.workdojos.com/#/portal/signup
       column2:
         title: "Docs"
         links:
-        - text: Dashboards
-          link: https://admins.workdojos.com
-        - text: Pricing
-          link: https://blog.workdojos.com/#/portal/signup
+        - text: Awesome-Selfhosted
+          link: https://github.com/awesome-selfhosted/awesome-selfhosted
         - text: Privacy policy
           link: /docs/privacy
         - text: Built with Hugo
@@ -178,10 +181,10 @@ params:
       column3:
         title: "Company"
         links:
+        - text: About
+          link: https://about.workdojos.com
         - text: Blog
           link: https://blog.workdojos.com
-        - text: Get involved
-          link: https://home.workdojos.com/#contact
         - text: Chat Now
           link: https://chat.workmates.live/channel/support
 

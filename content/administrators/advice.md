@@ -14,22 +14,20 @@ One key aspect to consider when pursuing a career in this industry is the job ma
 In terms of qualifications, it is beneficial to have a strong foundation in business administration, bookkeeping, and customer service. Consider taking courses or earning a degree in these areas to increase your chances of finding employment in this field.
 
 Overall, a career as an administrator in the administration and book-keeping industry can be very rewarding and fulfilling. With the right skills and qualifications, you can find success and growth in this field. I hope this information has been helpful and wish you the best of luck in your career pursuits.
-
-<br>
 <figure>
-    <img src='/uploads/rosamund.webp' style="width: 38%;height: 38%;padding: 3px; overflow: hidden;border: none; align="left"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
+    <img src='/uploads/rosamund.webp' style="width: 38%;height: 30%;padding: 3px; overflow: hidden;border: none; align="left"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
     <figcaption>Narrated in the likeness of Rosamund Pike.</figcaption>
 </figure>
-{{< iframe width="85%" height="0" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" frameborder="0" style="border:0" >}}
+{{< iframe width="100%" height="0" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" frameborder="0" style="border:0" >}}
 <figure>
     <a href="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS">
-    <img src='/uploads/play.png' style="width: 8%;height: 8%;padding: 3px; overflow: hidden; border: none; align="left"; alt='alt'; alt='A play symbol';/>
+    <img src='/uploads/play.png' style="width: 15%;height: 15%;padding: 3px; overflow: hidden; border: none; align="left"; alt='alt'; alt='A play symbol';/>
     <figcaption>Click to play.</figcaption>
 </figure>
 <br>
 <figure>
     <a href="https://workdojos.com/administrators/start">
-    <img src='/uploads/arrow.png' style="width: 10%;height: 10%;padding: 3px; overflow: hidden;border: none; align="left"; alt='alt'; alt='An orange arrow pointing right';/>
+    <img src='/uploads/arrow.png' style="width: 20%;height: 20%;padding: 3px; overflow: hidden;border: none; align="left"; alt='alt'; alt='An orange arrow pointing right';/>
     <figcaption>Next:  Getting started.</figcaption>
     </a>
 </figure>
