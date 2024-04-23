@@ -19,8 +19,9 @@ Overall, a career as an administrator in the administration and book-keeping ind
     <figcaption>Narrated in the likeness of Rosamund Pike.</figcaption>
 </figure>
 
-{{< iframe width="100%" height="58" src="https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_ethics.wav" frameborder="0" style="border:0" >}}
-
+{{< iframe width="100%" height="56" src="https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_ethics.wav" frameborder="0" style="border:0" >}}
+{{< iframe width="100%" height="59" src="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3" frameborder="0" style="border:0" >}}
+{{< iframe width="100%" height="57" src="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3" frameborder="0" style="border:0" >}}
 
 <figure>
     <a href="https://workdojos.com/administrators/start">
