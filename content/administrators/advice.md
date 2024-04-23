@@ -3,13 +3,8 @@ title: Advice for Administrators
 description: Making open-source more accessible.
 include_footer: false
 type: page
-layout: single2
+layout: single3
 ---
-body {
-  color: black;
-}
-
-<body text="#ffffff" link="#ff0000" vlink="#ff0000" alink="#ff0000">
 
 <p>
 To start, I would recommend conducting research into the various career options available within this industry. Some possible roles you could consider include administrative assistants, office managers, and bookkeepers. Each of these positions requires different skills and qualifications, so it is important to consider which would be the best fit for you.
