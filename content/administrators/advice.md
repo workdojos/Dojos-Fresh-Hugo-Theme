@@ -21,6 +21,10 @@ Overall, a career as an administrator in the administration and book-keeping ind
 
 {{<audio src="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3" caption="your caption" >}}
 
+<figure>
+  <figcaption>Listen to the T-Rex:</figcaption>
+  <audio controls src="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3"></audio>
+</figure>
 
 <figure>
     <a href="https://workdojos.com/administrators/start">
