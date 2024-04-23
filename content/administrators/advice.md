@@ -4,7 +4,7 @@ description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single3
-iframe: "https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_ethics.wav"
+iframe: https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_ethics.wav
 ---
 
 <p>
