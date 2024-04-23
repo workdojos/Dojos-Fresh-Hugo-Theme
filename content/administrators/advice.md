@@ -18,9 +18,9 @@ Overall, a career as an administrator in the administration and book-keeping ind
     <img src='/uploads/rosamund.webp' style="width: 38%;height: 30%;padding: 3px; overflow: hidden;border: none; align="left"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
     <figcaption>Narrated in the likeness of Rosamund Pike.</figcaption>
 </figure>
-{{< iframe width="100%" height="0" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" frameborder="0" style="border:0" >}}
+{{< iframe width="100%" height="0" src="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3" frameborder="0" style="border:0" >}}
 <figure>
-    <a href="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS">
+    <a href="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3">
     <img src='/uploads/play.png' style="width: 15%;height: 15%;padding: 3px; overflow: hidden; border: none; align="left"; alt='alt'; alt='A play symbol';/>
     <figcaption>Click to play.</figcaption>
 </figure>
