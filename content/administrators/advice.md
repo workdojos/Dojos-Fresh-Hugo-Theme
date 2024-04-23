@@ -18,7 +18,7 @@ Overall, a career as an administrator in the administration and book-keeping ind
     <img src='/uploads/rosamund.webp' style="width: 20%;height: 20%;padding: 2px; overflow: hidden;border: none; align="left"; alt='alt'; alt='Rosamund Pike holding an espresso cup';/>
     <figcaption>Narrated in the likeness of Rosamund Pike.</figcaption>
 </figure>
-{{< iframe width="100%" height="60" src="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3" border-radius="25" frameborder="0" style="border:0" >}}
+{{< iframe width="100%" height="80" src="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3" border-radius="25" frameborder="0" style="border:0"; style="background-color: #ffffff;" >}}
 
 <figure>
     <a href="https://workdojos.com/administrators/start">
