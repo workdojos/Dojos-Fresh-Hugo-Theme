@@ -14,7 +14,7 @@ One key aspect to consider when pursuing a career in this industry is the job ma
 
 In terms of qualifications, it is beneficial to have a strong foundation in business administration, bookkeeping, and customer service. Consider taking courses or earning a degree in these areas to increase your chances of finding employment in this field.
 
-{{< iframe https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_ethics.wav >}}
+{{< iframe src="https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_ethics.wav" >}}
 
 Overall, a career as an administrator in the administration and book-keeping industry can be very rewarding and fulfilling. With the right skills and qualifications, you can find success and growth in this field. I hope this information has been helpful and wish you the best of luck in your career pursuits.
 <figure>
