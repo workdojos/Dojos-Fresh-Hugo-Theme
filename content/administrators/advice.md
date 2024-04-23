@@ -19,12 +19,7 @@ Overall, a career as an administrator in the administration and book-keeping ind
     <figcaption>Narrated in the likeness of Rosamund Pike.</figcaption>
 </figure>
 {{< iframe width="100%" height="60" src="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3" border-radius="25" frameborder="0" style="border:0" >}}
-<figure>
-    <a href="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3">
-    <img src='/uploads/play.png' style="width: 12%;height: 15%;padding: 3px; overflow: hidden; border: none; align="left"; alt='alt'; alt='A play symbol';/>
-    <figcaption>Click to play.</figcaption>
-</figure>
-<br>
+
 <figure>
     <a href="https://workdojos.com/administrators/start">
     <img src='/uploads/arrow.png' style="width: 15%;height: 20%;padding: 3px; overflow: hidden;border: none; align="left"; alt='alt'; alt='An orange arrow pointing right';/>
