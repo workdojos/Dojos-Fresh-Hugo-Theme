@@ -5,6 +5,11 @@ include_footer: false
 type: page
 layout: single2
 ---
+body {
+  color: black;
+}
+
+<body text="#ffffff" link="#ff0000" vlink="#ff0000" alink="#ff0000">
 
 <p>
 To start, I would recommend conducting research into the various career options available within this industry. Some possible roles you could consider include administrative assistants, office managers, and bookkeepers. Each of these positions requires different skills and qualifications, so it is important to consider which would be the best fit for you.
@@ -21,7 +26,6 @@ Overall, a career as an administrator in the administration and book-keeping ind
 
 {{< iframe width="100%" height="75" src="https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_advice.wav" border-radius="15px" >}}
 
-<audio controls><source src="https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_advice.wav" type="audio/wav"></audio>
 
 <figure>
     <a href="https://workdojos.com/administrators/start">
