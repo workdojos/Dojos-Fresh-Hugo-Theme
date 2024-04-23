@@ -30,6 +30,8 @@ Overall, a career as an administrator in the administration and book-keeping ind
   <audio controls src="https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_advice.wav"></audio>
 </figure>
 
+{{< audio src="https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_advice.wav" class="something" >}}
+
 <figure>
     <a href="https://workdojos.com/administrators/start">
     <img src='/uploads/arrow.png' style="width: 15%;height: 20%;padding: 3px; overflow: hidden;border: none; align="left"; alt='alt'; alt='An orange arrow pointing right';/>
