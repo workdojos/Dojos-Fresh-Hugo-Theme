@@ -1,2 +1,1 @@
-<!-- layouts/shortcodes/iframe.html -->
-<iframe src="{{ .Get 0 }}"></iframe>
+<iframe width="{{ .Get "width" }}" height="{{ .Get "height" }}" src="{{ .Get "src" }}" frameborder="{{ .Get "frameborder"}}" style="{{ .Get "style"}}" allowfullscreen></iframe>
