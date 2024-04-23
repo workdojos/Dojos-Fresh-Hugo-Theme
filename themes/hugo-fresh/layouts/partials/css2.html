@@ -1,6 +1,6 @@
 {{- $inServerMode := .Site.IsServer }}
-{{- $sass         := "style.sass" }}
-{{- $cssTarget    := "css/style.css" }}
+{{- $sass         := "style2.sass" }}
+{{- $cssTarget    := "css/style2.css" }}
 {{- $cssOpts      := cond ($inServerMode) (dict "targetPath" $cssTarget "enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle" "compressed") }}
 {{- $fontName     := .Site.Params.font.name | default "Open Sans" }}
 {{- $fontFace     := replace $fontName " " "+" }}
