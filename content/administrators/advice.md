@@ -19,16 +19,7 @@ Overall, a career as an administrator in the administration and book-keeping ind
     <figcaption>Narrated in the likeness of Rosamund Pike.</figcaption>
 </figure>
 
-
-{{< audio "https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_advice.wav" >}}
-
-
-{{< iframe width="100%" height="100" src="https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_advice.wav" border-radius="15px" >}}
-
-<figure>
-  <figcaption>Listen to the T-Rex:</figcaption>
-  <audio controls src="https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_advice.wav"></audio>
-</figure>
+{{< iframe width="100%" height="50" src="https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_advice.wav" border-radius="15px" >}}
 
 {{< audio src="https://letsgoguides.s3.us-west-2.amazonaws.com/agriculturist/combined.wav_advice.wav" class="something" >}}
 
