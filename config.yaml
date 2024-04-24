@@ -91,12 +91,12 @@ params:
     - title: Thespian Dojo
       url: https://dashboards.workdojos.com/#Thespian
 
+
+  - title: Pricing
+    url: https://blog.workdojos.com/#/portal/signup
   - title: Sign up
     url: https://blog.workdojos.com/#/portal/signup
     button: true
-  - title: Pricing
-    url: https://blog.workdojos.com/#/portal/signup
-
 
 
 
