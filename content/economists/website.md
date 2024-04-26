@@ -21,5 +21,4 @@ Overall, open-source technology offers a cost-effective and flexible solution fo
 
 <a href="https://workdojos.com/economists/overview">next: overview</a>
 <br>
-<br>
 </p>

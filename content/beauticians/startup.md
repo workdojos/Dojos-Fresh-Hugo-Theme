@@ -36,6 +36,5 @@ Estimated 1st Year Cost of Operation: $50,000 - $75,000
 Potential Business Challenges: Competition with other virtual beauty consultation platforms, difficulties in finding and retaining experienced beauticians, potential issues with product sourcing and fulfillment.
 
 <br>
-<br>
 <a href="https://workdojos.com/beauticians/tech">next: open-source tech</a>
 </p>

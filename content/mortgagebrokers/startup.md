@@ -72,6 +72,5 @@ Regulation and compliance issues in the mortgage industry
 Dependence on partnerships with mortgage brokers, which may not always be successful or sustainable
 
 <br>
-<br>
 <a href="https://workdojos.com/mortgagebrokers/tech">next: open-source tech</a>
 </p>

@@ -37,6 +37,5 @@ Estimated 1st Year Cost of Operation: $200,000 - $300,000
 Potential Business Challenges: Competition from other screenwriting platforms, difficulties in acquiring and retaining industry professionals to provide feedback and critiques, securing partnerships with industry organizations and contacts.
 
 <br>
-<br>
 <a href="https://workdojos.com/screenwriter/tech">next: open-source tech</a>
 </p>

@@ -37,6 +37,5 @@ Estimated 1st Year Cost of Operation: $50,000-$100,000, including coaching staff
 Potential Business Challenges: Competition in the coaching industry, difficulty in attracting and retaining clients, limited resources for marketing and growth.
 
 <br>
-<br>
 <a href="https://workdojos.com/lifecoaches/tech">next: open-source tech</a>
 </p>

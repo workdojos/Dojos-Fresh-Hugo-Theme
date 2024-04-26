@@ -24,6 +24,5 @@ Estimated 1st year cost of operation: $100,000
 Potential business challenges: Competition from other funding platforms, difficulty in securing funding deals for clients, regulatory hurdles.
 
 <br>
-<br>
 <a href="https://workdojos.com/financier/tech">next: open-source tech</a>
 </p>

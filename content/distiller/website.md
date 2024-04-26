@@ -23,5 +23,4 @@ Overall, the benefits of using open-source technology to build your own website 
 
 <a href="https://workdojos.com/distiller/overview">next: overview</a>
 <br>
-<br>
 </p>

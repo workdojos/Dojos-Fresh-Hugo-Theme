@@ -73,6 +73,5 @@ Difficulty in building partnerships with vendors and services
 Difficulty in building a user base and generating revenue in the early stages
 
 <br>
-<br>
 <a href="https://workdojos.com/eventplanners/tech">next: open-source tech</a>
 </p>

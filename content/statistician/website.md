@@ -29,5 +29,4 @@ Overall, I believe that using open-source technology to build your own website c
 
 <a href="https://workdojos.com/statistician/overview">next: overview</a>
 <br>
-<br>
 </p>

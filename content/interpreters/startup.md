@@ -70,6 +70,5 @@ Ensuring high-quality service for customers
 Maintaining and improving the technology platform as the business grows.
 
 <br>
-<br>
 <a href="https://workdojos.com/interpreters/tech">next: open-source tech</a>
 </p>

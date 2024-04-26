@@ -25,5 +25,4 @@ Overall, using open-source technology to build your website can be a cost-effect
 
 <a href="https://workdojos.com/strategists/overview">next: overview</a>
 <br>
-<br>
 </p>

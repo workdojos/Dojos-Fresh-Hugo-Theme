@@ -37,6 +37,5 @@ Estimated 1st Year Cost of Operation: $100,000-$150,000
 Potential Business Challenges: LegalLink may face competition from other legal services platforms and may need to continuously adapt to changes in the legal industry and regulations. It may also need to address concerns about the quality of attorneys available on the platform.
 
 <br>
-<br>
 <a href="https://workdojos.com/litigator/tech">next: open-source tech</a>
 </p>

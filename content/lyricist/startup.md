@@ -37,6 +37,5 @@ Estimated 1st Year Cost of Operation: $50,000 - $100,000
 Potential Business Challenges to Look For: Competition from similar services, difficulty securing partnerships and industry resources, difficulties in monetizing the service.
 
 <br>
-<br>
 <a href="https://workdojos.com/lyricist/tech">next: open-source tech</a>
 </p>

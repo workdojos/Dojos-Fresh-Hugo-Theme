@@ -37,6 +37,5 @@ Potential Business Challenges to Look For: WriteIt will need to navigate the com
 >
 SARTUP
 <br>
-<br>
 <a href="https://workdojos.com/novelist/tech">next: open-source tech</a>
 </p>

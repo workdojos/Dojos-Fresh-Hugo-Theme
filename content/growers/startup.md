@@ -74,6 +74,5 @@ Ensuring the quality and reliability of the information and resources provided
 Building trust and credibility with users in a new and emerging industry.
 
 <br>
-<br>
 <a href="https://workdojos.com/growers/tech">next: open-source tech</a>
 </p>

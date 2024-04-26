@@ -37,6 +37,5 @@ Estimated 1st Year Cost of Operation: The estimated first year cost of operation
 Potential Business Challenges to Look For: Potential business challenges for LeadGenPro may include competition from other lead generation platforms, difficulties in attracting and retaining customers, and the need to continuously innovate and improve the platform to meet changing customer needs and market conditions.
 
 <br>
-<br>
 <a href="https://workdojos.com/leadgenerator/tech">next: open-source tech</a>
 </p>

@@ -23,5 +23,4 @@ Overall, the decision to use open-source technology for building your website wi
 
 <a href="https://workdojos.com/firefighters/overview">next: overview</a>
 <br>
-<br>
 </p>

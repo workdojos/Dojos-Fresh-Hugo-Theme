@@ -24,5 +24,4 @@ Overall, the pros of using open-source technology for your website include cost-
 
 <a href="https://workdojos.com/datascientists/overview">next: overview</a>
 <br>
-<br>
 </p>

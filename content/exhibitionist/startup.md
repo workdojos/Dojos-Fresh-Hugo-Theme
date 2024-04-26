@@ -24,6 +24,5 @@ Estimated 1st Year Cost of Operation: $100,000
 Potential Business Challenges: Competition with existing event booking platforms, difficulty gaining traction and user adoption.
 
 <br>
-<br>
 <a href="https://workdojos.com/exhibitionist/tech">next: open-source tech</a>
 </p>

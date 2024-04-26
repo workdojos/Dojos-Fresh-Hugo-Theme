@@ -39,6 +39,5 @@ Estimated 1st year cost of operation: The estimated cost of operating ProjectPro
 Potential business challenges to look for: Some potential challenges that ProjectPro may face include competition from other project management tools, difficulty in acquiring and retaining customers, and the need to continually update and improve the product to meet the changing needs of users.``
 
 <br>
-<br>
 <a href="https://workdojos.com/projectmanagers/tech">next: open-source tech</a>
 </p>

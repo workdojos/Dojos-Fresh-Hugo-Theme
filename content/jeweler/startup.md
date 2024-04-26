@@ -37,6 +37,5 @@ Estimated 1st Year Cost of Operation: $50,000-$100,000
 Potential Business Challenges: LuxeJewels may face competition from established luxury jewelers and from counterfeit products. LuxeJewels will need to carefully curate its selection and authenticate all products to differentiate itself and maintain a reputation for quality. LuxeJewels will also need to effectively market itself and build a loyal customer base in a crowded and competitive market.
 
 <br>
-<br>
 <a href="https://workdojos.com/jeweler/tech">next: open-source tech</a>
 </p>

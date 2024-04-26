@@ -66,6 +66,5 @@ Difficulty in attracting and retaining expert strategists
 Difficulty in scaling the business as demand grows
 
 <br>
-<br>
 <a href="https://workdojos.com/strategists/tech">next: open-source tech</a>
 </p>

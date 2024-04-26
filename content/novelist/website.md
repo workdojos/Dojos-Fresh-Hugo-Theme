@@ -27,5 +27,4 @@ Overall, the benefits of using open-source technology to build your own website 
 
 <a href="https://workdojos.com/novelist/overview">next: overview</a>
 <br>
-<br>
 </p>

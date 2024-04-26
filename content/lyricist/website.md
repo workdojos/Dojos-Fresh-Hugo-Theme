@@ -25,5 +25,4 @@ Overall, using open-source technology to build your website can provide a highly
 
 <a href="https://workdojos.com/lyricist/overview">next: overview</a>
 <br>
-<br>
 </p>

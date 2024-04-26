@@ -28,5 +28,4 @@ Overall, using open-source technology can be a great way to build a website for 
 
 <a href="https://workdojos.com/collegeprofessor/overview">next: overview</a>
 <br>
-<br>
 </p>

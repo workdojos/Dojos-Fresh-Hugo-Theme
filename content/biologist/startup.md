@@ -35,6 +35,5 @@ Estimated 1st Year Cost of Operation: $50,000-$100,000
 Potential Business Challenges: Competition with other job search platforms, difficulty in securing partnerships with biotechnology companies and professional organizations.
 
 <br>
-<br>
 <a href="https://workdojos.com/biologist/tech">next: open-source tech</a>
 </p>

@@ -29,5 +29,4 @@ Overall, using open-source technology can be a great way to create a website for
 
 <a href="https://workdojos.com/jeweler/overview">next: overview</a>
 <br>
-<br>
 </p>

@@ -64,7 +64,6 @@ Below is our self-hosted instance of Rocket.chat.  This is part of the Work Dojo
 <iframe src="https://chat.workmates.live" style="width: 100%;height: 960px;padding: 8px; box-shadow: 0 3px 5px rgba(0,0,0,.6);border-radius: 25px;overflow: hidden;border: none;" align="middle"></iframe>
 <br>
 <br>
-<br>
 {{% subtitle5 "Self-hosting, what is it?" %}}
 
 Self-hosting for us is deploying open-source apps onto a Linux server.  It doesn't necessarily mean having a rack of servers set up in your bedroom running 24 hours a day.  You can do that, but with as cheap as you can get Virtual Private Servers (VPSs) in the cloud, it usually makes way more sense to host things off premises.  Helps with security too.
@@ -125,7 +124,6 @@ Hugo is a static site, while Wordpress is considered dynamic.  If you want peopl
 <br>
 
  <a href="https://blog.workdojos.com/getadojo">Check out our blog.</a> 
-<br>
 <br>
 
 Also included with your Dojo, some of the coolest open-source apps on the planet!  We encourage everyone to read about them, even sign up for the premium plans.  We picked them for a reason!  We use these apps ourselves and would never consider their non-open-source alternatives.  Never going back!

@@ -69,6 +69,5 @@ Challenges in monetizing the platform through advertising or subscriptions
 Managing and facilitating philosophical discussions and education on the platform.
 
 <br>
-<br>
 <a href="https://workdojos.com/philosophers/tech">next: open-source tech</a>
 </p>

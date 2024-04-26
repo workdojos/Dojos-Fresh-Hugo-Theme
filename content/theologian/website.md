@@ -25,5 +25,4 @@ Overall, the religious organizations industry has much to gain from embracing op
 
 <a href="https://workdojos.com/theologian/overview">next: overview</a>
 <br>
-<br>
 </p>

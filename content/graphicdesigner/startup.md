@@ -37,6 +37,5 @@ Estimated 1st Year Cost of Operation: $50,000-$100,000, including design project
 Potential Business Challenges: Competition from other design services platforms, difficulty in curating and onboarding top-quality designers, managing client expectations and communication during the design process.
 
 <br>
-<br>
 <a href="https://workdojos.com/graphicdesigner/tech">next: open-source tech</a>
 </p>

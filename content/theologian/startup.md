@@ -71,6 +71,5 @@ Difficulty in attracting and retaining users
 Ensuring the platform remains relevant and up-to-date with the needs of theologians and religious organizations.
 
 <br>
-<br>
 <a href="https://workdojos.com/theologian/tech">next: open-source tech</a>
 </p>

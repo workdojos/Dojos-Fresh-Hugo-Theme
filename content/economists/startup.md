@@ -24,6 +24,5 @@ Estimated 1st Year Cost of Operation: $500,000 - $1,000,000
 Potential Business Challenges: Competition from existing data science platforms, difficulties in securing financial data sources, need for ongoing development and updates to remain relevant in a rapidly advancing field.
 
 <br>
-<br>
 <a href="https://workdojos.com/economists/tech">next: open-source tech</a>
 </p>

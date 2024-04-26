@@ -36,6 +36,5 @@ Estimated 1st Year Cost of Operation: $500,000, including development, marketing
 Potential Business Challenges: Competition from other platforms or resources for cinematographers, difficulty in acquiring and retaining users, and the need to continuously update and improve the platform to meet the needs of users.
 
 <br>
-<br>
 <a href="https://workdojos.com/cinematographer/tech">next: open-source tech</a>
 </p>

@@ -37,6 +37,5 @@ Estimated 1st Year Cost of Operation: $50,000, including website design and deve
 Potential Business Challenges: Competition from other web design agencies, difficulty in differentiating services and standing out in the market, limited budget for marketing and advertising efforts.
 
 <br>
-<br>
 <a href="https://workdojos.com/webdesigners/tech">next: open-source tech</a>
 </p>

@@ -29,5 +29,4 @@ Remember, working as a physical therapist can be a rewarding and fulfilling care
 
 <a href="https://workdojos.com/physicaltherapist/overview">next: overview</a>
 <br>
-<br>
 </p>

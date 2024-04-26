@@ -36,6 +36,5 @@ Estimated 1st Year Cost of Operation: $100,000 - $200,000
 Potential Business Challenges to Look For: Competition with other content creation tool companies, difficulty building partnerships and sponsorships, difficulty monetizing content.
 
 <br>
-<br>
 <a href="https://workdojos.com/contentcreators/tech">next: open-source tech</a>
 </p>

@@ -23,5 +23,4 @@ Overall, using open-source technology can be a great way to save costs and creat
 
 <a href="https://workdojos.com/graphicdesigner/overview">next: overview</a>
 <br>
-<br>
 </p>

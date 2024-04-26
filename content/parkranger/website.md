@@ -27,5 +27,4 @@ Overall, using open-source technology to build your website offers greater flexi
 
 <a href="https://workdojos.com/parkranger/overview">next: overview</a>
 <br>
-<br>
 </p>

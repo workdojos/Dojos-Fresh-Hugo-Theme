@@ -65,6 +65,5 @@ Limited budget for marketing and sales efforts
 Limited adoption from protective services professionals who are resistant to change
 
 <br>
-<br>
 <a href="https://workdojos.com/lawenforcement/tech">next: open-source tech</a>
 </p>

@@ -23,6 +23,5 @@ Estimated 1st Year Cost of Operation: $100,000-$150,000 (including development, 
 Potential Business Challenges: Competition with other task management and organization tools, difficulty in acquiring and retaining customers, balancing the needs of different types of small business clerks.
 
 <br>
-<br>
 <a href="https://workdojos.com/clerk/tech">next: open-source tech</a>
 </p>

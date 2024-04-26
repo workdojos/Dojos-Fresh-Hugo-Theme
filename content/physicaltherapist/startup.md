@@ -37,6 +37,5 @@ Estimated 1st Year Cost of Operation: $50,000-$75,000
 Potential Business Challenges: Competition with traditional physical therapy services, difficulty in securing partnerships with health care providers and insurance companies, managing the logistics of virtual therapy sessions.
 
 <br>
-<br>
 <a href="https://workdojos.com/physicaltherapist/tech">next: open-source tech</a>
 </p>

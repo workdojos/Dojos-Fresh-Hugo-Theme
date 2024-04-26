@@ -23,5 +23,4 @@ Overall, I believe that using open-source technology to build your website can b
 
 <a href="https://workdojos.com/lifecoaches/overview">next: overview</a>
 <br>
-<br>
 </p>

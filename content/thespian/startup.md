@@ -37,6 +37,5 @@ Estimated 1st Year Cost of Operation: $50,000 - $100,000
 Potential Business Challenges: Competition from other performing arts platforms, difficulty attracting and retaining users, fluctuating demand for gigs and opportunities.
 
 <br>
-<br>
 <a href="https://workdojos.com/thespian/tech">next: open-source tech</a>
 </p>

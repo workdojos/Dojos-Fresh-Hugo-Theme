@@ -26,5 +26,4 @@ Overall, the pros and cons of using open-source technology will depend on your s
 
 <a href="https://workdojos.com/beauticians/overview">next: overview</a>
 <br>
-<br>
 </p>

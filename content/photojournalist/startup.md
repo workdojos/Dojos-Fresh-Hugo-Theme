@@ -68,6 +68,5 @@ Difficulty in acquiring and retaining users
 Challenges in monetizing the platform, particularly in the early stages
 
 <br>
-<br>
 <a href="https://workdojos.com/photojournalist/tech">next: open-source tech</a>
 </p>

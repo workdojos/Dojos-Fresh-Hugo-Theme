@@ -68,6 +68,5 @@ Challenges in securing partnerships with park agencies and conservation organiza
 Difficulty in convincing park staff to adopt and utilize the platform and advanced technology solutions.
 
 <br>
-<br>
 <a href="https://workdojos.com/parkranger/tech">next: open-source tech</a>
 </p>

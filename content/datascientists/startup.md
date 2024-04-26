@@ -66,6 +66,5 @@ Difficulty in acquiring and retaining customers.
 Keeping up with the rapid pace of change in the data science industry.
 
 <br>
-<br>
 <a href="https://workdojos.com/datascientists/tech">next: open-source tech</a>
 </p>

@@ -36,6 +36,5 @@ Estimated 1st year cost of operation: $100,000 - $200,000
 Potential business challenges to look for: Competition with existing job boards and recruitment agencies, difficulty attracting and retaining users, difficulties in monetizing the platform.
 
 <br>
-<br>
 <a href="https://workdojos.com/machinist/tech">next: open-source tech</a>
 </p>

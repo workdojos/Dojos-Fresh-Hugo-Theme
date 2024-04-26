@@ -29,5 +29,4 @@ Overall, the main pros of using open-source technology to build your website inc
 
 <a href="https://workdojos.com/webdesigners/overview">next: overview</a>
 <br>
-<br>
 </p>

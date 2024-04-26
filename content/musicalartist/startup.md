@@ -37,6 +37,5 @@ Estimated 1st Year Cost of Operation: $50,000 - $100,000
 Potential Business Challenges: Competition with established music streaming platforms, difficulty in attracting and retaining artists, obtaining sufficient traction and revenue to sustain the business.
 
 <br>
-<br>
 <a href="https://workdojos.com/musicalartist/tech">next: open-source tech</a>
 </p>

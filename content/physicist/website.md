@@ -21,5 +21,4 @@ It's important to consider the pros and cons of each option, as well as the cost
 
 <a href="https://workdojos.com/physicist/overview">next: overview</a>
 <br>
-<br>
 </p>

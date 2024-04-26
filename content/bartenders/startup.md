@@ -36,6 +36,5 @@ Estimated 1st Year Cost of Operation: $50,000 - $100,000
 Potential Business Challenges: Competition from other job-finding platforms, difficulty in onboarding and vetting professionals, securing partnerships with event planning and venue management companies.
 
 <br>
-<br>
 <a href="https://workdojos.com/bartenders/tech">next: open-source tech</a>
 </p>

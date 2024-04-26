@@ -37,6 +37,5 @@ Estimated 1st Year Cost of Operation: $100,000-$200,000
 Potential Business Challenges: Competition with existing resources and platforms, difficulty in acquiring partnerships and users, maintaining a profitable subscription model
 
 <br>
-<br>
 <a href="https://workdojos.com/physicist/tech">next: open-source tech</a>
 </p>

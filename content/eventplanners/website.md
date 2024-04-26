@@ -25,5 +25,4 @@ Overall, the pros of using open-source technology to build your own website incl
 
 <a href="https://workdojos.com/eventplanners/overview">next: overview</a>
 <br>
-<br>
 </p>

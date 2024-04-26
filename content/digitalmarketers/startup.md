@@ -72,6 +72,5 @@ Difficulty in convincing small businesses of the value of personalized coaching 
 Keeping up with constantly evolving digital marketing trends and technologies.
 
 <br>
-<br>
 <a href="https://workdojos.com/digitalmarketers/tech">next: open-source tech</a>
 </p>

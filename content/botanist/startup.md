@@ -36,6 +36,5 @@ Estimated 1st Year Cost of Operation: $50,000-$100,000
 Potential Business Challenges: Competition from other plant care platforms, difficulty in finding and retaining experienced botanists, difficulty in acquiring and retaining subscribers.
 
 <br>
-<br>
 <a href="https://workdojos.com/botanist/tech">next: open-source tech</a>
 </p>

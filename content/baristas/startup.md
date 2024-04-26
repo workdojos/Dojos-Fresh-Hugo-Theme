@@ -36,6 +36,5 @@ Estimated 1st Year Cost of Operation: $50,000
 Potential Business Challenges: Finding and retaining qualified baristas, competing with traditional coffee shops, and navigating the challenges of operating an on-demand service.
 
 <br>
-<br>
 <a href="https://workdojos.com/baristas/tech">next: open-source tech</a>
 </p>

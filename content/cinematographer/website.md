@@ -40,5 +40,4 @@ I hope this information is helpful and gives you a good understanding of the ben
 
 <a href="https://workdojos.com/cinematographer/overview">next: overview</a>
 <br>
-<br>
 </p>

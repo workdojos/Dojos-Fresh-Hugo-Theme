@@ -24,5 +24,4 @@ In conclusion, it's important to consider the pros and cons of each web builder 
 
 <a href="https://workdojos.com/agriculturist/overview">next: overview</a>
 <br>
-<br>
 </p>

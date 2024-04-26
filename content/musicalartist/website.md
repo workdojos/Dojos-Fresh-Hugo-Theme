@@ -23,5 +23,4 @@ Ultimately, the best solution for your business will depend on your specific nee
 
 <a href="https://workdojos.com/musicalartist/overview">next: overview</a>
 <br>
-<br>
 </p>

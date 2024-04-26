@@ -36,6 +36,5 @@ Estimated 1st Year Cost of Operation: $500,000-$1,000,000
 Potential Business Challenges: Competition with other remote healthcare services, difficulty convincing healthcare providers to adopt the platform, regulation and compliance issues in the healthcare industry.
 
 <br>
-<br>
 <a href="https://workdojos.com/clinician/tech">next: open-source tech</a>
 </p>

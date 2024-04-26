@@ -68,6 +68,5 @@ Difficulty in gaining adoption and usage from firefighters and the general publi
 Limited budget for marketing and advertising efforts
 
 <br>
-<br>
 <a href="https://workdojos.com/firefighters/tech">next: open-source tech</a>
 </p>

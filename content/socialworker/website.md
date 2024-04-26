@@ -25,5 +25,4 @@ It's worth considering the pros and cons of each option, as well as the potentia
 
 <a href="https://workdojos.com/socialworker/overview">next: overview</a>
 <br>
-<br>
 </p>

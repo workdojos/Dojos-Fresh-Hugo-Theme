@@ -19,5 +19,4 @@ Overall, the main pros of using open-source technology to build your own website
 
 <a href="https://workdojos.com/thespian/overview">next: overview</a>
 <br>
-<br>
 </p>

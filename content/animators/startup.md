@@ -23,6 +23,5 @@ Estimated 1st Year Cost of Operation: $50,000-$100,000 depending on team size an
 Potential Business Challenges: Competition from similar platforms, difficulty in attracting and retaining users, the constantly evolving nature of the animation industry.
 
 <br>
-<br>
 <a href="https://workdojos.com/animators/tech">next: open-source tech</a>
 </p>

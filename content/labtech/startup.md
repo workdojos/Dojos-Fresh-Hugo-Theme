@@ -24,6 +24,5 @@ Estimated 1st year cost of operation: $50,000 (includes development costs, emplo
 Potential business challenges: Competition from other job placement platforms, difficulty in convincing testing facilities to use the service.
 
 <br>
-<br>
 <a href="https://workdojos.com/labtech/tech">next: open-source tech</a>
 </p>
