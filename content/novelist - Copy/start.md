@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/novelist start.mp3" frameborder="0" style="border:0" >}}
+<p>
 Great! It sounds like you have a passion for writing and are interested in pursuing a career as a novelist in the writing and publishing industry. This is an exciting and growing field with plenty of opportunities for creative expression and professional growth. Here are some tips and resources to help you learn more about the perks and benefits of working as a novelist:
 
 Research industry publications and websites: There are plenty of online resources that can provide valuable insights into the writing and publishing industry. Some useful websites to check out include the Association of Authors' Representatives, the Authors Guild, and the Independent Book Publishers Association. These organizations offer valuable information on the latest trends, opportunities, and challenges facing writers and publishers today.

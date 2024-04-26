@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/novelist overview.mp3" frameborder="0" style="border:0" >}}
+<p>
 The writing and publishing industry is a vast and complex field, with a wide range of opportunities for those who are interested in pursuing a career in this field. According to the Bureau of Labor Statistics, employment in the publishing industry is expected to grow by about 2% between 2018 and 2028, which is slower than the average for all occupations. However, this industry is constantly evolving and adapting to new technologies, which means that there will always be new opportunities for writers and publishers to explore.
 
 One of the most exciting things about working in the writing and publishing industry is the ability to bring new ideas and stories to life. Whether you are working as a writer, editor, or publisher, you have the power to shape the way people think and feel about the world around them. You can create powerful narratives that inspire people to think differently, or you can use your skills to bring attention to important issues and ideas that might otherwise go overlooked.

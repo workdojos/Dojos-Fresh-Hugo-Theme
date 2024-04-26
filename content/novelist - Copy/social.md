@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/novelist social.mp3" frameborder="0" style="border:0" >}}
+<p>
 First of all, congratulations on your new business as a novelist! As a social media influencer, I would suggest creating a cohesive campaign across all platforms to promote your new business and engage with your followers.
 
 On Instagram, I would suggest posting visually appealing photos of your writing process, behind-the-scenes glimpses into your life as a novelist, and sneak peeks of your upcoming book. You can also utilize Instagram's IGTV feature to create more in-depth videos about your writing journey, or host a Q&A session with your followers. Don't forget to utilize relevant hashtags and engage with other writers and publishing industry professionals to increase your reach and visibility.

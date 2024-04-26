@@ -8,7 +8,7 @@ layout: single2
 ---
 
 <br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/novelist website.mp3" frameborder="0" style="border:0" >}}
+<p>
 As a web design consultant, I would recommend using open-source technology to build your own website for several reasons. First and foremost, open-source technology allows for greater flexibility and customization of your website, as you have access to the source code and can make changes or add features as needed. This is especially useful for businesses in the writing and publishing industry, as you may need to regularly update your website with new content or make changes to the layout to better showcase your work.
 
 Additionally, using open-source technology can help to save you money in the long run, as many open-source web builders and static-site generators are free to use. This can be especially beneficial for small businesses or startups who may be working with limited budgets.

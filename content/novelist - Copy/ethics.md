@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/ethics novelist.mp3" frameborder="0" style="border:0" >}}
+<p>
 As a philosopher, I would approach this question by examining the various ethical theories that have been proposed throughout the history of philosophy. Some of the main ethical theories that could be relevant in this context include:
 
 Utilitarianism: This theory suggests that we should act in a way that maximizes overall happiness or pleasure. In the context of a career as a novelist, this could mean focusing on writing and publishing stories that bring joy or fulfillment to readers.

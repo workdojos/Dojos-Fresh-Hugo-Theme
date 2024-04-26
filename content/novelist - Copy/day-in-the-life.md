@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/day novelist.mp3" frameborder="0" style="border:0" >}}
+<p>
 Once upon a time, in a world full of stories and ideas, there lived a novelist named Sarah. Sarah spent her days locked away in her writing studio, pouring her heart and soul into every word she typed.
 
 As the sun rose each morning, Sarah would sit down at her desk and begin to craft her latest tale. She would often lose track of time, completely consumed by the characters and plotlines running through her mind.

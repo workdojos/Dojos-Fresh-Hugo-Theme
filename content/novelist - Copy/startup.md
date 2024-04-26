@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/novelist startup.mp3" frameborder="0" style="border:0" >}}
+<pIdea Name: WriteIt
 
 Short One Liner: "Empowering writers to publish and promote their work digitally"
 

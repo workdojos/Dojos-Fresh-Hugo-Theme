@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/novelist branding.mp3" frameborder="0" style="border:0" >}}
+<p>
 First, I would suggest creating a content calendar for the organization's social media accounts. This would involve planning out the type of content to be posted on each platform, as well as the frequency of posts. For example, Twitter could be used for more frequent updates, while Instagram and Pinterest could be used for more visual content such as book covers and quotes from published works.
 
 Next, I would recommend engaging with the audience by responding to questions and comments in a timely manner. This could include asking for feedback on new book releases, hosting Q&A sessions with authors, or sharing writing prompts to encourage engagement.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/challenges novelist.mp3" frameborder="0" style="border:0" >}}
+<p>
 The writing and publishing industry has always been a controversial one, with issues ranging from plagiarism and copyright infringement to the treatment of authors and the struggle to get published. These controversies have only been exacerbated in recent years, with the rise of self-publishing and the increasing importance of social media in the industry. However, despite these challenges, it is important that we make it easier for novelists to find work and strive to improve the industry as a whole.
 
 One of the main controversies facing the writing and publishing industry is the issue of plagiarism and copyright infringement. With the ease of access to information on the internet, it has become easier for writers to copy and paste content from other sources without proper attribution. This not only undermines the work of other writers, but also undermines the integrity of the industry as a whole. In order to address this issue, it is important for writers to properly cite their sources and for publishers to have strict policies in place to prevent plagiarism.

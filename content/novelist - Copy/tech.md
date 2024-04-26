@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/novelist tech.mp3" frameborder="0" style="border:0" >}}
+<p>
 As someone who has worked in the writing and publishing industry for many years, I have seen firsthand the challenges that authors face when trying to navigate the complex world of publishing. One of the biggest hurdles for many writers is the cost of proprietary software and tools, which can be out of reach for many independent authors.
 
 This is where open-source technology can play a vital role in helping writers and small businesses thrive. By providing access to free and open-source software and tools, independent authors can save money on costly software licenses and focus on what they do best: writing.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/novelist learning.mp3" frameborder="0" style="border:0" >}}
+<p>
 Curriculum:
 
 Creative writing courses

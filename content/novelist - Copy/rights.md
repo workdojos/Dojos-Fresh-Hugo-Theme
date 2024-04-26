@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/novelist rights.mp3" frameborder="0" style="border:0" >}}
+<p>
 Sure, I can certainly do that. Before I begin, I just want to clarify that my role as a language model is to provide information and assistance, but I am not a real person and do not have personal opinions or biases. I will do my best to present a balanced and fair analysis of the topic you have requested.
 
 The writing and publishing industry has seen many changes and challenges in recent years, including the rise of digital media and the impact of the COVID-19 pandemic. These trends have had a significant impact on the working conditions and wages of novelists, as well as on the overall state of the industry.
