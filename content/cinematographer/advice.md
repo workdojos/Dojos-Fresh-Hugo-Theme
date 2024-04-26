@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/cinematographer/cinematographer.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, I would advise this individual to consider the following:
 
 Skills: Cinematographers need to have excellent technical skills in camera operation and lighting, as well as an artistic eye for composition and visual storytelling. They should also have good communication skills, as they work closely with directors and other members of the film crew.

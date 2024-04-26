@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner.mp3" frameborder="0" style="border:0" >}}<br>
 As a graphic designer working in the graphic design and graphic arts industry, I have seen firsthand the challenges and injustices faced by my colleagues and myself. The industry has long been plagued by low wages, long hours, and a lack of benefits and protections for workers.
 
 One of the most pressing issues facing graphic designers is the issue of fair pay. It is not uncommon for designers to be paid far below their worth, with many working for rates that do not even meet the minimum wage. This is especially true for freelancers, who often struggle to negotiate fair rates and are frequently taken advantage of by clients.

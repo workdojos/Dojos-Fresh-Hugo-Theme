@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker.mp3" frameborder="0" style="border:0" >}}<br>
 As a social media manager, I would first start by conducting a thorough analysis of the current social media presence of the financial services organization on Twitter, Instagram, and Pinterest. This would involve analyzing the current number of followers, engagement rates, and overall performance of each platform.
 
 Next, I would create a social media strategy that aligns with the overall goals of the organization, including increasing brand awareness, recruiting followers, driving traffic to the website, and creating opportunities for collaboration. This strategy would include a mix of content types, such as educational and informative posts about financial services, engaging graphics and videos, and industry news and updates.

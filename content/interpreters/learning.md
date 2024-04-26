@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters.mp3" frameborder="0" style="border:0" >}}<br>
 Curriculum:
 
 Proficiency in at least two languages, with a focus on oral and written translation skills

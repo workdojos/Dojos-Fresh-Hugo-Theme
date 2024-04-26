@@ -7,7 +7,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist rights.mp3" frameborder="0" style="border:0" >}}<br>
 As an agriculturist working in the agriculture industry, it is imperative that we advocate for fair work practices and the protection of worker's rights. In recent years, there have been numerous instances of exploitation and mistreatment of agricultural workers, ranging from low wages and lack of benefits to unsafe working conditions and discrimination.
 
 One of the most pressing issues facing agricultural workers today is the lack of fair wages. Many workers in the agriculture industry are paid far below the minimum wage and are not given access to the same benefits as other workers, such as overtime pay or paid time off. This not only creates financial struggles for these workers, but also hinders their ability to provide for their families and meet their basic needs.

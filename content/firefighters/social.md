@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters.mp3" frameborder="0" style="border:0" >}}<br>
 Sure! Here are some ideas for an engaging campaign on Instagram, Twitter, Youtube, and Pinterest to promote your new business as a firefighter working in the public services industry:
 
 Instagram: Create a series of Instagram posts showcasing your work as a firefighter and the importance of public services in the community. Share behind-the-scenes photos and videos of you and your team on the job, and use relevant hashtags to reach a wider audience.

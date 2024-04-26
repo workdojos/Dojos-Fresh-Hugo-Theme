@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, in a beautiful national park located in the heart of the mountains, there lived a dedicated park ranger named John. John loved nothing more than spending his days surrounded by the stunning natural beauty of the park and working to protect and preserve it for future generations.
 
 Every day, John would wake up before the sun rose and begin his routine of checking on the animals that called the park home. He would make sure that they were all healthy and well-fed, and he would monitor their behavior to ensure that they were not in any danger.

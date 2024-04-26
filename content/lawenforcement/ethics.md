@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would first consider the foundations of ethical thought and how they relate to the role of a police officer. This could involve looking at ethical theories such as deontology, which emphasizes a moral duty to follow rules and principles, or consequentialism, which focuses on the outcomes of actions.
 
 I would also examine the role of a police officer in the protective services industry and the ethical responsibilities that come with it. This could include considerations of justice, fairness, and the rights and well-being of individuals and communities.

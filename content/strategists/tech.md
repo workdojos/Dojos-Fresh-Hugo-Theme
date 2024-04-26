@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists.mp3" frameborder="0" style="border:0" >}}<br>
 The consulting industry has long been a vital part of the business world, providing valuable insight and guidance to companies looking to improve their operations and strategy. In recent years, however, the industry has faced increased scrutiny and criticism for its often high costs and lack of transparency.
 
 One potential solution to these issues is the adoption of open-source technology in the consulting industry. Open-source technology is software that is freely available for use and modification, and it has the potential to greatly benefit the consulting industry by providing a more cost-effective and transparent solution for clients.

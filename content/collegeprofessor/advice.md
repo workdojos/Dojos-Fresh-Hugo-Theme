@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor.mp3" frameborder="0" style="border:0" >}}<br>
 Certainly! A career as a college professor in the higher education industry can be very rewarding and fulfilling for individuals who enjoy teaching and researching.
 
 To be a college professor, it is generally necessary to have a Ph.D. in a specific subject area. However, some universities may hire professors who have a Master's degree and significant work experience in their field. Depending on the subject area and the level of the position, professors may also be required to have a certain amount of professional experience or research published in academic journals.

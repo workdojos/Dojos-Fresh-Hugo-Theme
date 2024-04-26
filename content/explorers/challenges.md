@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers.mp3" frameborder="0" style="border:0" >}}<br>
 The outdoor industry is facing a number of controversies and challenges that need to be addressed in order to ensure the success and sustainability of the industry. One of the biggest controversies facing the outdoor industry is the lack of diversity and representation within the field. Many people who work in the outdoor industry are white and male, which leads to a lack of representation for people of color and women. This lack of diversity can lead to a number of problems, including a lack of understanding and sensitivity to different cultures and experiences, and a lack of diversity in the ideas and perspectives that are brought to the table.
 
 In addition to the lack of diversity within the outdoor industry, there are also challenges facing explorers when it comes to finding work and being paid fairly. Many explorers struggle to find work that allows them to pursue their passions and make a living, which can lead to a lack of enthusiasm and motivation within the industry. This is a problem that needs to be addressed in order to ensure that explorers are able to pursue their passions and make a living doing what they love.

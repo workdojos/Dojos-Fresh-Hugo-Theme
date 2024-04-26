@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech.mp3" frameborder="0" style="border:0" >}}<br>
 As someone who has worked in the laboratory testing industry for several years, I have seen firsthand the importance of open-source technology in improving efficiency and accuracy. In a field where precision is key, the ability to access and modify software to meet specific needs is crucial.
 
 One of the main challenges in the laboratory testing industry is the need to constantly keep up with new technology and techniques. Open-source technology allows lab techs to not only stay up-to-date, but also contribute to the development of these technologies. This not only benefits the techs themselves, but also the industry as a whole, as it allows for a more collaborative and innovative approach to solving problems.

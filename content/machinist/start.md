@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist.mp3" frameborder="0" style="border:0" >}}<br>
 Great! It sounds like you have a clear goal in mind and are interested in learning more about the machining industry and the potential benefits of a career as a machinist. Here are some strategies that can help you achieve your goal:
 
 Research the machining industry: Start by doing some online research about the machining industry and the role of a machinist. Look for websites and resources that provide information about the industry, including its history, current trends, and future growth potential. This will give you a better understanding of the field and help you see the potential for a long-term career.

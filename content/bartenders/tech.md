@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders tech.mp3" frameborder="0" style="border:0" >}}<br>
 As someone who has worked in the bartending and hospitality industry for a number of years, I can attest to the importance of open-source technology in serving this industry. In a world where technology is constantly evolving, it is crucial for businesses in the hospitality industry to adapt and utilize tools that can streamline processes and improve efficiency.
 
 One area where open-source technology can make a significant impact is in the realm of point-of-sale systems. These systems allow bartenders and other hospitality workers to quickly and accurately take orders, process payments, and track inventory. By using open-source systems, businesses can avoid the high costs associated with proprietary systems and have the flexibility to customize the technology to fit their specific needs.

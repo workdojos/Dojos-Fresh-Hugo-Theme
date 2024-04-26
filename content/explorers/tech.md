@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, it is my job to help you determine what careers are most suited to your skills, interests, and experience. Based on your desire to pursue a potential career as an explorer working in the outdoor industry, it is clear that you have a strong interest in the natural world and are comfortable working in a variety of outdoor environments.
 
 To determine the best career path for you in the outdoor industry, it is important to consider your skills and experience. Do you have strong problem-solving skills and the ability to work independently? Do you have experience working in the outdoors, such as through internships or volunteering opportunities? These skills and experiences can be valuable when pursuing a career as an explorer in the outdoor industry.

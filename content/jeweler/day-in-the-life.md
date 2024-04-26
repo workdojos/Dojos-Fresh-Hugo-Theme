@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, in the bustling city of Paris, there was a small jewelry shop run by a man named Jean-Baptiste. Jean-Baptiste was a skilled craftsman, renowned for his ability to create stunning pieces of jewelry using the finest materials and techniques.
 
 Every day, Jean-Baptiste would rise early and head to his workshop, where he would spend hours carefully cutting and polishing diamonds and other precious stones. His hands were always steady, and his attention to detail was second to none.

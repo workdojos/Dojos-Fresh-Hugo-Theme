@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators.mp3" frameborder="0" style="border:0" >}}<br>
 Great! It sounds like you are interested in learning more about a career as a content creator in the content creation industry. First, let me tell you that this is an exciting and growing industry with lots of upside potential. There are many perks and benefits to working as a content creator, including the opportunity to work with a variety of clients and projects, the ability to express your creativity and share your ideas with a larger audience, and the potential to earn a good income from your work.
 
 Here are a few little-known facts about working as a content creator:

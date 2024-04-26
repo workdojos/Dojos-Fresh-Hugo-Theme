@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist.mp3" frameborder="0" style="border:0" >}}<br>
 The art and special events industry is a vibrant and diverse field that offers a wide range of opportunities for those interested in working in the arts. According to the National Endowment for the Arts, the arts and cultural production industry contributed over $853 billion to the U.S. economy in 2016, making it a significant contributor to the national economy.
 
 One of the key ways to find opportunities to work in the art and special events industry is to network with those already working in the field. This can be done through joining professional organizations or attending industry events, such as conferences or trade shows. It is also important to build a strong online presence, as many jobs in the industry are advertised through social media or online job boards.

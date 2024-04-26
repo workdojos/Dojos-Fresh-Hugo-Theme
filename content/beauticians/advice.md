@@ -7,7 +7,7 @@ layout: single2
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians advice.mp3" frameborder="0" style="border:0" >}}<br>
 First of all, it's great that you have a clear idea of what you want to do in your career. The health and wellness industry is a growing field, with a strong demand for skilled professionals in the beauty and wellness sector.
 
 To determine if a career as a beautician is right for you, it's important to consider your skills, interests, and experience. Do you have a passion for beauty and wellness, and are you skilled in areas such as hair styling, makeup, or skincare? Do you enjoy working with people, and are you comfortable performing treatments on clients? These are all important qualities to have in this field.

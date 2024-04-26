@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner.mp3" frameborder="0" style="border:0" >}}<br>
 The word "graphic" comes from the Greek word "graphein," which means "to write or draw." The word "design" comes from the Latin word "designare," which means "to mark out." The word "arts" comes from the Latin word "ars," which means "skill or craft."
 
 The concept of graphic design can be traced back to ancient civilizations, where art was often used for communication and documentation purposes. In ancient Egypt, for example, hieroglyphics were used to record information and convey messages. In ancient Greece, graphic design was used for signage, coin design, and architectural decoration.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist.mp3" frameborder="0" style="border:0" >}}<br>
 The music industry is constantly evolving, with new technologies and platforms emerging all the time. While these innovations can bring exciting new opportunities for musicians and lyricists, they can also be intimidating and overwhelming. That's where open-source technology comes in.
 
 Open-source technology allows musicians to access a wide range of tools and resources that they can use to create, share, and promote their music. This can be especially beneficial for independent artists who may not have the resources or connections to take advantage of more traditional channels.

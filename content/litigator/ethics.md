@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would approach this question by first considering the ethical principles that are fundamental to the legal profession. These principles include the pursuit of justice, the protection of individual rights, and the fair and impartial application of the law.
 
 Next, I would consider the specific ethical challenges that may arise in the context of a career as a litigator. For example, lawyers have a duty to represent their clients zealously, but they must also adhere to ethical rules that prohibit them from making false or misleading statements to the court. They must also avoid conflicts of interest and maintain the confidentiality of client information.

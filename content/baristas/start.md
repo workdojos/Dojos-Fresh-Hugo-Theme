@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas start.mp3" frameborder="0" style="border:0" >}}<br>
 First of all, it's important to recognize that working as a barista in the coffee and hospitality industry can be a highly rewarding and fulfilling career. Not only do you get to work with and serve delicious coffee and other beverages, but you also have the opportunity to connect with people and create a positive customer experience.
 
 One of the great perks of working as a barista is the opportunity to learn about and try different types of coffee and other beverages. This can be a fun and exciting way to expand your knowledge and taste buds. In addition, many coffee shops and restaurants offer employee training and development programs to help you continue learning and growing in your career.

@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/cinematographer/cinematographer.mp3" frameborder="0" style="border:0" >}}<br>
 Sure! Here are some ideas for an engaging social media campaign to promote your new business as a cinematographer in the cinema industry:
 
 Instagram: Create a series of visually stunning posts showcasing your work as a cinematographer, including behind-the-scenes photos and videos from your shoots. Use relevant hashtags to reach a wider audience, and engage with followers by asking them to share their favorite films or TV shows shot by a cinematographer.

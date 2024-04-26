@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator.mp3" frameborder="0" style="border:0" >}}<br>
 The legal industry is a vast and complex field that encompasses a wide range of roles, responsibilities, and opportunities. From lawyers and paralegals to legal assistants and court clerks, there are many different paths one can take within this industry.
 
 According to the Bureau of Labor Statistics, employment of lawyers is projected to grow 6% from 2019 to 2029, faster than the average for all occupations. The demand for legal services is expected to increase as individuals, businesses, and governments continue to seek legal counsel and representation in a variety of areas such as criminal and civil law, contract negotiations, and regulatory compliance.

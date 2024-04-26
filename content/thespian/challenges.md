@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian.mp3" frameborder="0" style="border:0" >}}<br>
 The performing arts industry is a field that has long been a source of entertainment and inspiration for people around the world. However, it is also an industry that has faced numerous controversies and challenges over the years. One of the most pressing issues facing the industry is the lack of opportunities for thespians, or actors and actresses, to find work. This problem is compounded by the fact that many thespians are struggling to make ends meet due to low pay and precarious working conditions.
 
 In order to address these challenges and ensure that the performing arts industry continues to thrive, it is necessary to make it easier for thespians to find work and improve the overall working conditions in the industry. This can be achieved through a variety of measures, such as increasing funding for the arts, promoting diversity and inclusion in casting, and supporting the development of new talent.

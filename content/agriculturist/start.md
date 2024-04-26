@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist start.mp3" frameborder="0" style="border:0" >}}<br>
 First of all, congratulations on your desire to create a startup in the agriculture industry! This is a rewarding and important field that plays a vital role in our society.
 
 To help you achieve your goal of creating a startup as a agriculturist, here are some strategies and resources that may be helpful:

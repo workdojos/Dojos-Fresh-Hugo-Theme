@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators tech.mp3" frameborder="0" style="border:0" >}}<br>
 The animation industry is a rapidly growing and evolving field, with new technologies and techniques constantly emerging. While this can be exciting for animators and those working in the industry, it can also be overwhelming and intimidating. One way that animators and small businesses in the industry can thrive is by embracing open-source technology.
 
 Open-source technology is software that is freely available for anyone to use, modify, and distribute. This means that animators and small businesses in the industry can access powerful tools and resources without having to pay exorbitant fees or navigate complicated licensing agreements. This level of accessibility allows animators to experiment and innovate, and it also allows small businesses to stay competitive in an increasingly crowded market.

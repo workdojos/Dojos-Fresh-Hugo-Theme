@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers.mp3" frameborder="0" style="border:0" >}}<br>
 As someone who has worked in the marketing industry for several years, I can confidently say that open-source technology has played a major role in my success. In an industry that is constantly evolving and adapting to new trends, open-source technology allows marketers to access a wide range of tools and resources that can help them stay ahead of the game.
 
 One of the biggest advantages of open-source technology is that it is often free or significantly cheaper than proprietary options. This is especially important for small businesses, who may not have the budget to invest in expensive marketing tools. By using open-source technology, small businesses can access the same resources as larger corporations, giving them the opportunity to compete on a level playing field.

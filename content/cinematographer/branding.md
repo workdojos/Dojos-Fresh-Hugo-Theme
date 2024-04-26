@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/cinematographer/cinematographer.mp3" frameborder="0" style="border:0" >}}<br>
 First, I would recommend creating a content calendar for the cinema organization's social media platforms. This will help to ensure that there is a consistent flow of content being posted and that all platforms are being updated regularly.
 
 Next, I would suggest utilizing hashtags related to the cinema industry and the organization's specific brand in order to increase visibility and reach a larger audience. This can be done through the use of Twitter chats, Instagram challenges, and Pinterest boards.

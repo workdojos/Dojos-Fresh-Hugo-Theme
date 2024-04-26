@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian.mp3" frameborder="0" style="border:0" >}}<br>
 The religious organizations industry has faced a number of controversies in recent years, including allegations of sexual abuse, financial mismanagement, and discrimination. These issues have caused many theologians to question their involvement in the industry and have made it difficult for them to find work.
 
 However, the importance of theologians in society cannot be understated. They provide guidance and support to people of all faiths, and play a vital role in promoting understanding and tolerance between different religious groups.

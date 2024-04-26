@@ -8,7 +8,7 @@ layout: single2
 ---
 
 <br>
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian.mp3" frameborder="0" style="border:0" >}}<br>
 The religious organizations industry is a unique and important sector of society that has the ability to bring people together and provide spiritual guidance and support. However, it is also an industry that is often behind the times when it comes to technology and innovation.
 
 One area where religious organizations can greatly benefit from embracing open-source technology is in their communication and outreach efforts. Many churches, temples, and other places of worship still rely on outdated methods such as paper bulletins and newsletters to get their message out to their congregations. By utilizing open-source software and platforms, religious organizations can more easily connect with their members and reach a wider audience through social media, email newsletters, and other online channels.

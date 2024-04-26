@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, in the bustling world of finance, there was a young financier named Jack who worked for a startup company. Every day, Jack would rise early and pour over financial reports, analyzing market trends and seeking out new opportunities for investment.
 
 But Jack was not just any ordinary financier. He had a natural talent for spotting potential in young companies and helping them to grow and thrive. Many startup owners sought his expertise, and Jack was happy to share his knowledge with anyone who asked.

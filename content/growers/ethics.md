@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, one of the first things that comes to mind when considering an ethical framework for starting a career in the cannabis industry is the issue of legality. It is important to consider whether or not cannabis is legal in the jurisdiction in which you will be operating, as this can have significant implications for your ethical obligations.
 
 One possibility for developing an ethical framework in this context is to consider the principles of social justice and fairness. In particular, it might be worth considering whether or not the cannabis industry is contributing to the overall well-being and prosperity of society, or whether it is exacerbating existing inequalities or contributing to harm.

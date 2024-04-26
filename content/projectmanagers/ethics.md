@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, one approach to developing an ethical framework for starting a career as a project manager in the broader business industry would be to consider the ethical theories of deontology and consequentialism.
 
 Deontology, as proposed by philosopher Immanuel Kant, holds that the morality of an action should be determined by whether it follows a moral rule or duty. In the context of a project manager, this could involve following professional codes of conduct and ensuring that all team members are treated fairly and with respect.

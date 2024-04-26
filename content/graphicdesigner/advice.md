@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, it is my role to help guide individuals in finding a career that aligns with their skills, interests, and experience. Based on your desire to pursue a career as a graphic designer in the graphic design and graphic arts industry, it appears that you have an interest in creative and visual problem solving.
 
 To be successful in this field, it is important to have strong skills in visual communication, typography, layout design, and digital media. It is also important to have a strong understanding of industry-specific software such as Adobe Creative Suite.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would approach this task by first considering the ethical theories that are most relevant to the music industry. Some possible options might include Kantian ethics, which emphasizes the importance of respecting the autonomy and dignity of others, or Utilitarianism, which focuses on maximizing overall happiness or utility.
 
 Next, I would consider the specific ethical issues that might arise for a lyricist in the music industry. For example, how should a lyricist balance the desire to express their own creative vision with the need to respect the rights and feelings of others? How should a lyricist approach issues of intellectual property, such as sampling or borrowing from other artists' work? How should a lyricist navigate issues of representation and diversity in their work, and ensure that they are not perpetuating harmful stereotypes or discrimination?

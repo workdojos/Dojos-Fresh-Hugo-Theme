@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist.mp3" frameborder="0" style="border:0" >}}<br>
 Sure, I'd be happy to help you create an engaging campaign to promote your new business as a machinist! Here are some ideas for content that you could create for Instagram, Twitter, YouTube, and Pinterest:
 
 Instagram:

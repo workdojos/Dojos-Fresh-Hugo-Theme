@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, I would recommend conducting a thorough assessment of the individual's skills, interests, and experience in order to determine if a career as a machinist is a good fit. Some key factors to consider would include the individual's level of technical aptitude, mechanical skills, and attention to detail. It would also be important to consider the individual's interests in working with machinery and their ability to work independently or as part of a team.
 
 In terms of research, I would recommend exploring the job market trends in the machining industry, including the demand for machinists, the types of companies that typically hire machinists, and the job duties and responsibilities associated with this career. I would also recommend researching the qualifications and training necessary to become a machinist, including any necessary certifications or degrees.

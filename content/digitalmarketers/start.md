@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers.mp3" frameborder="0" style="border:0" >}}<br>
 First of all, let me tell you that working as a digital marketer in the marketing industry is a fantastic career choice with endless opportunities for growth and success. The digital marketing industry is constantly evolving and there is always something new to learn and explore.
 
 Here are some little-known facts about working as a digital marketer in the marketing industry:

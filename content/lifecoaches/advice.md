@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches.mp3" frameborder="0" style="border:0" >}}<br>
 Thank you for reaching out to me for career counseling. Pursuing a career as a life coach can be a rewarding and fulfilling experience, as you have the opportunity to help individuals achieve their goals and improve their overall well-being.
 
 First, let's discuss your skills, interests and experience. It is important for a life coach to have strong communication and interpersonal skills, as well as the ability to listen actively and provide support and encouragement to clients. Do you feel that you possess these skills? Additionally, a passion for helping others and an interest in personal development and self-improvement is important for success in this field. Do you have experience in these areas?

@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist branding.mp3" frameborder="0" style="border:0" >}}<br>
 Sure, as the social media manager for the agriculture organization, here are some suggestions on how to increase brand awareness, recruit followers, drive traffic to the website, and create opportunities for collaboration:
 
 Develop a content calendar that includes a mix of informative and engaging content about the organization's products, services, and the agriculture industry as a whole.

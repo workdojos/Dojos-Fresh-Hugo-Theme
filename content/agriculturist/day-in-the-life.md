@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist day.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, in a small village nestled in the rolling hills of the countryside, there lived a man named John. John was an agriculturist, and he spent his days tending to his crops and livestock.
 
 John loved his work. He loved the feel of the sun on his face as he worked in the fields, and he loved the sense of accomplishment he felt when he saw the fruits of his labor come to fruition.

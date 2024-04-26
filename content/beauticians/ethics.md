@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would approach this task by first examining the ethical principles that are relevant to the health and wellness industry. These might include principles such as autonomy, beneficence, non-maleficence, and justice.
 
 Next, I would consider the specific ethical challenges that a beautician working in this field might face. For example, they might be faced with the challenge of balancing the desires of their clients with their own professional judgment and expertise. They might also need to consider issues of privacy and confidentiality, as well as ethical considerations related to marketing and advertising their services.

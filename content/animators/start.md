@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators start.mp3" frameborder="0" style="border:0" >}}<br>
 First and foremost, congratulations on wanting to take the leap into the world of entrepreneurship as an animator! The animation industry is a dynamic and creative field, and as an animator, you have the opportunity to bring your unique vision and artistic talents to life through your work.
 
 To help you get started on your journey as a startup animator, here are a few strategies you can use to achieve your goals:

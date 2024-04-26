@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians challenges.mp3" frameborder="0" style="border:0" >}}<br>
 Introduction:
 
 The health and wellness industry has faced numerous controversies in recent years, ranging from questionable product claims to unethical business practices. This has not only impacted the industry as a whole, but also the individual professionals who work in it, such as beauticians. In this essay, we will explore some of the challenges beauticians face, including difficulty finding work and low pay, and discuss why it is important to address these issues in order to improve the overall health and wellness industry.

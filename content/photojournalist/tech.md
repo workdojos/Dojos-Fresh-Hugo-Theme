@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist.mp3" frameborder="0" style="border:0" >}}<br>
 As a journalist, I have witnessed firsthand the challenges facing the journalism industry. The rise of fake news, the proliferation of online content, and the decline of traditional media outlets have all contributed to a difficult landscape for those in the profession.
 
 One solution that has garnered attention in recent years is the use of open-source technology in journalism. Open-source software, which is freely available and can be modified by anyone, has the potential to revolutionize the way we consume and produce news. It allows journalists to access tools and resources that are often out of reach for smaller newsrooms, and it promotes collaboration and transparency within the industry.

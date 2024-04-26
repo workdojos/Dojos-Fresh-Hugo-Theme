@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator.mp3" frameborder="0" style="border:0" >}}<br>
 The legal industry is facing a number of controversies and challenges that impact both lawyers and the justice system as a whole. One of the biggest issues is the lack of access to legal representation for those who cannot afford it, leading to a system that is stacked in favor of the wealthy. This is a problem that needs to be addressed in order to create a more equitable and fair justice system.
 
 Another challenge facing the legal industry is the difficulty that many lawyers face in finding work. Despite the demand for legal services, there is often a lack of job openings and competition for positions is fierce. This can lead to frustration and burnout for those who are trying to enter the profession.

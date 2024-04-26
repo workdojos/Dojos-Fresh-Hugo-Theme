@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would begin by exploring the concept of ethics and what it means to act ethically. This could involve looking at various ethical theories, such as deontology, which emphasizes the importance of following moral rules and duties, or consequentialism, which emphasizes the consequences of actions.
 
 Next, I would consider the specific context in which the career as a barista is taking place. This would include looking at the values and goals of the company, as well as the expectations and responsibilities of the role.

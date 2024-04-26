@@ -7,7 +7,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators rights.mp3" frameborder="0" style="border:0" >}}<br>
 As an animator working in the animation industry, I have seen firsthand the struggles that many of my colleagues face when it comes to fair work practices and proper wages. The animation industry is one that is constantly evolving and growing, but unfortunately, the treatment of animators has not always kept pace with these changes.
 
 One of the most significant issues facing animators today is the prevalence of unpaid or underpaid internships. Many animators are asked to work for free or for a minimal stipend in order to gain experience and build their portfolios. This is especially common for those who are just starting out in their careers and are trying to break into the industry. While internships can be a valuable learning experience, they should not be used as a way for companies to exploit the labor of animators without paying them a fair wage.

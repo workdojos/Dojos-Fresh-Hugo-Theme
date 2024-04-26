@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist.mp3" frameborder="0" style="border:0" >}}<br>
 As an exhibitionist, it is important to have a strong background in marketing and event planning. Some key skills to include in your curriculum might be:
 
 Experience organizing and managing events or exhibitions

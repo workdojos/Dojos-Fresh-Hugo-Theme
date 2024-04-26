@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters.mp3" frameborder="0" style="border:0" >}}<br>
 There have been a number of recent trends and events related to the industry that have highlighted the need for fair work practices, including:
 
 Increasing workload and stress: Firefighters often work long hours, including overnight shifts and holidays, and they often face high levels of stress due to the demanding nature of their work. This can lead to burnout and other negative consequences, making it important to ensure that they are provided with fair work practices that support their well-being.

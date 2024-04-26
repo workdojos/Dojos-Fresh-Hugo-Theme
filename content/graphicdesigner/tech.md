@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner.mp3" frameborder="0" style="border:0" >}}<br>
 As a graphic designer, I have seen firsthand the power of open-source technology in the graphic design and graphic arts industry. In an industry that is constantly evolving and adapting to new technologies, the ability to access and utilize free and open-source tools is essential for staying competitive.
 
 One of the main benefits of open-source technology is its cost-effectiveness. As a graphic designer, I know how expensive it can be to purchase software licenses and subscriptions for the tools that I use on a daily basis. With open-source options, I am able to access high-quality software without breaking the bank, which allows me to focus on creating great work rather than worrying about my budget.

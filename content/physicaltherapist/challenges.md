@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist.mp3" frameborder="0" style="border:0" >}}<br>
 Physical therapy is a vital aspect of healthcare that helps individuals recover from injuries and disabilities. However, the physical therapy industry is facing several controversies and challenges that impact the ability of physical therapists to find work and provide quality care to their clients.
 
 One major controversy facing the physical therapy industry is the issue of healthcare reimbursement. Physical therapists often struggle to get adequate reimbursement from insurance companies, which can lead to financial difficulties and even bankruptcy for some practitioners. This issue needs to be addressed to make it easier for physical therapists to find work and provide high-quality care to their clients.

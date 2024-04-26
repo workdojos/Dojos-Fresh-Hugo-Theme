@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech.mp3" frameborder="0" style="border:0" >}}<br>
 Sure thing! First of all, let's start by acknowledging that pursuing a career as a lab tech in the laboratory testing industry is a fantastic choice. Not only is this industry constantly growing and evolving, but it also provides a wealth of opportunity for personal and professional growth.
 
 Here are a few little-known facts that might get you even more excited about this career path:

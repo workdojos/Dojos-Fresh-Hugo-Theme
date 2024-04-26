@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian.mp3" frameborder="0" style="border:0" >}}<br>
 Sure, here are some suggestions for a theologian curriculum:
 
 Introduction to the major religious traditions

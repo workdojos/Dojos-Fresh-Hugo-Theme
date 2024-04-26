@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement.mp3" frameborder="0" style="border:0" >}}<br>
 Thank you for seeking guidance on your potential career as a police officer. Based on your interest in protective services, it seems that you have a desire to serve and protect your community. This is a commendable goal, and one that requires a strong sense of duty and commitment.
 
 To become a police officer, you will need to meet certain requirements, including physical and mental fitness, as well as education and training. Most agencies require a high school diploma or equivalent, and many also require a college degree. Some agencies also prefer candidates with a background in criminal justice or related fields.

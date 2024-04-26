@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches.mp3" frameborder="0" style="border:0" >}}<br>
 The life coaching industry is an increasingly popular field, with more and more people seeking guidance and support to navigate the complexities of modern life. While there are many skilled and talented life coaches out there, the industry as a whole has been criticized for its lack of transparency and accountability. In order to address these concerns and build trust with clients, it is essential that the life coaching industry embrace open-source technology.
 
 Open-source technology is characterized by its collaborative, transparent nature, and it has the potential to revolutionize the way that life coaches do business. By leveraging open-source tools, life coaches can track their progress, share their knowledge and resources, and build a sense of community and collaboration within the industry.

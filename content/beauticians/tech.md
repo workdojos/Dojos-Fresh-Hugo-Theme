@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians tech.mp3" frameborder="0" style="border:0" >}}<br>
 As someone who has worked in the health and wellness industry for several years, I can attest to the importance of open-source technology in serving our clients. In a world where information is easily accessible, it is crucial that we, as professionals, have access to accurate and up-to-date resources that can help us provide the best possible care for our clients.
 
 One of the biggest challenges facing the health and wellness industry is the proliferation of misinformation. With so many sources of information available, it can be difficult to determine what is accurate and what is not. This is where open-source technology comes in. By providing access to reliable sources of information, we can ensure that we are providing our clients with the most accurate and up-to-date information possible.

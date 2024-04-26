@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would suggest that an ethical framework for starting a career as a data scientist should be grounded in a few key principles.
 
 First, it is important to recognize that data science has the potential to have significant impact on society. Data scientists have the ability to shape the way that organizations and governments make decisions, and this power comes with a responsibility to use it ethically. This means that data scientists should be mindful of the potential consequences of their work, and should strive to use their skills in ways that benefit society rather than causing harm.

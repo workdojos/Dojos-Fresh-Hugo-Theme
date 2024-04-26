@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers.mp3" frameborder="0" style="border:0" >}}<br>
 The word "grower" is a relatively simple one, and its origins can be traced back to the Old English word "growan," which means "to grow." This word is derived from the Proto-Germanic word "grōan," which also means "to grow." The word has remained relatively unchanged in meaning since its ancient roots, and is still used today to refer to someone or something that causes something else to grow or increase in size.
 
 The word "cannabis," on the other hand, has a somewhat more complex etymology. It is thought to be derived from the ancient Greek word "kánnabis," which is itself derived from the Scythian word "kánnabos." The Scythians were a group of ancient nomadic peoples who lived in what is now modern-day Russia and the surrounding areas. The word "kánnabos" is thought to refer to the hemp plant, which was used for a variety of purposes by the Scythians, including making clothing and ropes.

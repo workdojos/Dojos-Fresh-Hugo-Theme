@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/clinician/clinician.mp3" frameborder="0" style="border:0" >}}<br>
 Sure, I'd be happy to help you promote your new business on social media! Here are some ideas for an engaging campaign on Instagram, Twitter, Youtube, and Pinterest:
 
 On Instagram, create visually appealing posts featuring your services, education, and any relevant news or articles related to your industry. Utilize Instagram Stories to give a behind-the-scenes look at your practice and interact with your followers through polls and Q&A sessions.

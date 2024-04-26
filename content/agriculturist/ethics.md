@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, one approach to developing an ethical framework for starting a business in the agriculture industry would be to consider the various stakeholders involved in the business and how their interests may be impacted. This might include the farmers who are growing the crops, the consumers who will be purchasing the products, and the environment in which the agriculture takes place.
 
 One key principle to consider in this context is the concept of sustainability. This involves ensuring that the business is able to continue operating in a way that does not deplete resources or harm the environment in the long-term. This might involve adopting sustainable farming practices, such as using organic or regenerative methods, and taking steps to minimize waste and pollution.

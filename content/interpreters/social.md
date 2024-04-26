@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters.mp3" frameborder="0" style="border:0" >}}<br>
 As a social media influencer, I would start by creating a cohesive brand identity for your business on all platforms. This includes designing a visually appealing profile picture, bio, and theme for your content.
 
 Next, I would focus on creating engaging content for each platform. On Instagram, I would post eye-catching photos of you at work, behind-the-scenes glimpses of your translation and interpretation projects, and informative graphics highlighting your services and expertise. I would also utilize Instagram's story feature to share daily updates and sneak peeks of your work.

@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist.mp3" frameborder="0" style="border:0" >}}<br>
 As someone who has worked in the art and special events industry for several years, I can speak firsthand to the importance of fair work practices. Unfortunately, this is an industry that has a history of exploiting workers, particularly those who are just starting out or are in more marginalized positions. However, there are some recent trends and events that have brought attention to this issue and are pushing for change.
 
 One trend that has been gaining traction in the art and special events industry is the use of independent contractors, rather than traditional employees. While this may seem like a good option for those who value their freedom and flexibility, it often comes at the cost of fair treatment and proper wages. Independent contractors are not entitled to the same protections as employees, including minimum wage laws, overtime pay, and health benefits. This can lead to a situation where workers are expected to put in long hours for little pay, with no recourse if they are not treated fairly.

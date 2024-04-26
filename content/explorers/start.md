@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers.mp3" frameborder="0" style="border:0" >}}<br>
 Sure thing! Here are some strategies to help you get excited about a career as a explorer in the outdoor industry:
 
 Research the perks and benefits of working as a explorer: Some little-known facts about this career include the opportunity to travel to beautiful and exotic locations, the chance to work in a field that is constantly growing and evolving, and the opportunity to learn about new cultures and ways of life. You can also find out about the types of experiences and opportunities that are available to explorers, such as working on research projects, leading expeditions, or working with conservation organizations.

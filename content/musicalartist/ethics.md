@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, the first thing I would do in developing an ethical framework for starting a career as a musical artist working in the music industry is to consider the values and principles that are most important to me as an artist. These might include things like honesty, integrity, fairness, respect, and compassion.
 
 Next, I would consider the ethical implications of various actions I might take as a musical artist, such as creating and sharing music, collaborating with other artists, and negotiating contracts. Some questions I might consider include:

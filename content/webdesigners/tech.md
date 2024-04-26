@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners.mp3" frameborder="0" style="border:0" >}}<br>
 The digital services industry is rapidly growing and evolving, and it is crucial that it remains accessible and open to all. One way to ensure this is through the use of open-source technology. Open-source technology is freely available for anyone to use and modify, and it allows for greater collaboration and innovation within the industry.
 
 As a web designer, I have personally seen the benefits of using open-source technology. It allows me to customize and tailor my designs to fit the specific needs of my clients, rather than being limited by proprietary software. Additionally, open-source technology has a strong community of developers and users who are constantly working to improve and update the technology, which means it is always up-to-date and reliable.

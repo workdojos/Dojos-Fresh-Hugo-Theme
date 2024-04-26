@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist tech.mp3" frameborder="0" style="border:0" >}}<br>
 The agriculture industry is a vital component of our society, providing us with the food and other resources we need to survive and thrive. However, it has long been dominated by large corporations and monolithic systems, leaving small farmers and agriculturists struggling to compete.
 
 One solution to this problem is the adoption of open-source technology in the agriculture industry. Open-source technology allows for greater collaboration and sharing of information and resources, which can level the playing field for small farmers and agriculturists. It also allows for the development of innovative and more efficient farming practices, which can lead to increased productivity and profitability.

@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler.mp3" frameborder="0" style="border:0" >}}<br>
 As a debater, it is my duty to present both sides of the argument and provide evidence for my conclusions. With that said, I strongly believe in the importance of fair work practices for jewelers working in the luxury goods industry.
 
 First, let's examine some of the recent trends and events related to this industry. In recent years, there has been a growing movement towards ethical and sustainable practices in the luxury goods industry. This includes a focus on fair wages and working conditions for employees, as well as a commitment to environmentally responsible practices.

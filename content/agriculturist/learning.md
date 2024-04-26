@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist learning.mp3" frameborder="0" style="border:0" >}}<br>
 For the role of an agriculturist, here are some suggestions for what should appear in a curriculum:
 
 Knowledge of plant biology, soil science, and pest management

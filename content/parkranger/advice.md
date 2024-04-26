@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger.mp3" frameborder="0" style="border:0" >}}<br>
 First of all, it is important to understand that park rangers are responsible for the protection, conservation, and management of natural resources within a park or protected area. They also provide information and guidance to visitors, enforce park regulations, and perform maintenance tasks.
 
 To pursue a career as a park ranger, you should have a strong passion for the outdoors and a desire to protect and preserve natural resources. You should also possess strong communication and customer service skills, as well as physical fitness and the ability to work in varied weather conditions.

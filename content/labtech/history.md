@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech.mp3" frameborder="0" style="border:0" >}}<br>
 The word "lab" is derived from the Latin word "laboratorium," which means a place for work. The word "tech" is derived from the Greek word "technē," which means art or craft.
 
 The term "lab tech" refers to a person who works in a laboratory setting and assists with various technical tasks, such as conducting experiments, analyzing data, and preparing samples. This term has been in use since the early 20th century, when the field of laboratory technology began to emerge.

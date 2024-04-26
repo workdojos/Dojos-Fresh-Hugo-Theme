@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters.mp3" frameborder="0" style="border:0" >}}<br>
 The public services industry, specifically firefighters, face numerous controversies and challenges on a daily basis. From dangerous working conditions to low pay, it is time for change to be implemented in order to improve the industry as a whole.
 
 One major controversy facing firefighters is the lack of accessibility to job opportunities. Many qualified candidates are turned away due to strict hiring requirements, such as age limits and physical abilities. This not only hinders the opportunity for aspiring firefighters to pursue their dream job, but it also limits the pool of potential candidates for departments to choose from. To make it easier for firefighterto find work, departments should consider lowering some of these strict requirements and allow for more flexibility in hiring practices.

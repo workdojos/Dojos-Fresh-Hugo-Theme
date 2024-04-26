@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier.mp3" frameborder="0" style="border:0" >}}<br>
 Great, let's dive in! First of all, working as a financier in the startup financing industry can be extremely rewarding. Not only do you have the opportunity to be a part of a growing and exciting industry, but you also have the chance to help shape the future of new businesses.
 
 One of the biggest perks of working as a financier in the startup financing industry is the opportunity to work with innovative and ambitious entrepreneurs. You'll have the chance to work closely with these individuals and help them bring their ideas to life, which can be extremely fulfilling. Additionally, you'll get to be a part of the early stages of a business, which can be incredibly exciting and rewarding.

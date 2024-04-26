@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians startup.mp3" frameborder="0" style="border:0" >}}<br>
 Idea Name: GlowUp
 
 Short One Liner: "Elevate your beauty routine with virtual consultations from experienced beauticians."

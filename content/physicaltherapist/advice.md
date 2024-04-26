@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, it is my job to help you determine what careers you are most suited for based on your skills, interests, and experience. From the information you provided, it appears that you are interested in pursuing a career as a physical therapist working in the physical therapy industry.
 
 First, let's take a look at your skills and interests. Physical therapists require a strong understanding of the human body and how it functions. They must also have excellent communication skills, as they work closely with patients and must be able to clearly explain treatment plans and procedures. Physical therapists also need to be patient, empathetic, and able to work well under pressure. Based on these requirements, it seems that you have the skills and interests necessary for a career in physical therapy.

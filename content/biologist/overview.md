@@ -7,7 +7,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist overview.mp3" frameborder="0" style="border:0" >}}<br>
 The biosciences industry is an exciting and rapidly growing field that encompasses a wide range of disciplines, including biotechnology, pharmaceuticals, and medical research. According to data from the National Science Foundation, the biosciences industry contributed over $800 billion to the U.S. economy in 2018, making it one of the most important sectors in the country.
 
 For those interested in pursuing a career in the biosciences industry, there are numerous opportunities to be found. One of the best ways to find these opportunities is through networking with professionals already working in the field. This can be done through joining professional organizations, attending conferences, and seeking out mentorship opportunities.

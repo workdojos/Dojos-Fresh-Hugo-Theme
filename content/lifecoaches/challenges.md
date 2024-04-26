@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches.mp3" frameborder="0" style="border:0" >}}<br>
 The life coaching industry is facing numerous controversies and challenges that need to be addressed. One of the main controversies facing the industry is the lack of regulation. Many people claim that anyone can become a life coach and that the industry is not regulated enough. This has led to a proliferation of unqualified and ineffective coaches, which has resulted in a lack of trust in the industry.
 
 Another challenge that life coaches face is finding work. Many people do not understand the value of life coaching and are hesitant to invest in it. This can make it difficult for coaches to find clients and build a sustainable business.

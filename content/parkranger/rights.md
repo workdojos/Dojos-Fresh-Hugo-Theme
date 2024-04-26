@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger.mp3" frameborder="0" style="border:0" >}}<br>
 As a park ranger working in the conservation and park management industry, I am constantly reminded of the importance of fair work practices. Recent trends and events within the industry have only served to reinforce this belief.
 
 One of the most pressing issues facing park rangers is the issue of proper wages. While we are dedicated to the work we do, we also need to be able to support ourselves and our families. Unfortunately, many park rangers are paid low wages, which makes it difficult to make ends meet. This is especially true for those who work in rural areas, where the cost of living is often higher.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers.mp3" frameborder="0" style="border:0" >}}<br>
 The cannabis industry is a rapidly growing and exciting field, with numerous opportunities for those interested in working in this industry. According to a report by New Frontier Data, the global cannabis market is expected to reach $57 billion by 2027. In the United States alone, the legal cannabis industry generated $10.4 billion in revenue in 2018 and is projected to reach $30 billion by 2025.
 
 One of the key ways to find opportunities in the cannabis industry is through networking. This can be done through attending industry events and conferences, joining industry organizations and professional groups, and connecting with others in the industry through social media and professional networking platforms.

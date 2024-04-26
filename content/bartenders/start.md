@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders start.mp3" frameborder="0" style="border:0" >}}<br>
 Great! It sounds like you have a goal of learning more about the perks and benefits of working as a bartender in the bartending and hospitality industry. This is a fantastic goal, as the bartending and hospitality industry is an exciting and growing field with lots of upside potential.
 
 First, let's start with some little-known facts about the industry:

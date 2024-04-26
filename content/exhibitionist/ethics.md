@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would approach this question by first considering the concept of ethics and how it applies to the art and special events industry. Ethical principles are a set of values and guidelines that help individuals and organizations make decisions that are in line with moral standards. In the context of the art and special events industry, ethical considerations may include issues such as copyright and intellectual property rights, fair compensation for artists and performers, and the representation of diverse voices and perspectives.
 
 To develop an ethical framework for starting a career as an exhibitionist in this industry, I would recommend considering the following questions:

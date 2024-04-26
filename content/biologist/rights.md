@@ -7,7 +7,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist rights.mp3" frameborder="0" style="border:0" >}}<br>
 As a debater, I firmly believe that fair work practices are essential for biologists working in the biosciences industry. Unfortunately, recent trends and events in the industry have shown that this is not always the case.
 
 One of the most pressing issues facing biologists in the biosciences industry is the lack of proper wages. Many workers are paid significantly less than their counterparts in other industries, despite the fact that their work is often just as demanding and critical to society. This pay gap is especially pronounced for biologists who are women or people of color, who often face additional barriers to fair compensation.

@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist.mp3" frameborder="0" style="border:0" >}}<br>
 In recent years, there has been a growing conversation about fair work practices for physical therapists in the physical therapy industry. As a physical therapist myself, I can attest to the importance of fair treatment and proper wages for those working in this demanding field.
 
 One trend that has been particularly concerning is the increasing use of contractors and temporary workers in the physical therapy industry. While this may seem like a cost-effective solution for employers, it often leads to a lack of job security and benefits for physical therapists. It is important for these workers to have the same protections and opportunities as permanent employees, including access to healthcare and retirement benefits.

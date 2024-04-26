@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter.mp3" frameborder="0" style="border:0" >}}<br>
 To begin, I would suggest creating a social media strategy that outlines the specific goals and target audience for each platform. This will help guide the creation of content and messaging for each platform.
 
 For Twitter, we can focus on sharing behind-the-scenes content, announcing new projects and releases, and engaging with followers through polls, Q&As, and live events. We can also utilize hashtags relevant to the film industry, such as #filmmaking or #cinematography, to reach a wider audience.

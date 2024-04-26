@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist social.mp3" frameborder="0" style="border:0" >}}<br>
 Sure, I'd be happy to help! Here are some ideas for an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as a botanist in the botany industry:
 
 Instagram: Share beautiful, high-quality photos of your work as a botanist, including close-ups of plants, flowers, and other botanical subjects. Use hashtags like #botany #nature #plants #flowers to increase visibility and engage with other botany enthusiasts. Consider creating Instagram stories to give followers a behind-the-scenes look at your work and offer tips and insights on plant care.

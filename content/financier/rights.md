@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier.mp3" frameborder="0" style="border:0" >}}<br>
 The startup financing industry is a rapidly growing and constantly evolving sector that has the potential to bring about significant innovation and disruption. However, as the industry grows and becomes more competitive, it is important to ensure that the workers within it are treated fairly and with respect.
 
 One recent trend in the startup financing industry is the increasing prevalence of unpaid internships and low-paying jobs. While these positions may be viewed as a way for workers to gain valuable experience and make connections in the industry, they often come at the expense of fair wages and benefits. This can lead to a cycle of exploitation and inequality, as workers may be forced to take on multiple low-paying jobs in order to make ends meet.

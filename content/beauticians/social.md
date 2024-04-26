@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians social.mp3" frameborder="0" style="border:0" >}}<br>
 Here are some ideas for an Instagram, Twitter, YouTube, and Pinterest campaign to promote your new business as a beautician in the health & wellness industry:
 
 Instagram: Share behind-the-scenes photos and videos of your beauty treatments and products, as well as tips and tricks for maintaining healthy skin and hair. Encourage your followers to share their own skincare routines and tag you in their posts using a specific hashtag.

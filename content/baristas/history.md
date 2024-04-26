@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas history.mp3" frameborder="0" style="border:0" >}}<br>
 Barista: The word "barista" is derived from the Italian word "barista", which means "bartender" or "barman". The term was originally used to refer to a person who worked at a bar and served drinks, but it has since been extended to refer to someone who prepares and serves coffee, specifically in specialty coffee shops.
 
 Coffee: The word "coffee" is believed to have originated from the Arabic word "qahwah", which means "a beverage made from roasted beans". The drink was first consumed in the Arabian Peninsula, and it eventually spread to other parts of the world, becoming popular in Europe and North America in the 17th and 18th centuries. The meaning of the word has remained largely unchanged over time, though it has come to encompass various types of coffee and methods of preparation.

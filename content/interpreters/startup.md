@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters.mp3" frameborder="0" style="border:0" >}}<br>
 Idea Name: WordBridge
 
 One liner: Connecting people through language with our on-demand interpretation and translation services.
@@ -69,6 +69,7 @@ Finding and retaining qualified interpreters and translators
 Ensuring high-quality service for customers
 Maintaining and improving the technology platform as the business grows.
 
+<br>
 <br>
 <a href="https://workdojos.com/interpreters/tech">next: open-source tech</a>
 </p>

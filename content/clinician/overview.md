@@ -7,7 +7,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/clinician/clinician.mp3" frameborder="0" style="border:0" >}}<br>
 The medical industry is a vast and dynamic field that offers a wide range of opportunities for individuals interested in pursuing a career in healthcare. According to the Bureau of Labor Statistics, the medical industry is projected to grow by 14% between 2018 and 2028, which is much faster than the average for all occupations. This growth is expected to create millions of new jobs in the medical field, making it an attractive career path for those interested in making a difference in the lives of others.
 
 One of the exciting things about working in the medical industry is the opportunity to work with cutting-edge technology and treatments. From robotic surgery to advanced diagnostic tools, medical professionals have access to a wide range of tools and technologies that help them provide the best possible care to their patients. In addition, working in the medical industry allows individuals to make a positive impact on their community, as they work to improve the health and well-being of those around them.

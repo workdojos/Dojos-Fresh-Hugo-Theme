@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners.mp3" frameborder="0" style="border:0" >}}<br>
 The special events industry is facing numerous controversies and challenges that have an impact on event planners and the industry as a whole. One of the main issues is the lack of access to work opportunities and fair compensation for event planners. Many event planners struggle to find work and are often underpaid for the extensive amount of planning, coordination, and execution that goes into organizing a successful event.
 
 One way to address this issue is by making it easier for event plannerto find work. This can be achieved through the creation of job boards specifically for event planners, networking opportunities, and the use of social media platforms to connect with potential clients. Additionally, there should be more transparency in the hiring process and an emphasis on the skills and experience of event planners rather than simply relying on personal connections.

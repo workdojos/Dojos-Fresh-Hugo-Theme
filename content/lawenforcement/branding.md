@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement.mp3" frameborder="0" style="border:0" >}}<br>
 As the social media manager for this protective services organization, I would first conduct a thorough analysis of the current social media presence to understand what is currently working and what areas need improvement. This would involve analyzing metrics such as engagement, website traffic, and conversion rates.
 
 Next, I would develop a content strategy that aligns with the goals of increasing brand awareness, recruiting followers, driving traffic to the website, and fostering collaboration with others in the industry. This would involve creating engaging and informative content that resonates with the target audience and showcases the organization's expertise and services.

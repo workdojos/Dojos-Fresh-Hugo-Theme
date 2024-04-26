@@ -7,7 +7,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders overview.mp3" frameborder="0" style="border:0" >}}<br>
 The bartending and hospitality industry is a vast and dynamic field that offers a wide range of opportunities for those looking to enter the workforce. According to data from the Bureau of Labor Statistics, employment in the food and beverage industry is expected to grow by 5.3% between 2019 and 2029, adding around 1.9 million new jobs. This growth is driven by increasing demand for food and drink in restaurants, bars, and other establishments, as well as the growing popularity of tourism and travel.
 
 One way to find opportunities to work in the industry is to start by looking for entry-level positions at local restaurants and bars. Many establishments offer training and on-the-job experience for those looking to break into the industry, and these positions can be a great way to gain valuable skills and build a network of contacts. Another option is to pursue formal education in the field, such as a degree in hospitality or culinary arts, which can open up more advanced roles and higher paying positions.

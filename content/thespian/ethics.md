@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian.mp3" frameborder="0" style="border:0" >}}<br>
 Certainly! I'd be happy to help you develop an ethical framework for starting a career as a thespian in the performing arts industry.
 
 There are many different ethical theories that could be applied to this situation. One possibility is to consider virtue ethics, which emphasizes the character of the moral agent as the key element of ethical thinking. In this framework, you might focus on developing virtues such as honesty, integrity, and responsibility as you begin your career as a thespian.

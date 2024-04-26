@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents.mp3" frameborder="0" style="border:0" >}}<br>
 As a travel agent working in the travel and tours industry, I strongly believe in fair work practices for all workers in our field. The industry has seen some major changes and trends in recent years, and it is more important than ever that we stand up for the rights and fair treatment of our colleagues.
 
 One trend that has impacted many travel agents is the rise of online booking platforms, which have made it easier for consumers to book their own travel arrangements without the assistance of a professional agent. This shift has led to some companies cutting costs by reducing their staff or hiring independent contractors who may not receive the same benefits and protections as traditional employees.

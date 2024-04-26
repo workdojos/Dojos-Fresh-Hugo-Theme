@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, I would first start by conducting an assessment of the individual's skills and interests to determine if a career as a lab tech would be a good fit. Some key skills and interests that would be beneficial for this role include an interest in science and technology, attention to detail, and problem-solving abilities.
 
 Next, I would research the job market trends in the laboratory testing industry to determine the demand for lab techs. From my research, I have found that the demand for lab techs is expected to grow in the coming years due to an increase in the number of diagnostic laboratories and the use of advanced technology in the industry.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers.mp3" frameborder="0" style="border:0" >}}<br>
 The word "explorer" comes from the Latin word "explorare," which means "to search out or examine." This word was formed by combining the prefix "ex-" meaning "out" and "plorare," meaning "to search or explore." In its original Latin form, the word referred to the act of searching or examining something in order to learn more about it.
 
 Over time, the word "explorer" has come to be associated with people who travel to new or unfamiliar places in order to discover and learn about them. This is likely because explorers often had to search and examine new areas in order to find out what was there. In modern English, an explorer is typically someone who travels to new or uncharted places in order to learn about them, or someone who is curious and adventurous in their pursuit of new knowledge.

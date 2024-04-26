@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/couriers/couriers.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, one might consider several different approaches to developing an ethical framework for starting a career as a courier working in the supply-chain industry. Some potential options might include:
 
 Utilitarianism: This approach would focus on the greatest good for the greatest number, and thus might emphasize the importance of ensuring that the supply-chain industry operates efficiently and effectively, in order to maximize the benefits to society as a whole.

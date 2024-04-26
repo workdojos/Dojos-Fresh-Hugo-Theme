@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists.mp3" frameborder="0" style="border:0" >}}<br>
 First of all, it's great that you are considering a career in data science! Data science is a rapidly growing field that is in high demand and offers a wide range of opportunities for professionals with the right skills and experience.
 
 Based on your skills, interests, and experience, it seems that you have a strong foundation for a career in data science. Some key skills that are valuable for data scientists include programming languages such as Python and R, statistical analysis, data visualization, and machine learning. If you have experience or strong knowledge in these areas, then you have a good start for a career in data science.

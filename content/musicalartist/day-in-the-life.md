@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, there was a young musician named Rachel who dreamed of making it big in the music industry. She had always loved singing and playing the guitar, and she spent every spare moment practicing and writing her own songs.
 
 One day, Rachel decided to take the plunge and audition for a local talent show. She was nervous, but she knew she had to at least try. To her surprise, she won the competition and was given the opportunity to record her first single.

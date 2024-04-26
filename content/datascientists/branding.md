@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists.mp3" frameborder="0" style="border:0" >}}<br>
 Here are some potential actions I would take as a social media manager for a data science organization:
 
 Develop a content calendar that aligns with the organization's goals and audience. This could include sharing industry news, highlighting team members and their work, and sharing resources for data scientists.

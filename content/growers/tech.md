@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers.mp3" frameborder="0" style="border:0" >}}<br>
 As the cannabis industry continues to grow and evolve, it has become increasingly evident that open-source technology will play a crucial role in its success. With the increasing demand for transparency and accountability in the industry, open-source technology allows for greater accessibility and collaboration among growers, retailers, and consumers.
 
 One of the main benefits of open-source technology in the cannabis industry is the ability for growers to access and share information about best practices and techniques. This not only helps to improve the quality and consistency of the products, but also allows for a more collaborative and efficient business model.

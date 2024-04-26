@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, one approach to developing an ethical framework for starting a business as an animator in the animation industry would be to consider the ethical implications of the industry as a whole. This could involve considering issues such as the exploitation of labor, the representation of marginalized groups, and the impact of the industry on the environment.
 
 One key concept to consider in this process is the concept of responsibility. As a business owner, you will have a responsibility to ensure that your business is operating in an ethical manner, both in terms of how you treat your employees and how you engage with your customers. This may require you to consider issues such as fair pay, working conditions, and the potential for exploitation or discrimination within your business.

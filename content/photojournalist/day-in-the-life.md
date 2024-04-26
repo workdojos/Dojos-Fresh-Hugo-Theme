@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, in a bustling city filled with towering skyscrapers and busy streets, there lived a young photojournalist named Sarah. Sarah was a bright and ambitious young woman who had always dreamed of being a news reporter. She had a keen eye for detail and a passion for storytelling, and she knew that photography was the perfect medium for her to share her stories with the world.
 
 Sarah spent her days traveling the city, searching for the perfect shot. She spent hours stalking the streets, looking for the perfect angle or the perfect moment to capture. She was always on the lookout for the next big story, and she was never afraid to put herself in harm's way to get the perfect shot.

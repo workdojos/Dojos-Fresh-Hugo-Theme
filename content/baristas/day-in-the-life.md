@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas day.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, there was a young woman named Maria who worked as a barista at a popular coffee shop in the heart of the city. Every day, she woke up early and made her way to the shop, ready to face the bustling crowds and the endless stream of orders for lattes, cappuccinos, and other coffee drinks.
 
 Despite the fast-paced nature of her job, Maria loved every moment of it. She enjoyed chatting with her customers and learning about their lives, and she took pride in crafting the perfect cup of coffee for each and every one of them.

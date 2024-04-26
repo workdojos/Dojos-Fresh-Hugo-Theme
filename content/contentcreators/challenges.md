@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators.mp3" frameborder="0" style="border:0" >}}<br>
 The content creation industry is facing numerous controversies and challenges that threaten the livelihoods and success of content creators. From issues with copyright infringement and plagiarism to the lack of fair compensation for their work, content creators are constantly battling to have their voices heard and their contributions recognized.
 
 One of the main challenges facing content creators is the constant threat of their work being stolen or used without proper attribution. This can not only lead to lost income and opportunities for the creators, but it also undermines the value of original content and the hard work that goes into creating it. To address this issue, we need to implement stronger laws and enforcement measures to protect content creators and ensure that they are properly compensated for their work.

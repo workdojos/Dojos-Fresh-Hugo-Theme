@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/cinematographer/cinematographer.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would approach this question by first considering what the ethical considerations might be in starting a career as a cinematographer. Some potential ethical issues that might arise in this field might include:
 
 Exploitation of actors and other crew members: Cinematographers often work closely with actors and other crew members, and it is important to ensure that these individuals are treated with respect and fairness. This might involve considering issues like pay equity, safety on set, and the rights of actors and crew members to privacy.

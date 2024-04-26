@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, one approach to developing an ethical framework for starting a career as a machinist working in the machining industry would be to consider the various moral and ethical principles that are relevant to the profession. This might involve considering the value of honesty, integrity, and responsibility, as well as the importance of treating others with respect and fairness.
 
 One key aspect of this ethical framework might be the idea of professionalism, which involves upholding high standards of competence and ethical behavior in one's work. This could include not only following safety regulations and industry best practices, but also being honest and transparent with clients and colleagues, and taking responsibility for one's actions and decisions.

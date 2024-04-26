@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas branding.mp3" frameborder="0" style="border:0" >}}<br>
 Sure, as a social media manager, I can help you manage the presence of your coffee and hospitality organization on Twitter, Instagram, and Pinterest.
 
 To increase brand awareness, I would suggest creating a consistent brand image across all platforms, including using the same profile picture, bio, and color scheme. We can also utilize hashtags related to your industry and location, as well as tagging relevant accounts in our posts to reach a wider audience.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist.mp3" frameborder="0" style="border:0" >}}<br>
 The music industry is a vast and multifaceted field, encompassing everything from record labels and live music venues to audio engineering and music education. According to the National Association of Music Merchants (NAMM), the global music industry was worth an estimated $17 billion in 2019.
 
 One of the best ways to find opportunities to work in the music industry is to network with those who are already established in the field. This could mean attending industry events, joining music-specific organizations, or simply reaching out to professionals in your area of interest. Additionally, many music-focused universities and colleges offer internships or job placement programs for their students, providing a valuable opportunity to gain hands-on experience and build connections.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, I believe that a career as a lawyer can be a fulfilling and rewarding choice for individuals with the right skills and interests. Some key qualities that are essential for a successful career as a lawyer include strong communication skills, attention to detail, problem-solving abilities, and the ability to think critically and analytically.
 
 To determine if a career as a lawyer is the right fit for you, it is important to consider your personal interests and skills. Do you enjoy researching and analyzing complex legal issues? Are you comfortable speaking in front of others and presenting your ideas clearly and concisely? Do you have strong attention to detail and the ability to think critically and solve problems? If you answered yes to these questions, then a career as a lawyer may be a good fit for you.

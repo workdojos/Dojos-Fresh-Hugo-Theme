@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker.mp3" frameborder="0" style="border:0" >}}<br>
 Developing an ethical framework for starting a career as a social worker working in the behavioral healthcare industry is a complex task that requires careful consideration of a wide range of issues. Some key areas to consider when developing an ethical framework for this field might include:
 
 The role of social workers in promoting social justice and advocating for the rights of vulnerable populations.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler.mp3" frameborder="0" style="border:0" >}}<br>
 Jeweler:
 
 The word "jeweler" comes from the Old French word "joiailler," which ultimately derives from the Latin word "joculator," meaning "jester" or "entertainer." This word was used in the Middle Ages to refer to individuals who made and sold decorative objects, including jewelry.

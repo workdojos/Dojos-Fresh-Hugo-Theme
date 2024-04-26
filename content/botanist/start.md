@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist start.mp3" frameborder="0" style="border:0" >}}<br>
 Great! It sounds like you have a specific goal in mind and are looking to learn more about the perks and benefits of working as a botanist in the botany industry. First of all, let me tell you that pursuing a career in botany can be extremely rewarding and fulfilling. Not only will you have the opportunity to work with and study plants, which are essential to our planet and our well-being, but you will also have the chance to make a positive impact on the environment and contribute to important research and conservation efforts.
 
 Now, let's talk about some of the specific benefits of working as a botanist. One of the biggest perks is the opportunity to work outdoors and be surrounded by nature. If you love spending time in nature and have a passion for plants, this can be a dream job for you. Additionally, working as a botanist can provide you with a flexible schedule and the chance to travel to different locations to conduct research or work on projects.

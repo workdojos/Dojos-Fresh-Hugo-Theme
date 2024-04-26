@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches.mp3" frameborder="0" style="border:0" >}}<br>
 As a social media manager for your life coaching organization, I would first assess your current social media presence to see what is working and what may need improvement. This would include analyzing your current follower numbers and engagement rates, as well as researching your competitors and their social media strategies.
 
 Next, I would create a content calendar that outlines the type of content we will be posting on each platform and when. This content would be tailored to your target audience and would include a mix of promotional posts, educational content, and engaging visual content such as images and videos.

@@ -7,7 +7,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators overview.mp3" frameborder="0" style="border:0" >}}<br>
 The animation industry is a rapidly growing and exciting field that offers a wide range of opportunities for those interested in pursuing a career in this field. According to the Bureau of Labor Statistics, employment in the field of animation is expected to grow by 8% between 2018 and 2028. This growth is driven by the increasing demand for animated content in film, television, video games, and other media.
 
 To find opportunities in the animation industry, it is important to network with those already working in the field and to stay up to date on the latest job openings and industry events. Many animators find work through connections they have made in the industry, so networking is key. In addition, there are many websites and online communities that provide job listings and resources for animators. Some useful websites to check out include Animation World Network, Creative Talent Network, and Animation Magazine.

@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators challenges.mp3" frameborder="0" style="border:0" >}}<br>
 The animation industry is a constantly evolving field that has faced a number of controversies and challenges in recent years. Animators, the creative minds behind the beloved characters and stories we see on screen, often face difficulty in finding work and are underpaid for the amount of effort and skill they put into their craft. It is time for the industry to take action and make it easier for animatorto find work, pay them fairly for their talent, and strive for overall improvement in the industry as a whole.
 
 One major controversy in the animation industry is the use of outsourced labor. Many animation studios outsource their work to foreign countries in order to cut costs, leading to a lack of job opportunities for animators in their own countries. This not only affects the animators' ability to find work, but also the quality of the final product as there is often a language and cultural barrier between the outsourced workers and the studios. It is important for the industry to prioritize hiring animators in their own countries and give them the opportunities they deserve.

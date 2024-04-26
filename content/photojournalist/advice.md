@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, it is my job to help guide individuals in finding a career that is both fulfilling and aligns with their skills and interests. Based on your desire to pursue a career as a photojournalist in the journalism, news, and media industry, it seems that you have a strong passion for storytelling and capturing visual content.
 
 To begin, it is important to understand the job market trends in the journalism, news, and media industry. Currently, there is a high demand for photojournalists who can capture visually compelling content for various platforms, including print, digital, and social media. In addition, there is a trend towards multimedia storytelling, where photojournalists are expected to be able to produce video content as well.

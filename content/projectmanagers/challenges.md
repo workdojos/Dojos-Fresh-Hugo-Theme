@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers.mp3" frameborder="0" style="border:0" >}}<br>
 The business industry is no stranger to controversy. From debates over fair wages and employee treatment to concerns about corporate greed and environmental impact, there are a multitude of issues that can create tension within the business world. One of the most pressing controversies facing the industry today is the lack of support and opportunities available to project managers.
 
 As the leaders responsible for organizing and executing complex projects, project managers are essential to the success of any business. However, many of these professionals struggle to find work, often due to a lack of recognition and support within the industry. This is not only a problem for individual project managers, but for the business industry as a whole.

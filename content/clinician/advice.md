@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/clinician/clinician.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, it is my job to help individuals like yourself determine the best career path for their skills, interests, and experience. Based on your desire to pursue a career as a clinician working in the medical industry, I have conducted some research and gathered some information that may be helpful in your decision-making process.
 
 First, it is important to consider your qualifications and experience in the medical field. Becoming a clinician typically requires a bachelor's degree in a related field, such as nursing or medicine, as well as additional training and certification. It is also beneficial to have experience working in healthcare, either through internships or part-time jobs, as this can help you gain valuable skills and knowledge that will be useful in your career.

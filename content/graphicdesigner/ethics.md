@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would begin by considering the fundamental principles that guide ethical decision-making. One key principle is respect for autonomy, or the right of individuals to make their own choices and decisions. In the context of starting a career as a graphic designer, this principle would suggest that you have a moral obligation to respect the autonomy of your clients by allowing them to make their own decisions about the direction of their projects and the content they wish to convey.
 
 Another important ethical principle to consider is non-maleficence, or the duty to do no harm. In the graphic design industry, this principle would suggest that you have a responsibility to ensure that your work does not cause harm to others. For example, if you are designing a corporate logo or marketing materials, you should be mindful of the potential impact of your work on the environment and on the communities in which it is used.

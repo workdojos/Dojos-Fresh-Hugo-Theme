@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist advice.mp3" frameborder="0" style="border:0" >}}<br>
 First of all, it's great that you have a specific career in mind! Botany is a field that involves the study of plants, including their biology, ecology, and evolution. It can be a rewarding career for those who are interested in the natural world and have strong analytical and research skills.
 
 To determine if a career as a botanist is a good fit for you, it's important to consider your skills, interests, and experience. If you enjoy studying plants and have a strong background in biology or a related field, you may have a strong foundation for a career in botany. Additionally, strong critical thinking and problem-solving skills can be beneficial in this field.

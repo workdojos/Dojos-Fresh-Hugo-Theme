@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner.mp3" frameborder="0" style="border:0" >}}<br>
 Sure, I would be happy to help with that! Here are a few ideas for an engaging social media campaign to promote your new business as a graphic designer:
 
 Instagram: Create visually appealing posts showcasing your design work, including before and after transformations, or sneak peeks of your design process. Utilize hashtags relevant to the graphic design industry, such as #graphicdesign, #designinspiration, or #designprocess. Engage with your followers by asking for feedback on your designs, or hosting a Q&A session where they can ask you anything about your business.

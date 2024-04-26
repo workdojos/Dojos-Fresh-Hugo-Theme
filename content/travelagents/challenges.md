@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents.mp3" frameborder="0" style="border:0" >}}<br>
 The travel and tours industry is facing numerous controversies and challenges in the current market. From the rise of online booking platforms to the ongoing COVID-19 pandemic, the industry has had to adapt and overcome numerous obstacles. One of the biggest controversies facing the travel and tours industry is the issue of travel agents. Many people argue that the rise of online booking platforms has made travel agents obsolete, while others argue that travel agents are still a vital part of the industry.
 
 One of the biggest challenges facing travel agents is finding work in an increasingly competitive market. With the rise of online booking platforms, many people are opting to book their own vacations rather than hiring a travel agent. This has led to a decrease in demand for travel agents, making it harder for them to find work. However, there are still a number of reasons why we need to make it easier for travel agents to find work.

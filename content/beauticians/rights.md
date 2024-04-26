@@ -7,7 +7,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians rights.mp3" frameborder="0" style="border:0" >}}<br>
 There has been a lot of talk recently about fair work practices for beauticians working in the health and wellness industry. As someone who is passionate about promoting worker’s rights, fair treatment, and proper wages, I believe that it is crucial for beauticians in this industry to be treated with the respect and fairness that they deserve.
 
 One of the biggest trends that we have seen in the health and wellness industry recently is the rise of independent contractors and gig workers. While this might seem like a convenient arrangement for some employers, it can often lead to a lack of protection for workers. Independent contractors are not entitled to the same rights and benefits as regular employees, which means that they may not receive proper pay, overtime, or even breaks.

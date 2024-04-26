@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists.mp3" frameborder="0" style="border:0" >}}<br>
 The word "data" has its roots in the Latin word "datum," which means "something given." In the 16th century, the word "data" began to be used as a plural noun in English to refer to a collection of facts or observations.
 
 The word "scientist" has its roots in the Latin word "scientens," which means "knowing." It was first used in English in the 19th century to refer to someone who studies science.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger.mp3" frameborder="0" style="border:0" >}}<br>
 Sure, I'd be happy to help! Being a park ranger can be a rewarding and exciting career, with many opportunities to make a positive impact on the environment and on the lives of others. Here are a few perks and benefits of working as a park ranger in the conservation and park management industry:
 
 Opportunities to work in beautiful and unique locations: As a park ranger, you'll have the chance to work in some of the most beautiful and unique locations in the world, from national parks and forests to beaches and lakes. You'll get to experience the beauty of nature and the great outdoors on a daily basis.

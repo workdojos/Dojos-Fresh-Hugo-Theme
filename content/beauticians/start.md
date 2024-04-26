@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians start.mp3" frameborder="0" style="border:0" >}}<br>
 Great, let's start by focusing on the benefits and perks of working as a beautician in the health & wellness industry. First of all, it's important to note that the health & wellness industry is a rapidly growing field, with a projected growth of 13% by 2028. This means that there are plenty of job opportunities available for skilled beauticians in this industry.
 
 One of the biggest perks of working as a beautician in the health & wellness industry is the opportunity to help people feel good about themselves. Whether you're providing facial treatments, doing makeup, or helping clients choose the right products for their skin type, you'll be able to make a positive impact on people's lives.

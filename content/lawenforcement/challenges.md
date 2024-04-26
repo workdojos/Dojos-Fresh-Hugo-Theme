@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement.mp3" frameborder="0" style="border:0" >}}<br>
 The protective services industry, specifically law enforcement, is facing numerous controversies and challenges that have brought its effectiveness and integrity into question. One of the main issues facing police officers is the difficulty in finding work, as many departments have strict hiring practices and limited budgets for new hires. This problem is compounded by the low pay that many police officers receive, which can make it difficult for them to support themselves and their families.
 
 However, there are several reasons why we should make it easier for police officerto find work and pay them more. For one, these individuals put their lives on the line every day to protect and serve their communities. They deserve to be fairly compensated for their dedication and bravery. Additionally, having more qualified and competent police officers on the job can lead to a reduction in crime and an overall safer society.

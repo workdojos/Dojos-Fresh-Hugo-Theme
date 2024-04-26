@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches.mp3" frameborder="0" style="border:0" >}}<br>
 Sure! Here are some ideas for an engaging campaign on Instagram, Twitter, Youtube, and Pinterest to promote your new business as a life coach:
 
 Instagram: Create a series of Instagram posts featuring quotes or tips related to life coaching, with accompanying graphics and hashtags. Encourage followers to share their own experiences or ask for advice in the comments. Consider hosting a Q&A or Instagram Live session to further engage with your audience.

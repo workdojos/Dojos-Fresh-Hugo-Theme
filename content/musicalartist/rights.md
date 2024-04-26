@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist.mp3" frameborder="0" style="border:0" >}}<br>
 The music industry is a complex and rapidly changing field that has faced numerous challenges in recent years. From the decline of physical record sales to the rise of streaming platforms, artists and industry professionals have had to adapt to new ways of working and earning a living. However, amidst these changes, one constant has remained: the need for fair work practices for musical artists.
 
 On one side of the debate, there are those who argue that the music industry is inherently competitive and that artists should be willing to work for little or no pay in order to gain exposure and build a career. They argue that the industry is oversaturated with talent and that only the most successful artists can expect to make a living from their music.

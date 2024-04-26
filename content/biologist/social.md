@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist social.mp3" frameborder="0" style="border:0" >}}<br>
 Sure! Here are some ideas for creating an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as a biologist in the biosciences industry:
 
 Instagram: Use visually appealing photos and videos to showcase your work as a biologist in the biosciences industry. Share behind-the-scenes glimpses of your research, experiments, or field work to give followers an idea of what you do on a daily basis. Consider using Instagram Stories to share quick updates and insights about your work.

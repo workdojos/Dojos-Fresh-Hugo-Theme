@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, there was a young adventurer named Jack. Jack had always been fascinated by the great outdoors and the mysteries that it held. He dreamed of becoming an explorer and discovering new lands, hidden treasures, and ancient artifacts.
 
 One day, Jack decided that he had had enough of dreaming and decided to make his dream a reality. He packed his bags, stocked up on supplies, and set off on his journey.

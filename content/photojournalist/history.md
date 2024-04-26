@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist.mp3" frameborder="0" style="border:0" >}}<br>
 The word "photojournalism" is a combination of the words "photo," which is short for "photograph," and "journalism." The word "photograph" comes from the Greek words "phos," which means "light," and "graph," which means "to draw." The word "journalism" comes from the French word "journal," which means "daily," and the suffix "-ism," which denotes a practice or theory.
 
 The word "news" comes from the Old English word "nēos," which means "new" or "fresh." The word "media" comes from the Latin word "medium," which means "middle" or "means of communication."

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist.mp3" frameborder="0" style="border:0" >}}<br>
 The physics and higher education industry is currently facing a number of controversies and challenges that are affecting the work and career opportunities of physicists. One of the main issues is the lack of job security and stability in the field, as many physicists struggle to find employment after completing their education. This is partly due to the competitive nature of the industry and the limited number of job openings, but it is also due to the lack of support and resources available to physicists as they search for work.
 
 In order to address these issues and make it easier for physicists to find work, it is important for the industry as a whole to take action. This could involve improving career development resources and support for physicists, as well as increasing funding for research and development in the field. Additionally, there is a need to address the underlying issues that are contributing to the current challenges facing the industry, such as the lack of diversity and inclusion in the field and the lack of support for early career researchers.

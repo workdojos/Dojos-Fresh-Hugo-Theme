@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, in a bustling city, there was a team of brave firefighters who worked tirelessly to protect the community. They were heroes in every sense of the word, putting their lives on the line every day to save others from danger.
 
 One day, a group of young children visited the fire station to learn about the important work that firefighters do. As they walked through the station, the firefighters showed them around and explained the various tools and equipment they use to fight fires and rescue people.

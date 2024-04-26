@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist.mp3" frameborder="0" style="border:0" >}}<br>
 As a social media manager, I would first research the music organization's current social media presence and gather data on their target audience. This would involve analyzing their current followers, engagement rates, and content performance. From this information, I would create a content calendar that includes a mix of promotional posts, industry news, and engaging content that aligns with the organization's brand.
 
 I would also focus on increasing brand awareness through the use of hashtags and partnerships with other music industry influencers or organizations. This could involve organizing Twitter chats or Instagram takeovers, as well as reaching out to potential collaborators for cross-promotion opportunities.

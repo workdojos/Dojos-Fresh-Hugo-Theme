@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist.mp3" frameborder="0" style="border:0" >}}<br>
 "MachinistMatch" - A digital platform connecting machinists with job opportunities in the machining industry
 Short one liner: "Your ultimate career matchmaker in the machining industry"
 

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would approach this task by first defining the concept of ethics. Ethics refers to the principles that govern our actions and decision-making, guiding us to make choices that are morally right or wrong.
 
 In the context of starting a career as a screenwriter in the film industry, there are a few key ethical considerations that come to mind.

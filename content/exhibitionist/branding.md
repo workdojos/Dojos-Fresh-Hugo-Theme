@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist.mp3" frameborder="0" style="border:0" >}}<br>
 Sure, I can definitely help with that! Here are some potential strategies for managing the social media presence of an art and special events organization on Twitter, Instagram, and Pinterest:
 
 Develop a content calendar: Plan out what type of content you will post on each platform, and when you will post it. This can include things like event announcements, behind-the-scenes glimpses of your organization, artist interviews, and more.

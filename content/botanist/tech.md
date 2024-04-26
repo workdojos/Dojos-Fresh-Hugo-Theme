@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist tech.mp3" frameborder="0" style="border:0" >}}<br>
 As a botanist, I have witnessed firsthand the importance of open-source technology in the botany industry. From analyzing data on plant growth and genetic sequencing to creating virtual herbarium collections, open-source tools have allowed researchers and professionals to advance their work in unprecedented ways.
 
 But the benefits of open-source technology extend beyond just the scientific community. Small businesses in the botany industry, such as nurseries and botanical gardens, can also utilize open-source tools to streamline their operations and reduce costs. This is particularly important for small businesses, which often struggle to compete with larger corporations due to limited resources.

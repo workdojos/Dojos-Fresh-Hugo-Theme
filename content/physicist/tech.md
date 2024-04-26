@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist.mp3" frameborder="0" style="border:0" >}}<br>
 As a physicist, I have seen firsthand the importance of open-source technology in the physics and higher education industry. With the ever-evolving nature of science and technology, it is crucial that we have access to the most current and accurate information. Open-source technology allows for a greater exchange of ideas and information, fostering collaboration and innovation within the field.
 
 One of the primary benefits of open-source technology is its cost-effectiveness. Many universities and research institutions have limited budgets, and the high cost of proprietary software can be a barrier to accessing necessary resources. Open-source alternatives provide a cost-effective solution, allowing institutions to allocate their funds towards other areas such as research or student support.

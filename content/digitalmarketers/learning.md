@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers.mp3" frameborder="0" style="border:0" >}}<br>
 As a Talent Coach for interviews for a digital marketer, here are some suggestions for what should appear in a curriculum related to this title:
 
 Marketing fundamentals: This could include coursework in marketing principles, market research, and consumer behavior.

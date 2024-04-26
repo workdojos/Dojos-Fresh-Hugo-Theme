@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers.mp3" frameborder="0" style="border:0" >}}<br>
 The business industry is a vast and diverse field, encompassing a wide range of career paths and opportunities. According to the Bureau of Labor Statistics, the business industry is projected to grow by 7% from 2019 to 2029, adding over 5 million new jobs. This growth is driven by the increasing demand for skilled professionals in fields such as finance, marketing, and management.
 
 One way to find opportunities in the business industry is to network with professionals in your field of interest. This can be done through networking events, online professional communities, or by joining a professional association. Another effective way to find job opportunities is to leverage online job boards and career websites, such as LinkedIn, Indeed, and Glassdoor.

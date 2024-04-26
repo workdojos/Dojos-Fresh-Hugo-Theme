@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians day.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, there was a young woman named Maria who dreamed of becoming a beautician. She spent hours researching the latest beauty trends and techniques, and practiced on friends and family until she was confident in her skills.
 
 One day, Maria decided it was time to turn her passion into a career. She enrolled in a beauty school and spent long days and nights learning everything there was to know about skincare, haircare, and makeup. After months of hard work, she graduated at the top of her class and landed a job at a fancy salon.

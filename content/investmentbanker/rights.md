@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker.mp3" frameborder="0" style="border:0" >}}<br>
 As an investment banker working in the financial services industry, it is crucial that fair work practices are implemented and upheld in order to create a healthy and productive work environment. Unfortunately, this has not always been the case, as there have been numerous instances of mistreatment and exploitation of workers in the industry.
 
 One recent trend that has been particularly concerning is the increasing use of unpaid internships in the financial services sector. While these internships may offer valuable experience, they also exclude individuals who cannot afford to work for free and perpetuate a cycle of privilege and exclusivity in the industry. Moreover, unpaid internships can lead to workers being taken advantage of, as they may be asked to perform tasks outside of their job description without being compensated for their time and effort.

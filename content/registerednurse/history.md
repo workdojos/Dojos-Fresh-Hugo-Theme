@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse.mp3" frameborder="0" style="border:0" >}}<br>
 Registered nurse:
 
 The term "registered nurse" has its roots in the early 20th century, when the nursing profession began to professionalize and standardize its training and practices. The term "registered" refers to the process of being officially recognized and licensed as a nurse, which required meeting certain education and training standards.

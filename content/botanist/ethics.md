@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, one could approach the task of developing an ethical framework for a career in botany from a number of different angles. One possible approach would be to consider the ethical implications of the botany industry as a whole, including issues such as the impact of botanical research on the environment, the ethical considerations involved in the cultivation and harvest of plants, and the potential ethical dilemmas that may arise in the application of botanical knowledge.
 
 Another approach could be to consider the ethical responsibilities of individual botanists, including issues such as the ethical implications of conducting research on plants, the ethical considerations involved in the publication and dissemination of botanical knowledge, and the ethical implications of collaborating with other scientists or organizations.

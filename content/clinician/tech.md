@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/clinician/clinician.mp3" frameborder="0" style="border:0" >}}<br>
 The medical industry is an integral part of our society, and it is constantly evolving. With new technologies and treatments emerging every day, it is crucial that the medical industry is able to adapt and embrace these advancements in order to provide the best care possible for patients. One way that the medical industry can do this is through the use of open-source technology.
 
 Open-source technology allows for greater collaboration and sharing of information within the medical field. This can lead to more efficient and effective treatment plans, as well as a faster dissemination of knowledge and breakthroughs. Additionally, open-source technology can help to reduce costs for both patients and providers, as it allows for more flexibility and customization in terms of software and tools.

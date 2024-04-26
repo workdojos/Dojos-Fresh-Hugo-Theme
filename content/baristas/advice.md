@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas advice.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, it is my job to help individuals like you determine what careers they are most suited for based on their skills, interests, and experience. After conducting some research and considering your goals, I believe that a potential career as a barista working in the coffee and hospitality industry may be a great fit for you.
 
 First and foremost, it is important to consider your skills and interests when choosing a career. As a barista, you will need to have excellent customer service skills and be able to work well under pressure. You will also need to be able to multitask and be comfortable working with technology, as many coffee shops use point-of-sale systems and other types of equipment. If you enjoy interacting with people and have a passion for coffee, then this career may be a great fit for you.

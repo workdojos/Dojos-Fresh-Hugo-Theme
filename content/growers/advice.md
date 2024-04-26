@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers.mp3" frameborder="0" style="border:0" >}}<br>
 First of all, it's great that you have a clear career path in mind and are seeking guidance on how to pursue it. The cannabis industry is a rapidly growing field, and there is a high demand for skilled professionals such as growers.
 
 To determine if a career as a grower in the cannabis industry is a good fit for you, it's important to consider your skills, interests, and experience. Do you have a strong background in agriculture or horticulture? Do you have experience working with plants or are you interested in learning more about plant biology? Are you comfortable working in a regulated industry and following strict protocols? These are all important skills and interests that can help you succeed as a grower.

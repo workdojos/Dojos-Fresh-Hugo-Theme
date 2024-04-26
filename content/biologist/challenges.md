@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist challenges.mp3" frameborder="0" style="border:0" >}}<br>
 The biosciences industry is a rapidly expanding field that has seen a number of controversies and challenges in recent years. From debates surrounding the ethics of genetic engineering to concerns about the safety of genetically modified organisms, the biosciences industry has been at the forefront of many important and contentious issues. In this essay, I will argue that we need to make it easier for biologistto find work, pay them more, and improve the biosciences industry as a whole in order to address these controversies and challenges.
 
 First, let's examine the challenges that biologists face in finding work. Despite the growth of the biosciences industry, many biologists struggle to find employment in their field. This is often due to the high competition for jobs and the limited number of positions available. This can be a major obstacle for those who have dedicated years of their lives to studying biology and want to put their knowledge and skills to use. By making it easier for biologistto find work, we can help to ensure that their expertise is not wasted and that they can contribute to the advancement of the biosciences industry.

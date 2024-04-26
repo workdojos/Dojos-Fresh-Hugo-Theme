@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger.mp3" frameborder="0" style="border:0" >}}<br>
 The conservation and park management industry is facing numerous controversies in recent years. From issues surrounding the destruction of natural habitats to conflicts with local communities, the industry is facing challenges that can be difficult to navigate. One of the biggest challenges facing park rangers is the lack of job opportunities. Many park rangers struggle to find work, which can be frustrating and demoralizing.
 
 One reason that we need to make it easier for park rangers to find work is that they play a vital role in preserving our natural resources. These professionals work tirelessly to protect our parks and forests, ensuring that future generations have the opportunity to enjoy them. They also provide valuable education and outreach to the public, helping to raise awareness about conservation efforts.

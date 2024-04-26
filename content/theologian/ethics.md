@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian.mp3" frameborder="0" style="border:0" >}}<br>
 As a theologian working in the religious organizations industry, it is important to have a clear and well-developed ethical framework to guide your decision-making and actions. This framework should be based on a combination of your personal values and the values and principles of your organization, and should provide guidance on how to navigate the complex ethical dilemmas that you may encounter in your work.
 
 One potential approach to developing an ethical framework for a career as a theologian in the religious organizations industry is to consider the principles of virtue ethics. This philosophical tradition emphasizes the importance of cultivating virtues such as honesty, compassion, and fairness in order to live a good and meaningful life. As a theologian, you could adopt these virtues as guiding principles in your work, and strive to embody them in all of your interactions with colleagues, clients, and other stakeholders.

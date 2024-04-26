@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators social.mp3" frameborder="0" style="border:0" >}}<br>
 Sure! Here are some ideas for an Instagram, Twitter, YouTube, and Pinterest campaign to promote your new business as an animator:
 
 Instagram: Create a series of visually stunning posts showcasing your work as an animator. Use hashtags relevant to the animation industry, such as #animation #animator #animationindustry #animationart. Make sure to use engaging captions and tag relevant brands or influencers in your posts.

@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist advice.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, it is my job to help guide you towards the most fulfilling and suitable career path for you. Based on your desire to pursue a career as a biologist working in the biosciences industry, I have conducted some research and gathered some information that I believe may be helpful to you in determining your next steps.
 
 First, let's take a look at your skills and interests. As a biologist, you will need to have a strong foundation in the natural sciences, including biology, chemistry, and physics. You should also have excellent analytical and problem-solving skills, as well as the ability to communicate complex ideas effectively to both lay audiences and experts in the field. Additionally, you should be comfortable working independently and in a team setting, as well as be able to handle the demands of working in a fast-paced, dynamic environment.

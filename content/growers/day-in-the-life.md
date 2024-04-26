@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, there was a grower named Maria. She was a master of her craft and had been growing cannabis for over 20 years. She lived in a small town nestled in the mountains, where the air was crisp and the soil was rich.
 
 Maria woke up early every day, ready to tackle the challenges that came with being a grower. She tended to her plants with the utmost care, making sure they received the right amount of sunlight, water, and nutrients.

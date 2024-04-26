@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers.mp3" frameborder="0" style="border:0" >}}<br>
 As a business professional, it is clear to me that the use of open-source technology is crucial for the success of any industry. Not only does it allow for the sharing and collaboration of ideas and resources, but it also promotes innovation and progress.
 
 In today's rapidly changing business landscape, it is essential for companies to adapt and stay ahead of the curve. Open-source technology allows for this by providing access to a vast pool of knowledge and resources that can be leveraged to improve operations and stay competitive.

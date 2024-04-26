@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I believe that developing an ethical framework for starting a career as a physical therapist is an essential aspect of the profession. Physical therapy involves working with individuals who may be experiencing physical pain, disability, or other limitations, and it is the therapist's responsibility to help these individuals achieve their maximum level of function and independence.
 
 In order to develop an ethical framework for this profession, it is important to consider the values and principles that guide the work of physical therapists. These may include respect for the autonomy and dignity of clients, a commitment to non-maleficence (doing no harm), and a focus on beneficence (doing good).

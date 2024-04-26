@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, I believe that digital marketing is a great career option for individuals who are interested in the marketing industry. Digital marketing involves the use of various online platforms and tools to promote products and services to target audiences. It requires strong communication and analytical skills, as well as the ability to adapt to changing technologies and trends.
 
 Based on your skills, interests, and experience, I believe that you would be well-suited for a career as a digital marketer. You have strong communication and analytical skills, which are essential in this field. Additionally, you have a keen interest in the marketing industry, which is a key factor in determining your success in this field.

@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor.mp3" frameborder="0" style="border:0" >}}<br>
 The higher education industry is facing numerous controversies that are affecting the way colleges and universities operate. One of the major challenges that college professors face is the difficulty in finding work. The number of college professors who are struggling to find employment is increasing, and this is causing problems for the higher education industry as a whole.
 
 There are several reasons why college professors need to be paid more. For starters, professors are responsible for teaching the next generation of leaders, and their work is critical to the success of our society. Additionally, professors are required to constantly update their knowledge and skills in order to stay relevant in their field, which requires a significant amount of time and effort. As a result, it is only fair that they be compensated appropriately for their efforts.

@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators.mp3" frameborder="0" style="border:0" >}}<br>
 Here are some steps I would take as the social media manager for your content creation organization:
 
 Research and understand your target audience: It's important to know who you are trying to reach and what type of content will be most appealing to them. This will help inform the types of posts and campaigns we create.

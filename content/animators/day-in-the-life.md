@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators day.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, there was a young animator named Sarah. Sarah loved nothing more than bringing her creative ideas to life through animation. She spent her days at the studio, working tirelessly to create the most visually stunning and compelling animations possible.
 
 Sarah was part of a team of animators, each with their own unique talents and specialties. Together, they worked on a variety of projects, from short films and commercials to full-length feature films.

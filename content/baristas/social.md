@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas social.mp3" frameborder="0" style="border:0" >}}<br>
 Sure thing! Here are a few ideas for creating an engaging campaign on social media to promote your new business as a barista:
 
 On Instagram, create visually appealing content that showcases your coffee-making skills and the unique ambiance of your business. Share behind-the-scenes glimpses of your daily routine, customer interactions, and special events or promotions. Use hashtags related to coffee, hospitality, and your local community to reach a wider audience.

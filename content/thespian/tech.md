@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian.mp3" frameborder="0" style="border:0" >}}<br>
 As someone who has been involved in the performing arts industry for many years, I can attest to the fact that it is a constantly evolving and challenging field. One of the biggest challenges that performing artists face today is the lack of access to affordable, reliable technology that can help them grow and succeed in their careers.
 
 This is where open-source technology comes in. By providing freely available, customizable software and tools, open-source technology allows performing artists to access the resources they need to create, share, and promote their work without breaking the bank. This can be especially important for independent artists who may not have the financial resources to invest in proprietary software or equipment.

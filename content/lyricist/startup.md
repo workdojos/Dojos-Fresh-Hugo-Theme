@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist.mp3" frameborder="0" style="border:0" >}}<br>
 Idea Name: LyricZone
 
 One Liner: Connecting aspiring lyricists with industry professionals and resources to help them succeed in the music industry.

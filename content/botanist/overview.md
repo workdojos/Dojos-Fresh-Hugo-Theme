@@ -7,7 +7,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist overview.mp3" frameborder="0" style="border:0" >}}<br>
 The botany industry is a fascinating and important field that plays a crucial role in the study and understanding of plants. From research and development to conservation and sustainable agriculture, there are many opportunities to work in this industry.
 
 According to the Bureau of Labor Statistics, there are approximately 36,000 jobs in the botany field in the United States, with a median annual wage of $68,020. Many of these jobs are in research and development, as well as education and government agencies. However, there are also opportunities in private industries such as agriculture and horticulture.

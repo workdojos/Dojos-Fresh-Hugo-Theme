@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker.mp3" frameborder="0" style="border:0" >}}<br>
 Great! It sounds like you have a specific goal in mind and are interested in learning more about the perks and benefits of working as an investment banker in the financial services industry. Here are a few strategies that can help you achieve this goal:
 
 Research: One of the first steps you can take is to do some research on the financial services industry and the role of an investment banker. Some useful websites to check out include the Wall Street Oasis (https://www.wallstreetoasis.com/), eFinancialCareers (https://www.efinancialcareers.com/), and Investment Banking Institute (https://www.investmentbankinginstitute.com/). These sites can provide you with valuable information on the industry, including salary data, job descriptions, and industry trends.

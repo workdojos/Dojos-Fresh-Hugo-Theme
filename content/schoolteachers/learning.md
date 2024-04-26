@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers.mp3" frameborder="0" style="border:0" >}}<br>
 Certainly! Here are some suggestions for a curriculum for a school teacher:
 
 A bachelor's degree in education, or a bachelor's degree in a subject area with a teaching certification.

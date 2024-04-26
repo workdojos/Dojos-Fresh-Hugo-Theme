@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/clinician/clinician.mp3" frameborder="0" style="border:0" >}}<br>
 Great, it sounds like you have a goal of learning more about the perks and benefits of working as a clinician in the medical industry. This is an exciting and growing field with lots of upside potential, and there are many little-known facts that can help you get excited about a career as a clinician.
 
 First, it's important to understand that being a clinician means you get to make a real difference in people's lives. Every day, you'll be working with patients to improve their health and well-being, and you'll have the opportunity to see the positive impact of your work firsthand.

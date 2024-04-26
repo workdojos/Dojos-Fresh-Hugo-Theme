@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters.mp3" frameborder="0" style="border:0" >}}<br>
 The translation and interpretation industry is a vital component of our global economy, facilitating communication and understanding between individuals and organizations around the world. In today's increasingly interconnected world, the demand for skilled interpreters and translators is only expected to grow.
 
 One key area where the industry can improve is through the use of open-source technology. Open-source translation and interpretation tools allow for greater accessibility and affordability for individuals and organizations seeking translation services. This is particularly important for small businesses and organizations that may not have the resources to invest in expensive proprietary software.

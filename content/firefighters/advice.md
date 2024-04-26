@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, I would recommend conducting a thorough assessment of the individual's skills, interests, and experience to determine if a career as a firefighter is a good fit. Some key skills and qualities that are important for success in this field include physical fitness, strong communication and teamwork abilities, problem-solving skills, and the ability to handle high-stress situations.
 
 Additionally, I would recommend researching the job market trends in the public services industry, particularly in the field of firefighting. It is important to consider factors such as job demand, salary potential, and job growth potential in order to make an informed decision about this career path.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse.mp3" frameborder="0" style="border:0" >}}<br>
 vFirst of all, let me just say that becoming a registered nurse is an incredibly rewarding and fulfilling career choice. Not only do you have the opportunity to make a real difference in the lives of others, but you also have the opportunity to work in an exciting and growing industry with plenty of upside potential. Here are a few little-known facts about working as a registered nurse in the healthcare industry:
 
 Registered nurses are in high demand. In fact, the Bureau of Labor Statistics predicts that employment of registered nurses will grow by 15% from 2019 to 2029, which is much faster than the average for all occupations. This means that you will likely have plenty of job opportunities once you graduate from nursing school.

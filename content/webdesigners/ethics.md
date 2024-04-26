@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would approach this question by first considering the ethical principles that are relevant to the digital services industry. This might include principles such as respect for privacy, transparency, and responsibility.
 
 Next, I would consider how these principles can be applied to the specific role of a web designer. For example, a web designer has a responsibility to ensure that websites they design and build are secure and protect the privacy of users. They should also consider the impact of their work on society, and ensure that it is not used for harmful purposes.

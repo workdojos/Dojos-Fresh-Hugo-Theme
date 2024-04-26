@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators learning.mp3" frameborder="0" style="border:0" >}}<br>
 As a Talent Coach for animators, here are some suggestions for a curriculum, resources for learning, and exciting companies to work for:
 
 Curriculum:

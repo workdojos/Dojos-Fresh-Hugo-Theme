@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian.mp3" frameborder="0" style="border:0" >}}<br>
 Great, let's dive in! First of all, let's talk about some of the amazing perks and benefits of working as a thespian in the performing arts industry.
 
 First and foremost, being a thespian allows you to express yourself creatively and share your talents with the world. It's an incredibly fulfilling career that allows you to truly make a difference in the lives of others through your performances.

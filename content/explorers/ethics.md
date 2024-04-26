@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would first consider the ethical theories of deontology and consequentialism. Deontology asserts that certain actions are inherently right or wrong, regardless of their consequences. In this case, an ethical framework for starting a career as an outdoor explorer may include considering the moral duties and responsibilities that come with this role, such as ensuring the safety of clients and respecting the natural environment.
 
 On the other hand, consequentialism holds that the morality of an action is determined by its consequences. In this framework, an outdoor explorer may consider the potential consequences of their actions on the environment and the well-being of those involved in the outdoor exploration industry. This may involve considering the impact of their work on climate change, the conservation of natural resources, and the well-being of local communities.

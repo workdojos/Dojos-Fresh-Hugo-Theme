@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator.mp3" frameborder="0" style="border:0" >}}<br>
 First and foremost, it's important to recognize that a career as a lawyer in the legal industry can be incredibly rewarding and fulfilling. You'll have the opportunity to work on important cases and make a real impact on the lives of others.
 
 One of the perks of working as a lawyer is the potential for a high salary. According to the Bureau of Labor Statistics, the median annual wage for lawyers was $122,960 in 2020. Additionally, the demand for lawyers is expected to grow by 6% between 2019 and 2029, so there are plenty of job opportunities available.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist.mp3" frameborder="0" style="border:0" >}}<br>
 The art and special events industry is a vital part of our cultural landscape and economy. It provides opportunities for artists and creative professionals to showcase their work and for communities to come together and experience the beauty and diversity of the arts. However, the industry has faced numerous challenges in recent years, particularly in the wake of the COVID-19 pandemic, which has forced many events to be postponed or cancelled.
 
 One solution to these challenges is the adoption of open-source technology. Open-source platforms, such as WordPress and Drupal, allow for the creation of websites and online content that is freely available and can be modified by anyone. This can be especially beneficial for small businesses in the art and special events industry, who may not have the resources to invest in proprietary software or website development.
