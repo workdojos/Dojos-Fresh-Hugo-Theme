@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/accountexecutive/accountexecutive learning.mp3" frameborder="0" style="border:0" >}}<br>
+
 Curriculum:
 
 Marketing or business degree

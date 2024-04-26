@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/accountexecutive/accountexecutive start.mp3" frameborder="0" style="border:0" >}}<br>
+
 First of all, congratulations on setting the goal of starting your own startup as an account executive in the sales industry! This is a challenging and rewarding career path that can offer many amazing benefits.
 
 Here are some strategies that can help you achieve this goal:

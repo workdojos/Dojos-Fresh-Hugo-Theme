@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators history.mp3" frameborder="0" style="border:0" >}}<br>
+<p>
 The word "administrator" comes from the Latin "administrātor," which means "one who manages affairs." This word was formed by combining "ad-" (meaning "to" or "toward") with "ministrāre" (meaning "to serve"). The word "administration" comes from the same root, with the addition of the suffix "-tion," which indicates a process or state.
 
 The word "administrator" first appeared in English in the early 15th century, and referred to a person who was responsible for managing the affairs of a household, organization, or estate. Over time, the meaning of the word has broadened to refer to any person who is responsible for the management of a particular area of responsibility, such as a school, hospital, or government agency.

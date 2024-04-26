@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/accountexecutive/accountexecutive social.mp3" frameborder="0" style="border:0" >}}<br>
+
 Sure, I'd be happy to help! Here are some ideas for an engaging social media campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as an account executive in the sales industry:
 
 Instagram: Create a visually appealing feed that showcases your expertise in the sales industry. Share behind-the-scenes glimpses of your work, including client meetings, sales presentations, and success stories. Utilize Instagram Stories to connect with your followers and share valuable tips and advice on how to excel in sales.

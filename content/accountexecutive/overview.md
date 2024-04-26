@@ -7,7 +7,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/accountexecutive/accountexecutive overview.mp3" frameborder="0" style="border:0" >}}<br>
+
 As an essay writer, I have done some research on the sales industry and have gathered some interesting facts and figures. According to the Bureau of Labor Statistics, the sales industry is expected to grow by 5% between 2019 and 2029, which is faster than the average for all occupations. This growth is due to an increasing demand for goods and services, as well as the growth of online sales platforms.
 
 There are many opportunities to work in the sales industry, as it encompasses a wide range of products and services. Some popular job titles in the industry include sales representative, sales manager, and sales associate. To find opportunities in the sales industry, it is helpful to search job boards, network with industry professionals, and consider internships or entry-level positions.

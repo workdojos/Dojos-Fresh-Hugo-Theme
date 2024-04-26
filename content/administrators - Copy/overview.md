@@ -7,7 +7,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators overview.mp3" frameborder="0" style="border:0" >}}<br>
+<p>
 The Administration & book-keeping industry is an essential part of any business, as it helps to keep track of financial records and ensure that everything is running smoothly. Here are some key facts and figures about the industry:
 
 According to the Bureau of Labor Statistics, there are over 3 million people employed in the Administration & book-keeping industry in the United States.

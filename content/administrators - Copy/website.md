@@ -7,7 +7,7 @@ layout: single2
 ---
 
 <br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators website.mp3" frameborder="0" style="border:0" >}}<br>
+<p>
 As a web design consultant, I recommend having a website for your business in the administration and bookkeeping industry for several reasons. Firstly, a website allows you to showcase your services and skills to a larger audience, which can help you attract more potential clients. It can also serve as a hub for important information about your business, including contact details, pricing, and client testimonials.
 
 In terms of creating a website, there are several web builders that you can use to get started. Some of the leading options include Wix, Squarespace, and Weebly. These platforms offer a range of templates and customization options that make it easy to create a professional-looking website without needing to have coding experience.

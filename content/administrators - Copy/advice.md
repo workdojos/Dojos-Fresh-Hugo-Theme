@@ -6,7 +6,7 @@ type: page
 layout: single3
 ---
 
-{{< iframe width="100%" height="258" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators advice.mp3" frameborder="0" style="border:0" >}} <br>
+{{< iframe width="100%" height="258" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators advice.mp3" frameborder="0" style="border:0" >}}
 
 To start, I would recommend conducting research into the various career options available within this industry. Some possible roles you could consider include administrative assistants, office managers, and bookkeepers. Each of these positions requires different skills and qualifications, so it is important to consider which would be the best fit for you.
 

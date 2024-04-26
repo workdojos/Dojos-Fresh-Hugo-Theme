@@ -7,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators rights.mp3" frameborder="0" style="border:0" >}}<br>
+<p>
 As an administrator working in the administration and bookkeeping industry, I am deeply concerned about the fair treatment and proper wages of workers in this field. In recent years, there have been numerous trends and events that have highlighted the need for more fair work practices in this industry.
 
 One trend that has emerged is the growing use of temporary and contract workers in the industry. While these workers may offer a cost-effective solution for companies, they often lack the benefits and job security of permanent employees. This can lead to exploitation and mistreatment of workers, as they may be paid less and receive fewer protections.

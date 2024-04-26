@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/accountexecutive/accountexecutive tech.mp3" frameborder="0" style="border:0" >}}<br>
+
 The sales industry is a vital part of any economy, as it drives the growth and success of businesses through the exchange of goods and services. However, in recent years, the industry has faced challenges in adapting to the digital age, with many sales professionals struggling to keep up with the constantly evolving landscape of technology.
 
 One solution to this problem is the use of open-source technology in the sales industry. Open-source technology is a type of software that is freely available and can be modified and distributed by anyone. This allows for greater collaboration and innovation within the industry, as sales professionals can access a wide range of tools and resources that can help them streamline their work and improve their performance.

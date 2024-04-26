@@ -6,8 +6,7 @@ type: page
 layout: single2
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/accountexecutive/accountexecutive website.mp3" frameborder="0" style="border:0" >}}<br>
+
 As a web design consultant, I would first recommend having your own website for several reasons. Firstly, having your own website allows you to have a professional online presence, giving potential clients a place to learn more about your company and the services you offer. This can help establish credibility and trust with potential clients.
 
 Secondly, having your own website allows you to have control over the content and design of your site, allowing you to effectively market your services and highlight your unique selling points. A website can also serve as a platform for lead generation, allowing clients to easily contact you and inquire about your services.

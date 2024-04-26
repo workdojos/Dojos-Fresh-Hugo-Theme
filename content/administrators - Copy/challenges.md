@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators challenges.mp3" frameborder="0" style="border:0" >}}<br>
+<p>
 The Administration and bookkeeping industry is a vital part of any business, yet it is often overlooked and undervalued. There are many controversies and challenges facing this industry, including issues of pay and job security. It is important that we address these issues and work towards making the industry better for all administrator's in the future.
 
 One major controversy in the Administration and bookkeeping industry is the low pay that many administrator's receive. While these professionals are responsible for managing the finances and day-to-day operations of a company, they are often paid significantly less than other employees with similar levels of education and experience. This is not only unfair, but it also leads to high turnover rates and a lack of job security for administrator's.
