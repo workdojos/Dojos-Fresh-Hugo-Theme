@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/accountexecutive/accountexecutive challenges.mp3" frameborder="0" style="border:0" >}}<br>
+<p>
 The sales industry is facing a number of controversies and challenges, particularly for account executives who are tasked with securing and maintaining client relationships. Despite the crucial role that these professionals play in the success of any business, they often face difficulties in finding and retaining employment, as well as receiving fair compensation for their efforts. In order to address these issues and improve the sales industry as a whole, it is necessary to make it easier for account executiveto find work, pay them more, and address the various controversies facing the industry.
 
 One of the main challenges faced by account executives is the difficulty in finding and securing employment. Many companies have strict hiring requirements and are hesitant to invest in new sales staff, leading to a competitive and often uncertain job market for these professionals. In order to address this issue, it is necessary to implement policies and initiatives that make it easier for account executiveto find work and establish themselves in the industry. This could include providing training and development opportunities, offering flexible work arrangements, and creating a more supportive and welcoming environment for new hires.

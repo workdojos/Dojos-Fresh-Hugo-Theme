@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/accountexecutive/accountexecutive history.mp3" frameborder="0" style="border:0" >}}<br>
+<p>
 The word "account" comes from the Latin word "computare," which means "to compute or calculate." The word "executive" comes from the Latin word "exsequi," which means "to follow out or carry out." In the early 16th century, the word "account" began to be used in a more financial sense, referring to a record of financial transactions. The word "executive" was first used in the 17th century to describe someone who was responsible for carrying out the orders or decisions of a higher authority.
 
 The term "account executive" refers to someone who is responsible for managing the financial accounts of a company or organization. This role typically involves working with clients and managing their accounts, as well as handling financial transactions and reporting. The meaning of this term has remained relatively unchanged over time, though the specific responsibilities and duties of an account executive may vary depending on the company or industry.

@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/accountexecutive/accountexecutive ethics.mp3" frameborder="0" style="border:0" >}}<br>
+<p>
 As a philosopher, it is important to consider the ethical implications of any action or decision we make. Starting a business, especially as an account executive in the sales industry, requires careful consideration of how we can operate in a way that is ethical and responsible.
 
 One possible ethical framework for starting a business in this field might be based on the concept of integrity. Integrity involves acting in a way that is consistent with our values and principles, even when faced with difficult or tempting situations. For example, an ethical account executive might avoid making false or misleading claims in order to make a sale, and instead focus on providing honest and accurate information to potential clients.

@@ -7,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/accountexecutive/accountexecutive rights.mp3" frameborder="0" style="border:0" >}}<br>
+<p>
 As an account executive working in the sales industry, I strongly believe that fair work practices are essential for the well-being and success of both the individual worker and the company as a whole. In recent years, there have been a number of trends and events in the industry that highlight the importance of promoting worker’s rights, fair treatment, and proper wages.
 
 One trend that has emerged in the sales industry is the increasing use of independent contractors and gig workers, who often do not receive the same benefits and protections as traditional employees. This can lead to unfair treatment, as contractors may not receive the same level of pay or support as employees. It is important that companies recognize the value of their workers, regardless of their employment status, and ensure that they are treated fairly and paid appropriately.

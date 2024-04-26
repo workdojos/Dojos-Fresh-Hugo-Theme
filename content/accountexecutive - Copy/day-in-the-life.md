@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/accountexecutive/accountexecutive day.mp3" frameborder="0" style="border:0" >}}<br>
+<p>
 Once upon a time, in a bustling city filled with skyscrapers and high-stress jobs, there was a young account executive named Sarah. Sarah worked for a major advertising firm and spent her days juggling phone calls, meetings, and presentations.
 
 She woke up bright and early each morning, ready to tackle the day ahead. After a quick breakfast, she hopped on the subway and made her way to the office.

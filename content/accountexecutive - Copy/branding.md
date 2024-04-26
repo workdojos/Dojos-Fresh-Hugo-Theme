@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/accountexecutive/accountexecutive branding.mp3" frameborder="0" style="border:0" >}}<br>
+<p>
 Sure, I can definitely help with that. Here are some specific action items I suggest for managing the presence of your sales organization on social media:
 
 Develop a social media strategy that aligns with your overall business goals. This should include identifying your target audience, defining your brand voice, and outlining the types of content you want to share on each platform.

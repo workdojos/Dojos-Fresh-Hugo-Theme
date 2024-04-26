@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/accountexecutive/accountexecutive advice.mp3" frameborder="0" style="border:0" >}}<br>
+<p>
 As a career counselor, I would first assess the individual's skills and interests to determine if a career as an account executive in the sales industry would be a good fit. Some key skills that are important for success in this field include strong communication and negotiation skills, the ability to build relationships with clients, and the ability to manage and prioritize tasks effectively. If the individual has a strong interest in sales and a natural ability to persuade and influence others, they may be well-suited for this career path.
 
 In terms of the job market trends in the sales industry, it is important to note that competition for sales positions can be intense, and successful account executives often have a strong track record of sales success. To increase their chances of success, the individual may want to consider obtaining a bachelor's degree in business or a related field and gaining experience through internships or entry-level sales positions.
