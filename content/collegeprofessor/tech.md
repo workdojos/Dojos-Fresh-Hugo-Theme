@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor tech.mp3" frameborder="0" style="border:0" >}}<br>
 As someone who has spent a significant amount of time in the higher education industry, I can attest to the importance of open-source technology in the success of both professors and students. With the rapid advancements in technology and the increasing need for online learning options, it is essential that colleges and universities have access to reliable and cost-effective resources.
 
 Open-source technology allows for a more collaborative and inclusive learning environment. It allows professors to share resources and materials with each other and with their students, fostering a sense of community and increasing the overall quality of education. It also allows for more flexibility in terms of course offerings and curriculum development, as professors can build upon existing materials rather than starting from scratch.

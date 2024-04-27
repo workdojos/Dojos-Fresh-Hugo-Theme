@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists start.mp3" frameborder="0" style="border:0" >}}<br>
 Great! It sounds like you are interested in pursuing a career as a data scientist in the data science industry. This is a fantastic choice, as the data science industry is rapidly growing and has a lot of potential for career advancement and financial success.
 
 First of all, let's talk about the perks and benefits of working as a data scientist. One of the biggest advantages of this career is the high demand for skilled professionals in the field. Data scientists are in high demand, meaning that you will have a lot of job opportunities and the ability to negotiate a competitive salary.

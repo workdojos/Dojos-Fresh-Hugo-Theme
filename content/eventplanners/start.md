@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners start.mp3" frameborder="0" style="border:0" >}}<br>
 Great! It sounds like you have a clear goal in mind and are excited about the potential opportunities in the special events industry. As a motivational coach, my job is to help you reach your goals and realize your full potential. Here are a few strategies that can help you on your journey to becoming an event planner:
 
 Research, research, research! The more you know about the industry, the better equipped you will be to succeed. Some useful websites to check out include Eventbrite, Event Planning Blueprint, and Event Planner Association. These sites can provide valuable information on trends, best practices, and job opportunities in the field.

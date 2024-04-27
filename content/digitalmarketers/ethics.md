@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, one approach to developing an ethical framework for starting a career as a digital marketer could involve examining the principles of deontological ethics. Deontological ethics is a moral theory that focuses on the inherent rightness or wrongness of actions, regardless of their consequences.
 
 In the context of digital marketing, a deontological approach could involve examining the inherent moral value of certain marketing practices, such as using manipulative or deceptive techniques to influence consumer behavior. This approach would emphasize the importance of acting in accordance with moral duties and obligations, rather than solely considering the outcomes of one's actions.

@@ -7,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/cinematographer/cinematographer.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/cinematographer/cinematographer rights.mp3" frameborder="0" style="border:0" >}}<br>
 While it is important to consider the needs and concerns of the industry as a whole, it is equally important to ensure that the rights and fair treatment of workers are protected.
 
 On one hand, it is argued that the cinema industry is a highly competitive and financially challenging field, and that employers must sometimes make difficult decisions in order to stay afloat. In this context, it is suggested that fair wages and benefits may not always be possible, and that workers must sometimes accept lower pay or less favorable working conditions in order to secure employment.

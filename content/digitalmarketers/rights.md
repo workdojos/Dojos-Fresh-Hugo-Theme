@@ -7,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers rights.mp3" frameborder="0" style="border:0" >}}<br>
 As a digital marketer working in the marketing industry, I have seen firsthand the issues that arise when it comes to fair work practices. One major trend that has emerged in recent years is the increasing reliance on freelance and contract workers, who are often not afforded the same protections and benefits as full-time employees. This can lead to a lack of job security, as well as lower wages and fewer opportunities for advancement.
 
 On the other hand, many companies argue that the use of contract workers allows for greater flexibility and cost-saving measures. However, this argument often ignores the fact that these workers are still providing valuable services and should be compensated fairly for their work.

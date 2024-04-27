@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters rights.mp3" frameborder="0" style="border:0" >}}<br>
 As a debater, it is my duty to present both sides of the argument surrounding fair work practices for interpreters in the translation and interpretation industry. While it is important to recognize the role of businesses and their needs, it is equally crucial to advocate for the rights and fair treatment of workers.
 
 On one hand, businesses argue that they have limited resources and must prioritize their financial stability in order to survive. Therefore, they may argue that they cannot afford to pay interpreters high wages or provide generous benefits. Additionally, some may claim that the demand for interpretation services is not consistently high, leading to inconsistent work for interpreters and potential difficulties in providing benefits or stable employment.

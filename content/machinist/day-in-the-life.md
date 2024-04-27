@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist day.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, in the bustling world of the machining industry, there was a skilled and dedicated machinist named John. Every day, John would wake up at the crack of dawn and head to his workshop, ready to tackle the day's tasks.
 
 As he walked through the doors of the workshop, the smell of metal and oil filled his nostrils, and the sound of machines whirring and clanking filled his ears. John was in his element - he loved nothing more than working with his hands, creating and repairing complex machinery.

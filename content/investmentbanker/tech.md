@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker tech.mp3" frameborder="0" style="border:0" >}}<br>
 The financial services industry has always been one of the most powerful and influential sectors in the global economy. It is responsible for facilitating the flow of capital and managing the risk associated with investing and lending. However, in recent years, the industry has come under increasing scrutiny for its lack of transparency and accountability, as well as its reliance on proprietary technology that is often expensive and difficult to access.
 
 One solution to these issues is the adoption of open-source technology in the financial services industry. Open-source technology is software that is freely available and can be modified and distributed by anyone. This allows for greater transparency and collaboration, as well as the ability for smaller companies and startups to compete with larger, more established firms.

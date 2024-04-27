@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist start.mp3" frameborder="0" style="border:0" >}}<br>
 Great, let's dive in! Firstly, it's important to recognize that being a lyricist in the music industry can be a highly rewarding and fulfilling career. Not only do you get to express your creativity and passion for music, but you also have the opportunity to reach a wide audience and make a real impact with your words.
 
 One little-known fact about being a lyricist is that you have the potential to earn significant income through your work. Songwriters can earn royalties every time their songs are played on the radio, streamed online, or sold as physical copies. This means that even long after you have written a song, it can continue to generate income for you.

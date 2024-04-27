@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist advice.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, it is my job to help you explore and identify potential careers that align with your skills, interests, and experience. Based on the information provided, it seems like a career as a lyricist in the music industry might be a good fit for you.
 
 To begin with, it is important to assess your skills and experience. As a lyricist, you will need to have strong writing skills, particularly in terms of expressing emotions and ideas through your words. You should also be able to work effectively with a team, as many lyricists collaborate with music producers, songwriters, and artists to create songs.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would recommend starting by examining the concept of "ethics." Ethics refers to a set of principles or values that guide our behavior and decision-making. In the context of a career as a firefighter, it might be helpful to consider the following ethical questions:
 
 What are the core values that should guide the actions of a firefighter? For example, you might consider values such as bravery, compassion, integrity, and professionalism.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners social.mp3" frameborder="0" style="border:0" >}}<br>
 First, let's start with Instagram. I would create a series of visually stunning posts showcasing some of the events I have planned in the past. These could include photos of the venue, décor, and guests having a great time. I would also utilize Instagram stories to give a behind-the-scenes look at the planning process and to show off my creativity and attention to detail. I would also utilize Instagram hashtags related to the event planning industry and engage with other event planners and industry professionals.
 
 On Twitter, I would share quick updates and tips related to event planning, as well as links to blog posts or articles I have written on the topic. I would also engage with other event planners and industry professionals by commenting on their tweets and retweeting their content.

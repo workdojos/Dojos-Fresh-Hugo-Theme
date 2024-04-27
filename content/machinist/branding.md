@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist branding.mp3" frameborder="0" style="border:0" >}}<br>
 As the social media manager for your machining organization, my first priority would be to establish a clear and consistent brand voice across all platforms. This means using the same language, tone, and imagery in all of our social media posts, as well as ensuring that our messaging aligns with our overall brand goals and values.
 
 Next, I would focus on building a strong presence on Twitter, Instagram, and Pinterest through a combination of engaging content and targeted advertising. This could include sharing industry news, showcasing our products and services, and highlighting customer success stories. I would also utilize hashtags and tagging relevant accounts in order to increase the reach of our content and attract new followers.

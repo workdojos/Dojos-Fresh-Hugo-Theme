@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists tech.mp3" frameborder="0" style="border:0" >}}<br>
 The data science industry is growing at an exponential rate, with demand for skilled data scientists far outpacing the current supply. As such, it is crucial that the industry adapts and evolves to meet this demand, and one way it can do so is by embracing open-source technology.
 
 Open-source technology has a number of benefits for the data science industry. Firstly, it allows for greater collaboration and sharing of ideas, which can lead to more innovative and effective solutions to problems. Secondly, it allows for a more diverse range of individuals and organizations to contribute to and benefit from the data science ecosystem, rather than being limited to those with the resources to afford proprietary solutions. Finally, open-source technology is often more cost-effective, which can be particularly beneficial for small businesses who may not have the budget for expensive proprietary solutions.

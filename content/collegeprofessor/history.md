@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor history.mp3" frameborder="0" style="border:0" >}}<br>
 The word "college" can be traced back to the Latin word "collegium," which means a community or society. In ancient Rome, a collegium was a group of people who came together for a common purpose, such as a trade guild or a religious organization. The word "college" was first used in English in the 14th century to refer to a group of people living together for a common purpose, such as a group of monks or scholars.
 
 The word "professor" comes from the Latin word "professus," which means to declare or avow. In the 14th century, a professor was a person who publicly declared their profession or belief in a certain area of knowledge. The word was later used to refer to a teacher or scholar who is an expert in their field and who teaches at a college or university.

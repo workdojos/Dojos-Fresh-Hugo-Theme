@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor social.mp3" frameborder="0" style="border:0" >}}<br>
 Sure! Here are a few ideas for an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as a college professor in the higher education industry:
 
 Instagram: Create a series of Instagram posts showcasing your teaching style and the subject matter you specialize in. Use hashtags related to higher education and teaching, and tag relevant accounts such as colleges and universities, educational organizations, and other educators. Engage with your followers by asking for their thoughts on education and inviting them to share their own experiences.

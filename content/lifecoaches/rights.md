@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches rights.mp3" frameborder="0" style="border:0" >}}<br>
 As a life coach working in the industry, I am deeply concerned about the fair treatment of workers in this field. In recent years, there have been a number of trends and events that have brought attention to the need for improved work practices in the life coaching industry.
 
 One trend that has emerged is the increasing prevalence of life coaches who work as independent contractors, rather than as employees. While this arrangement may seem attractive at first, it often leads to a lack of job security and benefits for workers. In addition, many independent contractors are not paid fair wages, and are often asked to work long hours without receiving overtime pay. This is a clear violation of workers' rights, and it is important that we advocate for fair treatment and proper wages for all life coaches, regardless of their employment status.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would begin by considering what ethical theories might be most relevant to the startup financing industry. One possibility is Kantian ethics, which focuses on the moral imperative to always act in ways that respect the inherent dignity of all individuals. In the context of financing, this might mean prioritizing the needs of the founders and employees of the startup over the desires of investors or shareholders.
 
 Another ethical framework to consider is consequentialism, which holds that the right action is the one that leads to the best overall outcomes. In the startup financing industry, this could involve considering not only the financial returns of an investment, but also the potential impact on the broader community or society.

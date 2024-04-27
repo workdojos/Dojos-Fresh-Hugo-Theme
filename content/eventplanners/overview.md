@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners overview.mp3" frameborder="0" style="border:0" >}}<br>
 The special events industry is a multi-billion dollar industry that encompasses a wide range of events, including weddings, corporate events, festivals, and concerts. According to the International Special Events Society, the special events industry generates $456 billion in revenue annually.
 
 There are many opportunities to work in the special events industry, including event planners, coordinators, and assistants. These professionals are responsible for managing all aspects of an event, including budgeting, venue selection, and vendor management. To find opportunities in the industry, it is important to network with those who are already working in the field, attend industry events, and utilize job search websites such as Eventbrite and MeetingsNet.

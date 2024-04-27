@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist tech.mp3" frameborder="0" style="border:0" >}}<br>
 The music industry is a constantly evolving landscape, and with the rise of streaming platforms and the decline of physical album sales, it has become increasingly difficult for artists to make a living off of their craft. One solution that has been proposed is the use of open-source technology in the music industry.
 
 Open-source technology allows for the sharing and collaborative development of software and other technological tools, which could potentially benefit artists in a number of ways. For one, it could help level the playing field for independent artists who may not have the resources or connections to access expensive proprietary software and technology. It could also allow for more innovative and creative approaches to distribution and promotion, as artists would have the freedom to experiment with different technologies and approaches without being limited by proprietary software or restrictive licensing agreements.

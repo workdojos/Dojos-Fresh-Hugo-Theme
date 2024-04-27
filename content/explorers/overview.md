@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers overview.mp3" frameborder="0" style="border:0" >}}<br>
 The outdoor industry is a diverse and growing sector that offers a range of exciting opportunities for those interested in working in the field. According to the Outdoor Industry Association, the outdoor industry generated $887 billion in consumer spending in 2019, making it a significant contributor to the economy. The industry also employs millions of people in a variety of roles, including sales, marketing, design, manufacturing, and more.
 
 One way to find opportunities in the outdoor industry is to start networking with those already working in the field. Attend industry events, such as trade shows and conferences, and connect with professionals through social media or professional networking groups. It can also be helpful to reach out to outdoor companies directly and inquire about potential job openings.

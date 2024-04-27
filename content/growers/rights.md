@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers rights.mp3" frameborder="0" style="border:0" >}}<br>
 The cannabis industry is rapidly growing and with it comes a need for fair work practices for growers. There have been several recent trends and events in the industry that highlight the importance of promoting worker's rights, fair treatment, and proper wages for these workers.
 
 One trend that has emerged in the cannabis industry is the exploitation of workers. In some cases, growers are paid low wages and are expected to work long hours in difficult conditions. This is unacceptable and goes against the principles of fair work practices. Workers deserve to be treated with respect and to be compensated fairly for their efforts.

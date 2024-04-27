@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators tech.mp3" frameborder="0" style="border:0" >}}<br>
 The content creation industry is a rapidly growing sector of the economy, with more and more people turning to YouTube, social media, and other online platforms to share their ideas and creations with the world. This growth has brought with it both opportunities and challenges, particularly when it comes to the use of technology in the industry.
 
 One of the biggest challenges facing content creators is the cost of proprietary software and hardware. Many of the tools and platforms used in the industry are owned by large corporations, which often charge exorbitant fees for access to their products. This can be a significant barrier for small content creators, who may not have the financial resources to afford expensive software and equipment.

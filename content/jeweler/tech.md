@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler tech.mp3" frameborder="0" style="border:0" >}}<br>
 The luxury goods industry has always been a contentious topic, with debates surrounding the ethics of consumerism and the impact on the environment. However, as technology continues to advance, there is a growing need for open-source technology to serve the luxury goods industry.
 
 One major issue in the luxury goods industry is the lack of transparency and traceability in the supply chain. Open-source technology can provide a solution to this issue by allowing consumers to easily track the origin and ethical production of luxury goods. This not only helps to ensure that the products are not produced through forced labor or other unethical practices, but it also helps to build trust between consumers and brands.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches start.mp3" frameborder="0" style="border:0" >}}<br>
 First of all, let me start by saying that a career as a life coach can be extremely rewarding and fulfilling. As a life coach, you have the opportunity to make a positive impact on people's lives by helping them to set and achieve their goals.
 
 Now, let's talk about some of the benefits of working in the life coaching industry. One of the biggest perks is the flexibility that comes with being your own boss. As a life coach, you get to decide your own schedule and work with clients in a way that fits your lifestyle.

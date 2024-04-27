@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist start.mp3" frameborder="0" style="border:0" >}}<br>
 Sure! Here are some strategies to help you learn about the perks and benefits of working as a musical artist in the music industry:
 
 Research and gather information about the music industry: There are many resources available online that can provide you with valuable information about the music industry, including industry trends, job opportunities, and salary data. Some useful websites to check out include the Recording Industry Association of America (RIAA) and the National Association of Record Industry Professionals (NARIP).

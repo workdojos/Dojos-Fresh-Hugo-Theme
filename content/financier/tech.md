@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier tech.mp3" frameborder="0" style="border:0" >}}<br>
 The startup financing industry is an exciting and rapidly growing sector that plays a vital role in the economy. It provides capital and support to new and innovative businesses, which can drive economic growth and create new jobs. However, the industry has faced a number of challenges in recent years, including a lack of transparency and a lack of access to funding for small businesses.
 
 One potential solution to these issues is the use of open-source technology in the startup financing industry. Open-source technology can provide a more transparent and accessible platform for businesses to access funding and for investors to make informed decisions. By using open-source technology, startups and small businesses can more easily connect with investors, as well as access information about potential funding opportunities. This can help to level the playing field and give smaller businesses a greater chance of success.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would approach this question by first considering the basic principles of ethical theory. In particular, I would consider the principles of respect for autonomy, non-maleficence, beneficence, and justice.
 
 Respect for autonomy refers to the idea that individuals should be free to make their own decisions and should not be coerced or manipulated by others. This principle would be relevant in the context of a lab tech starting a career, as it would be important to ensure that the individual has the freedom to make decisions about their career path and is not being forced into a particular role by external factors.

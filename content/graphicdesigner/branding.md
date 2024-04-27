@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner branding.mp3" frameborder="0" style="border:0" >}}<br>
 To effectively manage the social media presence of a graphic design and graphic arts organization on Twitter, Instagram, and Pinterest, I would recommend the following strategies:
 
 Develop a content calendar that includes a mix of industry news, behind-the-scenes glimpses of your organization, and showcases of your work. Be sure to incorporate hashtags relevant to your industry and encourage your followers to use them as well.

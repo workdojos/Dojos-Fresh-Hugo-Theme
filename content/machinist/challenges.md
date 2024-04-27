@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist challenges.mp3" frameborder="0" style="border:0" >}}<br>
 The machining industry is facing numerous controversies and challenges that are impacting the work and livelihood of machinists. One of the main controversies facing the industry is the lack of skilled workers. Despite the growing demand for machinists, there is a shortage of qualified individuals who can fill these positions. This is largely due to the lack of training and education opportunities available to aspiring machinists.
 
 Another challenge facing the machining industry is the lack of job security. Many machinists are working on a contract basis, which means they do not have the same job protections and benefits as full-time employees. This can lead to job insecurity and financial instability for machinists, which can be detrimental to both their personal and professional lives.

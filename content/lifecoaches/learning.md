@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches learning.mp3" frameborder="0" style="border:0" >}}<br>
 As a talent coach for interviews for a life coach position, here are some suggestions for what should appear in a curriculum:
 
 A bachelor's degree in psychology, counseling, or a related field.

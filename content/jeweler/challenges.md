@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler challenges.mp3" frameborder="0" style="border:0" >}}<br>
 As the luxury goods industry continues to grow, so too do the controversies surrounding it. From unethical sourcing of materials to unsustainable production practices, there are a multitude of challenges facing jewelers and the industry as a whole. However, by addressing these issues and working to make it easier for jewelerto find work, we can create a brighter future for the luxury goods industry.
 
 One major controversy facing the luxury goods industry is the sourcing of materials. Many luxury goods, including jewelry, are made using materials such as diamonds and gold, which are often mined in countries with questionable labor practices. This can lead to exploitation of workers and damage to the environment. To address this issue, we need to make sure that these materials are sourced ethically and sustainably. This could involve working with organizations that certify materials as ethically and sustainably mined, or developing new technologies that allow for the reuse and recycling of materials.

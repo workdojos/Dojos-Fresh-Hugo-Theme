@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would recommend considering the ethical framework of deontology, which focuses on the inherent moral value of actions and duties. In the context of starting a career as an event planner in the special events industry, some key duties to consider within this framework may include:
 
 Fidelity: This involves being loyal and faithful to clients, ensuring that their needs and desires are met to the best of your ability.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator tech.mp3" frameborder="0" style="border:0" >}}<br>
 The legal industry is a vital part of our society, as it helps to ensure that justice is served and that individuals and businesses are protected. However, it is also an industry that has long been criticized for its high costs and slow pace of change. One way to address these issues is by embracing open-source technology.
 
 Open-source technology refers to software that is freely available for anyone to use and modify. In the legal industry, this could mean using open-source software to streamline legal processes, such as document management or case tracking. It could also mean using open-source platforms to connect with clients and collaborate with other attorneys.

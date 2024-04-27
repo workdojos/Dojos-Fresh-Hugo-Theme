@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement rights.mp3" frameborder="0" style="border:0" >}}<br>
 Fair work practices for police officers in the protective services industry are an important issue that has recently come to the forefront of public attention. There have been a number of high-profile cases where police officers have been accused of mistreating or even killing unarmed citizens, leading to protests and calls for reform. At the same time, there are also many stories of police officers going above and beyond the call of duty to protect and serve their communities.
 
 One argument in favor of fair work practices for police officers is that they deserve to be treated with respect and dignity just like any other worker. Police officers often work long hours in dangerous and stressful situations, and they deserve to be compensated fairly for their efforts. This includes not just their wages, but also things like benefits and time off. Police officers should also have the right to unionize and negotiate for better working conditions.

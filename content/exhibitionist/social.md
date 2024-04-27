@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist social.mp3" frameborder="0" style="border:0" >}}<br>
 Here are a few ideas for an engaging social media campaign to promote your business as an exhibitionist in the art and special events industry:
 
 Instagram: Create visually appealing posts showcasing your art installations and special events. Utilize hashtags relevant to the art and events industry, and engage with other artists and event planners by commenting on their posts and responding to comments on your own posts. Collaborate with other influencers and businesses to reach a wider audience.

@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators advice.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, it is my job to help individuals like yourself determine the best career path for your skills, interests, and experience. Based on your desire to pursue a career as a content creator in the content creation industry, I have conducted some research and have some recommendations for you.
 
 First, it is important to understand the job market trends in the content creation industry. Currently, there is a high demand for skilled content creators who can produce engaging and high-quality content for a variety of platforms, including social media, blogs, websites, and video platforms. Additionally, the rise of digital marketing has also increased the demand for content creators who can create marketing materials such as email campaigns, landing pages, and ads.

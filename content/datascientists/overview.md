@@ -7,7 +7,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists overview.mp3" frameborder="0" style="border:0" >}}<br>
 As a data scientist, it is essential to have a deep understanding of mathematics, statistics, and computer science. According to Forbes, the data science industry is projected to be worth $190 billion by 2020. It is a rapidly growing field that is in high demand, with job opportunities expected to increase by 16% between 2016 and 2026.
 
 To find opportunities to work in the data science industry, it is essential to network with professionals in the field. Attend industry events, join relevant LinkedIn groups, and connect with professionals on social media platforms such as Twitter and Reddit. Networking can help you learn about job openings, gain valuable insights into the industry, and make connections that could lead to future job opportunities.

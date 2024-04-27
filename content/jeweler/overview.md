@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler overview.mp3" frameborder="0" style="border:0" >}}<br>
 The luxury goods industry is a rapidly growing and highly competitive field that is constantly evolving. According to a report by Bain & Company, the global luxury goods market was valued at $1.3 trillion in 2019, with the Asia-Pacific region accounting for nearly half of this figure.
 
 One of the key ways to find opportunities to work in the luxury goods industry is to network with those already in the field. This can be done through attending industry events, joining professional organizations, and reaching out to professionals through social media or LinkedIn.

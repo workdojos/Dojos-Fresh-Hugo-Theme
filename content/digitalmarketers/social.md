@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers social.mp3" frameborder="0" style="border:0" >}}<br>
 Sure, I can definitely help with that! Here are a few ideas for an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as a digital marketer:
 
 Instagram: Create a visually appealing Instagram feed that showcases your skills as a digital marketer. Share before and after examples of your work, testimonials from happy clients, and behind-the-scenes glimpses of your day-to-day work. Use hashtags related to digital marketing and engage with other influencers in the industry.

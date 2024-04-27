@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech rights.mp3" frameborder="0" style="border:0" >}}<br>
 The laboratory testing industry is a vital sector of the economy, responsible for conducting important scientific research and producing reliable results that are used in a variety of fields, including healthcare, environmental protection, and product safety. However, the lab techs who work in these laboratories often face challenges in terms of fair work practices, including low wages, long hours, and a lack of job security.
 
 One recent trend in the laboratory testing industry is the increasing use of temporary or contract workers, who are often paid lower wages and do not receive the same benefits as full-time employees. This practice not only harms the financial stability of these workers, but it also creates an unstable and uncertain work environment, as they are not guaranteed steady employment.

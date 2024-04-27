@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would approach this task by considering the various ethical theories that have been proposed throughout the history of philosophy. Some of the main ethical theories that could be relevant in this context include deontology, consequentialism, and virtue ethics.
 
 Deontology is an ethical theory that focuses on the idea that certain actions are inherently right or wrong, regardless of their consequences. In this theory, the right thing to do is determined by moral rules or duties that are considered to be universal and absolute.

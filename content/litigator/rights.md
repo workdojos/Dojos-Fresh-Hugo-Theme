@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator rights.mp3" frameborder="0" style="border:0" >}}<br>
 As a litigator working in the legal industry, I strongly believe in the importance of fair work practices for all workers. Recently, there have been several trends and events that highlight the need for greater worker protections and support.
 
 One trend that has gained significant attention is the issue of overwork and burnout among legal professionals. Studies have shown that lawyers, paralegals, and other legal professionals often work long hours and face high levels of stress and pressure, leading to negative impacts on their mental health and well-being. This is unacceptable and steps must be taken to ensure that all workers are treated fairly and are given the support and resources they need to thrive in their careers.

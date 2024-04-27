@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist rights.mp3" frameborder="0" style="border:0" >}}<br>
 As a machinist working in the machining industry, it is essential that fair work practices are implemented and upheld. In recent years, there have been numerous trends and events that have highlighted the need for workers' rights and fair treatment in this industry.
 
 One trend that has emerged is the increasing automation of machining processes. While this may seem like a positive development at first glance, it can also lead to job displacement and a decrease in fair wages for machinists. As machines take over more tasks, there is a risk that human workers will be replaced or undervalued. It is crucial that machinists are given the opportunity to learn new skills and take on more advanced roles as automation increases, rather than being replaced or left behind.

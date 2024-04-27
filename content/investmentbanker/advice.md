@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker advice.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, my first piece of advice for someone looking to pursue a career as an investment banker would be to gain as much relevant experience and education as possible. This includes internships, finance-related coursework, and any relevant certifications such as a CFA (Chartered Financial Analyst) or MBA (Master of Business Administration).
 
 In terms of skills, it is important for an investment banker to have strong analytical and problem-solving abilities, as well as excellent communication and negotiation skills. A strong understanding of financial markets and financial modeling is also crucial.
