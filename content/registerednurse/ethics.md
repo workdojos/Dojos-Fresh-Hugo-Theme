@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would first consider the principles of ethical theories such as utilitarianism, deontology, and virtue ethics. Utilitarianism emphasizes the greatest good for the greatest number, and a registered nurse may consider this by prioritizing the well-being and happiness of their patients. Deontology emphasizes the importance of following moral rules and duties, and a registered nurse may consider this by upholding the ethical codes and standards set by the nursing profession. Virtue ethics emphasizes the development of character traits such as compassion and empathy, and a registered nurse may consider this by striving to cultivate these virtues in their personal and professional life.
 
 Additionally, I would consider the various stakeholders involved in the healthcare industry, including patients, healthcare providers, and healthcare institutions, and how the actions of a registered nurse may impact them. It may be helpful to consider how to balance the needs and interests of these different groups in order to make ethical decisions.

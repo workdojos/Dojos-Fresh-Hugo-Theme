@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers branding.mp3" frameborder="0" style="border:0" >}}<br>
 First, I would recommend creating a social media strategy for the education organization. This would involve identifying the target audience, defining the goals and objectives of the social media campaigns, and determining the key messages and content that will be shared on each platform.
 
 Next, I would focus on building a strong presence on Twitter, Instagram, and Pinterest. This would involve creating engaging and relevant content that resonates with the target audience and is aligned with the brand's messaging. I would also recommend using hashtags and tagging relevant industry influencers and partners to increase visibility and reach.

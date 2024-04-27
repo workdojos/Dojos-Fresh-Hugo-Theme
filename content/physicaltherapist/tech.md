@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist tech.mp3" frameborder="0" style="border:0" >}}<br>
 The physical therapy industry is an essential part of healthcare, helping individuals recover from injuries, surgeries, and chronic conditions. Despite its importance, the industry has historically been slow to adopt new technologies and techniques, relying heavily on manual therapies and traditional approaches. However, with the rise of open-source technology and the increasing demand for more personalized and effective treatments, it's time for the physical therapy industry to embrace these innovations.
 
 One area where open-source technology can greatly benefit the physical therapy industry is in the development of new treatment methods and techniques. By sharing information and ideas freely, physical therapists can collaborate and build upon one another's work to create more effective and efficient treatments. This not only benefits patients, but also physical therapists themselves, as they can continue to grow and learn in their field.

@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse rights.mp3" frameborder="0" style="border:0" >}}<br>
 Sure! Here is my opinion piece on fair work practices for registered nurses in the healthcare industry:
 
 As a registered nurse, it is crucial that you are treated fairly and with respect in the workplace. Unfortunately, recent trends and events in the healthcare industry have shown that this is not always the case.

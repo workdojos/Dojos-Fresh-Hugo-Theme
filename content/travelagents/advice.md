@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents advice.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, my first piece of advice for someone interested in pursuing a career as a travel agent would be to conduct research into the various options available within the travel and tours industry. There are a wide range of roles within this field, including positions as travel agents, tour operators, and travel consultants, each with their own unique set of responsibilities and requirements.
 
 In order to determine which of these roles might be the best fit for you, it would be helpful to consider your skills, interests, and experience. For example, if you have strong communication and customer service skills, you might be well-suited to work as a travel agent, helping clients plan and book their travel arrangements. If you have a strong attention to detail and organizational skills, you might be more suited to work as a tour operator, coordinating and managing the logistics of tours and travel packages.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse branding.mp3" frameborder="0" style="border:0" >}}<br>
 As a social media manager, I would first do a thorough analysis of the healthcare organization's current social media presence and identify any areas that need improvement. This includes looking at the organization's current content strategy, follower growth, engagement rates, and overall brand presence on each platform.
 
 Next, I would develop a content strategy that focuses on increasing brand awareness and driving traffic to the organization's website. This could include creating informative and engaging posts about the organization's services and resources, as well as sharing relevant industry news and updates. I would also schedule regular posts to ensure consistent and frequent engagement with followers.

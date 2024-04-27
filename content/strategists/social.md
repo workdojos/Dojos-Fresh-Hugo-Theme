@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists social.mp3" frameborder="0" style="border:0" >}}<br>
 Sure thing! Here are some ideas for creating an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as a strategist in the consulting industry:
 
 Create an Instagram account and post high-quality photos and videos showcasing your business, your team, and your services. Use relevant hashtags and engage with your followers by responding to comments and DM’s.

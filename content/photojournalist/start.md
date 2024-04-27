@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist start.mp3" frameborder="0" style="border:0" >}}<br>
 First of all, congratulations on setting your sights on a career as a photojournalist! This is a highly rewarding field that allows you to use your creativity and storytelling skills to document and share important events, people, and places with the world.
 
 Now, let's talk about some of the perks and benefits of working as a photojournalist in the journalism, news, and media industry.

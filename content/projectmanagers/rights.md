@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers rights.mp3" frameborder="0" style="border:0" >}}<br>
 As a project manager working in the broader business industry, it is essential that fair work practices are maintained. Recently, there have been several trends and events that have highlighted the need for worker’s rights, fair treatment, and proper wages.
 
 One of the most significant trends in the industry has been the rise of the gig economy. This trend has seen an increase in the number of workers who are classified as independent contractors rather than employees. This classification allows companies to avoid paying benefits, such as healthcare and retirement, and often results in lower wages for workers. This trend is particularly concerning for project managers, as it can lead to unstable work and an uncertain future.

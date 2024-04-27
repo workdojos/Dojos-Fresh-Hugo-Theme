@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists advice.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, I would recommend that you consider pursuing a career as a strategist in the consulting industry if you have strong analytical skills, excellent problem-solving abilities, and the ability to think strategically. These skills are essential for success in this field, as strategists are responsible for developing and implementing effective business plans and strategies for their clients.
 
 To determine if this career is a good fit for you, I recommend that you assess your interests and skills to determine if they align with the responsibilities of a strategist in the consulting industry. For example, do you enjoy analyzing data and finding creative solutions to complex problems? Do you have strong communication skills and the ability to present your ideas effectively to others? These are all important factors to consider when determining if this career is right for you.

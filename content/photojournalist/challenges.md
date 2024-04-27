@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist challenges.mp3" frameborder="0" style="border:0" >}}<br>
 The journalism, news, and media industry is facing numerous controversies and challenges in the modern world. One of the major challenges facing photojournalists is the ability to find work and make a living in an increasingly competitive and unstable industry. With the rise of social media and citizen journalism, traditional media outlets are struggling to stay afloat, and many photographers are finding it difficult to secure steady employment.
 
 Furthermore, the industry as a whole is facing criticism for its lack of diversity and representation, as well as its role in spreading misinformation and fake news. It is crucial that steps are taken to address these issues and improve the overall quality of journalism.

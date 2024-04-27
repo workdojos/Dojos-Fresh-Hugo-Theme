@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist social.mp3" frameborder="0" style="border:0" >}}<br>
 Sure, I'd be happy to help you create an engaging campaign on Instagram, Twitter, Youtube, and Pinterest to promote your new business as a photo journalist in the journalism, news, and media industry. Here are a few ideas to get started:
 
 Share behind-the-scenes glimpses of your work: Use Instagram and Twitter to share behind-the-scenes photos and videos of you at work as a photo journalist. This could include setting up a shot, capturing an important moment, or editing a photo.

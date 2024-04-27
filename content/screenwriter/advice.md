@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter advice.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, I would first ask the individual to describe their skills, interests, and experience in more detail. This would give me a better understanding of their strengths and what they are most passionate about.
 
 Based on the individual's desire to pursue a career as a screenwriter in the film industry, I would recommend they consider developing their writing skills through courses or workshops, as well as gaining experience in the industry through internships or entry-level positions. I would also recommend they consider earning a degree in screenwriting or film studies, as this can be helpful in building a competitive portfolio and resume.

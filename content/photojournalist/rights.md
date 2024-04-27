@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist rights.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, in a bustling city called New York, there lived a young photojournalist named Sarah. Sarah was always on the lookout for the next big story. She spent her days roaming the streets, camera in hand, searching for the perfect shot.
 
 One day, Sarah received a call from her editor at the local newspaper. A major news event had just taken place and they needed her to cover it. Sarah grabbed her camera and headed to the scene.

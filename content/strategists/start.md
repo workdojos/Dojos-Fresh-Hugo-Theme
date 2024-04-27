@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists start.mp3" frameborder="0" style="border:0" >}}<br>
 First and foremost, it's important to acknowledge that pursuing a career as a strategist in the consulting industry can be both challenging and rewarding. It requires hard work, dedication, and a willingness to continuously learn and grow.
 
 But let's focus on the perks and benefits! Working as a strategist in the consulting industry can provide you with numerous opportunities for professional growth and development. You'll have the chance to work with a diverse range of clients, industries, and projects, which can provide valuable experience and insights.

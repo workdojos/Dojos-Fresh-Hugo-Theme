@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian history.mp3" frameborder="0" style="border:0" >}}<br>
 The word "theologian" is derived from the Greek word "theologos," which literally means "one who speaks about God." It is a combination of "theos," meaning "God," and "logos," meaning "word" or "speech." The first recorded use of this term was by the ancient Greeks, who used it to refer to those who studied and wrote about the nature and attributes of the gods.
 
 The term "religious organizations" refers to any group or institution that is dedicated to the practice and promotion of a particular religion. This can include churches, temples, synagogues, mosques, and other places of worship. The word "religion" itself is derived from the Latin "religio," which means "reverence" or "reverential respect." The term was originally used to refer to the practices and rituals associated with the worship of the gods in ancient Rome.

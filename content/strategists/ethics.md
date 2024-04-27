@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would first consider the purpose and goals of the consulting industry. Is the primary focus on maximizing profits for the firm, or is there also a focus on creating positive social and environmental impact? This would be an important factor in determining the ethical framework, as it would inform the values and principles that should guide decision-making.
 
 Next, I would examine the role of the strategist within the consulting industry. What are the responsibilities and duties of a strategist, and how do they fit within the broader context of the industry? Is the strategist expected to prioritize the interests of the firm, or are they also expected to consider the interests of clients, employees, and other stakeholders?

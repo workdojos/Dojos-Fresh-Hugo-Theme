@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists day.mp3" frameborder="0" style="border:0" >}}<br>
 Once upon a time, in the world of business, there were strategists. These were the individuals who were tasked with the important job of helping companies and organizations make the right decisions and plan for the future.
 
 Every day, these strategists would rise bright and early, ready to tackle the challenges that lay ahead. They would spend hours pouring over data, analyzing market trends, and brainstorming new ideas.

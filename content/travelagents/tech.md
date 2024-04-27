@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents tech.mp3" frameborder="0" style="border:0" >}}<br>
 The travel and tours industry has always been an integral part of the global economy, but the pandemic has highlighted just how important it is for the economy to have a diverse and resilient foundation. The travel and tours industry has been hit particularly hard by the pandemic, with restrictions on travel and a decrease in demand leading to significant losses for many businesses. However, there is hope on the horizon, as the industry is beginning to bounce back and adapt to the new normal.
 
 One key factor that will play a role in the success of the travel and tours industry in the future is the use of open-source technology. With the rise of online booking platforms and the increasing importance of digital marketing, it is vital that travel and tours businesses have access to affordable and reliable technology. By embracing open-source solutions, businesses can save money on costly proprietary software and take advantage of the collective knowledge and expertise of the open-source community.

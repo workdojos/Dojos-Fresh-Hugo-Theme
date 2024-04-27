@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, one approach to developing an ethical framework for starting a career as a park ranger would be to consider the moral principles and values that should guide decision-making in this field.
 
 One important value that should be considered is the inherent value of nature and the non-human animals that inhabit it. This value stems from the belief that all beings, whether human or non-human, have inherent worth and deserve to be treated with respect and consideration. From this perspective, the primary goal of park management and conservation should be to protect and preserve the natural environment and its inhabitants, rather than prioritizing human interests or profit.

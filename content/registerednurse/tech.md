@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse tech.mp3" frameborder="0" style="border:0" >}}<br>
 The healthcare industry is a vital and essential part of our society, as it is responsible for providing care and treatment to those in need. However, it is also an industry that is facing numerous challenges, including rising costs, a shortage of skilled workers, and a lack of access to quality care for many individuals.
 
 One way to address these challenges is through the use of open-source technology. Open-source technology refers to software and other technologies that are freely available for anyone to use and modify, as opposed to proprietary systems that are owned and controlled by a single entity.

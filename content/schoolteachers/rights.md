@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers rights.mp3" frameborder="0" style="border:0" >}}<br>
 In the education industry, it is essential that school teachers are treated fairly and with respect in their workplaces. Recent trends and events have brought to light many instances of mistreatment and unfair practices in the education industry, and it is time for these issues to be addressed and corrected.
 
 One major issue facing school teachers is the lack of fair wages. Teachers are often underpaid for the important work they do, and this can lead to financial strain and difficulty in supporting themselves and their families. In many cases, teachers are forced to work multiple jobs or take on additional responsibilities outside of their teaching duties just to make ends meet. This is unacceptable and unfair to the dedicated professionals who work hard every day to educate and inspire our children.

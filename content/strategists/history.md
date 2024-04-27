@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists history.mp3" frameborder="0" style="border:0" >}}<br>
 Strategist:
 
 The word strategist is derived from the Greek word "strategos," which means "general" or "commander." This word has its roots in the ancient Greek military, where strategists were responsible for developing and implementing strategies for winning battles.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist history.mp3" frameborder="0" style="border:0" >}}<br>
 Physical therapist is a relatively modern term, with its first recorded usage dating back to the early 20th century. The word is derived from the Greek word "physikos," which means "natural," and the Latin word "therapeia," which means "healing." The combination of these two words forms the basis for the modern term "physical therapy," which refers to the use of physical means, such as exercise and massage, to promote healing and rehabilitation.
 
 The concept of physical therapy has a much longer history, however, with roots dating back to ancient Greek and Roman times. In these civilizations, the focus was on using physical means to promote health and prevent illness. This included the use of exercise, massage, and other techniques to maintain physical fitness and promote overall well-being.

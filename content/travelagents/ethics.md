@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, one way to approach this question would be to consider different ethical theories and how they might apply to the situation of starting a career as a travel agent.
 
 One ethical theory that could be relevant is deontology, which holds that actions should be guided by moral duties or rules. In the context of starting a career as a travel agent, this might mean considering one's duty to act with honesty and integrity, to provide accurate and reliable information to clients, and to prioritize the safety and well-being of travelers.

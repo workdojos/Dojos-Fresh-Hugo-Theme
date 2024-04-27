@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist rights.mp3" frameborder="0" style="border:0" >}}<br>
 In recent years, there has been a growing concern about fair work practices in the physics and higher education industry, specifically for physicists working in these fields. There have been numerous instances of physicists being underpaid and mistreated by their employers, and it is time for change.
 
 One trend that has emerged in the physics and higher education industry is the increasing use of adjunct professors. These professors are hired on a part-time or temporary basis and are often paid significantly less than full-time professors, despite performing similar work. This trend not only undervalues the work of these physicists, but it also makes it difficult for them to secure stable employment and fair wages.

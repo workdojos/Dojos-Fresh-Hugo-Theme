@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker rights.mp3" frameborder="0" style="border:0" >}}<br>
 As a social worker working in the behavioral healthcare industry, I am often faced with challenges related to fair work practices. While there have been some recent trends and events that have brought attention to the issue of worker's rights, it is important to recognize that there is still a long way to go in terms of ensuring that social workers are treated fairly and given the proper wages and benefits that they deserve.
 
 One of the biggest challenges that social workers in the behavioral healthcare industry face is the issue of low wages. Many social workers are paid significantly less than their counterparts in other healthcare fields, despite the fact that they often work long hours and face significant challenges in their work. This can lead to high levels of burnout and turnover, which can be detrimental to both the social workers themselves and the clients that they serve.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist learning.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I believe that ethics are crucial in any profession, including journalism. A photo journalist has the power to influence public opinion and shape the narrative of events through the images they capture and share. Therefore, it is essential to establish an ethical framework that guides their actions and decision-making.
 
 One key aspect of an ethical framework for a photo journalist could be honesty and objectivity. It is essential to accurately represent the facts and events being photographed and to avoid misleading the audience through selective editing or manipulation. This requires a commitment to fair and balanced reporting, as well as an open-minded approach to different perspectives and viewpoints.

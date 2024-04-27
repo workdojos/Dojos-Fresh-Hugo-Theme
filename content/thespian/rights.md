@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian rights.mp3" frameborder="0" style="border:0" >}}<br>
 As a thespian working in the performing arts industry, I have witnessed firsthand the challenges and injustices faced by many of my colleagues. From long and grueling rehearsals to the constant uncertainty of securing steady work, the life of a performer can be filled with hardship. However, one of the most pressing issues facing the industry is the lack of fair work practices, including inadequate wages and mistreatment of workers.
 
 Recent trends in the industry have only exacerbated these issues. With the rise of streaming platforms and the proliferation of content, there is an increasing demand for actors and performers to work for low or even no pay. Many are told that the exposure and experience gained from working for free will lead to bigger and better opportunities down the line, but this is often not the case.

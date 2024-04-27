@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist overview.mp3" frameborder="0" style="border:0" >}}<br>
 As an essay writer, I have researched the journalism, news, and media industry and have found some interesting facts and figures. According to the Bureau of Labor Statistics, there are approximately 41,000 journalists working in the United States. The median salary for a journalist is $43,490 per year, with the top 10% earning over $80,000.
 
 One way to find opportunities to work in the journalism, news, and media industry is to start by networking with those already in the field. This can be done through joining professional organizations, attending industry events, and participating in internships or apprenticeships. It is also important to build a strong online presence, as many journalism and media jobs are advertised online.

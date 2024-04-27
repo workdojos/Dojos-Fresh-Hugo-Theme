@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers advice.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, I would begin by discussing the individual's skills, interests, and experience to determine if teaching is a good fit for them. Some key skills that are important for teachers include strong communication skills, the ability to motivate and inspire students, and the ability to manage a classroom effectively. It is also important for teachers to have a strong passion for education and a desire to make a positive impact on the lives of their students.
 
 In terms of the job market, the education industry is fairly stable, with a consistently high demand for qualified teachers. However, it is worth noting that the demand for teachers can vary depending on the location and subject area. For example, there may be a higher demand for math and science teachers in certain areas, or a higher demand for teachers who specialize in teaching English as a second language.

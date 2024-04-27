@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners branding.mp3" frameborder="0" style="border:0" >}}<br>
 As a social media manager, I would first conduct a thorough analysis of the current presence of the digital services organization on Twitter, Instagram, and Pinterest. This would involve evaluating the number of followers, engagement rate, and content strategy on each platform.
 
 Next, I would develop a comprehensive social media strategy that aligns with the overall goals of the organization, including increasing brand awareness, attracting new followers, and driving traffic to the website. This strategy would include a mix of promotional and educational content, as well as targeted ads and influencer partnerships.

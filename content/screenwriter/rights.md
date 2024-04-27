@@ -8,7 +8,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter rights.mp3" frameborder="0" style="border:0" >}}<br>
 As a debater, I would argue that fair work practices for screenwriters in the film industry are crucial in order to ensure that these creative professionals are treated with the respect and dignity they deserve. There have been several recent trends and events in the industry that highlight the need for better protections for screenwriters, including the proliferation of unpaid or low-paid internships, the rise of non-union productions, and the increasing use of "writer's rooms" to develop scripts.
 
 On the one hand, some may argue that screenwriters are simply paid for their work and that they should not expect any additional protections or benefits. However, this view ignores the reality that many screenwriters struggle to make a living wage due to the unpredictable nature of the industry and the lack of fair compensation for their work. It is not uncommon for screenwriters to work long hours and put in significant amounts of time and effort into their scripts, only to see their work go unrecognized or undervalued.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists overview.mp3" frameborder="0" style="border:0" >}}<br>
 The consulting industry is a rapidly growing field that offers a wide range of opportunities for professionals with a variety of skills and expertise. According to recent data from the Bureau of Labor Statistics, the consulting industry is expected to grow by 8% between 2018 and 2028, faster than the average for all occupations.
 
 One of the key ways to find opportunities in the consulting industry is through networking. This can be done through attending industry events, joining professional organizations, and connecting with colleagues and mentors who work in the field. Another valuable resource is LinkedIn, where many consulting firms and professionals post job openings and opportunities for networking.

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers ethics.mp3" frameborder="0" style="border:0" >}}<br>
 As a philosopher, I would first consider the fundamental principles and values that should guide ethical decision-making in the education industry. These could include concepts such as justice, fairness, equality, and the promotion of the common good.
 
 Next, I would research various philosophical theories on education and its role in society, such as John Dewey's idea of education as a means of promoting personal and societal growth, or Paulo Freire's belief in the importance of critical consciousness in education.

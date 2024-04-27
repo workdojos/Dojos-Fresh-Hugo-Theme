@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist advice.mp3" frameborder="0" style="border:0" >}}<br>
 As a career counselor, I would first recommend researching the job market trends in the physics and higher education industry. According to the U.S. Bureau of Labor Statistics, employment of physicists is projected to grow 6 percent from 2019 to 2029, faster than the average for all occupations. This growth is driven by increasing demand for advanced technologies and research in fields such as renewable energy and national defense.
 
 Next, I would recommend assessing the individual's skills, interests and experience to determine if a career as a physicist is a good fit. A physicist should have strong analytical and problem-solving skills, as well as excellent communication and collaboration skills to work with teams on research projects. They should also have a strong interest in mathematics and science, and be comfortable working with complex concepts and theories.
