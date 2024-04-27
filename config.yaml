@@ -1,6 +1,6 @@
 baseURL: https://workdojos.com
 languageCode: en-us
-title: WorkDojos
+title: Dojos
 theme: hugo-fresh
 disablePathToLower: true
 # Disables warnings
@@ -98,19 +98,21 @@ params:
     url: https://blog.workdojos.com/#/portal/signup
     button: true
 
-
+  section0:
+    title: Let's get you to the right place.
+    subtitle: Or scroll down for a tour of some of the best open-source apps.
 
   section1:
     title: Free dashboards.
-    subtitle: Sign up to get your own for free.
+    subtitle: An uncluttered ad-free space for anything you want.
 
   section1Z:
-    title: For parents and teachers.
-    subtitle: Spin up a Learning Management System for free!
+    title: Free education.
+    subtitle: Parents and teachers, spin up a learning management system for free!
 
   sectionZb:
     title: Free chat apps.
-    subtitle: Sign up to create a PRIVATE chat server for free.
+    subtitle: Sign up to create a private chat server for free.
 
 #  sectionZc:
    # title: Free templates.
@@ -126,8 +128,8 @@ params:
     image: logos/workmates.png
 
   section3:
-    title: Pick a path.  For any profession.
-    subtitle: Choose from over 100 pre-built Dojos or blaze your own trail.
+    title: Pick a path.  Become a pro.
+    subtitle: Choose from over 100 pre-built dojos or blaze your own trail.
     image: logos/workmates.png
     buttonText: Browse all
     buttonLink: "https://workmates.live/marketplace"

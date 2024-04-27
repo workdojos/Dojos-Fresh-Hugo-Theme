@@ -3,9 +3,16 @@
     {{ partial "hero.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.section2 }}
+    {{ partial "section2.html" . }}
+    {{ end }}
 
     {{ if .Site.Params.section2 }}
     {{ partial "section2.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.section0 }}
+    {{ partial "section0.html" . }}
     {{ end }}
 
     {{ if .Site.Params.section1 }}
