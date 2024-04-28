@@ -98,18 +98,21 @@ params:
     url: https://blog.workdojos.com/#/portal/signup
     button: true
 
+  sectionpoop:
+    title: Explore some of the coolest free and open-source apps.
+    subtitle: Get these and more pre-built in every Dojo.  
 
   section1:
     title: Free dashboards.
     subtitle: An uncluttered ad-free space for anything you want.
 
   section1Z:
-    title: Free education.
-    subtitle: Parents and teachers, spin up a learning management system for free!
+    title: Free educational tools.
+    subtitle: Parents and teachers can spin up amazing learning management systems for free!
 
   sectionZb:
     title: Free chat apps.
-    subtitle: Sign up to create a private chat server for free.
+    subtitle: Sign up to learn how to create a private chat server or join ours.
 
 #  sectionZc:
    # title: Free templates.
