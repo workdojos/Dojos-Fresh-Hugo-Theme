@@ -1,5 +1,4 @@
 ---
-title: Real-Estate  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ In addition to addressing the challenges facing mortgage brokers, there are also
 
 In conclusion, the real estate industry is facing a number of controversies and challenges, and mortgage brokers are an integral part of this industry. By addressing the challenges facing mortgage brokers and implementing reforms to improve the industry, we can ensure that the real estate industry is better for all stakeholders in the future.
 
-<br>
+
 <a href="https://workdojos.com/mortgagebrokers/history">next: history</a>
-</p>

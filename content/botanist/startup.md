@@ -1,12 +1,11 @@
 ---
-title: Startup Ideas for Botanists and Entrepreneurs in the Botany  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: Plantastic
 
 Short One Liner: A digital platform connecting botanists with plant enthusiasts for personalized plant recommendations and care advice.
@@ -35,6 +34,5 @@ Estimated 1st Year Cost of Operation: $50,000-$100,000
 
 Potential Business Challenges: Competition from other plant care platforms, difficulty in finding and retaining experienced botanists, difficulty in acquiring and retaining subscribers.
 
-<br>
+
 <a href="https://workdojos.com/botanist/tech">next: open-source tech</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Music  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist challenges.mp3" frameborder="0" style="border:0" >}}
 The music industry has long faced numerous controversies and challenges, and one of the most pressing issues currently facing the industry is the lack of opportunities and fair compensation for lyricists. In today's digital age, the way we consume and create music has changed significantly, and while this has brought about many positive developments, it has also created numerous problems for those who work behind the scenes to create the lyrics that make our favorite songs so memorable.
 
 One of the main challenges faced by lyricists is the lack of opportunitieto find work. Many lyricists struggle to get their work noticed and often struggle to find paying gigs, which can make it difficult to sustain a career in the industry. This is a major problem, as the lyrics of a song are just as important as the melody and are often what make a song truly memorable. Without the hard work and talent of lyricists, the music industry as a whole would suffer.
@@ -18,6 +17,5 @@ So, what can be done to address these issues and make it easier for lyricistto f
 
 Overall, the music industry needs to do more to support and value the work of lyricists. By making it easier for lyricistto find work and receive fair compensation, we can not only improve the lives and careers of those who create the lyrics that make our favorite songs so memorable, but we can also help to ensure the continued success and growth of the music industry as a whole.
 
-<br>
+
 <a href="https://workdojos.com/lyricist/history">next: history</a>
-</p>

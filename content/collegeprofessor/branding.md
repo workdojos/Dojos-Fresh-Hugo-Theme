@@ -1,12 +1,11 @@
 ---
-title: College Professor Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor branding.mp3" frameborder="0" style="border:0" >}}
 Sure, I can definitely help with that. Here are some steps I would take as a social media manager for your higher education organization:
 
 Research and identify target audience: In order to effectively reach and engage with potential followers, it's important to understand who your target audience is and what platforms they are most active on. This may include current or prospective students, faculty, staff, and alumni.
@@ -21,6 +20,5 @@ Measure success: Use analytics tools to track key metrics such as follower growt
 
 Seek out collaborations: Look for opportunities to collaborate with other higher education institutions or organizations in your industry. This can help increase brand awareness and reach a larger audience.
 
-<br>
+
 <a href="https://workdojos.com/collegeprofessor/ethics">next: ethical framework</a>
-</p>

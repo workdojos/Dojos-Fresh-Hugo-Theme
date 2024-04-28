@@ -1,5 +1,4 @@
 ---
-title: Advice for Clerks
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -17,6 +16,5 @@ It's also important to research the job market trends in the small business indu
 
 Overall, a career as a clerk in the small business industry can be a rewarding and fulfilling option for individuals with strong administrative and financial skills, and a desire to support the growth and success of small businesses.
 
-<br>
+
 <a href="https://workdojos.com/clerk/start">next: get started</a>
-</p>

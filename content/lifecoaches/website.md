@@ -1,5 +1,4 @@
 ---
-title: Websites for Life Coaches in the Life Coaching  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,8 +6,8 @@ layout: single2
 
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I would recommend using open-source technology to build your website for several reasons. One of the main benefits of using open-source technology is that it is often free to use, which can be a significant cost-saving for a small business like yours. Additionally, open-source technology is usually well-documented and supported by a community of developers, which means that you can get help and guidance if you encounter any issues while building your website.
 
 In terms of open-source web builders and static-site generators, there are several options available that could be suitable for your business as a life coach. Some popular choices include WordPress, Joomla, and Drupal, which are all powerful content management systems that can be customized to meet your specific needs. Another option to consider is a static-site generator like Jekyll or Gatsby, which can be used to build fast, lightweight websites that are easy to maintain and update.
@@ -19,8 +18,8 @@ In terms of the pros and cons of using open-source technology, one of the main b
 
 Overall, I believe that using open-source technology to build your website can be a great choice for a small business like yours, as it allows you to create a professional, feature-rich website without breaking the bank. By carefully considering your business goals and needs, and choosing the right open-source web builder or static-site generator, you can create a website that enhances user experience and meets your business needs.
 
-<br>
+
 
 <a href="https://workdojos.com/lifecoaches/overview">next: overview</a>
-<br>
-</p>
+
+

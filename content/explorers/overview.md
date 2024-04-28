@@ -1,5 +1,4 @@
 ---
-title: An Overview for Explorers and the Outdoor  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers overview.mp3" frameborder="0" style="border:0" >}}
 The outdoor industry is a diverse and growing sector that offers a range of exciting opportunities for those interested in working in the field. According to the Outdoor Industry Association, the outdoor industry generated $887 billion in consumer spending in 2019, making it a significant contributor to the economy. The industry also employs millions of people in a variety of roles, including sales, marketing, design, manufacturing, and more.
 
 One way to find opportunities in the outdoor industry is to start networking with those already working in the field. Attend industry events, such as trade shows and conferences, and connect with professionals through social media or professional networking groups. It can also be helpful to reach out to outdoor companies directly and inquire about potential job openings.
@@ -20,6 +19,5 @@ As with any industry, there are both good and bad jobs to have in the outdoor in
 
 Overall, the outdoor industry offers a wealth of exciting and rewarding career opportunities for those willing to put in the work and build connections in the field. With its strong focus on sustainability, conservation, and outdoor recreation, it is an industry that can be both personally and professionally fulfilling for those who are passionate about the great outdoors.
 
-<br>
+
 <a href="https://workdojos.com/explorers/day-in-the-life">next: day in the life</a>
-</p>

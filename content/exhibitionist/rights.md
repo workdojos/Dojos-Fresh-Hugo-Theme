@@ -1,5 +1,4 @@
 ---
-title: The Art And Special Events  Industry and Exhibitionist Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -8,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist rights.mp3" frameborder="0" style="border:0" >}}
 As someone who has worked in the art and special events industry for several years, I can speak firsthand to the importance of fair work practices. Unfortunately, this is an industry that has a history of exploiting workers, particularly those who are just starting out or are in more marginalized positions. However, there are some recent trends and events that have brought attention to this issue and are pushing for change.
 
 One trend that has been gaining traction in the art and special events industry is the use of independent contractors, rather than traditional employees. While this may seem like a good option for those who value their freedom and flexibility, it often comes at the cost of fair treatment and proper wages. Independent contractors are not entitled to the same protections as employees, including minimum wage laws, overtime pay, and health benefits. This can lead to a situation where workers are expected to put in long hours for little pay, with no recourse if they are not treated fairly.
@@ -21,6 +20,5 @@ Another option is to advocate for stronger worker protections, such as extending
 
 Ultimately, it is important that we stand up for the rights of workers in the art and special events industry. By promoting fair work practices and pushing for change, we can create a more just and equitable industry for all.
 
-<br>
+
 <a href="https://workdojos.com/exhibitionist/branding">next: branding</a>
-</p>

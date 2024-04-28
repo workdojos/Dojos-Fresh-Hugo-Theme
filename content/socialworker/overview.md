@@ -1,5 +1,4 @@
 ---
-title: An Overview for Social Workers and the Behavioral Health  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker overview.mp3" frameborder="0" style="border:0" >}}
 The behavioral health industry is a rapidly growing field that focuses on helping individuals with mental health issues and substance abuse disorders. According to the National Institutes of Mental Health (NIMH), approximately 1 in 5 adults in the United States experiences some form of mental illness in a given year. This high demand for mental health services has led to a surge in job opportunities within the behavioral health industry.
 
 One way to find opportunities to work in the behavioral health industry is to search for job openings on job search websites such as Indeed or LinkedIn. You can also look for openings at local clinics, hospitals, or rehabilitation centers. Networking with professionals in the industry can also be helpful in finding job opportunities. This can be done through attending industry conferences or joining professional organizations such as the American Psychological Association or the National Association of Social Workers.
@@ -20,6 +19,5 @@ When it comes to the best and worst jobs in the behavioral health industry, it u
 
 Overall, the behavioral health industry is a rewarding and growing field that offers numerous opportunities for those looking to make a positive impact on the lives of others. With the right resources and networking skills, individuals can find their ideal job within the industry and make a meaningful difference in the lives of their clients.
 
-<br>
+
 <a href="https://workdojos.com/socialworker/day-in-the-life">next: day in the life</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Physical Therapist Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist branding.mp3" frameborder="0" style="border:0" >}}
 As a social media manager for your physical therapy organization, I would suggest the following strategies to increase brand awareness, recruit followers, drive traffic to your website, and create opportunities for collaboration:
 
 Develop a content calendar for Twitter, Instagram, and Pinterest that includes a mix of promotional posts, educational content, and behind-the-scenes glimpses into your organization.
@@ -24,6 +23,5 @@ Use analytics to measure the success of your campaigns and make data-driven deci
 
 Overall, the key to managing a successful social media presence for your physical therapy organization is to be consistent, engaging, and responsive to your audience. By following these strategies, you can effectively increase brand awareness, recruit followers, drive traffic to your website, and create opportunities for collaboration within the physical therapy industry.
 
-<br>
+
 <a href="https://workdojos.com/physicaltherapist/ethics">next: ethical framework</a>
-</p>

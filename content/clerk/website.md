@@ -1,12 +1,11 @@
 ---
-title: Websites for Clerks in the Small Business and Retail  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-<br>
+
 <p>
 As a web design consultant, I would recommend using open-source technology to build your own website for several reasons.
 
@@ -24,8 +23,8 @@ There are, however, also some potential downsides to using open-source technolog
 
 Overall, using open-source technology to build your own website can offer a range of benefits, including greater flexibility, cost-effectiveness, and access to a supportive community. However, it is important to carefully consider the pros and cons and costs of each solution before making a decision.
 
-<br>
+
 
 <a href="https://workdojos.com/clerk/overview">next: overview</a>
-<br>
-</p>
+
+

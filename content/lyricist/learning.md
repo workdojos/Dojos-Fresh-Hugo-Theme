@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Lyricists
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist learning.mp3" frameborder="0" style="border:0" >}}
 A curriculum for a lyricist should include:
 
 Creative writing courses
@@ -45,6 +44,5 @@ Can you give an example of a song you wrote and how you came up with the lyrics?
 How do you balance being creative and meeting the needs of the artist or producer you're working with?
 How do you protect your work and ensure you are being fairly compensated for your lyrics?
 
-<br>
+
 <a href="https://workdojos.com/lyricist/rights">next: workers' rights</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Graphic Design And Graphic Arts  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner start.mp3" frameborder="0" style="border:0" >}}
 First of all, congratulations on choosing a career path as a graphic designer! The graphic design and graphic arts industry is an exciting and constantly evolving field, filled with opportunities for creativity, innovation, and growth.
 
 Some little-known facts about working as a graphic designer include:
@@ -32,6 +31,5 @@ Don't forget to check out online portfolio sites like Behance, Dribbble, and Por
 
 Remember, as a graphic designer, you have the power to create visually stunning and effective designs that can make a real impact on businesses and organizations. Embrace your creativity, stay up-to-date on the latest industry trends, and don't be afraid to take on new challenges. The graphic design industry is full of endless possibilities, and with hard work and dedication, you can achieve great things!
 
-<br>
+
 <a href="https://workdojos.com/graphicdesigner/learning">next: learning</a>
-</p>

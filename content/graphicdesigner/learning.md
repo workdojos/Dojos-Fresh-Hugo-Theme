@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Graphic Designers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum for Graphic Designer:
 
 Graphic design principles and techniques
@@ -51,6 +50,5 @@ Can you provide examples of branding and identity design work you have done in t
 How do you stay up to date with design trends and technologies?
 How do you handle feedback from clients or team members on your designs?
 
-<br>
+
 <a href="https://workdojos.com/graphicdesigner/rights">next: workers' rights</a>
-</p>

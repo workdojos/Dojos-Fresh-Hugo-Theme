@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Statistician
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,7 +17,6 @@ Finally, after many long hours of hard work, Emily was able to present her findi
 
 And so, Emily's day as a statistician came to a close. She went home, satisfied with a job well done, and excited to see what the next day would bring in the world of data and statistics.
 
-<br>
+
 <a href="https://workdojos.com/statistician/history">next: history</a>
-<br>
-</p>
+

@@ -1,5 +1,4 @@
 ---
-title: An Overview for Investment Bankers and the Financial Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker overview.mp3" frameborder="0" style="border:0" >}}
 The financial services industry is a rapidly growing and highly competitive field that offers a wide range of career opportunities for those with the right skills and qualifications. According to data from the U.S. Bureau of Labor Statistics, employment in the financial services sector is expected to grow by 9% between 2016 and 2026, faster than the average for all occupations.
 
 One of the exciting things about working in the financial services industry is the opportunity to be at the forefront of new developments and innovations in the field. With the rise of digital technologies and new financial products, there are always new challenges and opportunities to explore and work on. Additionally, the financial services industry is global in nature, with many companies operating across multiple countries, which can provide exciting travel and international work opportunities.
@@ -20,6 +19,5 @@ In terms of the best and worst jobs to have in the financial services industry, 
 
 In conclusion, the financial services industry offers a wide range of exciting career opportunities for those with the right skills and qualifications. By networking, staying up-to-date with industry trends, and being proactive in seeking out new opportunities, individuals can find fulfilling and rewarding careers in this dynamic and rapidly growing field.
 
-<br>
+
 <a href="https://workdojos.com/investmentbanker/day-in-the-life">next: day in the life</a>
-</p>

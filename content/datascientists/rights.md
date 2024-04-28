@@ -1,5 +1,4 @@
 ---
-title: The Data Sciences  Industry and Data Scientist Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists rights.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, I would suggest that an ethical framework for starting a career as a data scientist should be grounded in a few key principles.
 
 First, it is important to recognize that data science has the potential to have significant impact on society. Data scientists have the ability to shape the way that organizations and governments make decisions, and this power comes with a responsibility to use it ethically. This means that data scientists should be mindful of the potential consequences of their work, and should strive to use their skills in ways that benefit society rather than causing harm.
@@ -18,6 +17,5 @@ Third, data scientists should respect the privacy and autonomy of individuals. T
 
 Overall, an ethical framework for data science should prioritize transparency, responsibility, and respect for individuals. By following these principles, data scientists can ensure that their work is ethical and contributes positively to society.
 
-<br>
+
 <a href="https://workdojos.com/datascientists/branding">next: branding</a>
-</p>

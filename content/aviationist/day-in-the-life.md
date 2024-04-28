@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of an Aviationist
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -17,7 +16,6 @@ Sarah also learned about the many challenges facing the aviation industry, from 
 
 As the sun set on another day in the life of an aviationist, Sarah returned home to her cozy apartment, exhausted but fulfilled. She knew that every day spent in the sky was a gift, and she couldn't wait to take to the skies again the next morning. The end.
 
-<br>
+
 <a href="https://workdojos.com/aviationist/history">next: history</a>
-<br>
-</p>
+

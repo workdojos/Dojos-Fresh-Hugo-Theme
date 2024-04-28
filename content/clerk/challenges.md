@@ -1,5 +1,4 @@
 ---
-title: Small Business and Retail  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -17,6 +16,5 @@ Additionally, there should be efforts to increase awareness of the importance of
 
 Overall, the small business industry has the potential to thrive and improve in the years to come. By addressing the challenges facing clerks and small businesses, we can create a more sustainable and equitable industry for all involved.
 
-<br>
+
 <a href="https://workdojos.com/clerk/history">next: history</a>
-</p>

@@ -1,12 +1,11 @@
 ---
-title: Advice for College Professors
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor advice.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor advice.mp3" frameborder="0" style="border:0" >}}
 Certainly! A career as a college professor in the higher education industry can be very rewarding and fulfilling for individuals who enjoy teaching and researching.
 
 To be a college professor, it is generally necessary to have a Ph.D. in a specific subject area. However, some universities may hire professors who have a Master's degree and significant work experience in their field. Depending on the subject area and the level of the position, professors may also be required to have a certain amount of professional experience or research published in academic journals.
@@ -18,6 +17,5 @@ The job market for college professors varies depending on the subject area and t
 To increase their chances of success in this field, individuals may want to consider obtaining relevant experience through internships or teaching assistantships, and networking with professionals in the higher education industry. It may also be helpful to become involved in professional organizations or attend conferences related to their field.
 
 I hope this information is helpful! Do you have any other questions about this career path?
-<br>
+
 <a href="https://workdojos.com/collegeprofessor/start">next: get started</a>
-</p>

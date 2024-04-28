@@ -1,5 +1,4 @@
 ---
-title: The Agriculture  Industry and Agriculturist Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist rights.mp3" frameborder="0" style="border:0" >}}
 As an agriculturist working in the agriculture industry, it is imperative that we advocate for fair work practices and the protection of worker's rights. In recent years, there have been numerous instances of exploitation and mistreatment of agricultural workers, ranging from low wages and lack of benefits to unsafe working conditions and discrimination.
 
 One of the most pressing issues facing agricultural workers today is the lack of fair wages. Many workers in the agriculture industry are paid far below the minimum wage and are not given access to the same benefits as other workers, such as overtime pay or paid time off. This not only creates financial struggles for these workers, but also hinders their ability to provide for their families and meet their basic needs.
@@ -18,6 +17,5 @@ Despite these challenges, there are also efforts being made to improve the lives
 
 Ultimately, it is crucial that we stand up for the rights and fair treatment of agricultural workers. By advocating for better wages, safer working conditions, and equal treatment, we can create a more just and equitable agriculture industry for all.
 
-<br>
+
 <a href="https://workdojos.com/agriculturist/branding">next: branding</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of Economists and the Data Science  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -16,7 +15,6 @@ The term "data science" is a relatively new one, having only been coined in the 
 
 The origins of data science can be traced back to the development of computer technologies and the increasing availability of large amounts of data. As data sets grew in size and complexity, it became necessary to develop specialized tools and techniques for analyzing and interpreting them. Today, data science is an interdisciplinary field that plays a critical role in various industries, including finance, healthcare, and technology.
 
-<br>
+
 <a href="https://workdojos.com/economists/advice">next: advice</a>
-<br>
-</p>
+

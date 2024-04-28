@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Physical Therapists
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum:
 
 Bachelor's degree in Physical Therapy
@@ -39,6 +38,5 @@ Describe a situation where you had to adapt your treatment approach based on a p
 How do you incorporate exercise and rehabilitation into your treatment plans?
 How do you handle difficult or non-compliant patients?
 
-<br>
+
 <a href="https://workdojos.com/physicaltherapist/rights">next: workers' rights</a>
-</p>

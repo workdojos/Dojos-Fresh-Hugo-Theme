@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Distillers and Entrepreneurs in the Distilled Spirits  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -36,6 +35,5 @@ Estimated 1st year cost of operation: $50,000 - $100,000
 
 Potential business challenges: Competition from existing online retailers, navigating the regulations and laws surrounding the sale and distribution of alcohol.
 
-<br>
+
 <a href="https://workdojos.com/distiller/tech">next: open-source tech</a>
-</p>

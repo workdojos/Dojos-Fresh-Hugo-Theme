@@ -1,12 +1,11 @@
 ---
-title: A Day in the Life of a Beautician
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, there was a young woman named Maria who dreamed of becoming a beautician. She spent hours researching the latest beauty trends and techniques, and practiced on friends and family until she was confident in her skills.
 
 One day, Maria decided it was time to turn her passion into a career. She enrolled in a beauty school and spent long days and nights learning everything there was to know about skincare, haircare, and makeup. After months of hard work, she graduated at the top of her class and landed a job at a fancy salon.
@@ -19,7 +18,6 @@ Despite the evolution of the beauty industry, one thing remained constant: the d
 
 As the sun set on another busy day, Maria smiled to herself, knowing that she had truly found her calling.
 
-<br>
+
 <a href="https://workdojos.com/beauticians/history">next: history</a>
-<br>
-</p>
+

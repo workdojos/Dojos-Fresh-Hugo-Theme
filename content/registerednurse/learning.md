@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Registered Nurses
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse learning.mp3" frameborder="0" style="border:0" >}}
 For the job title of registered nurse, some things that should appear in a curriculum include:
 
 A bachelor's degree in nursing
@@ -35,6 +34,5 @@ How do you prioritize your patient care responsibilities?
 How do you communicate with other healthcare professionals and patients?
 How do you handle stressful or emergency situations in the workplace?
 
-<br>
+
 <a href="https://workdojos.com/registerednurse/rights">next: workers' rights</a>
-</p>

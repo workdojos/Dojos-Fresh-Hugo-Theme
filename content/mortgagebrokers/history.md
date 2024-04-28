@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of Mortgage Brokers and the Real-Estate  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -12,7 +11,6 @@ The word "mortgage" is derived from the Old French word "mort gaige," which lite
 
 The word "real estate" is derived from the Latin word "res," meaning "thing," and "status," meaning "state" or "condition." Together, the term refers to the state or condition of land and property. The meaning of the term has not changed significantly over time, although the way in which land and property are bought, sold, and managed has evolved significantly throughout history.
 
-<br>
+
 <a href="https://workdojos.com/mortgagebrokers/advice">next: advice</a>
-<br>
-</p>
+

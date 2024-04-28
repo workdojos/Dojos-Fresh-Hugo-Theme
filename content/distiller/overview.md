@@ -1,5 +1,4 @@
 ---
-title: An Overview for Distillers and the Distilled Spirits  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ As with any industry, there are both good and bad jobs to be had in the distille
 
 Overall, the distilled spirits industry is a dynamic and growing field that offers numerous opportunities for those interested in pursuing a career in the industry. With a variety of roles available and the potential for exciting and fulfilling work, it is definitely worth exploring for those interested in the field.
 
-<br>
+
 <a href="https://workdojos.com/distiller/day-in-the-life">next: day in the life</a>
-</p>

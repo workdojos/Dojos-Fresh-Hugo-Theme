@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Novelists and Others in the Writing & Publishing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,7 +19,6 @@ But it's not just about the technology. Small businesses will also play a crucia
 
 In conclusion, open-source technology is an important tool for writers and small businesses in the writing and publishing industry. By embracing this technology, writers can thrive in an increasingly competitive market and small businesses can compete with larger corporations. Supporting small businesses and independent authors is not only beneficial for the creative industry, but it is also essential for a thriving economy.
 
-<br>
+
 <a href="https://workdojos.com/novelist/website">next: website</a>
-<br>
-</p>
+

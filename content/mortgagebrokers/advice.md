@@ -1,5 +1,4 @@
 ---
-title: Advice for Mortgage Brokers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -22,6 +21,5 @@ To become a mortgage broker, you will need to have a bachelor's degree in financ
 
 Overall, a career as a mortgage broker in the real estate industry can be rewarding and fulfilling for those with strong communication and analytical skills, a passion for finance and real estate, and a desire to help clients find the best mortgage options. With the right education and certifications, you can pursue a successful career in this field.
 
-<br>
+
 <a href="https://workdojos.com/mortgagebrokers/start">next: get started</a>
-</p>

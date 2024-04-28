@@ -1,12 +1,11 @@
 ---
-title: Open-Source Tech for Baristas and Others in the Coffee And Hospitality  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas tech.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas tech.mp3" frameborder="0" style="border:0" >}}
 As someone who has worked in the coffee and hospitality industry for a number of years, I can confidently say that it is a fast-paced and constantly evolving industry that requires a high level of adaptability. One area where the industry has lagged behind, however, is in the adoption of open-source technology.
 
 In today's world, open-source technology is becoming increasingly prevalent in a variety of industries, and for good reason. It allows for greater transparency, collaboration, and innovation. In the coffee and hospitality industry, the use of open-source technology could greatly benefit small businesses and independent operators.
@@ -19,7 +18,6 @@ Furthermore, the use of open-source technology can help support the growth of sm
 
 Overall, the adoption of open-source technology in the coffee and hospitality industry is a no-brainer. It can help small businesses thrive, support the growth of the economy, and empower baristas to excel in their roles. It is time for the industry to embrace open-source technology and all the benefits it has to offer.
 
-<br>
+
 <a href="https://workdojos.com/baristas/website">next: website</a>
-<br>
-</p>
+

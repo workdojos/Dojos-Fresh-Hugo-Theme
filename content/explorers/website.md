@@ -1,5 +1,4 @@
 ---
-title: Websites for Explorers in the Outdoor  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,8 +6,8 @@ layout: single2
 
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I would recommend using open-source technology to build your website for several reasons.
 
 First, open-source technology is often free to use and customize, which can save your business significant cost in website development. It also allows for more flexibility and customization, as you can access and modify the source code to fit your specific needs.
@@ -25,8 +24,8 @@ While open-source technology has many benefits, it is important to consider the 
 
 Overall, open-source technology can provide a cost-effective and customizable solution for creating a website for your business in the outdoor industry. It is important to carefully research and compare the available options to determine the best fit for your needs and budget.
 
-<br>
+
 
 <a href="https://workdojos.com/explorers/overview">next: overview</a>
-<br>
-</p>
+
+

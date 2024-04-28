@@ -1,12 +1,11 @@
 ---
-title: Content Creator Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators social.mp3" frameborder="0" style="border:0" >}}
 Sure, I'd be happy to help you promote your new business as a content creator on social media! Here are some ideas for an engaging campaign across Instagram, Twitter, YouTube, and Pinterest:
 
 Instagram:
@@ -27,6 +26,5 @@ Use Pinterest to showcase your portfolio and inspire your followers with visuall
 Collaborate with other content creators or brands on Pinterest by creating joint boards or contributing pins to each other's boards.
 Overall, the key to a successful social media campaign is to be consistent, engaging, and authentic. By sharing high-quality content and actively interacting with your followers, you can effectively promote your content creation business and attract new clients.
 
-<br>
+
 <a href="https://workdojos.com/contentcreators/startup">next: startup ideas</a>
-</p>

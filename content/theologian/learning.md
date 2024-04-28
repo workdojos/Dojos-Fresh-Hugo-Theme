@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Theologians
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian learning.mp3" frameborder="0" style="border:0" >}}
 Sure, here are some suggestions for a theologian curriculum:
 
 Introduction to the major religious traditions
@@ -40,6 +39,5 @@ How do you understand the role of scripture in your theology?
 How do you approach contemporary issues in theology?
 How do you understand the relationship between theology and ethics?
 
-<br>
+
 <a href="https://workdojos.com/theologian/rights">next: workers' rights</a>
-</p>

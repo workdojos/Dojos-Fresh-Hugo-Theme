@@ -1,12 +1,11 @@
 ---
-title: Getting Started in the Coffee And Hospitality  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas start.mp3" frameborder="0" style="border:0" >}}
 First of all, it's important to recognize that working as a barista in the coffee and hospitality industry can be a highly rewarding and fulfilling career. Not only do you get to work with and serve delicious coffee and other beverages, but you also have the opportunity to connect with people and create a positive customer experience.
 
 One of the great perks of working as a barista is the opportunity to learn about and try different types of coffee and other beverages. This can be a fun and exciting way to expand your knowledge and taste buds. In addition, many coffee shops and restaurants offer employee training and development programs to help you continue learning and growing in your career.
@@ -22,6 +21,5 @@ Specialty Coffee Association: https://sca.coffee/
 International Association of Culinary Professionals: https://www.iacp.com/
 Remember, working as a barista in the coffee and hospitality industry is more than just serving drinks. It's about creating a positive and memorable experience for customers, and having the opportunity to learn, grow, and advance in your career. Get excited about this exciting and growing industry and all the upside potential it has to offer!
 
-<br>
+
 <a href="https://workdojos.com/baristas/learning">next: learning</a>
-</p>

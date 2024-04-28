@@ -1,12 +1,11 @@
 ---
-title: Startup Ideas for Biologists and Entrepreneurs in the Biosciences  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: BioTech Connect
 Short One Liner: A platform connecting biologists with biotechnology companies and researchers
 
@@ -34,6 +33,5 @@ Estimated 1st Year Cost of Operation: $50,000-$100,000
 
 Potential Business Challenges: Competition with other job search platforms, difficulty in securing partnerships with biotechnology companies and professional organizations.
 
-<br>
+
 <a href="https://workdojos.com/biologist/tech">next: open-source tech</a>
-</p>

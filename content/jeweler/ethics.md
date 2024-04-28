@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Jewelers Working in the Luxury Goods  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, I would first consider the concept of ethics and what it means to act ethically. According to the dictionary, ethics refers to "moral principles that govern a person's behavior or the conducting of an activity." In the context of starting a career as a jeweler in the luxury goods industry, this could mean considering the impact of your actions on others, such as the workers in the supply chain or the customers who purchase your products.
 
 One ethical framework that could be useful in this context is the concept of deontology, which focuses on the idea that certain actions are morally right or wrong regardless of their consequences. In deontological ethics, it is important to consider the duties and obligations that one has towards others, such as the duty to not harm others or to respect their autonomy.
@@ -16,6 +15,5 @@ Another ethical framework that could be relevant is consequentialism, which emph
 
 Ultimately, it will be important for you to carefully consider the values and principles that guide your actions as a jeweler, and to strive to act in a way that is consistent with these values. This may involve engaging in ongoing reflection and dialogue with others, such as colleagues, customers, and experts in the field, to ensure that you are making informed and ethical decisions.
 
-<br>
+
 <a href="https://workdojos.com/jeweler/social">next: social media</a>
-</p>

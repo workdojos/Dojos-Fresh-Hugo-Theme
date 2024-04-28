@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Investment Bankers and Entrepreneurs in the Financial Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: WealthWise
 
 Short One Liner: A digital investment platform for the modern banker
@@ -36,7 +35,6 @@ Estimated 1st Year Cost of Operation: $200,000
 
 Potential Business Challenges: Competition with established investment brokers, regulatory hurdles, difficulty building trust with users in the financial industry
 
-<br>
-<br>
+
+
 <a href="https://workdojos.com/investmentbanker/tech">next: open-source tech</a>
-</p>

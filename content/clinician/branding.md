@@ -1,12 +1,11 @@
 ---
-title: Clinician Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/clinician/clinician branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/clinician/clinician branding.mp3" frameborder="0" style="border:0" >}}
 As a social media manager for your medical organization, I would recommend the following strategies:
 
 Twitter:
@@ -25,6 +24,5 @@ Utilize Pinterest analytics to track the success of your pins and see what conte
 Use Pinterest to drive traffic to your website by including links to your content in your pins
 Overall, my goal as a social media manager for your medical organization would be to increase brand awareness, recruit followers, drive traffic to your website, and increase conversions through engaging and informative content across all platforms. I would also work to create opportunities for collaboration with other medical professionals and organizations in order to build relationships and increase the reach of your brand.
 
-<br>
+
 <a href="https://workdojos.com/clinician/ethics">next: ethical framework</a>
-</p>

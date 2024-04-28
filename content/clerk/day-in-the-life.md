@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Clerk
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -19,7 +18,6 @@ Over the years, John became a well-respected member of the community, and his ha
 
 Throughout history, there have been many notable clerks who have made a significant impact on their communities. Some have even gone on to become influential leaders and innovators in their fields. But no matter their role, clerks have always played a vital role in the success of small businesses. And like John, they have the power to bring joy and purpose to their daily lives and the lives of those around them.
 
-<br>
+
 <a href="https://workdojos.com/clerk/history">next: history</a>
-<br>
-</p>
+

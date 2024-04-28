@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of Exhibitionists and the Art And Special Events  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist history.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist history.mp3" frameborder="0" style="border:0" >}}
 Exhibitionist:
 The word exhibitionist comes from the Latin "exhibere," which means "to show" or "to exhibit." It was first used in the late 19th century to describe someone who openly displays their sexual organs in public, often as a form of exhibitionism.
 
@@ -23,7 +22,6 @@ The phrase "special events" is a relatively modern term, but it is derived from 
 
 Over time, the meaning of the phrase has broadened to include any event that is planned and organized for a specific purpose or occasion, such as weddings, concerts, festivals, and corporate events. These events are often characterized by their unique themes, venues, and activities, and are often intended to be memorable or noteworthy in some way.
 
-<br>
+
 <a href="https://workdojos.com/exhibitionist/advice">next: advice</a>
-<br>
-</p>
+

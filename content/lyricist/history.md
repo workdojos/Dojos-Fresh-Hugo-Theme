@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of Lyricists and the Music  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist history.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist history.mp3" frameborder="0" style="border:0" >}}
 Lyricist:
 The word lyricist comes from the Greek word "lyrikos," which means "singing to the lyre." The lyre was a stringed instrument similar to a small harp, and it was often used to accompany singing in ancient Greek culture. In modern English, a lyricist is a person who writes lyrics for songs, poems, or other forms of written expression.
 
@@ -18,7 +17,6 @@ The word music comes from the Greek word "mousike," which means "art of the Muse
 
 The meaning of the word music has remained relatively unchanged over time, though the definition has been expanded to encompass a wide range of musical styles and traditions from around the world.
 
-<br>
+
 <a href="https://workdojos.com/lyricist/advice">next: advice</a>
-<br>
-</p>
+

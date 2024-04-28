@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Novelists
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -45,6 +44,5 @@ How do you structure your writing process?
 What are some techniques you use to develop your characters and plot?
 How do you handle writer's block or creative blocks?
 
-<br>
+
 <a href="https://workdojos.com/novelist/rights">next: workers' rights</a>
-</p>

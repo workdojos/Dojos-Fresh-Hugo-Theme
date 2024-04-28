@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Lab Techs Working in the Laboratory Testing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, I would approach this question by first considering the basic principles of ethical theory. In particular, I would consider the principles of respect for autonomy, non-maleficence, beneficence, and justice.
 
 Respect for autonomy refers to the idea that individuals should be free to make their own decisions and should not be coerced or manipulated by others. This principle would be relevant in the context of a lab tech starting a career, as it would be important to ensure that the individual has the freedom to make decisions about their career path and is not being forced into a particular role by external factors.
@@ -20,6 +19,5 @@ Justice refers to the idea of fairness and equality. This principle would be rel
 
 In developing an ethical framework for starting a career as a lab tech, it would be important to consider these principles and how they apply to the specific context of the laboratory testing industry. This might involve considering issues such as the impact of the work on the environment, the safety and well-being of workers, and the potential for harm to the general public. Ultimately, the goal would be to create a framework that promotes the well-being of all stakeholders and encourages ethical decision-making in the workplace.
 
-<br>
+
 <a href="https://workdojos.com/labtech/social">next: social media</a>
-</p>

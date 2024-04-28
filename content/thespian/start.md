@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Perfoming Arts  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian start.mp3" frameborder="0" style="border:0" >}}
 Great, let's dive in! First of all, let's talk about some of the amazing perks and benefits of working as a thespian in the performing arts industry.
 
 First and foremost, being a thespian allows you to express yourself creatively and share your talents with the world. It's an incredibly fulfilling career that allows you to truly make a difference in the lives of others through your performances.
@@ -22,6 +21,5 @@ As for helpful websites, I would recommend checking out The Actor's center (http
 
 And finally, don't forget to keep a positive and excited attitude about your career as a thespian! Believe in yourself and your abilities, and always stay motivated and driven to succeed. With hard work and dedication, you can achieve your goals and have a successful and fulfilling career in the performing arts industry. So, keep up the good work and never give up on your dreams!
 
-<br>
+
 <a href="https://workdojos.com/thespian/learning">next: learning</a>
-</p>

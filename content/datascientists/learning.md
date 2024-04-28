@@ -1,12 +1,11 @@
 ---
-title: Learning & Development for Data Scientists
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists learning.mp3" frameborder="0" style="border:0" >}}
 For the job title of data scientist, a strong curriculum should include:
 
 A strong foundation in mathematics and statistics, including courses in linear algebra, calculus, probability and statistics
@@ -41,6 +40,5 @@ How do you approach data cleaning and preparation for analysis?
 What are your favorite tools or techniques for visualizing data?
 How do you keep up with the latest developments in data science?
 
-<br>
+
 <a href="https://workdojos.com/datascientists/rights">next: workers' rights</a>
-</p>

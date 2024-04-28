@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of School Teachers and the Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers history.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers history.mp3" frameborder="0" style="border:0" >}}
 The word "school" is believed to have originated from the Greek word "skhole," which means leisure, rest, or time spent in leisure activities. It was originally used to describe a place where people gathered to learn and engage in philosophical discussions. The word "teacher," on the other hand, is derived from the Latin word "magister," which means master or chief.
 
 The concept of education, as we know it today, has evolved significantly over time. In ancient civilizations, education was often reserved for the wealthy and privileged. It was primarily focused on imparting knowledge and skills related to practical subjects such as mathematics, science, and engineering. In contrast, the education system in modern times is more inclusive, with a focus on holistic development and the promotion of critical thinking skills.
@@ -18,7 +17,6 @@ One of the most interesting things we have learned about education in recent tim
 
 Overall, the evolution of education has been shaped by various cultural, social, and economic factors. As we continue to learn more about the best ways to educate and empower future generations, the concept of education will continue to evolve and adapt to meet the changing needs of society.
 
-<br>
+
 <a href="https://workdojos.com/schoolteachers/advice">next: advice</a>
-<br>
-</p>
+

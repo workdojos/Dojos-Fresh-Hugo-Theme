@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Sales Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -23,6 +22,5 @@ To get others excited about a career as an account executive, share your own pas
 
 Remember, starting a business can be challenging, but with hard work, dedication, and the right strategies in place, you can achieve your goals and build a successful career as an account executive. Keep pushing forward and don't be afraid to ask for help when you need it!
 
-<br>
+
 <a href="https://workdojos.com/accountexecutive/advice">next: advice</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: The Translation & Interpretation  Industry and Interpreter Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -8,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters rights.mp3" frameborder="0" style="border:0" >}}
 As a debater, it is my duty to present both sides of the argument surrounding fair work practices for interpreters in the translation and interpretation industry. While it is important to recognize the role of businesses and their needs, it is equally crucial to advocate for the rights and fair treatment of workers.
 
 On one hand, businesses argue that they have limited resources and must prioritize their financial stability in order to survive. Therefore, they may argue that they cannot afford to pay interpreters high wages or provide generous benefits. Additionally, some may claim that the demand for interpretation services is not consistently high, leading to inconsistent work for interpreters and potential difficulties in providing benefits or stable employment.
@@ -21,6 +20,5 @@ There have been recent trends and events in the interpretation industry that hig
 
 In conclusion, fair work practices for interpreters in the translation and interpretation industry are crucial for the well-being of both individuals and society. It is important to recognize the value and importance of interpretation services and to ensure that interpreters are treated with respect and given fair wages and benefits. Businesses have a responsibility to prioritize the rights and needs of their workers in order to create a more equitable and just society.
 
-<br>
+
 <a href="https://workdojos.com/interpreters/branding">next: branding</a>
-</p>

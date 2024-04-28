@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Screenwriters and Entrepreneurs in the Film  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: ScriptMaster
 
 One Liner: The ultimate online platform for screenwriters to connect with industry professionals and bring their scripts to life.
@@ -36,6 +35,5 @@ Estimated 1st Year Cost of Operation: $200,000 - $300,000
 
 Potential Business Challenges: Competition from other screenwriting platforms, difficulties in acquiring and retaining industry professionals to provide feedback and critiques, securing partnerships with industry organizations and contacts.
 
-<br>
+
 <a href="https://workdojos.com/screenwriter/tech">next: open-source tech</a>
-</p>

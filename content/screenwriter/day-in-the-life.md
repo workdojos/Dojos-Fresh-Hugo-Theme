@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Screenwriter
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in the bustling city of Hollywood, there was a young screenwriter named Jackie. She had always dreamed of writing for the big screen and had worked tirelessly to turn her passion into a career.
 
 On this particular day, Jackie was up early, pouring over her latest script. She had a meeting with her agent at noon and wanted to make sure everything was perfect. As she typed away, she couldn't help but think about all the amazing screenwriters that had come before her.
@@ -22,7 +21,6 @@ As the sun began to set, Jackie returned home exhausted but fulfilled. She knew 
 
 The end.
 
-<br>
+
 <a href="https://workdojos.com/screenwriter/history">next: history</a>
-<br>
-</p>
+

@@ -1,5 +1,4 @@
 ---
-title: Statistician Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -16,6 +15,5 @@ To increase follower engagement and conversion, I would recommend implementing s
 
 Finally, I would suggest regularly monitoring and responding to questions and comments on the organization's social media channels. This community management will not only help to build a positive reputation for the organization, but also provide an opportunity for collaboration with others in the statistical research & development industry. By using analytics to measure the success of these efforts, the organization can continually optimize their social media strategy to achieve their goals.
 
-<br>
+
 <a href="https://workdojos.com/statistician/ethics">next: ethical framework</a>
-</p>

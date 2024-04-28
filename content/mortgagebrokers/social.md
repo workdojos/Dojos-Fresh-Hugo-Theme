@@ -1,5 +1,4 @@
 ---
-title: Mortgage Broker Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ Pinterest: Create boards featuring beautiful homes and properties, as well as in
 
 Overall, the key is to create valuable, informative content that will be useful to your target audience and encourage them to engage with your business. Good luck with your new venture!
 
-<br>
+
 <a href="https://workdojos.com/mortgagebrokers/startup">next: startup ideas</a>
-</p>

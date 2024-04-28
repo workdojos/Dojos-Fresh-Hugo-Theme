@@ -1,5 +1,4 @@
 ---
-title: Exhibitionist Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist branding.mp3" frameborder="0" style="border:0" >}}
 Sure, I can definitely help with that! Here are some potential strategies for managing the social media presence of an art and special events organization on Twitter, Instagram, and Pinterest:
 
 Develop a content calendar: Plan out what type of content you will post on each platform, and when you will post it. This can include things like event announcements, behind-the-scenes glimpses of your organization, artist interviews, and more.
@@ -22,6 +21,5 @@ Use analytics tools: Use analytics tools like Twitter Analytics or Instagram Ins
 
 Update regularly: Consistently post new content to keep your followers engaged and coming back for more. You can also use scheduling tools like Hootsuite to schedule posts in advance.
 
-<br>
+
 <a href="https://workdojos.com/exhibitionist/ethics">next: ethical framework</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Distillers Working in the Distilled Spirits  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -16,6 +15,5 @@ Additionally, it may be necessary to consider the role of social and cultural co
 
 Ultimately, the development of an ethical framework for a career in the distilled spirits industry will require a careful consideration of a range of factors and values, including the potential consequences of one's actions, the principles of non-harm, autonomy, and justice, and the influence of social and cultural context. By carefully examining these factors and values, it is possible to create a framework that guides ethical decision-making in a way that is consistent with one's values and the needs of the industry.
 
-<br>
+
 <a href="https://workdojos.com/distiller/social">next: social media</a>
-</p>

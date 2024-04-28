@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Physical Therapists and Entrepreneurs in the Physical Therapy  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: TherapiesOnDemand
 
 One Liner: An online platform connecting physical therapists with patients in need of personalized therapy services from the comfort of their own home.
@@ -36,6 +35,5 @@ Estimated 1st Year Cost of Operation: $50,000-$75,000
 
 Potential Business Challenges: Competition with traditional physical therapy services, difficulty in securing partnerships with health care providers and insurance companies, managing the logistics of virtual therapy sessions.
 
-<br>
+
 <a href="https://workdojos.com/physicaltherapist/tech">next: open-source tech</a>
-</p>

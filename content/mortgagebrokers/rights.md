@@ -1,5 +1,4 @@
 ---
-title: The Real-Estate  Industry and Mortgage Broker Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -19,6 +18,5 @@ Finally, there is the issue of fair treatment and respect in the workplace. Too 
 
 In conclusion, it is clear that there are a number of issues facing mortgage brokers in the real estate industry. In order to create a more fair and just industry, it is essential that these issues are addressed and that brokers are given the support and resources they need to succeed. By promoting worker's rights, fair treatment, and proper wages, we can create a more equitable and just industry for all.
 
-<br>
+
 <a href="https://workdojos.com/mortgagebrokers/branding">next: branding</a>
-</p>

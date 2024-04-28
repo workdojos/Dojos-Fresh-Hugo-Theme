@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Philosophers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -39,6 +38,5 @@ How do you approach the task of analyzing and evaluating philosophical ideas and
 How do you think philosophy can be applied to real-world problems and issues?
 How do you think your philosophical training and perspective can contribute to the work of our organization?
 
-<br>
+
 <a href="https://workdojos.com/philosophers/rights">next: workers' rights</a>
-</p>

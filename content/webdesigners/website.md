@@ -1,5 +1,4 @@
 ---
-title: Websites for Web Designers in the Digital Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,8 +6,8 @@ layout: single2
 
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I would recommend using open-source technology to build your own website for a few key reasons:
 
 Cost: One of the biggest benefits of using open-source technology is that it is often free to use. This can be a huge advantage for small businesses or startups that may not have a large budget for website development.
@@ -25,8 +24,8 @@ Other popular open-source apps that you might consider using to enhance your web
 
 Overall, the main pros of using open-source technology to build your website include cost-effectiveness, flexibility, and community support. However, it's important to note that open-source technology may require more technical knowledge and resources to set up and maintain, so it may not be the best fit for everyone. Additionally, you will need to host the website on your own server, which can come with additional costs and responsibilities. It's important to carefully consider the pros and cons of open-source technology before deciding whether it is the right fit for your business.
 
-<br>
+
 
 <a href="https://workdojos.com/webdesigners/overview">next: overview</a>
-<br>
-</p>
+
+

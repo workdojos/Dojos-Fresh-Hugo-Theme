@@ -1,12 +1,11 @@
 ---
-title:  History and Etymology of Digital Marketers and the Marketing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers history.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers history.mp3" frameborder="0" style="border:0" >}}
 Certainly! Here is some information about the origins and evolution of the words "digital marketer" and "marketing":
 
 The word "marketing" has its roots in the Latin word "mercatus," which means "marketplace." It first appeared in English in the 15th century, and was originally used to refer to the buying and selling of goods and services in a market or marketplace.
@@ -17,7 +16,6 @@ The term "digital marketer" is a relatively recent one, as it refers to someone 
 
 Overall, the word "marketing" has a long history dating back to ancient times, and has evolved over time to encompass a wide range of activities related to promoting and selling products and services. "Digital marketer" is a more recent term that specifically refers to someone who specializes in marketing products or services online using digital tools and platforms.
 
-<br>
+
 <a href="https://workdojos.com/digitalmarketers/advice">next: advice</a>
-<br>
-</p>
+

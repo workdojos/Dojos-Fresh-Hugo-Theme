@@ -1,5 +1,4 @@
 ---
-title: Physicist Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist social.mp3" frameborder="0" style="border:0" >}}
 Sure, I'd be happy to help you create an engaging campaign to promote your new business as a physicist. Here are a few ideas for each platform:
 
 Instagram:
@@ -37,6 +36,5 @@ Share pins of your own content, including photos and videos of you working in yo
 Collaborate with other scientists or educators and share their content on your boards.
 Engage with your followers by commenting on their pins and re-pinning their content to your boards.
 
-<br>
+
 <a href="https://workdojos.com/physicist/startup">next: startup ideas</a>
-</p>

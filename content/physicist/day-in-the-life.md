@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Physicist
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, there was a brilliant physicist named Maria. She spent her days exploring the mysteries of the universe, delving into the complex theories of quantum mechanics and relativity.
 
 Maria was a curious and inquisitive person, always asking questions and seeking new knowledge. She spent hours in the library, poring over books and articles, trying to understand the inner workings of the natural world.
@@ -22,7 +21,6 @@ She also thought about some of the notable physicists who had come before her, s
 
 As she prepared to go to bed, Maria smiled to herself, knowing that the next day would bring new opportunities to learn and discover, and that she was one step closer to unlocking the secrets of the universe.
 
-<br>
+
 <a href="https://workdojos.com/physicist/history">next: history</a>
-<br>
-</p>
+

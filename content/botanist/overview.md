@@ -1,5 +1,4 @@
 ---
-title: An Overview for Botanists and the Botany  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist overview.mp3" frameborder="0" style="border:0" >}}
 The botany industry is a fascinating and important field that plays a crucial role in the study and understanding of plants. From research and development to conservation and sustainable agriculture, there are many opportunities to work in this industry.
 
 According to the Bureau of Labor Statistics, there are approximately 36,000 jobs in the botany field in the United States, with a median annual wage of $68,020. Many of these jobs are in research and development, as well as education and government agencies. However, there are also opportunities in private industries such as agriculture and horticulture.
@@ -22,6 +21,5 @@ While there are many rewarding jobs in the botany industry, it is important to n
 
 Overall, the botany industry offers a wide range of exciting and fulfilling career opportunities for those with a passion for plants and the natural world. With the right resources and networking, anyone can find a place in this dynamic and important field.
 
-<br>
+
 <a href="https://workdojos.com/botanist/day-in-the-life">next: day in the life</a>
-</p>

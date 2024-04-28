@@ -1,12 +1,11 @@
 ---
-title: Open-Source Tech for Administrators and Others in the Administration & Book-Keeping  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators tech.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators tech.mp3" frameborder="0" style="border:0" >}}
 The administration and bookkeeping industry is an integral part of any thriving economy. These professionals help businesses keep track of their financial records, manage payroll, and ensure compliance with various regulations. However, in recent years, there has been a shift towards open-source technology in this industry, which has the potential to revolutionize the way administrators and bookkeepers work.
 
 One of the main benefits of open-source technology is the ability to customize it to fit the specific needs of a business. This is particularly important for small businesses, which often have limited resources and cannot afford to invest in expensive proprietary software. With open-source technology, small businesses can access a range of tools and resources that are tailored to their needs, without having to pay expensive licensing fees.
@@ -19,7 +18,6 @@ In the future, small businesses will play an even more integral role in a thrivi
 
 In conclusion, the administration and bookkeeping industry is at the forefront of a shift towards open-source technology, which has the potential to revolutionize the way administrators and bookkeepers work and support small businesses in their growth and success. By staying up-to-date with the latest developments in open-source technology, administrators and bookkeepers can thrive in this industry, and contribute to a thriving economy in the future.
 
-<br>
+
 <a href="https://workdojos.com/administrators/website">next: website</a>
-<br>
-</p>
+

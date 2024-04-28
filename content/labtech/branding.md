@@ -1,5 +1,4 @@
 ---
-title: Lab Tech Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech branding.mp3" frameborder="0" style="border:0" >}}
 Sure! Here are a few strategies that could be effective in achieving the goals you've outlined:
 
 Twitter:
@@ -36,6 +35,5 @@ Create engaging and informative content that resonates with your audience and al
 Use a mix of different types of content, such as photos, videos, infographics, and blog posts, to keep things interesting
 Update your platforms regularly to keep your followers engaged and attract new ones.
 
-<br>
+
 <a href="https://workdojos.com/labtech/ethics">next: ethical framework</a>
-</p>

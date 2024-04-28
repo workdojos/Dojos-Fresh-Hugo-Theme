@@ -1,5 +1,4 @@
 ---
-title: Advice for Lead Generators
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ In terms of qualifications, a bachelor's degree in marketing, business, or a rel
 
 Overall, a career as a lead generator in the marketing services industry can be a rewarding and challenging path for individuals with strong communication, research, and time management skills. I recommend continuing to research the job market trends and industry-specific qualifications to determine if this is the right career path for you.
 
-<br>
+
 <a href="https://workdojos.com/leadgenerator/start">next: get started</a>
-</p>

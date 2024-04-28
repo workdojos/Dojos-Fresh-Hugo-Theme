@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of Novelists and the Writing & Publishing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -14,7 +13,6 @@ The word "writing" comes from the Old English "writan," which means "to scratch 
 
 The meanings of both of these words have remained relatively unchanged over time, with "novelist" still referring to a person who writes novels and "writing" still referring to the act of creating written works. "Publishing" has expanded to include the distribution of written works through various mediums, such as electronic publishing or self-publishing.
 
-<br>
+
 <a href="https://workdojos.com/novelist/advice">next: advice</a>
-<br>
-</p>
+

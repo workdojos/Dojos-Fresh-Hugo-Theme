@@ -1,12 +1,11 @@
 ---
-title: Bartender Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders branding.mp3" frameborder="0" style="border:0" >}}
 To start, I would recommend creating a social media calendar that outlines the content and campaigns we will be posting on each platform. This will help us stay organized and ensure that we are consistently posting relevant and engaging content.
 
 On Twitter, we can start by creating Twitter polls and asking questions related to the bartending and hospitality industry to engage with our followers. We can also tweet out industry news and trends, share behind-the-scenes content from our organization, and retweet content from other influencers and industry leaders to increase our reach.
@@ -19,6 +18,5 @@ In addition to posting regularly on these platforms, it is important to engage w
 
 Finally, we can seek out opportunities for collaboration with other organizations in the bartending and hospitality industry to increase brand awareness and reach a wider audience. This can include hosting joint events or sharing each other's content on social media.
 
-<br>
+
 <a href="https://workdojos.com/bartenders/ethics">next: ethical framework</a>
-</p>

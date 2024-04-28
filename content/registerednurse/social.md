@@ -1,5 +1,4 @@
 ---
-title: Registered Nurse Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse social.mp3" frameborder="0" style="border:0" >}}
 Sure, I'd be happy to help you create an engaging campaign for your new business! Here are some ideas for Instagram, Twitter, YouTube, and Pinterest:
 
 Instagram: Create a series of Instagram posts showcasing your work as a registered nurse and highlighting the importance of healthcare. Use hashtags related to nursing and healthcare, and encourage your followers to share their own experiences in the industry. You could also partner with other healthcare professionals or companies to further promote your business.
@@ -20,6 +19,5 @@ Pinterest: Create a Pinterest board featuring healthcare-related content, such a
 
 I hope these ideas help! Let me know if you have any other questions or need further assistance.
 
-<br>
+
 <a href="https://workdojos.com/registerednurse/startup">next: startup ideas</a>
-</p>

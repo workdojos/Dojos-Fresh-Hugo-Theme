@@ -1,5 +1,4 @@
 ---
-title: An Overview for Thespians and the Perfoming Arts  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian overview.mp3" frameborder="0" style="border:0" >}}
 Sure, I'd be happy to help you with your essay! Here are some facts and figures about the performing arts industry:
 
 The performing arts industry is a broad term that encompasses many different types of entertainment, such as theater, music, dance, and circus arts.
@@ -41,6 +40,5 @@ On the other hand, some "worst" jobs in the performing arts industry might inclu
 Low-paying or poorly compensated jobs (e.g., unpaid internships, part-time jobs with no benefits)
 Jobs with long hours and demanding schedules (e.g., touring performers)
 Jobs with high levels of stress or competition (e.g., auditioning for roles)
-<br>
+
 <a href="https://workdojos.com/thespian/day-in-the-life">next: day in the life</a>
-</p>

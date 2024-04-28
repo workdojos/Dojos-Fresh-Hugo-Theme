@@ -1,12 +1,11 @@
 ---
-title: A Day in the Life of a Bartender
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in a bustling city, there was a bartender named Tom who worked at a popular bar. Tom loved his job, as it allowed him to meet new people every day and create delicious cocktails for his customers.
 
 Tom started his day early, preparing the bar for the evening rush. He stocked the shelves with various types of alcohol and cleaned the glasses to ensure everything was ready for the busy night ahead.
@@ -19,7 +18,6 @@ Throughout history, there have been many notable bartenders who have left their 
 
 The day in the life of a bartender is never dull, and Tom was grateful to be a part of such a vibrant and dynamic industry. He knew that every day brought new challenges and opportunities, and he was always ready for the next exciting adventure.
 
-<br>
+
 <a href="https://workdojos.com/bartenders/history">next: history</a>
-<br>
-</p>
+

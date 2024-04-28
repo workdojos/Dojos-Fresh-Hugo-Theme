@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Event Planners
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum:
 
 Event planning principles and strategies
@@ -43,6 +42,5 @@ How do you handle conflicts or issues that may arise during the planning process
 How do you ensure customer satisfaction during and after the event?
 Can you give an example of a successful event you have planned in the past?
 
-<br>
+
 <a href="https://workdojos.com/eventplanners/rights">next: workers' rights</a>
-</p>

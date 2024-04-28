@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of Aviationists and the Aviation  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -19,7 +18,6 @@ The word aviation is derived from the Latin word avis, meaning "bird." It was fi
 
 Over time, the meaning of the word aviation has evolved to encompass the broader field of aeronautics, which includes the study of the design, construction, and operation of aircraft and spacecraft. Today, aviation is used to refer to the entire industry of aircraft manufacturing, operation, and maintenance.
 
-<br>
+
 <a href="https://workdojos.com/aviationist/advice">next: advice</a>
-<br>
-</p>
+

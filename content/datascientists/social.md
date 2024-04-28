@@ -1,12 +1,11 @@
 ---
-title: Data Scientist Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists social.mp3" frameborder="0" style="border:0" >}}
 Sure! Here are some ideas for an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as a data scientist working in the data science industry:
 
 Instagram: Create a series of Instagram posts showcasing your work as a data scientist. This could include behind-the-scenes photos of you working on projects, before and after shots of data analyses you've completed, and testimonials from satisfied clients. Use relevant hashtags such as #datascience, #bigdata, and #analytics to attract the attention of other data scientists and potential clients.
@@ -17,6 +16,5 @@ YouTube: Create a YouTube channel featuring videos of you discussing your work a
 
 Pinterest: Create a Pinterest board featuring infographics, data visualizations, and other resources related to data science. Share your own work as well as interesting articles and resources from other data scientists and organizations. Use relevant tags and descriptions to make it easier for people to find your board and follow it.
 
-<br>
+
 <a href="https://workdojos.com/datascientists/startup">next: startup ideas</a>
-</p>

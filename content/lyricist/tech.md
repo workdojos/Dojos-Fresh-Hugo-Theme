@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Lyricists and Others in the Music  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist tech.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist tech.mp3" frameborder="0" style="border:0" >}}
 The music industry is constantly evolving, with new technologies and platforms emerging all the time. While these innovations can bring exciting new opportunities for musicians and lyricists, they can also be intimidating and overwhelming. That's where open-source technology comes in.
 
 Open-source technology allows musicians to access a wide range of tools and resources that they can use to create, share, and promote their music. This can be especially beneficial for independent artists who may not have the resources or connections to take advantage of more traditional channels.
@@ -20,7 +19,6 @@ For lyricists, open-source technology can provide a way to showcase their work a
 
 Overall, open-source technology has the potential to revolutionize the music industry and help musicians and lyricists succeed on their own terms. By supporting small businesses and empowering independent artists, it can also play a key role in building a thriving economy.
 
-<br>
+
 <a href="https://workdojos.com/lyricist/website">next: website</a>
-<br>
-</p>
+

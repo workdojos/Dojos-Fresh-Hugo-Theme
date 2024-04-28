@@ -1,5 +1,4 @@
 ---
-title: The Religious Organizations  Industry and Theologian Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -8,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian rights.mp3" frameborder="0" style="border:0" >}}
 As a theologian working in the religious organizations industry, I am deeply committed to advocating for fair work practices and promoting the rights and well-being of workers. In recent years, there have been a number of disturbing trends and events that have highlighted the need for greater focus on these issues within our industry.
 
 One of the most pressing issues facing workers in the religious organizations industry is the lack of fair wages and compensation. Despite the important work that we do, many of us are paid significantly less than our counterparts in other industries, and are often denied access to benefits such as healthcare and retirement plans. This is not only unfair, but it also undermines the integrity and mission of our organizations, as we are unable to attract and retain top talent and are unable to fully support the work of our employees.
@@ -19,6 +18,5 @@ Given these challenges, it is imperative that we take action to promote fair wor
 
 In conclusion, as theologians working in the religious organizations industry, we have a unique opportunity and responsibility to promote fair work practices and support the well-being of our fellow workers. By standing up for justice and equality, we can create a more just and equitable society, and live out the values and principles that we hold dear.
 
-<br>
+
 <a href="https://workdojos.com/theologian/branding">next: branding</a>
-</p>

@@ -1,12 +1,11 @@
 ---
-title: Coffee And Hospitality  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas challenges.mp3" frameborder="0" style="border:0" >}}
 The coffee and hospitality industry has been facing numerous controversies in recent years, including issues surrounding pay and working conditions for baristas. It is clear that we need to take steps to make it easier for baristato find work and to ensure that they are paid a fair wage. In addition, the industry as a whole has the potential to improve significantly in the coming years if we address these issues and work to create a more sustainable and equitable system.
 
 One major controversy facing the coffee and hospitality industry is the low pay and poor working conditions often experienced by baristas. Many of these workers are paid minimum wage or just above, and are often required to work long hours in high-stress environments. This can lead to burnout and turnover, making it difficult for businesses to retain talented employees. It is essential that we work to improve pay and working conditions for baristas, not only to attract and retain talented workers, but also to ensure that they are able to lead fulfilling and financially stable lives.
@@ -17,6 +16,5 @@ Finally, the coffee and hospitality industry has the potential to become much mo
 
 In conclusion, the coffee and hospitality industry is facing a number of controversies and challenges, including low pay and poor working conditions for baristas, a lack of job opportunities, and environmental and social sustainability concerns. By addressing these issues and working to create a more equitable and sustainable system, we can ensure that the industry flourishes in the years to come.
 
-<br>
+
 <a href="https://workdojos.com/baristas/history">next: history</a>
-</p>

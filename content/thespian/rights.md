@@ -1,5 +1,4 @@
 ---
-title: The Perfoming Arts  Industry and Thespian Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -8,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian rights.mp3" frameborder="0" style="border:0" >}}
 As a thespian working in the performing arts industry, I have witnessed firsthand the challenges and injustices faced by many of my colleagues. From long and grueling rehearsals to the constant uncertainty of securing steady work, the life of a performer can be filled with hardship. However, one of the most pressing issues facing the industry is the lack of fair work practices, including inadequate wages and mistreatment of workers.
 
 Recent trends in the industry have only exacerbated these issues. With the rise of streaming platforms and the proliferation of content, there is an increasing demand for actors and performers to work for low or even no pay. Many are told that the exposure and experience gained from working for free will lead to bigger and better opportunities down the line, but this is often not the case.
@@ -21,6 +20,5 @@ The argument that the industry cannot afford to pay its workers fair wages is a 
 
 In conclusion, it is essential that the performing arts industry prioritize the fair treatment and proper wages of its workers. The exploitation of unpaid labor and subpar working conditions must be addressed and rectified in order to create a more equitable and sustainable industry. As a thespian and advocate for worker's rights, I stand in support of fair work practices for all performers in the performing arts industry.
 
-<br>
+
 <a href="https://workdojos.com/thespian/branding">next: branding</a>
-</p>

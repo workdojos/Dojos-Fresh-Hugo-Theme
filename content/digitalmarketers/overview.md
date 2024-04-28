@@ -1,5 +1,4 @@
 ---
-title: An Overview for Digital Marketers and the Marketing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers overview.mp3" frameborder="0" style="border:0" >}}
 As an essay writer, it is my job to research and provide information on the marketing industry. Here are some key facts and figures about the industry:
 
 The marketing industry is worth approximately $2 trillion globally, according to the World Federation of Advertisers.
@@ -23,6 +22,5 @@ As with any industry, there are both good and bad jobs to have in the marketing 
 
 Overall, the marketing industry is a dynamic and exciting field with many opportunities for growth and success. By networking, staying up-to-date with industry trends, and seeking out the right job opportunities, anyone can find a fulfilling career in the marketing industry.
 
-<br>
+
 <a href="https://workdojos.com/digitalmarketers/day-in-the-life">next: day in the life</a>
-</p>

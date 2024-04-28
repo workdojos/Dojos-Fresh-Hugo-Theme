@@ -1,5 +1,4 @@
 ---
-title: Advice for Philosophers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ In terms of qualifications, a bachelor's degree in philosophy is the minimum req
 
 Overall, a career as a philosopher can be rewarding and fulfilling for individuals with a passion for critical thinking and analysis. With the right skills, interests, and qualifications, you can pursue a successful career in the higher education industry. So, this is a good career path for you to follow.
 
-<br>
+
 <a href="https://workdojos.com/philosophers/start">next: get started</a>
-</p>

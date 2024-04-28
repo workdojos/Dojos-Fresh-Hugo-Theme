@@ -1,5 +1,4 @@
 ---
-title: Financier Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier social.mp3" frameborder="0" style="border:0" >}}
 Sure thing! Here are some ideas for creating an engaging campaign on each platform:
 
 Instagram:
@@ -37,6 +36,5 @@ Pin industry news, resources, and tips for startups looking to secure financing
 Share visually appealing graphics and images that showcase your business and the services you offer
 Engage with followers by repinning and commenting on their pins.
 
-<br>
+
 <a href="https://workdojos.com/financier/startup">next: startup ideas</a>
-</p>

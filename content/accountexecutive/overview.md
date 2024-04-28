@@ -1,5 +1,4 @@
 ---
-title: An Overview for Account Executives and the Sales Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -22,6 +21,5 @@ As with any industry, there are both good and bad jobs to have in the sales indu
 
 In conclusion, the sales industry is an exciting and growing field with numerous opportunities for professionals to grow and succeed. To succeed in the industry, it is important to network with industry professionals, continuously learn and grow, and consider the best and worst jobs in the industry before making a career decision.
 
-<br>
+
 <a href="https://workdojos.com/accountexecutive/challenges">next: challenges</a>
-</p>

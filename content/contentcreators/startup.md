@@ -1,12 +1,11 @@
 ---
-title: Startup Ideas for Content Creators and Entrepreneurs in the Influencer  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: CreativeFlow
 
 Short One Liner: "Empowering content creators to easily produce and distribute high-quality content."
@@ -35,6 +34,5 @@ Estimated 1st Year Cost of Operation: $100,000 - $200,000
 
 Potential Business Challenges to Look For: Competition with other content creation tool companies, difficulty building partnerships and sponsorships, difficulty monetizing content.
 
-<br>
+
 <a href="https://workdojos.com/contentcreators/tech">next: open-source tech</a>
-</p>

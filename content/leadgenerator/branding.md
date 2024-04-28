@@ -1,5 +1,4 @@
 ---
-title: Lead Generator Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -24,6 +23,5 @@ Update regularly: Finally, I will make sure to update your accounts regularly wi
 
 Overall, my goal as your social media manager will be to help you increase brand awareness, recruit followers, drive traffic to your website, and convert leads into customers through strategic, targeted campaigns on Twitter, Instagram, and Pinterest. I believe that by following this strategy, we can successfully achieve these goals and build a strong presence for your marketing services organization on these platforms.
 
-<br>
+
 <a href="https://workdojos.com/leadgenerator/ethics">next: ethical framework</a>
-</p>

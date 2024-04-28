@@ -1,12 +1,11 @@
 ---
-title: Learning & Development for Animators
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators learning.mp3" frameborder="0" style="border:0" >}}
 As a Talent Coach for animators, here are some suggestions for a curriculum, resources for learning, and exciting companies to work for:
 
 Curriculum:
@@ -45,6 +44,5 @@ How do you approach storyboarding and pre-production planning?
 What are your strengths and weaknesses as an animator?
 How have you stayed current on the latest software and techniques in the animation industry?
 
-<br>
+
 <a href="https://workdojos.com/animators/rights">next: workers' rights</a>
-</p>

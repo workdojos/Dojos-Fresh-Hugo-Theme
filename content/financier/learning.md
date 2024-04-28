@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Financiers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier learning.mp3" frameborder="0" style="border:0" >}}
 Sure! Here is a list of things that should appear in a curriculum for a financier:
 
 A strong foundation in finance and accounting, including financial statement analysis, corporate finance, and investment analysis
@@ -39,6 +38,5 @@ Can you provide an example of a time when you had to analyze financial data and 
 How do you stay up-to-date with changes in financial regulations and compliance requirements?
 Can you discuss a situation in which you had to work on a team to achieve a financial goal? How did you contribute to the team's success?
 
-<br>
+
 <a href="https://workdojos.com/financier/rights">next: workers' rights</a>
-</p>

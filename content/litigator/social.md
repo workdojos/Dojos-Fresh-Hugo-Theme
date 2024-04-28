@@ -1,5 +1,4 @@
 ---
-title: Lawyer Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator social.mp3" frameborder="0" style="border:0" >}}
 As a social media influencer, I would recommend creating a consistent theme and aesthetic across all platforms in order to create a cohesive brand image. This could include using the same color scheme, font, and overall design in all posts and graphics.
 
 For Instagram, I would suggest creating visually appealing posts showcasing your legal services, such as infographics explaining different legal terms or processes, behind-the-scenes glimpses of your office or team, and motivational quotes related to the legal industry. You could also utilize Instagram Stories to show quick, daily updates or highlights from your day-to-day work.
@@ -20,6 +19,5 @@ On Pinterest, you could create boards featuring legal resources, infographics, a
 
 In addition to creating content, it’s important to engage with your followers by responding to comments and messages, and encouraging them to share your posts or tag their friends in order to increase brand awareness. You could also consider collaborating with other social media influencers or industry professionals to expand your reach and attract new followers.
 
-<br>
+
 <a href="https://workdojos.com/litigator/startup">next: startup ideas</a>
-</p>

@@ -1,12 +1,11 @@
 ---
-title: Botanist Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist branding.mp3" frameborder="0" style="border:0" >}}
 As the social media manager for your botany organization, I would recommend the following strategies to increase brand awareness, recruit followers, drive traffic to your website, and create opportunities for collaboration:
 
 Develop a content calendar that includes a mix of informative, educational, and visually appealing content related to botany and your organization. This can include tips and tricks for gardening, botanical facts and trivia, behind-the-scenes looks at your research or work, and more.
@@ -19,6 +18,5 @@ Use analytics tools to track the success of your campaigns and see which types o
 
 Monitor conversations and engage with your audience by responding to questions, comments, and feedback in a timely and professional manner. This can help build trust and credibility with your followers, and make your organization more approachable and relatable.
 
-<br>
+
 <a href="https://workdojos.com/botanist/ethics">next: ethical framework</a>
-</p>

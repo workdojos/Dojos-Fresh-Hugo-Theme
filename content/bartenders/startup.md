@@ -1,12 +1,11 @@
 ---
-title: Startup Ideas for Bartenders and Entrepreneurs in the Bartending And Hospitality  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: Bartender Connect
 
 One Liner: A digital platform connecting bartenders and hospitality professionals with event planners and venue managers
@@ -35,6 +34,5 @@ Estimated 1st Year Cost of Operation: $50,000 - $100,000
 
 Potential Business Challenges: Competition from other job-finding platforms, difficulty in onboarding and vetting professionals, securing partnerships with event planning and venue management companies.
 
-<br>
+
 <a href="https://workdojos.com/bartenders/tech">next: open-source tech</a>
-</p>

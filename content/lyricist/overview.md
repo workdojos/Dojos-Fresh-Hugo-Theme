@@ -1,5 +1,4 @@
 ---
-title: An Overview for Lyricists and the Music  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist overview.mp3" frameborder="0" style="border:0" >}}
 The music industry is a vast and multifaceted field, encompassing everything from record labels and live music venues to audio engineering and music education. According to the National Association of Music Merchants (NAMM), the global music industry was worth an estimated $17 billion in 2019.
 
 One of the best ways to find opportunities to work in the music industry is to network with those who are already established in the field. This could mean attending industry events, joining music-specific organizations, or simply reaching out to professionals in your area of interest. Additionally, many music-focused universities and colleges offer internships or job placement programs for their students, providing a valuable opportunity to gain hands-on experience and build connections.
@@ -18,6 +17,5 @@ There are a variety of useful websites and resources available for those interes
 
 When it comes to the best and worst jobs in the music industry, it really depends on individual interests and strengths. Some of the best jobs may include positions as record executives, live music promoters, or audio engineers, while some of the worst jobs may include working as a roadie or dealing with difficult artists. Ultimately, it's important to consider what you are most passionate about and find a role that aligns with your interests and skills.
 
-<br>
+
 <a href="https://workdojos.com/lyricist/day-in-the-life">next: day in the life</a>
-</p>

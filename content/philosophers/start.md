@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Philosophy And Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ There are also many useful resources and websites that can help you learn more a
 
 In conclusion, working as a philosopher in the philosophy and higher education industry offers a unique and exciting career path that is full of intellectual challenges, personal growth, and professional opportunities. So don't be afraid to embrace this exciting and growing field, and to pursue your passion for philosophy with confidence and enthusiasm! So, keep up the good work and all the best for your future endeavors.
 
-<br>
+
 <a href="https://workdojos.com/philosophers/learning">next: learning</a>
-</p>

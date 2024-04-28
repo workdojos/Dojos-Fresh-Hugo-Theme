@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Social Workers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum:
 
 Bachelor's degree in social work
@@ -35,6 +34,5 @@ Describe a time when you had to advocate for a client's needs.
 What do you believe is the role of a social worker in society?
 How do you prioritize your tasks and manage your time effectively?
 
-<br>
+
 <a href="https://workdojos.com/socialworker/rights">next: workers' rights</a>
-</p>

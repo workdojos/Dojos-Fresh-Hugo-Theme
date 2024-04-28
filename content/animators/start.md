@@ -1,12 +1,11 @@
 ---
-title: Getting Started in the Animation Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators start.mp3" frameborder="0" style="border:0" >}}
 First and foremost, congratulations on wanting to take the leap into the world of entrepreneurship as an animator! The animation industry is a dynamic and creative field, and as an animator, you have the opportunity to bring your unique vision and artistic talents to life through your work.
 
 To help you get started on your journey as a startup animator, here are a few strategies you can use to achieve your goals:
@@ -23,6 +22,5 @@ Share your passion and excitement with others: One of the best ways to get other
 
 Remember, starting a business is never easy, but with hard work, dedication, and a positive mindset, you can achieve your goals and create a successful startup as an animator. Keep pushing forward, and never give up on your dreams!
 
-<br>
+
 <a href="https://workdojos.com/animators/learning">next: learning</a>
-</p>

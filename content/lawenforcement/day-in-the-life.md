@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Police Officer 
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in a bustling city, there was a brave and dedicated police officer named Jack. Jack had been a police officer for many years and had seen it all - from petty crimes to major cases that had left the city in shock.
 
 Every day, Jack woke up at the crack of dawn and put on his uniform - a crisp, navy blue shirt and pants adorned with shiny badges and patches. He made his way to the police station, where he checked in with his superior officer and received his daily briefing.
@@ -22,7 +21,6 @@ But Jack wasn't the only notable police officer in history. There were many othe
 
 These are just a few examples of the countless police officers and protective service professionals who have made a difference in the world. They serve as a reminder of the important role that law enforcement and protective services play in keeping our communities safe and secure.
 
-<br>
+
 <a href="https://workdojos.com/lawenforcement/history">next: history</a>
-<br>
-</p>
+

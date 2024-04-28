@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Economists Working in the Data Science  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -16,6 +15,5 @@ Finally, I would consider the role of external factors, such as laws, regulation
 
 Ultimately, the goal of this process would be to develop a comprehensive ethical framework that guides the economist's decision-making and actions in their career, ensuring that they are acting in a way that is consistent with their values and the ethical standards of their field.
 
-<br>
+
 <a href="https://workdojos.com/economists/social">next: social media</a>
-</p>

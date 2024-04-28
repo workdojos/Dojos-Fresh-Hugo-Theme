@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Distiller
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -24,7 +23,6 @@ But John was not the only notable distiller in the land. Throughout history, the
 
 And so, as John retired for the evening, he knew that he was part of a long and storied tradition, a tradition that stretched back through the ages and that would continue on for generations to come. The end.
 
-<br>
+
 <a href="https://workdojos.com/distiller/history">next: history</a>
-<br>
-</p>
+

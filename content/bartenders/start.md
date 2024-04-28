@@ -1,12 +1,11 @@
 ---
-title: Getting Started in the Bartending And Hospitality  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders start.mp3" frameborder="0" style="border:0" >}}
 Great! It sounds like you have a goal of learning more about the perks and benefits of working as a bartender in the bartending and hospitality industry. This is a fantastic goal, as the bartending and hospitality industry is an exciting and growing field with lots of upside potential.
 
 First, let's start with some little-known facts about the industry:
@@ -33,6 +32,5 @@ Hospitality Net is a website that offers news, insights, and resources for profe
 
 I hope these resources help you get excited about a career as a bartender in the exciting and growing bartending and hospitality industry. Remember, there are many perks and benefits to this career, including great earning potential, opportunities for growth and advancement, and the chance to meet and work with diverse and interesting people. Don't be afraid to reach out to others in the industry and ask for advice and guidance as you work towards achieving your goals. You can do it!
 
-<br>
+
 <a href="https://workdojos.com/bartenders/learning">next: learning</a>
-</p>

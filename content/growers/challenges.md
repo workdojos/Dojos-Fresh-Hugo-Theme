@@ -1,5 +1,4 @@
 ---
-title: Cannabis  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers challenges.mp3" frameborder="0" style="border:0" >}}
 The cannabis industry has faced numerous controversies in recent years, including debates about the legality of marijuana and the potential health risks associated with its use. Despite these challenges, it is important to recognize the significant contributions that cannabis growers make to the industry and to society as a whole.
 
 One major challenge faced by cannabis growers is finding employment in the industry. Many states have strict laws governing the cultivation and sale of marijuana, which can make it difficult for growers to obtain licenses and find work. This problem is compounded by the fact that many employers are hesitant to hire individuals with criminal records, even if those records are related to marijuana offenses.
@@ -20,6 +19,5 @@ In addition to addressing these challenges, there are also numerous ways in whic
 
 In conclusion, the cannabis industry is facing a number of controversies and challenges, but with the right policies and initiatives, it has the potential to become a more inclusive, equitable, and innovative industry. By supporting the needs and rights of cannabis growers, we can help to create a brighter future for the industry as a whole.
 
-<br>
+
 <a href="https://workdojos.com/growers/history">next: history</a>
-</p>

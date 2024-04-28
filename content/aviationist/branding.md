@@ -1,5 +1,4 @@
 ---
-title: Aviationist Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -25,6 +24,5 @@ Engage with influencers in the aviation industry to increase brand awareness and
 
 Overall, by implementing these strategies, we can effectively manage our social media presence and drive brand awareness, recruit followers, and increase traffic and conversions.
 
-<br>
+
 <a href="https://workdojos.com/aviationist/ethics">next: ethical framework</a>
-</p>

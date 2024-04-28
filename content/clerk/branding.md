@@ -1,5 +1,4 @@
 ---
-title: Clerk Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -23,6 +22,5 @@ Utilize analytics: Use tools like Twitter Analytics, Instagram Insights, and Pin
 
 Explore collaboration opportunities: Collaborating with other businesses in the small business industry can help increase your reach and build relationships with potential partners. Look for opportunities to cross-promote each other's content and consider co-hosting events or webinars.
 
-<br>
+
 <a href="https://workdojos.com/clerk/ethics">next: ethical framework</a>
-</p>

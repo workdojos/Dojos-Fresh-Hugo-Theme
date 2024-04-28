@@ -1,5 +1,4 @@
 ---
-title: Websites for Mortgage Brokers in the Real-Estate  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-<br>
+
 <p>
 As a web design consultant, I recommend using open-source technology to build your website for several reasons. First, open-source technology is generally free to use, which can save your business significant costs compared to purchasing proprietary software. Additionally, open-source technology is often more customizable than proprietary software, which allows you to tailor your website to better meet your business goals and the needs of your users.
 
@@ -17,8 +16,8 @@ One potential downside of using open-source technology is that you may need to i
 
 Overall, the benefits of using open-source technology to build your own website far outweigh the potential downsides. By using open-source tools, you can create a professional and customizable website that meets your business needs and provides a great user experience, all while saving money on software costs.
 
-<br>
+
 
 <a href="https://workdojos.com/mortgagebrokers/overview">next: overview</a>
-<br>
-</p>
+
+

@@ -1,12 +1,11 @@
 ---
-title: Getting Started in the Marketing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers start.mp3" frameborder="0" style="border:0" >}}
 First of all, let me tell you that working as a digital marketer in the marketing industry is a fantastic career choice with endless opportunities for growth and success. The digital marketing industry is constantly evolving and there is always something new to learn and explore.
 
 Here are some little-known facts about working as a digital marketer in the marketing industry:
@@ -27,6 +26,5 @@ Google Digital Marketing Course: This free course offered by Google covers the b
 
 I hope this information has gotten you excited about a career as a digital marketer in the marketing industry. Remember, with hard work, dedication, and the right resources, you can achieve great success in this exciting and growing field.
 
-<br>
+
 <a href="https://workdojos.com/digitalmarketers/learning">next: learning</a>
-</p>

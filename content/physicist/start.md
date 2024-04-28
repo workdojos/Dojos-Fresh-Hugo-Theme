@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Physics And Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist start.mp3" frameborder="0" style="border:0" >}}
 First off, congratulations on setting your sights on a career as a physicist! The field of physics is an exciting and growing industry with lots of opportunities for growth and advancement.
 
 One of the biggest perks of working as a physicist is the opportunity to make a real impact on the world. From developing new technologies to solving complex problems, physicists play a vital role in advancing our understanding of the world around us.
@@ -20,6 +19,5 @@ There are also plenty of resources available for those interested in pursuing a 
 
 So don't let any doubts or fears hold you back from pursuing your dream of becoming a physicist! With hard work, determination, and the right resources, you can succeed in this exciting and rewarding field. Good luck!
 
-<br>
+
 <a href="https://workdojos.com/physicist/learning">next: learning</a>
-</p>

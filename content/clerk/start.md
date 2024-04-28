@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Small Business and Retail  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -21,6 +20,5 @@ Some useful websites for researching the small business industry include the Sma
 
 To get excited about a career as a clerk in the small business industry, try to focus on the potential for personal and professional growth, the opportunity to make a real impact on the success of the company, and the chance to work with a dynamic and dedicated team. With the right attitude and approach, this can be a fulfilling and rewarding career path. So, go for it!
 
-<br>
+
 <a href="https://workdojos.com/clerk/learning">next: learning</a>
-</p>

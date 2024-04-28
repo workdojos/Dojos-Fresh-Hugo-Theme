@@ -1,12 +1,11 @@
 ---
-title:  History and Etymology of Bartenders and the Bartending And Hospitality  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders history.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders history.mp3" frameborder="0" style="border:0" >}}
 The word bartender is believed to have originated from the Old French word "bartender," which meant "one who tends the bar." This word was later adopted into English in the early 19th century.
 
 The term bartending refers to the act of tending the bar and serving drinks. It is derived from the word bartender, with the suffix "-ing" added to indicate the action or process of tending the bar.
@@ -15,7 +14,6 @@ The word hospitality is derived from the Latin word "hospitalitas," which means 
 
 The meanings of both bartender and bartending have remained largely unchanged over time, although the role of a bartender has evolved to include a greater focus on customer service and mixology. The meaning of hospitality has also remained largely unchanged, although it is now used to refer to a broader range of services and amenities offered to guests, such as entertainment and recreational activities.
 
-<br>
+
 <a href="https://workdojos.com/bartenders/advice">next: advice</a>
-<br>
-</p>
+

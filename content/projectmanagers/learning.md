@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Project Managers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers learning.mp3" frameborder="0" style="border:0" >}}
 For the role of a project manager, some things that should appear in a curriculum include:
 
 Experience with project management methodologies such as Agile or Scrum
@@ -39,6 +38,5 @@ What techniques do you use to manage risks and challenges in a project?
 How do you communicate with team members and stakeholders to ensure that everyone is on the same page?
 How do you measure the success of a project and what metrics do you use?
 
-<br>
+
 <a href="https://workdojos.com/projectmanagers/rights">next: workers' rights</a>
-</p>

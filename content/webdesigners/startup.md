@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Web Designers and Entrepreneurs in the Digital Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: Web Design Wizard
 
 Short One Liner: A one-stop-shop for all your web design needs, from consultation to development and maintenance.
@@ -36,6 +35,5 @@ Estimated 1st Year Cost of Operation: $50,000, including website design and deve
 
 Potential Business Challenges: Competition from other web design agencies, difficulty in differentiating services and standing out in the market, limited budget for marketing and advertising efforts.
 
-<br>
+
 <a href="https://workdojos.com/webdesigners/tech">next: open-source tech</a>
-</p>

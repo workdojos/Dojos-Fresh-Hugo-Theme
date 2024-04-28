@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Web Designers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners learning.mp3" frameborder="0" style="border:0" >}}
 Sure, I'd be happy to help you out as a talent coach for web designer interviews. Here are some things that should appear in a curriculum for a web designer:
 
 A strong foundation in HTML, CSS, and JavaScript
@@ -44,6 +43,5 @@ How do you ensure that your designs are user-friendly and accessible?
 How do you handle challenges or obstacles in your design process?
 How do you stay up-to-date with the latest design trends and techniques?
 
-<br>
+
 <a href="https://workdojos.com/webdesigners/rights">next: workers' rights</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Marketing Services  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ In addition to finding work, lead generators also need to be paid fairly for the
 
 Overall, the marketing services industry has the potential to be a lot better in the years to come. By addressing the controversies and challenges facing lead generators, we can create a more ethical, fair, and successful industry. By supporting lead generators and paying them fairly, we can ensure that they have the resources they need to deliver the best possible results for their clients.
 
-<br>
+
 <a href="https://workdojos.com/leadgenerator/history">next: history</a>
-</p>

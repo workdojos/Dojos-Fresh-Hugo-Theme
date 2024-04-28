@@ -1,5 +1,4 @@
 ---
-title: Special Events  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners challenges.mp3" frameborder="0" style="border:0" >}}
 The special events industry is facing numerous controversies and challenges that have an impact on event planners and the industry as a whole. One of the main issues is the lack of access to work opportunities and fair compensation for event planners. Many event planners struggle to find work and are often underpaid for the extensive amount of planning, coordination, and execution that goes into organizing a successful event.
 
 One way to address this issue is by making it easier for event plannerto find work. This can be achieved through the creation of job boards specifically for event planners, networking opportunities, and the use of social media platforms to connect with potential clients. Additionally, there should be more transparency in the hiring process and an emphasis on the skills and experience of event planners rather than simply relying on personal connections.
@@ -18,6 +17,5 @@ In addition to addressing these challenges, there are also ways in which the spe
 
 In conclusion, the special events industry is facing numerous controversies and challenges, including the lack of access to work opportunities and fair compensation for event planners. By making it easier for event plannerto find work and paying them more for their expertise, we can improve the industry as a whole. Additionally, prioritizing sustainability in event planning can contribute to a more sustainable future for the industry.
 
-<br>
+
 <a href="https://workdojos.com/eventplanners/history">next: history</a>
-</p>

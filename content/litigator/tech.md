@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Lawyers and Others in the Y Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator tech.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator tech.mp3" frameborder="0" style="border:0" >}}
 The legal industry is a vital part of our society, as it helps to ensure that justice is served and that individuals and businesses are protected. However, it is also an industry that has long been criticized for its high costs and slow pace of change. One way to address these issues is by embracing open-source technology.
 
 Open-source technology refers to software that is freely available for anyone to use and modify. In the legal industry, this could mean using open-source software to streamline legal processes, such as document management or case tracking. It could also mean using open-source platforms to connect with clients and collaborate with other attorneys.
@@ -20,7 +19,6 @@ In addition to benefiting individual attorneys, the adoption of open-source tech
 
 In conclusion, the legal industry has the potential to greatly benefit from open-source technology. It can reduce costs, increase efficiency, and help both attorneys and small businesses thrive. As such, it is important for lawyers to be open to exploring and embracing open-source options in their practices. By doing so, they can better serve their clients and contribute to a stronger economy.
 
-<br>
+
 <a href="https://workdojos.com/litigator/website">next: website</a>
-<br>
-</p>
+

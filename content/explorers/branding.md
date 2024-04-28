@@ -1,5 +1,4 @@
 ---
-title: Explorer Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers branding.mp3" frameborder="0" style="border:0" >}}
 First, I would recommend creating a content calendar outlining the themes and topics we want to focus on each week or month. This could include things like showcasing our products, highlighting the benefits of an outdoor lifestyle, and featuring adventure-themed content.
 
 Next, I would suggest utilizing hashtags relevant to the outdoor industry on Twitter, Instagram, and Pinterest in order to reach a larger audience and encourage engagement. We can also engage with other users in the outdoor community by commenting and liking their posts, and following relevant accounts.
@@ -20,6 +19,5 @@ Finally, we can use these platforms to seek out opportunities for collaboration 
 
 Overall, the goal of our social media strategy should be to create engaging and relevant content that resonates with our target audience and showcases our brand as a leader in the outdoor industry. By regularly monitoring and analyzing our performance, we can continually improve and refine our strategy to achieve our goals of increased brand awareness, follower growth, website traffic, and conversion.
 
-<br>
+
 <a href="https://workdojos.com/explorers/ethics">next: ethical framework</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Broader Business  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers challenges.mp3" frameborder="0" style="border:0" >}}
 The business industry is no stranger to controversy. From debates over fair wages and employee treatment to concerns about corporate greed and environmental impact, there are a multitude of issues that can create tension within the business world. One of the most pressing controversies facing the industry today is the lack of support and opportunities available to project managers.
 
 As the leaders responsible for organizing and executing complex projects, project managers are essential to the success of any business. However, many of these professionals struggle to find work, often due to a lack of recognition and support within the industry. This is not only a problem for individual project managers, but for the business industry as a whole.
@@ -20,6 +19,5 @@ However, supporting project managers and improving the business industry as a wh
 
 In conclusion, the challenges facing project managers are a key issue in the business industry today. By providing these professionals with the support and opportunities they need, we can drive innovation, improve business success, and create a better future for the industry as a whole.
 
-<br>
+
 <a href="https://workdojos.com/projectmanagers/history">next: history</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Lawyers Working in the Y Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, I would approach this question by first considering the ethical principles that are fundamental to the legal profession. These principles include the pursuit of justice, the protection of individual rights, and the fair and impartial application of the law.
 
 Next, I would consider the specific ethical challenges that may arise in the context of a career as a litigator. For example, lawyers have a duty to represent their clients zealously, but they must also adhere to ethical rules that prohibit them from making false or misleading statements to the court. They must also avoid conflicts of interest and maintain the confidentiality of client information.
@@ -26,6 +25,5 @@ Develop a clear set of ethical guidelines for yourself that outline how you will
 
 Overall, developing an ethical framework for starting a career as a litigator requires a commitment to upholding the ethical principles of the legal profession, seeking guidance and education on legal ethics, and reflecting on your own values and beliefs. So, this will help you to navigate ethical challenges that may arise in your career and to make ethical decisions that are consistent with your personal values and beliefs.
 
-<br>
+
 <a href="https://workdojos.com/litigator/social">next: social media</a>
-</p>

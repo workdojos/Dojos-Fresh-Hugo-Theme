@@ -1,5 +1,4 @@
 ---
-title: Advice for Administrators
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -33,5 +32,5 @@ Overall, a career as an administrator in the administration and book-keeping ind
 
 {{< iframe width="100%" height="158" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators advice.mp3" frameborder="0" style="border:0" >}}
 
-</p>
+
 

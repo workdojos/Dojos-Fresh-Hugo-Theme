@@ -1,5 +1,4 @@
 ---
-title: Account Executive Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -25,6 +24,5 @@ Update your social media profiles regularly to keep your audience engaged and in
 
 By following these steps, you should be able to effectively manage your sales organization's presence on Twitter, Instagram, and Pinterest and increase brand awareness, recruit followers, drive traffic to your website, and make opportunities for collaboration with others in the sales industry.
 
-<br>
+
 <a href="https://workdojos.com/accountexecutive/ethics">next: ethical framework</a>
-</p>

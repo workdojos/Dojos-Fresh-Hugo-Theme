@@ -1,5 +1,4 @@
 ---
-title: Life Coaching  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches challenges.mp3" frameborder="0" style="border:0" >}}
 The life coaching industry is facing numerous controversies and challenges that need to be addressed. One of the main controversies facing the industry is the lack of regulation. Many people claim that anyone can become a life coach and that the industry is not regulated enough. This has led to a proliferation of unqualified and ineffective coaches, which has resulted in a lack of trust in the industry.
 
 Another challenge that life coaches face is finding work. Many people do not understand the value of life coaching and are hesitant to invest in it. This can make it difficult for coaches to find clients and build a sustainable business.
@@ -18,6 +17,5 @@ In addition, the life coaching industry needs to work on improving its reputatio
 
 Overall, the life coaching industry has the potential to make a significant impact on individuals and society as a whole. By addressing the controversies and challenges facing the industry, we can create a better future for life coaches and the people they serve.
 
-<br>
+
 <a href="https://workdojos.com/lifecoaches/history">next: history</a>
-</p>

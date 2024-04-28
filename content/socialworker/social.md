@@ -1,5 +1,4 @@
 ---
-title: Social Worker Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker social.mp3" frameborder="0" style="border:0" >}}
 Sure! Here are some ideas for an engaging social media campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as a social worker in the behavioral health industry:
 
 Share inspiring and uplifting quotes on Instagram and Pinterest that relate to mental health and wellness. You can also share personal stories and experiences to help connect with your audience on a deeper level.
@@ -22,6 +21,5 @@ Use Instagram and Pinterest to showcase your services and offerings by sharing i
 
 Overall, the key is to be authentic and genuine in your content and interactions with your followers. By creating engaging and valuable content, you can effectively promote your business and build a strong community of followers who are interested in your work.
 
-<br>
+
 <a href="https://workdojos.com/socialworker/startup">next: startup ideas</a>
-</p>

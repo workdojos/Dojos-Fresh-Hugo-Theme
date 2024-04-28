@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Thespians and Entrepreneurs in the Perfoming Arts  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: Thespian Hub
 
 One Liner: A platform connecting thespians with opportunities in the performing arts industry.
@@ -36,6 +35,5 @@ Estimated 1st Year Cost of Operation: $50,000 - $100,000
 
 Potential Business Challenges: Competition from other performing arts platforms, difficulty attracting and retaining users, fluctuating demand for gigs and opportunities.
 
-<br>
+
 <a href="https://workdojos.com/thespian/tech">next: open-source tech</a>
-</p>

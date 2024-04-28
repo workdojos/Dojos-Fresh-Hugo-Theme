@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Real-Estate  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -36,6 +35,5 @@ The Consumer Financial Protection Bureau (CFPB): This government agency provides
 
 To get excited about a career as a mortgage broker, try thinking about all the positive impact you can have on people's lives. Imagine the satisfaction you will feel when you help someone achieve their dream of homeownership. Focus on the opportunities for growth and advancement in the industry, and envision yourself becoming a successful and respected mortgage broker. Remember, with hard work and dedication, anything is possible!
 
-<br>
+
 <a href="https://workdojos.com/mortgagebrokers/learning">next: learning</a>
-</p>

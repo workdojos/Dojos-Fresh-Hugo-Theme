@@ -1,5 +1,4 @@
 ---
-title: An Overview for Clerks and the Small Business and Retail  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ For those looking to learn more about the small business industry, websites like
 
 When it comes to the best and worst jobs in the small business industry, it really depends on an individual's strengths and interests. Some of the best jobs in the industry might include sales and marketing roles, where employees have the chance to build relationships with clients and drive business growth. On the other hand, some of the worst jobs in the industry might include positions with high levels of stress and long hours, such as those in financial management or operations. Ultimately, the best job in the small business industry is one that aligns with an individual's skills and passions, and allows them to make a meaningful contribution to the success of the business.
 
-<br>
+
 <a href="https://workdojos.com/clerk/day-in-the-life">next: day in the life</a>
-</p>

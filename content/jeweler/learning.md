@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Jewelers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler learning.mp3" frameborder="0" style="border:0" >}}
 A curriculum for a jeweler should include:
 
 Basic jewelry design and production techniques
@@ -37,6 +36,5 @@ What materials and tools do you prefer to use in your work?
 How do you determine the value of a piece of jewelry?
 How do you approach customer service and sales?
 
-<br>
+
 <a href="https://workdojos.com/jeweler/rights">next: workers' rights</a>
-</p>

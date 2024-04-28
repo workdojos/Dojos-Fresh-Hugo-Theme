@@ -1,12 +1,11 @@
 ---
-title: Startup Ideas for Couriers and Entrepreneurs in the Supply-Chain  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/couriers/couriers startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/couriers/couriers startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: Chain Courier
 
 Short One Liner: The ultimate solution for hassle-free, efficient supply chain delivery.
@@ -35,6 +34,5 @@ Estimated 1st Year Cost of Operation: $200,000-$300,000
 
 Potential Business Challenges: Competition from established delivery companies, securing funding and partnerships, managing employee and transportation logistics.
 
-<br>
+
 <a href="https://workdojos.com/couriers/tech">next: open-source tech</a>
-</p>

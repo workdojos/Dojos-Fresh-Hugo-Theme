@@ -1,12 +1,11 @@
 ---
-title: Ethical Framework for Digital Marketers Working in the Marketing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, one approach to developing an ethical framework for starting a career as a digital marketer could involve examining the principles of deontological ethics. Deontological ethics is a moral theory that focuses on the inherent rightness or wrongness of actions, regardless of their consequences.
 
 In the context of digital marketing, a deontological approach could involve examining the inherent moral value of certain marketing practices, such as using manipulative or deceptive techniques to influence consumer behavior. This approach would emphasize the importance of acting in accordance with moral duties and obligations, rather than solely considering the outcomes of one's actions.
@@ -15,6 +14,5 @@ Another approach could involve exploring the principles of consequentialism, whi
 
 Ultimately, the development of an ethical framework for a career in digital marketing will likely involve a combination of these and other philosophical approaches, as well as a consideration of the specific values and goals of the individual marketer and the company they work for.
 
-<br>
+
 <a href="https://workdojos.com/digitalmarketers/social">next: social media</a>
-</p>

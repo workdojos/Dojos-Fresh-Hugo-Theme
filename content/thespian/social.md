@@ -1,5 +1,4 @@
 ---
-title: Thespian Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian social.mp3" frameborder="0" style="border:0" >}}
 Sure, here are some ideas for an engaging campaign on Instagram, Twitter, Youtube, and Pinterest to promote your new business as a thespian in the performing arts industry:
 
 Instagram: Create a series of Instagram posts featuring behind-the-scenes content from your rehearsals and performances, showcasing your talent and dedication to your craft. Use relevant hashtags such as #thespian #performingarts #theatre and engage with your followers by asking for their thoughts on your work and inviting them to attend your shows.
@@ -18,6 +17,5 @@ Youtube: Create a YouTube channel featuring vlogs and tutorials on your work as 
 
 Pinterest: Create a Pinterest board featuring images of your performances, as well as inspiration for aspiring thespians. Share quotes from famous actors and directors, and create boards on different aspects of the performing arts industry. Engage with your followers by asking them to share their own inspiration and ideas for the board.
 
-<br>
+
 <a href="https://workdojos.com/thespian/startup">next: startup ideas</a>
-</p>

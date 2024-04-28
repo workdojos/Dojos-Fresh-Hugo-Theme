@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Public Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters start.mp3" frameborder="0" style="border:0" >}}
 Sure! Here are a few strategies to help you learn more about the perks and benefits of working as a firefighter in the public services industry:
 
 Research websites that provide information about firefighters and their role in the public services industry. Some useful websites include the National Fire Protection Association (NFPA), International Association of Firefighters (IAFF), and the National Wildfire Coordinating Group (NWCG).
@@ -20,6 +19,5 @@ Keep an open mind and be willing to learn. Firefighting is an exciting and growi
 
 Remember, firefighters are heroes who work tirelessly to keep our communities safe. The work they do is essential and deeply fulfilling, and there are many perks and benefits to working in this field. So don't be afraid to take the plunge and pursue a career as a firefighter - it could be the best decision you ever make!
 
-<br>
+
 <a href="https://workdojos.com/firefighters/learning">next: learning</a>
-</p>

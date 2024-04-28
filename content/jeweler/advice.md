@@ -1,5 +1,4 @@
 ---
-title: Advice for Jewelers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler advice.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler advice.mp3" frameborder="0" style="border:0" >}}
 Hello, thank you for reaching out to me for career guidance. As a career counselor, it is my job to help you determine what careers you are most suited for based on your skills, interests, and experience.
 
 First, let's discuss your skills and interests. It sounds like you have an interest in working with jewelry and the luxury goods industry. This is a good start as it will give you a direction to focus on when exploring potential careers. Do you have any specific skills or experience related to jewelry or the luxury goods industry, such as design, repair, or sales? These skills will be important for you to highlight when exploring potential careers as a jeweler.
@@ -18,6 +17,5 @@ As far as qualifications go, it would be beneficial for you to pursue a degree o
 
 In conclusion, based on your skills, interests, and experience, a potential career as a jeweler in the luxury goods industry may be a good fit for you. I recommend exploring different programs and opportunities to gain the necessary qualifications and experience in the field. Keep in mind the growing demand for sustainable and innovative products, and consider how you can differentiate yourself in the job market. I hope this guidance has been helpful, and please don't hesitate to reach out to me with any further questions or concerns.
 
-<br>
+
 <a href="https://workdojos.com/jeweler/start">next: get started</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Websites for Screenwriters in the Film  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,8 +6,8 @@ layout: single2
 
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I recommend exploring the benefits of using open-source technology to build your website for a number of reasons.
 
 First, open-source technology is often free to use and modify, which can save your business a significant amount of money compared to using proprietary software or hiring a developer to build a custom website. This can be especially beneficial for small businesses or startups that may have limited resources.
@@ -23,8 +22,8 @@ However, it's important to keep in mind that there are also potential downsides 
 
 Overall, using open-source technology to build your own website can be a great way to save money and customize your website to meet your specific needs and goals. However, it's important to carefully consider the pros and cons, as well as the potential costs, before making a decision. So, it's better to weigh the pros and cons before making a decision.
 
-<br>
+
 
 <a href="https://workdojos.com/screenwriter/overview">next: overview</a>
-<br>
-</p>
+
+

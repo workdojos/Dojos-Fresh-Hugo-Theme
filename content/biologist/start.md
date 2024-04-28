@@ -1,12 +1,11 @@
 ---
-title: Getting Started in the Biosciences  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist start.mp3" frameborder="0" style="border:0" >}}
 Congratulations on your goal to learn more about a career as a biologist in the biosciences industry! This is an exciting and growing field with lots of potential for personal and professional growth.
 
 Here are some little-known facts about working as a biologist in the biosciences industry:
@@ -27,6 +26,5 @@ The Society for Developmental Biology provides information on careers in develop
 
 Remember, working as a biologist in the biosciences industry can be an exciting and rewarding career path with lots of potential for personal and professional growth. Keep up the good work and never stop learning!
 
-<br>
+
 <a href="https://workdojos.com/biologist/learning">next: learning</a>
-</p>

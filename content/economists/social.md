@@ -1,5 +1,4 @@
 ---
-title: Economist Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ YouTube: Create a series of educational videos on data science topics, using you
 
 Pinterest: Create a board with infographics and other visual content related to data science, as well as tips and resources for professionals in the field. Share your board on social media and engage with other Pinterest users interested in data science.
 
-<br>
+
 <a href="https://workdojos.com/economists/startup">next: startup ideas</a>
-</p>

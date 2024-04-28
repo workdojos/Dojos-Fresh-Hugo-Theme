@@ -1,12 +1,11 @@
 ---
-title: Learning & Development for Digital Marketers
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers learning.mp3" frameborder="0" style="border:0" >}}
 As a Talent Coach for interviews for a digital marketer, here are some suggestions for what should appear in a curriculum related to this title:
 
 Marketing fundamentals: This could include coursework in marketing principles, market research, and consumer behavior.
@@ -59,6 +58,5 @@ How do you stay up to date with the latest trends and best practices in digital 
 
 Can you give examples of successful campaigns or initiatives that you have worked on in the past?
 
-<br>
+
 <a href="https://workdojos.com/digitalmarketers/rights">next: workers' rights</a>
-</p>

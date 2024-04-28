@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of Distillers and the Distilled Spirits  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -14,7 +13,6 @@ The term distilled spirits, also known as liquor, refers to any alcoholic bevera
 
 The meaning of both distiller and distilled spirits has remained largely unchanged over time, with both terms still referring to the process of distillation and the resulting products. However, the production and consumption of distilled spirits has evolved significantly over the centuries, with the development of new techniques and the emergence of new styles and flavors.
 
-<br>
+
 <a href="https://workdojos.com/distiller/advice">next: advice</a>
-<br>
-</p>
+

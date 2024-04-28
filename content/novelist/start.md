@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Writing & Publishing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ Keep learning and growing: The writing and publishing industry is constantly evo
 
 Overall, working as a novelist in the writing and publishing industry can be a rewarding and fulfilling career. With hard work, dedication, and a willingness to learn and grow, you can achieve your goals and succeed in this exciting and growing industry.
 
-<br>
+
 <a href="https://workdojos.com/novelist/learning">next: learning</a>
-</p>

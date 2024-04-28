@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of Web Designers and the Digital Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners history.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners history.mp3" frameborder="0" style="border:0" >}}
 Web designer:
 
 The term "web designer" refers to someone who is responsible for the design and layout of a website. The word "web" comes from the Old English word "webbe," which means "woven fabric." The word "designer" comes from the Latin "designare," which means "to mark out."
@@ -24,7 +23,6 @@ The concept of digital services has become increasingly important in recent year
 
 Over time, the meaning of the term "digital services" has evolved to include not only services that are provided through digital means, but also services that are enabled by digital technology, such as data analytics, cloud computing, and cybersecurity.
 
-<br>
+
 <a href="https://workdojos.com/webdesigners/advice">next: advice</a>
-<br>
-</p>
+

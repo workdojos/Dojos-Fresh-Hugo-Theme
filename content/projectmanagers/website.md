@@ -1,5 +1,4 @@
 ---
-title: Websites for Project Managers in the Broader Business  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,8 +6,8 @@ layout: single2
 
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I would recommend using open-source technology to build your website for a few key reasons. Firstly, it allows for a more customizable and flexible website design. With open-source technology, you have the ability to alter and modify the code as needed, rather than being limited by a proprietary system. This can be especially beneficial for a business in the broader business industry, as it allows you to tailor the website to fit your specific needs and goals.
 
 Another benefit of using open-source technology is the cost savings. Many open-source tools and platforms are free to use, or at least have a free version with limited features. This can be a significant cost savings compared to proprietary options, which often require a licensing fee or subscription.
@@ -19,8 +18,8 @@ There are, however, some potential drawbacks to using open-source technology. On
 
 Overall, the use of open-source technology can offer a cost-effective and customizable solution for building a website for your business in the broader business industry. It is important to carefully consider the pros and cons and costs of each option before making a decision.
 
-<br>
+
 
 <a href="https://workdojos.com/projectmanagers/overview">next: overview</a>
-<br>
-</p>
+
+

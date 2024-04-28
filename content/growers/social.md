@@ -1,5 +1,4 @@
 ---
-title: Grower Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers social.mp3" frameborder="0" style="border:0" >}}
 First of all, congratulations on your new business! The cannabis industry is a growing market with a lot of potential for success. Here are some ideas for an engaging social media campaign to promote your business:
 
 Instagram:
@@ -33,6 +32,5 @@ Pin other relevant content from other sources, such as articles about the cannab
 Use relevant hashtags such as #cannabisculture and #cannabisrecipes to reach a wider audience.
 Overall, the key to success in promoting your business on social media is to consistently share engaging and informative content, and to actively engage with your followers. Good luck with your campaign!
 
-<br>
+
 <a href="https://workdojos.com/growers/startup">next: startup ideas</a>
-</p>

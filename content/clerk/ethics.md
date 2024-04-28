@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Clerks Working in the Small Business and Retail  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -15,6 +14,5 @@ Another key aspect of this ethical framework could be honesty and integrity. As 
 
 Ultimately, the ethical framework that I develop for my career as a clerk would be guided by my personal values and principles, as well as the specific needs and expectations of the small business industry. By being mindful of these factors, I can ensure that I am making ethical decisions and contributing to the success and well-being of the business and its clients.
 
-<br>
+
 <a href="https://workdojos.com/clerk/social">next: social media</a>
-</p>

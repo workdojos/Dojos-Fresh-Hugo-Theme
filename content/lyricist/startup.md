@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Lyricists and Entrepreneurs in the Music  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: LyricZone
 
 One Liner: Connecting aspiring lyricists with industry professionals and resources to help them succeed in the music industry.
@@ -36,6 +35,5 @@ Estimated 1st Year Cost of Operation: $50,000 - $100,000
 
 Potential Business Challenges to Look For: Competition from similar services, difficulty securing partnerships and industry resources, difficulties in monetizing the service.
 
-<br>
+
 <a href="https://workdojos.com/lyricist/tech">next: open-source tech</a>
-</p>

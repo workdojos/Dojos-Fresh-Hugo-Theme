@@ -1,12 +1,11 @@
 ---
-title: Startup Ideas for Digital Marketers and Entrepreneurs in the Marketing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: DigitalBoost
 
 One Liner: "Revolutionizing digital marketing through AI-powered strategies and personalized coaching."
@@ -71,6 +70,5 @@ Limited knowledge and understanding of AI technology among potential clients
 Difficulty in convincing small businesses of the value of personalized coaching and comprehensive analytics
 Keeping up with constantly evolving digital marketing trends and technologies.
 
-<br>
+
 <a href="https://workdojos.com/digitalmarketers/tech">next: open-source tech</a>
-</p>

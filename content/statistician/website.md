@@ -1,5 +1,4 @@
 ---
-title: Websites for Statisticians in the Statistical Research & Development  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-<br>
+
 <p>
 As a web design consultant, I believe that using open-source technology to build your own website has several benefits for your business as a statistician working in the statistical research & development industry.
 
@@ -25,8 +24,8 @@ One potential disadvantage of using open-source technology is the need for techn
 
 Overall, I believe that using open-source technology to build your own website can provide significant benefits for your business as a statistician working in the statistical research & development industry. The cost savings, control, and support provided by these technologies make them a strong choice for building a website that meets your business goals and enhances user experience.
 
-<br>
+
 
 <a href="https://workdojos.com/statistician/overview">next: overview</a>
-<br>
-</p>
+
+

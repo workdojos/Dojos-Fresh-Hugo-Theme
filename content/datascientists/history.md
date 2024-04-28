@@ -1,12 +1,11 @@
 ---
-title:  History and Etymology of Data Scientists and the Data Sciences  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists history.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists history.mp3" frameborder="0" style="border:0" >}}
 The word "data" has its roots in the Latin word "datum," which means "something given." In the 16th century, the word "data" began to be used as a plural noun in English to refer to a collection of facts or observations.
 
 The word "scientist" has its roots in the Latin word "scientens," which means "knowing." It was first used in English in the 19th century to refer to someone who studies science.
@@ -15,7 +14,6 @@ The term "data science" is relatively recent, having emerged in the late 20th ce
 
 The meaning of the word "data" has remained relatively stable over time, although it has expanded to include not just factual information, but also digital information, such as data stored in computers. The meaning of the word "scientist" has also remained relatively stable, although it has broadened to include people who study a wide range of scientific fields. The term "data science" is a relatively new addition to the English language and its meaning has not changed significantly since it was first coined.
 
-<br>
+
 <a href="https://workdojos.com/datascientists/advice">next: advice</a>
-<br>
-</p>
+

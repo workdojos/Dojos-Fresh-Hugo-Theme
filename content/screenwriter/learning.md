@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Screenwriters
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter learning.mp3" frameborder="0" style="border:0" >}}
 Sure thing! As a screenwriter, you will be responsible for writing scripts for films, television shows, and other visual media. Here are some things that you should include in your curriculum:
 
 A strong foundation in the principles of storytelling, including character development, plot structure, and dialogue
@@ -38,6 +37,5 @@ How do you approach character development and dialogue in your scripts?
 Can you discuss a time when you had to make significant revisions to a script, and how you approached the process?
 How do you stay up to date on industry trends and techniques, and how do you continue to improve your craft?
 
-<br>
+
 <a href="https://workdojos.com/screenwriter/rights">next: workers' rights</a>
-</p>

@@ -1,12 +1,11 @@
 ---
-title: Learning & Development for Bartenders
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum for a bartender:
 
 Basics of mixology and cocktail creation
@@ -46,6 +45,5 @@ How do you handle a busy shift?
 How do you handle a mistake in an order?
 What is your favorite cocktail to make and why?
 
-<br>
+
 <a href="https://workdojos.com/bartenders/rights">next: workers' rights</a>
-</p>

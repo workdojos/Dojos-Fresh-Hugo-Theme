@@ -1,5 +1,4 @@
 ---
-title: The Graphic Design And Graphic Arts  Industry and Graphic Designer Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -8,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner rights.mp3" frameborder="0" style="border:0" >}}
 As a graphic designer working in the graphic design and graphic arts industry, I have seen firsthand the challenges and injustices faced by my colleagues and myself. The industry has long been plagued by low wages, long hours, and a lack of benefits and protections for workers.
 
 One of the most pressing issues facing graphic designers is the issue of fair pay. It is not uncommon for designers to be paid far below their worth, with many working for rates that do not even meet the minimum wage. This is especially true for freelancers, who often struggle to negotiate fair rates and are frequently taken advantage of by clients.
@@ -21,6 +20,5 @@ Another trend in the industry is the push for more diverse and inclusive hiring 
 
 Overall, it is clear that there is still much work to be done to promote fair work practices for graphic designers. However, with the efforts of organizations like the Graphic Artists Guild and the push for more diverse and inclusive hiring practices, we can move towards a more equitable and just industry for all workers.
 
-<br>
+
 <a href="https://workdojos.com/graphicdesigner/branding">next: branding</a>
-</p>

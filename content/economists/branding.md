@@ -1,5 +1,4 @@
 ---
-title: Economist Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ In order to engage with the audience and monitor conversations, I would use comm
 
 Finally, I would use analytics to measure the success of our social media efforts, including tracking metrics such as follower growth, engagement, website traffic, and conversions. I would then use this information to continually optimize and improve our strategy.
 
-<br>
+
 <a href="https://workdojos.com/economists/ethics">next: ethical framework</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Conservation And Park Management  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger start.mp3" frameborder="0" style="border:0" >}}
 Sure, I'd be happy to help! Being a park ranger can be a rewarding and exciting career, with many opportunities to make a positive impact on the environment and on the lives of others. Here are a few perks and benefits of working as a park ranger in the conservation and park management industry:
 
 Opportunities to work in beautiful and unique locations: As a park ranger, you'll have the chance to work in some of the most beautiful and unique locations in the world, from national parks and forests to beaches and lakes. You'll get to experience the beauty of nature and the great outdoors on a daily basis.
@@ -31,6 +30,5 @@ US Forest Service: https://www.fs.fed.us/working-with-us/jobs
 Bureau of Land Management: https://www.blm.gov/careers/wildlife-biologist
 I hope this information helps to get you excited about a career as a park ranger! Working in the conservation and park management industry can be a fulfilling and rewarding experience, with many opportunities to make a positive impact and to grow personally and professionally.
 
-<br>
+
 <a href="https://workdojos.com/parkranger/learning">next: learning</a>
-</p>

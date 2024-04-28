@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Physicists and Entrepreneurs in the Physics And Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: PhysX
 
 Short One Liner: "Connecting physics students with top professors and resources in the field"
@@ -36,6 +35,5 @@ Estimated 1st Year Cost of Operation: $100,000-$200,000
 
 Potential Business Challenges: Competition with existing resources and platforms, difficulty in acquiring partnerships and users, maintaining a profitable subscription model
 
-<br>
+
 <a href="https://workdojos.com/physicist/tech">next: open-source tech</a>
-</p>

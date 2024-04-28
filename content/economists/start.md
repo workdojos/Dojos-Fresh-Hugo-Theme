@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Data Science  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -22,6 +21,5 @@ To learn more about this exciting career path, check out websites like data.worl
 
 Remember, a career as a economist in the data science industry can be both challenging and rewarding. With hard work and dedication, you can succeed in this exciting and growing field. So stay positive, keep learning, and never stop reaching for your goals!
 
-<br>
+
 <a href="https://workdojos.com/economists/learning">next: learning</a>
-</p>

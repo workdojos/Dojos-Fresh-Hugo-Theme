@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Aviationists and Entrepreneurs in the Aviation  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -35,6 +34,5 @@ Estimated 1st Year Cost of Operation: $50,000
 
 Potential Business Challenges: Competition from existing industry resources, difficulty in establishing partnerships, difficulty in acquiring and retaining users.
 
-<br>
+
 <a href="https://workdojos.com/aviationist/tech">next: open-source tech</a>
-</p>

@@ -1,12 +1,11 @@
 ---
-title: A Day in the Life of a College Professor
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in a bustling city, there was a college professor named Dr. Emma. She was a brilliant scholar and a passionate teacher, and she loved nothing more than sharing her knowledge with her students.
 
 Every day, Dr. Emma would wake up early and spend hours preparing for her classes. She would review the latest research in her field, write lectures, and grade papers. She also made sure to set aside time to meet with her students one-on-one, to help them understand the material and offer guidance on their career paths.
@@ -21,7 +20,6 @@ Throughout history, there have been many notable college professors who have mad
 
 Dr. Emma knew that she had big shoes to fill, but she was determined to make a lasting impact in the higher education industry. And as she finished her day and headed home, she knew that she had made a difference, and she couldn't wait to do it all again the next day.
 
-<br>
+
 <a href="https://workdojos.com/collegeprofessor/history">next: history</a>
-<br>
-</p>
+

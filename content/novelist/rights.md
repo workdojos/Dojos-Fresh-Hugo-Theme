@@ -1,5 +1,4 @@
 ---
-title: The Writing & Publishing  Industry and Novelist Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -21,6 +20,5 @@ In order to promote fair work practices for novelists and other writers, it is i
 
 In conclusion, fair work practices for novelists and other writers in the writing and publishing industry are vital for the health and success of the industry as a whole. By addressing issues such as unpaid and underpaid work and promoting diversity and representation, the industry can create a more supportive and sustainable environment for writers and foster a more vibrant and diverse literary culture.2
 
-<br>
+
 <a href="https://workdojos.com/novelist/branding">next: branding</a>
-</p>

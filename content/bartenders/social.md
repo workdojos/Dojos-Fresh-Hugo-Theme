@@ -1,12 +1,11 @@
 ---
-title: Bartender Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders social.mp3" frameborder="0" style="border:0" >}}
 Sure thing! Here are some ideas for an engaging campaign on each platform:
 
 Instagram:
@@ -34,6 +33,5 @@ Pin images of your bartending work, such as photos of your cocktails or event se
 Collaborate with other influencers or brands in the bartending and hospitality industry, by creating joint boards or pinning each other's content.
 Share infographics or "how-to" guides related to cocktail making or bartending, to provide valuable information to followers.
 
-<br>
+
 <a href="https://workdojos.com/bartenders/startup">next: startup ideas</a>
-</p>

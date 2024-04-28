@@ -1,12 +1,11 @@
 ---
-title: Learning & Development for Botanists
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist learning.mp3" frameborder="0" style="border:0" >}}
 For the role of a botanist, some key things that should appear in a curriculum include:
 
 A strong foundation in plant biology and ecology
@@ -41,6 +40,5 @@ How do you stay up-to-date on the latest research and developments in botany?
 How do you think your skills and experience make you a good fit for this role?
 
 
-<br>
+
 <a href="https://workdojos.com/botanist/rights">next: workers' rights</a>
-</p>

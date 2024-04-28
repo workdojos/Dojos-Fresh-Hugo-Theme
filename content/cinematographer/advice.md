@@ -1,12 +1,11 @@
 ---
-title: Advice for Cinematographers
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/cinematographer/cinematographer advice.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/cinematographer/cinematographer advice.mp3" frameborder="0" style="border:0" >}}
 As a career counselor, I would advise this individual to consider the following:
 
 Skills: Cinematographers need to have excellent technical skills in camera operation and lighting, as well as an artistic eye for composition and visual storytelling. They should also have good communication skills, as they work closely with directors and other members of the film crew.
@@ -21,6 +20,5 @@ Qualifications: While there are no specific educational requirements for becomin
 
 Overall, I would recommend this individual to gain as much experience and education as possible in camera work and cinematography, and to network with professionals in the industry to gain insight and potential job opportunities.
 
-<br>
+
 <a href="https://workdojos.com/cinematographer/start">next: get started</a>
-</p>

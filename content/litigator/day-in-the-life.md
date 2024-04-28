@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Lawyer
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in the bustling city of New York, there was a young litigator named Rachel. Rachel worked at a prestigious law firm, where she spent long hours researching cases and preparing for trial.
 
 Despite the grueling schedule, Rachel loved her job. She loved the thrill of the courtroom and the satisfaction of helping her clients achieve justice.
@@ -24,7 +23,6 @@ Over the years, Rachel's career flourished. She became known as one of the best 
 
 Rachel's story is just one example of the exciting and challenging life of a litigator. Whether they are working on high-profile cases or fighting for justice for their clients, litigators are an essential part of the legal industry, and their work has the power to change the world.
 
-<br>
+
 <a href="https://workdojos.com/litigator/history">next: history</a>
-<br>
-</p>
+

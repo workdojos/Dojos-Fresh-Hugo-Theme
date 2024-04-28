@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Lyricist
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in the bustling city of Nashville, there was a young lyricist named Sarah. Sarah had always had a passion for music and writing, and she spent every waking moment pouring her heart and soul into her work.
 
 One morning, Sarah woke up bright and early, ready to tackle the day ahead. She sat down at her desk, surrounded by stacks of paper and pens, and began to write. As she worked, she hummed tunes and sang snippets of melodies, letting her creativity flow freely.
@@ -22,7 +21,6 @@ Sarah was inspired by the greats that came before her, like Bob Dylan and John L
 
 And so, Sarah's day as a lyricist was always filled with creativity, collaboration, and the magic of music. It was a day unlike any other, and she loved every moment of it.
 
-<br>
+
 <a href="https://workdojos.com/lyricist/history">next: history</a>
-<br>
-</p>
+

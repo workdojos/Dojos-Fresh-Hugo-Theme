@@ -1,5 +1,4 @@
 ---
-title: The Public Services  Industry and Firefighter Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -8,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters rights.mp3" frameborder="0" style="border:0" >}}
 There have been a number of recent trends and events related to the industry that have highlighted the need for fair work practices, including:
 
 Increasing workload and stress: Firefighters often work long hours, including overnight shifts and holidays, and they often face high levels of stress due to the demanding nature of their work. This can lead to burnout and other negative consequences, making it important to ensure that they are provided with fair work practices that support their well-being.
@@ -21,6 +20,5 @@ In order to promote fair work practices for firefighters, I believe that we must
 
 Overall, fair work practices are essential for ensuring that firefighters are able to do their jobs effectively and with dignity. By advocating for these practices, we can help to create a more positive and supportive work environment for these vital workers, and ensure that they are able to serve our communities with the highest level of care and professionalism.
 
-<br>
+
 <a href="https://workdojos.com/firefighters/branding">next: branding</a>
-</p>

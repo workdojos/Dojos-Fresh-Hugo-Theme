@@ -1,12 +1,11 @@
 ---
-title: Websites for Aviationists in the Aviation  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-<br>
+
 <p>
 As a web design consultant, I would recommend using open-source technology to build your own website for a few reasons. Firstly, open-source technology allows for greater customization and flexibility in the design and functionality of your website. This can be especially useful for businesses in the aviation industry, as you may have specific needs or requirements that may not be met by a pre-made template or proprietary platform.
 
@@ -16,8 +15,8 @@ As for specific open-source web builders and static-site generators, some popula
 
 Overall, using open-source technology to build your own website can be a great way to customize and optimize your online presence, while also saving money in the long run. It's important to carefully consider the pros and cons of each option, as well as the costs associated with each, in order to make the best decision for your business.
 
-<br>
+
 
 <a href="https://workdojos.com/aviationist/overview">next: overview</a>
-<br>
-</p>
+
+

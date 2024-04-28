@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Thespian
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in a bustling city filled with bright lights and towering skyscrapers, there lived a talented thespian named Sarah. She had always dreamed of performing on Broadway and had worked tirelessly for years to make her dream a reality.
 
 Sarah spent her days rehearsing for her upcoming role in a new musical. She worked tirelessly to perfect her singing, dancing, and acting skills, spending hours in the studio each day to make sure she was ready for the big stage.
@@ -22,7 +21,6 @@ Sarah knew that she had a long way to go before she could join the ranks of thes
 
 The audience erupted into applause as Sarah belted out the final note of her song, and she knew that this was just the beginning of a long and successful career in the world of the performing arts.
 
-<br>
+
 <a href="https://workdojos.com/thespian/history">next: history</a>
-<br>
-</p>
+

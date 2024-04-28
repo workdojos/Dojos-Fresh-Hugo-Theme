@@ -1,12 +1,11 @@
 ---
-title: Administrator Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators social.mp3" frameborder="0" style="border:0" >}}
 Sure! Here are some ideas for an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as an administrator in the administration and bookkeeping industry:
 
 Instagram:
@@ -43,6 +42,5 @@ Collaborate with other businesses or influencers in the industry to create share
 
 I hope these ideas help to get you started on creating an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as an administrator in the administration and bookkeeping industry. Good luck!
 
-<br>
+
 <a href="https://workdojos.com/administrators/startup">next: startup ideas</a>
-</p>

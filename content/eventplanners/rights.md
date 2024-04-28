@@ -1,5 +1,4 @@
 ---
-title: The Special Events  Industry and Event Planner Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -8,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners rights.mp3" frameborder="0" style="border:0" >}}
 As an event planner in the special events industry, I am constantly amazed at the amount of hard work and dedication that goes into creating and executing successful events. From organizing logistics to coordinating vendors and managing budgets, event planners have a lot on their plate. However, despite the challenges of the job, event planners deserve to be treated with respect and fairness in the workplace.
 
 Recently, there have been several trends and events that highlight the need for fair work practices in the special events industry. One major trend is the rise of gig economy platforms, which often rely on independent contractors rather than traditional employees. While these platforms may offer flexibility and convenience, they often lack the same protections and benefits that traditional employees receive, such as minimum wage, overtime pay, and unemployment insurance.
@@ -21,6 +20,5 @@ It is also important for event planners to have a clear understanding of their r
 
 Ultimately, fair work practices are crucial for the success and sustainability of the special events industry. By ensuring that event planners are treated with respect and fairness, we can create a more positive and productive work environment for everyone involved.
 
-<br>
+
 <a href="https://workdojos.com/eventplanners/branding">next: branding</a>
-</p>

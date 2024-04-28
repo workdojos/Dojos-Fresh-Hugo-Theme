@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Police Officers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement learning.mp3" frameborder="0" style="border:0" >}}
 Sure, I'd be happy to help you as a Talent Coach for the job title of police officer. Here are some suggestions for what should appear in a curriculum related to this title:
 
 A strong foundation in criminal justice and law enforcement principles
@@ -38,6 +37,5 @@ How do you plan to maintain physical fitness and agility for the demands of the 
 How would you handle a situation where you had to make a difficult decision in the field?
 How do you plan to stay up-to-date on developments in law enforcement and criminal justice?
 
-<br>
+
 <a href="https://workdojos.com/lawenforcement/rights">next: workers' rights</a>
-</p>

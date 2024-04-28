@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Graphic Designers and Entrepreneurs in the Graphic Design And Graphic Arts  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: DesignHub
 
 Short One Liner: "Connecting businesses with top-quality graphic designers for all their creative needs."
@@ -36,6 +35,5 @@ Estimated 1st Year Cost of Operation: $50,000-$100,000, including design project
 
 Potential Business Challenges: Competition from other design services platforms, difficulty in curating and onboarding top-quality designers, managing client expectations and communication during the design process.
 
-<br>
+
 <a href="https://workdojos.com/graphicdesigner/tech">next: open-source tech</a>
-</p>

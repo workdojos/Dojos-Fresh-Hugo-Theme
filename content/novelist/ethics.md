@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Novelists Working in the Writing & Publishing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/novelist ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/novelist ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, I would approach this question by examining the various ethical theories that have been proposed throughout the history of philosophy. Some of the main ethical theories that could be relevant in this context include:
 
 Utilitarianism: This theory suggests that we should act in a way that maximizes overall happiness or pleasure. In the context of a career as a novelist, this could mean focusing on writing and publishing stories that bring joy or fulfillment to readers.
@@ -18,6 +17,5 @@ Virtue ethics: This theory emphasizes the importance of developing and cultivati
 
 One way to develop an ethical framework for a career as a novelist would be to consider how these different ethical theories might apply in this context, and choose the one that seems to align most closely with your values and goals. You could also consider the specific ethical challenges that you might face as a writer and publisher, and think about how you can address them in a way that is consistent with your ethical framework.
 
-<br>
+
 <a href="https://workdojos.com/novelist/social">next: social media</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Physical Therapist
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in a bustling city, there was a young physical therapist named Sarah. Sarah loved her job, helping people to heal and improve their mobility through the use of various exercises and techniques.
 
 Every day, Sarah would arrive at her clinic early in the morning, ready to tackle the day ahead. She had a full schedule of patients, each with their own unique needs and goals.
@@ -22,7 +21,6 @@ Throughout history, there have been many notable physical therapists who have ma
 
 In conclusion, the day in the life of a physical therapist is filled with challenges and triumphs, as they work tirelessly to help their patients achieve their goals. Whether they are working with athletes or seniors, physical therapists are dedicated professionals who play an integral role in the healthcare industry.
 
-<br>
+
 <a href="https://workdojos.com/physicaltherapist/history">next: history</a>
-<br>
-</p>
+

@@ -1,5 +1,4 @@
 ---
-title: System Administrator Startup Ideas
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -34,6 +33,5 @@ Idea Validation Steps: Conduct market research to understand the needs and pain 
 Estimated 1st Year Cost of Operation: $100,000 - $200,000
 
 Potential Business Challenges: Competition from established server administration platforms, difficulty attracting and retaining skilled employees, maintaining a high level of customer satisfaction.
-<br>
+
 <a href="https://workdojos.com/admins/tech">next: open-source tech</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: The Small Business and Retail  Industry and Clerk Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ Recent trends and events in the small business industry have further highlighted
 
 In conclusion, it is crucial for small businesses to prioritize the fair treatment and proper wages of their employees. Not only is this a moral obligation, but it is also good for business. By supporting and valuing their employees, small businesses can create a positive and productive working environment that benefits all parties involved.
 
-<br>
+
 <a href="https://workdojos.com/clerk/branding">next: branding</a>
-</p>

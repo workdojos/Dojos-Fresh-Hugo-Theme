@@ -1,12 +1,11 @@
 ---
-title: Animator Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators social.mp3" frameborder="0" style="border:0" >}}
 Sure! Here are some ideas for an Instagram, Twitter, YouTube, and Pinterest campaign to promote your new business as an animator:
 
 Instagram: Create a series of visually stunning posts showcasing your work as an animator. Use hashtags relevant to the animation industry, such as #animation #animator #animationindustry #animationart. Make sure to use engaging captions and tag relevant brands or influencers in your posts.
@@ -19,6 +18,5 @@ Pinterest: Create a Pinterest board specifically for your business as an animato
 
 Overall, the key to success with these platforms is to be consistent and engaging, and to always be on the lookout for new and innovative ways to showcase your work as an animator.
 
-<br>
+
 <a href="https://workdojos.com/animators/startup">next: startup ideas</a>
-</p>

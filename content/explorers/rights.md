@@ -1,5 +1,4 @@
 ---
-title: The Outdoor  Industry and Explorer Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -8,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers rights.mp3" frameborder="0" style="border:0" >}}
 The outdoor industry is a vast and varied field, encompassing everything from adventure sports to environmental conservation to outdoor education. With such a wide range of disciplines, it can be difficult to pinpoint specific trends or events that are relevant to all workers in the industry. However, there are some common issues that many workers in the outdoor industry face when it comes to fair work practices, and these issues deserve to be addressed.
 
 One of the most pressing issues for outdoor workers is the lack of fair compensation for the work that they do. Many outdoor jobs are low-paying, temporary positions that offer little in the way of benefits or job security. This can be particularly difficult for those who are just starting out in the industry, as they may have to take on multiple part-time jobs in order to make ends meet. The result is a workforce that is often overworked, underpaid, and vulnerable to exploitation.
@@ -21,6 +20,5 @@ Finally, outdoor workers also need to be treated with respect and dignity on the
 
 In conclusion, fair work practices are essential for the well-being and success of outdoor workers. By addressing issues such as fair compensation, safety protections, and respect and dignity on the job, we can create a more supportive and sustainable industry that serves the needs of all workers.
 
-<br>
+
 <a href="https://workdojos.com/explorers/branding">next: branding</a>
-</p>

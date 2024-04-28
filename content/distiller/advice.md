@@ -1,5 +1,4 @@
 ---
-title: Advice for Distillers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ In terms of job market trends, the distilled spirits industry is expected to con
 
 Overall, it seems like a career as a distiller in the distilled spirits industry could be a great fit for you based on your skills, interests, and experience. By gaining relevant education and experience, and staying up-to-date on industry trends, you can position yourself for success in this exciting and growing field.
 
-<br>
+
 <a href="https://workdojos.com/distiller/start">next: get started</a>
-</p>

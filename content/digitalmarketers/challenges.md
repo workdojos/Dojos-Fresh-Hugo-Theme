@@ -1,12 +1,11 @@
 ---
-title: Marketing  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers challenges.mp3" frameborder="0" style="border:0" >}}
 The marketing industry has faced numerous controversies in recent years, including issues surrounding privacy, manipulation, and transparency. These controversies have brought to light the challenges faced by digital marketers, who must navigate complex ethical and legal issues while also staying up-to-date on rapidly changing technology.
 
 One major challenge faced by digital marketers is finding work. With the rise of automation and the increasing competition for jobs, it can be difficult for digital marketers to secure stable, well-paying positions. This is especially true for those who are just starting out in the industry or who do not have a strong professional network.
@@ -17,6 +16,5 @@ Finally, the marketing industry as a whole can benefit from increased transparen
 
 In conclusion, the marketing industry is facing significant challenges, but by addressing these issues and making it easier for digital marketerto find work, we can create a more sustainable and successful industry for all stakeholders.
 
-<br>
+
 <a href="https://workdojos.com/digitalmarketers/history">next: history</a>
-</p>

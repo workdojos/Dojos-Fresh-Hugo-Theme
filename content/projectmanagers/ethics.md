@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Project Managers Working in the Broader Business  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, one approach to developing an ethical framework for starting a career as a project manager in the broader business industry would be to consider the ethical theories of deontology and consequentialism.
 
 Deontology, as proposed by philosopher Immanuel Kant, holds that the morality of an action should be determined by whether it follows a moral rule or duty. In the context of a project manager, this could involve following professional codes of conduct and ensuring that all team members are treated fairly and with respect.
@@ -20,6 +19,5 @@ Additionally, it may be helpful to consider other ethical frameworks such as vir
 
 Ultimately, the ethical framework for a project manager will depend on their personal values and the specific context of their work. By considering the various ethical theories and principles outlined above, a project manager can create a personalized ethical framework that guides their decision-making and actions in the workplace.
 
-<br>
+
 <a href="https://workdojos.com/projectmanagers/social">next: social media</a>
-</p>

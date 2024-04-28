@@ -1,13 +1,12 @@
 ---
-title: Websites for College Professors in the Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I believe that using open-source technology to build your own website can be a very beneficial option for a college professor in the higher education industry. There are several advantages to using open-source technology, including:
 
 Cost: One of the main benefits of using open-source technology is that it is often free to use. This can be a significant cost-saving measure for a college professor or any small business.
@@ -24,8 +23,8 @@ It is important to consider the pros and cons of each option and weigh them agai
 
 Overall, using open-source technology can be a great way to build a website for your business as a college professor in the higher education industry. It can be cost-effective, customizable, and secure, and there is a wealth of resources and support available from the community.
 
-<br>
+
 
 <a href="https://workdojos.com/collegeprofessor/overview">next: overview</a>
-<br>
-</p>
+
+

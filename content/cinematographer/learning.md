@@ -1,12 +1,11 @@
 ---
-title: Learning & Development for Cinematographers
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/cinematographer/cinematographer learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/cinematographer/cinematographer learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum for Cinematographer:
 
 Understanding of camera equipment and lighting techniques
@@ -41,6 +40,5 @@ Can you describe your process for working with directors and producers on a proj
 How do you handle difficult lighting situations on set?
 How do you stay current with new camera and lighting technology?
 
-<br>
+
 <a href="https://workdojos.com/cinematographer/rights">next: workers' rights</a>
-</p>

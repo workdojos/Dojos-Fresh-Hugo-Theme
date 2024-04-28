@@ -1,5 +1,4 @@
 ---
-title: The Beauty, Health & Wellness  Industry and Beautician Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians rights.mp3" frameborder="0" style="border:0" >}}
 There has been a lot of talk recently about fair work practices for beauticians working in the health and wellness industry. As someone who is passionate about promoting worker’s rights, fair treatment, and proper wages, I believe that it is crucial for beauticians in this industry to be treated with the respect and fairness that they deserve.
 
 One of the biggest trends that we have seen in the health and wellness industry recently is the rise of independent contractors and gig workers. While this might seem like a convenient arrangement for some employers, it can often lead to a lack of protection for workers. Independent contractors are not entitled to the same rights and benefits as regular employees, which means that they may not receive proper pay, overtime, or even breaks.
@@ -20,6 +19,5 @@ Furthermore, there have been numerous reports of workers in the health and welln
 
 In conclusion, it is clear that there are many issues facing beauticians working in the health and wellness industry. From the rise of independent contractors and gig workers, to the use of NDAs and discrimination and harassment on the job, there are many challenges that these workers face. It is important for us to stand up for the rights of these workers and ensure that they are treated with the respect and fairness that they deserve. We must work together to promote fair work practices for beauticians in the health and wellness industry and create a more just and equitable society for all.
 
-<br>
+
 <a href="https://workdojos.com/beauticians/branding">next: branding</a>
-</p>

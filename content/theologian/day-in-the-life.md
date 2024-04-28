@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Theologian
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, there was a young theologian named Sarah who lived in a small village surrounded by rolling hills and lush forests. She spent her days studying the Bible and other religious texts, seeking to understand the deeper meaning behind the stories and teachings.
 
 Sarah was deeply dedicated to her faith and was determined to spread the word of God to others. She spent hours each day attending services at the local church, teaching Sunday school classes, and volunteering at a local soup kitchen.
@@ -18,7 +17,6 @@ As Sarah delved deeper into the world of theology, she began to see how it inter
 
 Despite the challenges, Sarah remained devoted to her work and continued to study and teach others about the power of faith. And through her dedication and hard work, she became one of the most respected theologians in her community, helping to spread the word of God to others and bringing hope and healing to those who needed it most.
 
-<br>
+
 <a href="https://workdojos.com/theologian/history">next: history</a>
-<br>
-</p>
+

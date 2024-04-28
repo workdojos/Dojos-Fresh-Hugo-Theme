@@ -1,5 +1,4 @@
 ---
-title: Web Designer Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners social.mp3" frameborder="0" style="border:0" >}}
 Sure, I'd be happy to help with that! Here are some ideas for creating an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as a web designer:
 
 Instagram:
@@ -31,6 +30,5 @@ Pin tips and resources for small business owners looking to improve their online
 Share testimonials and case studies to showcase your work and build credibility.
 Collaborate with other web designers or related businesses to create a shared board featuring web design inspiration and resources.
 
-<br>
+
 <a href="https://workdojos.com/webdesigners/startup">next: startup ideas</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Mortgage Broker Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ On Pinterest, I will create boards featuring our properties, design inspiration,
 
 In addition to these tactics, I will use analytics tools to track the success of our campaigns and make necessary adjustments to ensure maximum impact. I will also be on the lookout for opportunities for collaborations with other professionals in the real estate industry to further increase our reach and brand awareness.
 
-<br>
+
 <a href="https://workdojos.com/mortgagebrokers/ethics">next: ethical framework</a>
-</p>

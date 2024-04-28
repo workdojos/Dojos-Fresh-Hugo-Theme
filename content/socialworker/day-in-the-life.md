@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Social Worker
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, there was a woman named Maria who worked as a social worker in the behavioral health industry. She was a kind and compassionate person who dedicated her life to helping others.
 
 Every day, Maria woke up early and prepared for her long day ahead. She donned her comfortable shoes and grabbed her bag filled with all the necessary tools she needed to help her clients.
@@ -24,7 +23,6 @@ Throughout history, there have been many notable social workers who have made a 
 
 Maria was grateful to be able to carry on the legacy of these and other social workers, and she knew that her work made a difference in the world.
 
-<br>
+
 <a href="https://workdojos.com/socialworker/history">next: history</a>
-<br>
-</p>
+

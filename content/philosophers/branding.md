@@ -1,5 +1,4 @@
 ---
-title: Philosopher Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ To engage with the audience, I would respond to all questions and comments in a 
 
 Finally, I would use analytics to measure the success of our campaigns and make data-driven decisions on what content and strategies are most effective. I would also be on the lookout for opportunities to collaborate with others in the philosophy and higher education industry, such as partnering on events or sharing each other's content.
 
-<br>
+
 <a href="https://workdojos.com/philosophers/ethics">next: ethical framework</a>
-</p>

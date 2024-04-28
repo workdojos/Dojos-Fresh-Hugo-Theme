@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Explorer
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, there was a young adventurer named Jack. Jack had always been fascinated by the great outdoors and the mysteries that it held. He dreamed of becoming an explorer and discovering new lands, hidden treasures, and ancient artifacts.
 
 One day, Jack decided that he had had enough of dreaming and decided to make his dream a reality. He packed his bags, stocked up on supplies, and set off on his journey.
@@ -22,7 +21,6 @@ As he journeyed on, Jack discovered many amazing things and made a name for hims
 
 So, the next time you are out exploring the great outdoors, remember Jack and the other brave adventurers who have paved the way for us to discover and learn about the amazing world we live in.
 
-<br>
+
 <a href="https://workdojos.com/explorers/history">next: history</a>
-<br>
-</p>
+

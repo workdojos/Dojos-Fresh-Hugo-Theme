@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Statisticians Working in the Statistical Research & Development  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -28,6 +27,5 @@ Another important consideration when developing an ethical framework for this ca
 
 Overall, developing an ethical framework for starting a career as a statistician in the statistical research and development industry will require a combination of careful thought and practical considerations. By considering the moral principles that guide your actions and decisions, as well as the potential impact of your work on society and the importance of collaboration and communication, you can create a framework that will help you to navigate the challenges and opportunities that you may encounter in this field.
 
-<br>
+
 <a href="https://workdojos.com/statistician/social">next: social media</a>
-</p>

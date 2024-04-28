@@ -1,5 +1,4 @@
 ---
-title: Curriculum for System Administrators
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -40,6 +39,5 @@ How do you troubleshoot and resolve issues with servers and networks?
 How do you implement and maintain security measures for data and systems?
 How do you use automation tools and scripts to streamline tasks?
 How do you stay up to date on the latest technologies and best practices in the field?
-<br>
+
 <a href="https://workdojos.com/admins/start">next: getting started</a>
-</p>

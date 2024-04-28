@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of Jewelers and the Luxury Goods  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler history.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler history.mp3" frameborder="0" style="border:0" >}}
 Jeweler:
 
 The word "jeweler" comes from the Old French word "joiailler," which ultimately derives from the Latin word "joculator," meaning "jester" or "entertainer." This word was used in the Middle Ages to refer to individuals who made and sold decorative objects, including jewelry.
@@ -20,7 +19,6 @@ The word "luxury" comes from the Latin word "luxuria," which means "excess" or "
 
 Today, luxury goods are still seen as a symbol of wealth and status, but they can refer to a wide range of items, including clothing, jewelry, cars, and even experiences. The definition of luxury goods has also broadened to include products that are considered high-end due to their quality, craftsmanship, or exclusivity, rather than just their price.
 
-<br>
+
 <a href="https://workdojos.com/jeweler/advice">next: advice</a>
-<br>
-</p>
+

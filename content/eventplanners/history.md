@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of Event Planners and the Special Events  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners history.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners history.mp3" frameborder="0" style="border:0" >}}
 Event planner:
 
 The word "event" comes from the Latin "eventus," meaning "something that happens." The word "planner" comes from the Latin "planum," meaning "to plan or plot."
@@ -24,7 +23,6 @@ The term "special event" likely originated in the late 20th century, as the conc
 
 The meaning of the term "special event" has remained largely unchanged over time, referring to an event that is planned and organized for a specific purpose or occasion, often with the intention of attracting a large number of attendees or garnering significant attention. Examples of special events include festivals, concerts, and charity fundraisers.
 
-<br>
+
 <a href="https://workdojos.com/eventplanners/advice">next: advice</a>
-<br>
-</p>
+

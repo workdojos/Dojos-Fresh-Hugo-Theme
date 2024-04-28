@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Photo Journalists and Entrepreneurs in the Journalism, News, And Media  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist startup.mp3" frameborder="0" style="border:0" >}}
 Idea name: SnapShots
 
 Short one liner: "The ultimate platform for photo journalists to showcase their work and connect with media outlets."
@@ -67,6 +66,5 @@ Competition from existing platforms and services for photo journalists
 Difficulty in acquiring and retaining users
 Challenges in monetizing the platform, particularly in the early stages
 
-<br>
+
 <a href="https://workdojos.com/photojournalist/tech">next: open-source tech</a>
-</p>

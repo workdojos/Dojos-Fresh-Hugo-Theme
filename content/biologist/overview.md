@@ -1,5 +1,4 @@
 ---
-title: An Overview for Biologists and the Biosciences  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist overview.mp3" frameborder="0" style="border:0" >}}
 The biosciences industry is an exciting and rapidly growing field that encompasses a wide range of disciplines, including biotechnology, pharmaceuticals, and medical research. According to data from the National Science Foundation, the biosciences industry contributed over $800 billion to the U.S. economy in 2018, making it one of the most important sectors in the country.
 
 For those interested in pursuing a career in the biosciences industry, there are numerous opportunities to be found. One of the best ways to find these opportunities is through networking with professionals already working in the field. This can be done through joining professional organizations, attending conferences, and seeking out mentorship opportunities.
@@ -20,6 +19,5 @@ However, it's important to note that not all jobs in the biosciences industry ar
 
 Overall, the biosciences industry is a dynamic and rewarding field with numerous opportunities for those interested in pursuing a career in the sciences. With the right education, experience, and network, individuals can find a fulfilling and exciting job in this industry.
 
-<br>
+
 <a href="https://workdojos.com/biologist/day-in-the-life">next: day in the life</a>
-</p>

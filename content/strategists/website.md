@@ -1,5 +1,4 @@
 ---
-title: Websites for Strategists in the Consulting  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,8 +6,8 @@ layout: single2
 
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I would recommend using open-source technology to build your website for several reasons. Firstly, open-source technology is free to use, which can be a significant cost saving for businesses. It also allows for greater flexibility and customization of your website, as you have access to the source code and can make changes as needed. Additionally, open-source technology is supported by a large community of developers, which means that you can easily find help and resources if you encounter any issues.
 
 Some of the leading open-source web builders that could be suitable for your business include WordPress, Joomla, and Drupal. These platforms offer a range of features and customization options, and are suitable for businesses of all sizes.
@@ -21,8 +20,8 @@ The main pros of using open-source technology to build your website include the 
 
 Overall, using open-source technology to build your website can be a cost-effective and customizable solution for your business, but it is important to carefully consider the pros and cons and potential costs before making a decision.
 
-<br>
+
 
 <a href="https://workdojos.com/strategists/overview">next: overview</a>
-<br>
-</p>
+
+

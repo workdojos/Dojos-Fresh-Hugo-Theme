@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Explorers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum:
 
 Geography and world cultures
@@ -44,6 +43,5 @@ Describe a situation where you had to lead a team or work effectively in a group
 How do you approach cultural sensitivity and respect in unfamiliar environments?
 What are your thoughts on environmental sustainability and preservation in the field?
 
-<br>
+
 <a href="https://workdojos.com/explorers/rights">next: workers' rights</a>
-</p>

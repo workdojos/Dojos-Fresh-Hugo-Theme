@@ -1,5 +1,4 @@
 ---
-title: Websites for Novelists in the Writing & Publishing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-<br>
+
 {{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/novelist website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I would recommend using open-source technology to build your own website for several reasons. First and foremost, open-source technology allows for greater flexibility and customization of your website, as you have access to the source code and can make changes or add features as needed. This is especially useful for businesses in the writing and publishing industry, as you may need to regularly update your website with new content or make changes to the layout to better showcase your work.
 
@@ -23,8 +22,8 @@ While there are certainly benefits to using open-source technology to build your
 
 Overall, the benefits of using open-source technology to build your own website far outweigh the potential drawbacks. By taking the time to research and compare different web builders and static-site generators, you can find the best solution for your business and create a website that meets your needs and goals.
 
-<br>
+
 
 <a href="https://workdojos.com/novelist/overview">next: overview</a>
-<br>
-</p>
+
+

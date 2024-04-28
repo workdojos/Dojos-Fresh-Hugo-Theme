@@ -1,5 +1,4 @@
 ---
-title: Travel Agent Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents social.mp3" frameborder="0" style="border:0" >}}
 Hi everyone! I'm excited to announce that I am now a travel agent and ready to help you plan your dream vacations! I specialize in adventure travel and cultural experiences and can't wait to share my love of exploring new places with all of you.
 
 To kick off my new business, I am launching a campaign on Instagram, Twitter, Youtube, and Pinterest to showcase my services and give you a taste of what it's like to travel with me.
@@ -22,6 +21,5 @@ On Pinterest, I will be creating boards filled with travel inspiration, packing 
 
 I can't wait to connect with all of you and help you plan your dream vacations! Please follow me on Instagram, Twitter, Youtube, and Pinterest to stay updated on my campaign and my new business. Thank you for your support!
 
-<br>
+
 <a href="https://workdojos.com/travelagents/startup">next: startup ideas</a>
-</p>

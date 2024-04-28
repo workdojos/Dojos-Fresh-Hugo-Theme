@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Graphic Designer
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, there was a young graphic designer named Sarah. She lived in a bustling city where people were always on the go, and she loved nothing more than using her creativity to bring beauty and meaning to the world around her.
 
 Sarah woke up early every morning, eager to start her day at the studio where she worked. She loved the hustle and bustle of the design industry, and there was always something new and exciting to work on.
@@ -22,7 +21,6 @@ In the end, Sarah's hard work paid off. Her client was thrilled with the new log
 
 And so, Sarah's day in the life of a graphic designer was full of creativity, hard work, and endless possibilities. She knew that no matter where her career took her, she would always be inspired by the great designers who had come before her and eager to keep pushing the boundaries of what was possible.
 
-<br>
+
 <a href="https://workdojos.com/graphicdesigner/history">next: history</a>
-<br>
-</p>
+

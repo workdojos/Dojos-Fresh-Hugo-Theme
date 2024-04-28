@@ -1,12 +1,11 @@
 ---
-title: Learning & Development for Beauticians
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum:
 
 Anatomy and physiology
@@ -39,6 +38,5 @@ How do you stay up-to-date with the latest beauty trends and techniques?
 How do you plan to market yourself as a beautician?
 Describe a time when you had to troubleshoot a problem during a beauty treatment.
 
-<br>
+
 <a href="https://workdojos.com/beauticians/rights">next: workers' rights</a>
-</p>

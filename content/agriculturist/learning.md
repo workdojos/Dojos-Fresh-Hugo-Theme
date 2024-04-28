@@ -1,12 +1,11 @@
 ---
-title: Learning & Development for Agriculturists
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist learning.mp3" frameborder="0" style="border:0" >}}
 For the role of an agriculturist, here are some suggestions for what should appear in a curriculum:
 
 Knowledge of plant biology, soil science, and pest management
@@ -36,6 +35,5 @@ Can you discuss your experience with agricultural technologies and equipment?
 How do you approach environmental sustainability in your work?
 How do you approach farm management and financial planning?
 
-<br>
+
 <a href="https://workdojos.com/agriculturist/rights">next: workers' rights</a>
-</p>

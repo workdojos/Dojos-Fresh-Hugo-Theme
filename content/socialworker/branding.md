@@ -1,5 +1,4 @@
 ---
-title: Social Worker Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker branding.mp3" frameborder="0" style="border:0" >}}
 As a social media manager, I would start by conducting a thorough audit of the organization's current social media presence. This would involve reviewing their current followers, engagement, content, and overall brand image on each platform.
 
 Once I have a good understanding of the organization's current social media presence, I would develop a strategy to increase brand awareness, recruit followers, and drive traffic to the website. This would involve creating a content calendar that includes a mix of informative, educational, and engaging posts related to behavioral health. I would also use hashtags and participate in relevant Twitter chats to increase the organization's visibility within the industry.
@@ -18,6 +17,5 @@ I would also use analytics to measure the success of our social media campaigns 
 
 Finally, I would look for opportunities to collaborate with other organizations in the behavioral health industry to further increase brand awareness and reach. This could involve sharing each other's content, participating in joint campaigns, or partnering on events or webinars.
 
-<br>
+
 <a href="https://workdojos.com/socialworker/ethics">next: ethical framework</a>
-</p>

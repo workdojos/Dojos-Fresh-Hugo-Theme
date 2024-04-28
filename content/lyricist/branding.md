@@ -1,5 +1,4 @@
 ---
-title: Lyricist Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lyricist/lyricist branding.mp3" frameborder="0" style="border:0" >}}
 Sure, I can help with that. Here are some initial ideas for campaigns on each platform:
 
 Twitter:
@@ -29,6 +28,5 @@ Pin images of the group's music and lyrics to attract followers interested in th
 Collaborate with other musicians or music industry professionals by sharing each other's content and adding each other to relevant boards.
 Utilize Pinterest analytics to track which pins are getting the most traction and adjust future content accordingly.
 
-<br>
+
 <a href="https://workdojos.com/lyricist/ethics">next: ethical framework</a>
-</p>

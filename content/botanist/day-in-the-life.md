@@ -1,12 +1,11 @@
 ---
-title: A Day in the Life of a Botanist
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in a far-off land, there lived a young botanist named Amelia. She spent her days wandering through the lush forests and fields, marveling at the beauty and diversity of the plant world.
 
 Amelia was fascinated by the way plants grew and changed, and she spent hours studying them and taking detailed notes. She loved nothing more than to sit quietly in the shade of a tall tree, observing the way the leaves rustled in the breeze and the way the flowers swayed in the sunlight.
@@ -21,7 +20,6 @@ As Amelia continued to study botany, she also began to think about the ways that
 
 And so, Amelia set out on a journey to become a great botanist, just like the ones she had read about in books. She traveled far and wide, studying plants and learning all she could about the world of botany. And as she learned, she also worked tirelessly to share her knowledge with others, hoping to inspire a new generation of botanists to follow in her footsteps.
 
-<br>
+
 <a href="https://workdojos.com/botanist/history">next: history</a>
-<br>
-</p>
+

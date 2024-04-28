@@ -1,5 +1,4 @@
 ---
-title: Distiller Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -32,6 +31,5 @@ Pin recipes featuring your spirits, along with tips and tricks for pairing them 
 Share infographics and other educational content about the distilled spirits industry, such as the history of different types of spirits or the distilling process.
 Utilize Pinterest analytics to see which pins are performing well and adjust your strategy accordingly.
 
-<br>
+
 <a href="https://workdojos.com/distiller/startup">next: startup ideas</a>
-</p>

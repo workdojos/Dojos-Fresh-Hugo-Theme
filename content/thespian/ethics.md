@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Thespians Working in the Perfoming Arts  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian ethics.mp3" frameborder="0" style="border:0" >}}
 Certainly! I'd be happy to help you develop an ethical framework for starting a career as a thespian in the performing arts industry.
 
 There are many different ethical theories that could be applied to this situation. One possibility is to consider virtue ethics, which emphasizes the character of the moral agent as the key element of ethical thinking. In this framework, you might focus on developing virtues such as honesty, integrity, and responsibility as you begin your career as a thespian.
@@ -18,6 +17,5 @@ Utilitarianism is another option, which holds that the best action is the one th
 
 These are just a few possibilities, but there are many other ethical theories and frameworks that you could consider as you develop your ethical framework for starting a career as a thespian.
 
-<br>
+
 <a href="https://workdojos.com/thespian/social">next: social media</a>
-</p>

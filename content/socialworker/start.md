@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Behavioral Health  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker start.mp3" frameborder="0" style="border:0" >}}
 First of all, congratulations on choosing a career path as a social worker in the behavioral health industry! This is a noble and fulfilling profession that can have a huge impact on the lives of others.
 
 Here are some little-known facts about working as a social worker in the behavioral health industry that may surprise you:
@@ -27,6 +26,5 @@ The National Institute of Mental Health: https://www.nimh.nih.gov/health/topics/
 The Bureau of Labor Statistics: https://www.bls.gov/ooh/community-and-social-service/mental-health-counselors-and-marriage-and-family-therapists.htm
 And remember, as a social worker in the behavioral health industry, you have the potential to make a huge positive impact on the lives of others. So get excited and embrace the opportunities that this career has to offer!
 
-<br>
+
 <a href="https://workdojos.com/socialworker/learning">next: learning</a>
-</p>

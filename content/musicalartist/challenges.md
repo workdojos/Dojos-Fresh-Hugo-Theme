@@ -1,5 +1,4 @@
 ---
-title: Music  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist challenges.mp3" frameborder="0" style="border:0" >}}
 Introduction:
 
 The music industry is a vibrant and exciting field that has long been an integral part of our culture. However, it is also an industry that is facing many controversies and challenges. In this persuasive essay, we will examine some of the most pressing issues facing the music industry today, including the difficulties that musical artists face in finding work, the need for higher pay, and the potential for positive change in the industry. Through careful analysis and persuasive argument, we will demonstrate why it is so important to support and empower musical artists, and how we can work towards a brighter future for the music industry as a whole.
@@ -32,6 +31,5 @@ Conclusion:
 
 In conclusion, the music industry is facing many controversies and challenges today, including the difficulties of finding work and earning a fair wage for musical artists. However, by working towards making it easier for artistto find work, paying them fairly, and promoting diversity and inclusivity, we can create a brighter future for the music industry as a whole and support the talented and creative individuals who make it possible.
 
-<br>
+
 <a href="https://workdojos.com/musicalartist/history">next: history</a>
-</p>

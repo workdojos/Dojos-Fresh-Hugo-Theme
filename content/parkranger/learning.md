@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Park Rangers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum:
 
 Environmental science
@@ -51,6 +50,5 @@ What strategies would you use to educate visitors about park rules and regulatio
 How do you stay current on environmental issues and park management practices?
 Describe a time when you had to perform maintenance tasks in the park.
 
-<br>
+
 <a href="https://workdojos.com/parkranger/rights">next: workers' rights</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: System Administrator Branding
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ Pinterest is a great platform for creating visual boards featuring your work as 
 To engage with followers, you can ask for their input on your content, respond to comments and messages, and ask for feedback on your work. You can also use hashtags related to the server administration industry to increase your visibility and reach new followers.
 
 Overall, the key to a successful social media campaign is to create engaging and valuable content that resonates with your target audience. By showcasing your expertise and engaging with followers, you can increase brand awareness and promote your business as a system administrator.
-<br>
+
 <a href="https://workdojos.com/admins/ethics">next: ethical framework</a>
-</p>

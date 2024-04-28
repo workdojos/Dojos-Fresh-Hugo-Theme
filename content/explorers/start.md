@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Outdoor  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers start.mp3" frameborder="0" style="border:0" >}}
 Sure thing! Here are some strategies to help you get excited about a career as a explorer in the outdoor industry:
 
 Research the perks and benefits of working as a explorer: Some little-known facts about this career include the opportunity to travel to beautiful and exotic locations, the chance to work in a field that is constantly growing and evolving, and the opportunity to learn about new cultures and ways of life. You can also find out about the types of experiences and opportunities that are available to explorers, such as working on research projects, leading expeditions, or working with conservation organizations.
@@ -20,6 +19,5 @@ Consider the upsides: While any career has its challenges, there are many potent
 
 Overall, there are many reasons to be excited about a career as a explorer in the outdoor industry. Whether you're interested in research, conservation, or simply experiencing new cultures and ways of life, this career can provide you with a wealth of opportunities and experiences. So go out and explore!
 
-<br>
+
 <a href="https://workdojos.com/explorers/learning">next: learning</a>
-</p>

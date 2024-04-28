@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of Account Executives and the Sales Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -13,7 +12,6 @@ The term "account executive" refers to someone who is responsible for managing t
 
 The word "sales" comes from the Old French word "sale," which means "sale or saleable goods." In the late 14th century, the word "sale" began to be used more broadly to refer to the act of selling goods or services. The term "sales" refers to the activity or profession of selling goods or services. This meaning has remained relatively unchanged over time, though the methods and techniques of sales may have evolved over time.
 
-<br>
+
 <a href="https://workdojos.com/accountexecutive/learning">next: learning</a>
-<br>
-</p>
+

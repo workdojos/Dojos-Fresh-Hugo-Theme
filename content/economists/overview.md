@@ -1,5 +1,4 @@
 ---
-title: An Overview for Economists and the Data Science  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ There are many useful websites where you can learn more about the data science i
 
 When it comes to the best and worst jobs in the data science industry, it really depends on what you are looking for. Some of the best jobs in the industry are those that offer high salaries, interesting projects, and opportunities for advancement. On the other hand, some of the worst jobs are those that have low pay, high stress, and limited growth potential. Ultimately, it is important to find a job that aligns with your interests, skills, and values.
 
-<br>
+
 <a href="https://workdojos.com/economists/day-in-the-life">next: day in the life</a>
-</p>

@@ -1,12 +1,11 @@
 ---
-title: Agriculturist Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist social.mp3" frameborder="0" style="border:0" >}}
 Sure, I'd be happy to help create an engaging social media campaign for your new business as an agriculturist! Here are a few ideas:
 
 Instagram:
@@ -32,6 +31,5 @@ Share photos of your work in the agriculture industry, including your crops, mac
 Pin articles or videos about agriculture and sustainable farming practices from other sources
 Overall, it's important to focus on creating engaging and informative content that speaks to your target audience (other agriculturists or those interested in the agriculture industry). Don't be afraid to share your own experiences and insights, and consider collaborating with others in the industry to showcase a variety of perspectives. Hashtags are also a great way to reach a larger audience and connect with others in the industry.
 
-<br>
+
 <a href="https://workdojos.com/agriculturist/startup">next: startup ideas</a>
-</p>

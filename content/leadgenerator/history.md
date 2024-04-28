@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of Lead Generators and the Marketing Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -24,7 +23,6 @@ The term "marketing services" refers to the various activities and strategies us
 
 The meaning of the term "marketing services" has remained largely unchanged over time, although the methods and technologies used to provide marketing services have evolved.
 
-<br>
+
 <a href="https://workdojos.com/leadgenerator/advice">next: advice</a>
-<br>
-</p>
+

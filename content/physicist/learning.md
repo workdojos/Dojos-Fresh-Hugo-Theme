@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Physicists
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist learning.mp3" frameborder="0" style="border:0" >}}
 For a physicist, it is important to have a strong foundation in math and science, particularly in physics and related fields such as chemistry and engineering. A curriculum should include courses in classical mechanics, thermodynamics, electromagnetism, quantum mechanics, and statistical mechanics. In addition, it is important to have experience with data analysis and programming, as well as experience with lab equipment and experiments.
 
 Some helpful websites for learning more about physics and developing skills in this field include:
@@ -32,6 +31,5 @@ Describe a research project you have worked on and what you learned from it.
 How do you stay up to date on the latest developments in physics?
 How do you approach problem-solving in physics?
 
-<br>
+
 <a href="https://workdojos.com/physicist/rights">next: workers' rights</a>
-</p>

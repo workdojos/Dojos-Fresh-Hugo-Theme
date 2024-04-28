@@ -1,5 +1,4 @@
 ---
-title: Strategist Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists branding.mp3" frameborder="0" style="border:0" >}}
 Sure, I can certainly help with that! Here are some strategies I would recommend:
 
 Twitter:
@@ -24,6 +23,5 @@ Pin images and articles that demonstrate your expertise and provide valuable inf
 Engage with other users by commenting on their pins and repinning their content.
 Overall, it's important to regularly post engaging content, engage with your audience, and utilize relevant hashtags to increase brand awareness and drive traffic to your website. I hope these suggestions help!
 
-<br>
+
 <a href="https://workdojos.com/strategists/ethics">next: ethical framework</a>
-</p>

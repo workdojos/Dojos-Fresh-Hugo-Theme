@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Life Coach
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, there was a woman named Rachel who worked as a life coach. Every day, she woke up bright and early, determined to help as many people as possible live their best lives.
 
 Rachel was passionate about her work and loved nothing more than helping her clients reach their full potential. She spent her days listening to their struggles, offering guidance and support, and helping them set and achieve their goals.
@@ -22,7 +21,6 @@ As she drifted off to sleep that night, Rachel thought about all the notable lif
 
 As Rachel drifted off to sleep, she knew that she was part of a long and proud tradition of life coaches, helping people all over the world to live their best lives.
 
-<br>
+
 <a href="https://workdojos.com/lifecoaches/history">next: history</a>
-<br>
-</p>
+

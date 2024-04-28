@@ -1,5 +1,4 @@
 ---
-title: Park Ranger Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger social.mp3" frameborder="0" style="border:0" >}}
 Sure! Here are some ideas for an engaging social media campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as a park ranger:
 
 Instagram:
@@ -31,6 +30,5 @@ Use Pinterest to share tips and ideas for sustainable living and eco-friendly pr
 Pin quotes and infographics that highlight the importance of park rangers and the work they do to protect the environment.
 Collaborate with other Pinterest users who are interested in nature and conservation to reach a wider audience.
 
-<br>
+
 <a href="https://workdojos.com/parkranger/startup">next: startup ideas</a>
-</p>

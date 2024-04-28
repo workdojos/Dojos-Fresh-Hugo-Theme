@@ -1,12 +1,11 @@
 ---
-title:  History and Etymology of Couriers and the Supply-Chain  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/couriers/couriers history.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/couriers/couriers history.mp3" frameborder="0" style="border:0" >}}
 Courier:
 
 The word "courier" comes from the Latin word "currere," which means "to run." In ancient Rome, messengers were often sent to deliver important messages and documents, and they were called "cursores," or "runners." These messengers were often also soldiers or slaves who were trained to run quickly and deliver messages with great speed and efficiency.
@@ -21,7 +20,6 @@ The concept of supply-chain management has its roots in military logistics, wher
 
 Over time, the meaning of the term "supply-chain" has evolved to encompass not just the physical movement of goods, but also the management of information and data related to those goods. With the increasing use of technology in logistics and supply-chain management, the term now often includes the use of computer systems and data analytics to track and optimize the flow of goods and information within a supply chain.
 
-<br>
+
 <a href="https://workdojos.com/couriers/advice">next: advice</a>
-<br>
-</p>
+

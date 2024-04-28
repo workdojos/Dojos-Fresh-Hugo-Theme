@@ -1,12 +1,11 @@
 ---
-title: Data Sciences  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists challenges.mp3" frameborder="0" style="border:0" >}}
 As the field of data science continues to grow and evolve, it is facing a number of controversies and challenges that are worth addressing. From the difficulties that data scientists often face in finding work to the need for higher pay, there are a number of issues that need to be addressed in order to ensure that the data science industry can continue to thrive.
 
 One of the biggest controversies facing the data science industry is the shortage of qualified professionals. Despite the high demand for data scientists, there is a shortage of qualified candidates who have the necessary skills and experience to meet the needs of companies. This can make it difficult for data scientistto find work, especially in highly competitive markets.
@@ -19,6 +18,5 @@ Finally, there is also the need to address the challenges facing the data scienc
 
 In conclusion, the data science industry is facing a number of controversies and challenges that need to be addressed. From the difficulties that data scientists often face in finding work to the need for higher pay, there are a number of issues that need to be addressed in order to ensure that the data science industry can continue to thrive. By addressing these issues, we can make it easier for data scientistto find work, pay them fairly, and ensure that the data science industry as a whole can get a lot better in the years to come.
 
-<br>
+
 <a href="https://workdojos.com/datascientists/history">next: history</a>
-</p>

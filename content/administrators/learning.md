@@ -1,12 +1,11 @@
 ---
-title: Learning & Development for Administrators
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum:
 
 Organizational skills
@@ -52,6 +51,5 @@ What skills do you have that make you a strong team player?
 How do you prioritize tasks when you have multiple responsibilities?
 Describe a time when you had to think creatively to solve a problem at work.
 
-<br>
+
 <a href="https://workdojos.com/administrators/rights">next: workers' rights</a>
-</p>

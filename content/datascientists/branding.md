@@ -1,12 +1,11 @@
 ---
-title: Data Scientist Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists branding.mp3" frameborder="0" style="border:0" >}}
 Here are some potential actions I would take as a social media manager for a data science organization:
 
 Develop a content calendar that aligns with the organization's goals and audience. This could include sharing industry news, highlighting team members and their work, and sharing resources for data scientists.
@@ -23,6 +22,5 @@ Regularly update all social media platforms with fresh, engaging content. This c
 
 Overall, my goal as a social media manager would be to create a strong, positive presence for the data science organization on social media, while also building relationships and increasing brand awareness within the industry.
 
-<br>
+
 <a href="https://workdojos.com/datascientists/ethics">next: ethical framework</a>
-</p>

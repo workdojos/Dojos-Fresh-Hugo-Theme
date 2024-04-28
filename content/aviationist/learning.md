@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Aviationists
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -35,6 +34,5 @@ Describe a challenging maintenance issue you faced and how you resolved it.
 What experience do you have working in an aviation environment?
 How do you prioritize tasks and manage your time when working on aircraft maintenance projects?
 
-<br>
+
 <a href="https://workdojos.com/aviationist/rights">next: workers' rights</a>
-</p>

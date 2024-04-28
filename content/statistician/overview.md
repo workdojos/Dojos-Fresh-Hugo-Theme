@@ -1,5 +1,4 @@
 ---
-title: An Overview for Statisticians and the Statistical Research & Development  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ There are a number of useful websites that can help you learn more about the sta
 
 When it comes to the best and worst jobs in the statistical research and development industry, it's important to consider your own interests and skills. Some of the best jobs in the field may involve working with data to solve complex problems, while others may involve more routine tasks such as data entry or data analysis. On the other hand, some of the worst jobs may involve repetitive or tedious tasks, or may not offer opportunities for growth or advancement. Ultimately, the best and worst jobs in the statistical research and development industry will depend on your personal goals and preferences.
 
-<br>
+
 <a href="https://workdojos.com/statistician/day-in-the-life">next: day in the life</a>
-</p>

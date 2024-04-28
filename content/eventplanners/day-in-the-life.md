@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Event Planner
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in a bustling city, there was a young woman named Maria who dreamed of becoming an event planner. She had always been fascinated by the planning and execution of events, whether they were intimate gatherings or grand galas.
 
 One day, Maria decided to turn her passion into a career and set out to learn everything she could about the special events industry. She studied event management, marketing, and customer service, and eventually landed her first job as an assistant event planner at a local hotel.
@@ -22,7 +21,6 @@ Maria knew that she had a long way to go before she could join the ranks of thes
 
 And so, Maria's journey as a successful event planner continued, filled with endless planning and endless possibilities.
 
-<br>
+
 <a href="https://workdojos.com/eventplanners/history">next: history</a>
-<br>
-</p>
+

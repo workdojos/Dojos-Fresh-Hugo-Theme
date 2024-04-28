@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Y Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator start.mp3" frameborder="0" style="border:0" >}}
 First and foremost, it's important to recognize that a career as a lawyer in the legal industry can be incredibly rewarding and fulfilling. You'll have the opportunity to work on important cases and make a real impact on the lives of others.
 
 One of the perks of working as a lawyer is the potential for a high salary. According to the Bureau of Labor Statistics, the median annual wage for lawyers was $122,960 in 2020. Additionally, the demand for lawyers is expected to grow by 6% between 2019 and 2029, so there are plenty of job opportunities available.
@@ -20,6 +19,5 @@ If you're looking for resources to learn more about working as a lawyer, you may
 
 Overall, a career as a lawyer in the legal industry can be incredibly rewarding and exciting. With the potential for a high salary, diverse job opportunities, and the ability to make a positive impact on others, there's no doubt that this is an industry with lots of upside potential. So get excited, do your research, and take the steps necessary to achieve your goals of becoming a successful lawyer!
 
-<br>
+
 <a href="https://workdojos.com/litigator/learning">next: learning</a>
-</p>

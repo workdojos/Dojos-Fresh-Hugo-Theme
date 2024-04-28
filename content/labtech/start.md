@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Laboratory Testing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech start.mp3" frameborder="0" style="border:0" >}}
 Sure thing! First of all, let's start by acknowledging that pursuing a career as a lab tech in the laboratory testing industry is a fantastic choice. Not only is this industry constantly growing and evolving, but it also provides a wealth of opportunity for personal and professional growth.
 
 Here are a few little-known facts that might get you even more excited about this career path:
@@ -32,6 +31,5 @@ Finally, the National Accrediting Agency for Clinical Laboratory Sciences (NAACL
 
 I hope these resources help you get excited about a career as a lab tech in the laboratory testing industry. Remember, this is an exciting and growing field with lots of upside potential, so don't be afraid to dive in and start exploring all the opportunities that are out there!
 
-<br>
+
 <a href="https://workdojos.com/labtech/learning">next: learning</a>
-</p>

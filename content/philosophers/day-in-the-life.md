@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Philosopher
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,7 +19,6 @@ Throughout history, there have been many great philosophers like Aristotle, who 
 
 So if you're ever feeling lost or uncertain, remember the wisdom of these great philosophers and seek out the knowledge that can set you free. You never know where your journey of learning and self-discovery might take you.
 
-<br>
+
 <a href="https://workdojos.com/philosophers/history">next: history</a>
-<br>
-</p>
+

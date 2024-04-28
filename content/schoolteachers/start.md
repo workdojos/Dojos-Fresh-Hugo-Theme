@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers start.mp3" frameborder="0" style="border:0" >}}
 Great! It sounds like you have a goal of learning more about the benefits of working as a school teacher in the education industry. Here are some strategies that can help you achieve this goal:
 
 Research and read about the benefits of working as a school teacher: There are many websites and resources available that can provide you with information about the perks and benefits of working as a school teacher. Some useful websites to check out include the National Education Association (NEA), the American Federation of Teachers (AFT), and the National Council on Teacher Quality (NCTQ). These organizations can provide you with information about the salary and benefits available to teachers, as well as the career advancement opportunities available in the education industry.
@@ -20,6 +19,5 @@ Use positive affirmations to stay motivated: It's important to stay motivated an
 
 I hope these strategies are helpful in helping you achieve your goal of learning more about the perks and benefits of working as a school teacher in the education industry. Best of luck on your journey!
 
-<br>
+
 <a href="https://workdojos.com/schoolteachers/learning">next: learning</a>
-</p>

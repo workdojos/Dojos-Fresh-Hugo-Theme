@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Digital Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners start.mp3" frameborder="0" style="border:0" >}}
 Great! It sounds like you have a clear goal in mind and are ready to start learning about the exciting world of web design. Here are a few strategies and resources that can help you get started:
 
 Research the digital services industry: A great place to start is by learning more about the industry itself. Check out websites like Forbes, Entrepreneur, and Inc. to get an overview of the latest trends and opportunities in digital services.
@@ -20,6 +19,5 @@ Get excited about the potential for growth: The digital services industry is gro
 
 Remember, the key to success is to stay motivated and keep learning. Don't be afraid to ask questions and seek guidance from those who have been in the field for a while. With hard work and determination, you can achieve your goals and become a successful web designer in the digital services industry. Good luck!
 
-<br>
+
 <a href="https://workdojos.com/webdesigners/learning">next: learning</a>
-</p>

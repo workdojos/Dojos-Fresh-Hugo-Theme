@@ -1,5 +1,4 @@
 ---
-title: Advice for Web Designers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners advice.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/webdesigners/webdesigners advice.mp3" frameborder="0" style="border:0" >}}
 As a career counselor, it is my job to help you determine what careers are most suited for you based on your skills, interests, and experience. From what you have told me, it sounds like you are interested in pursuing a potential career as a web designer working in the digital services industry.
 
 First of all, let's take a look at your skills and experience. It's important to consider whether you have the necessary skills and experience to be successful in this field. Some key skills that are important for web designers include:
@@ -25,6 +24,5 @@ In terms of qualifications, it is generally helpful to have a bachelor's degree 
 
 Overall, it sounds like a career as a web designer in the digital services industry could be a good fit for you based on your skills and interests. I recommend conducting further research into the specific tasks and responsibilities of this role, as well as the specific requirements and qualifications that may be required by different employers. Additionally, it may be helpful to reach out to professionals currently working in this field to get their perspective and advice. Good luck in your career search!
 
-<br>
+
 <a href="https://workdojos.com/webdesigners/start">next: get started</a>
-</p>

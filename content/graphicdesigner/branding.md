@@ -1,5 +1,4 @@
 ---
-title: Graphic Designer Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner branding.mp3" frameborder="0" style="border:0" >}}
 To effectively manage the social media presence of a graphic design and graphic arts organization on Twitter, Instagram, and Pinterest, I would recommend the following strategies:
 
 Develop a content calendar that includes a mix of industry news, behind-the-scenes glimpses of your organization, and showcases of your work. Be sure to incorporate hashtags relevant to your industry and encourage your followers to use them as well.
@@ -22,6 +21,5 @@ Collaborate with other organizations and influencers in the graphic design and g
 
 By implementing these strategies, you can effectively increase brand awareness, recruit followers, drive traffic to your website, and create opportunities for collaboration within the industry.
 
-<br>
+
 <a href="https://workdojos.com/graphicdesigner/ethics">next: ethical framework</a>
-</p>

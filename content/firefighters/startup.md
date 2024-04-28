@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Firefighters and Entrepreneurs in the Public Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: FireFinder
 
 One Liner: "Connecting firefighters with the public to provide timely and effective emergency response."
@@ -67,6 +66,5 @@ Competition from similar platforms
 Difficulty in gaining adoption and usage from firefighters and the general public
 Limited budget for marketing and advertising efforts
 
-<br>
+
 <a href="https://workdojos.com/firefighters/tech">next: open-source tech</a>
-</p>

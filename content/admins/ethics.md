@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for System Administrators
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -14,6 +13,5 @@ Next, I would consider the specific challenges and opportunities that a system a
 Based on this analysis, I would then propose an ethical framework that takes into account these principles and challenges, and that outlines the specific actions and behaviors that a system administrator should adopt in order to operate their business in an ethical manner. This framework might include guidelines on how to handle sensitive data, how to minimize the environmental impact of the business, and how to engage in fair and honest business practices.
 
 Overall, the key to developing an ethical framework for starting a business as a system administrator is to recognize the complex moral dimensions of this work and to take a proactive and thoughtful approach to ethical decision-making. By considering the principles that underpin ethical behavior, and by being mindful of the specific challenges and opportunities that a system administrator may face, it is possible to create a framework that guides the administrator in acting with integrity and in making decisions that are in the best interests of all stakeholders.
-<br>
+
 <a href="https://workdojos.com/admins/social">next: social media</a>
-</p>

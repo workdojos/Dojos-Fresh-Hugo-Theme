@@ -1,5 +1,4 @@
 ---
-title: Aviationist Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -19,6 +18,5 @@ Pinterest: Use Pinterest to create boards featuring aviation-related content, su
 
 Overall, the key to an engaging campaign is to be authentic and share genuine content that resonates with your audience. By sharing your expertise and personal experiences in the aviation industry, you can establish yourself as a reliable and knowledgeable source for all things aviation.
 
-<br>
+
 <a href="https://workdojos.com/aviationist/startup">next: startup ideas</a>
-</p>

@@ -1,12 +1,11 @@
 ---
-title: Learning & Development for Content Creators
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators learning.mp3" frameborder="0" style="border:0" >}}
 A curriculum for a content creator should include:
 
 Creative writing and storytelling
@@ -42,6 +41,5 @@ How do you measure the success of your content?
 How do you utilize social media to promote your content?
 Can you provide examples of successful content campaigns you have led or been a part of?
 
-<br>
+
 <a href="https://workdojos.com/contentcreators/rights">next: workers' rights</a>
-</p>

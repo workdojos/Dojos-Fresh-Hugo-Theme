@@ -1,5 +1,4 @@
 ---
-title: Physics And Higher Education  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist challenges.mp3" frameborder="0" style="border:0" >}}
 The physics and higher education industry is currently facing a number of controversies and challenges that are affecting the work and career opportunities of physicists. One of the main issues is the lack of job security and stability in the field, as many physicists struggle to find employment after completing their education. This is partly due to the competitive nature of the industry and the limited number of job openings, but it is also due to the lack of support and resources available to physicists as they search for work.
 
 In order to address these issues and make it easier for physicists to find work, it is important for the industry as a whole to take action. This could involve improving career development resources and support for physicists, as well as increasing funding for research and development in the field. Additionally, there is a need to address the underlying issues that are contributing to the current challenges facing the industry, such as the lack of diversity and inclusion in the field and the lack of support for early career researchers.
@@ -16,6 +15,5 @@ One way to address these issues and make the physics and higher education indust
 
 In conclusion, it is clear that the physics and higher education industry is facing a number of challenges and controversies that are affecting the work and career opportunities of physicists. In order to address these issues and ensure the industry is able to thrive in the future, it is essential for the industry as a whole to take action and make it easier for physicists to find work. By improving career development resources, increasing funding for research and development, and investing in the education and training of physicists, we can create a more inclusive and supportive industry that is able to meet the changing needs and demands of the 21st century.
 
-<br>
+
 <a href="https://workdojos.com/physicist/history">next: history</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Advice for Project Managers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers advice.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers advice.mp3" frameborder="0" style="border:0" >}}
 As a career counselor, it is my duty to assist you in determining the most suitable career path for you based on your skills, interests and experience.
 
 Based on your desire to pursue a career as a project manager in the broader business industry, I recommend conducting some self-assessment to determine what skills and qualities you possess that may be beneficial in this field. Some key skills and qualities for project managers include excellent communication and leadership skills, the ability to work under pressure and meet deadlines, problem-solving skills, and strong organizational and time management skills.
@@ -20,6 +19,5 @@ As for qualifications, a bachelor's degree in a business-related field is typica
 
 Overall, pursuing a career as a project manager in the broader business industry may be a rewarding and challenging path for you based on your skills and interests. It is important to continue to develop your skills, gain relevant experience, and network with professionals in the industry to increase your chances of success in this field.
 
-<br>
+
 <a href="https://workdojos.com/projectmanagers/start">next: get started</a>
-</p>

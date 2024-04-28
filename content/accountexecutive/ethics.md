@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Account Executives Working in the Sales Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -17,6 +16,5 @@ Finally, it is important to consider the concept of fairness in developing an et
 
 Overall, building an ethical framework for starting a business in the sales industry requires a combination of integrity, transparency, and fairness. By considering these concepts and incorporating them into our business practices, we can ensure that we are operating in a responsible and ethical manner, and contributing to a more just and fair society.
 
-<br>
+
 <a href="https://workdojos.com/accountexecutive/social">next: social media</a>
-</p>

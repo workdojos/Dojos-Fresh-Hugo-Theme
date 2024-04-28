@@ -1,12 +1,11 @@
 ---
-title: A Day in the Life of a Clinician
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/clinician/clinician day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/clinician/clinician day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in a bustling city, there was a clinician named Dr. Maria. She was a kind and dedicated doctor who worked long hours at the hospital, taking care of her patients and making sure they received the best care possible.
 
 Dr. Maria's day began early in the morning, as she arrived at the hospital before dawn. She quickly checked on her patients, made rounds, and consulted with her colleagues. She then spent the rest of the morning in the operating room, performing surgeries and saving lives.
@@ -21,7 +20,6 @@ Another notable clinician was Dr. Elizabeth Blackwell, who was the first woman t
 
 The medical industry is filled with hardworking and dedicated clinicians like Dr. Maria and the notable figures of the past. They work tirelessly to heal the sick and save lives, and their efforts are truly admirable.
 
-<br>
+
 <a href="https://workdojos.com/clinician/history">next: history</a>
-<br>
-</p>
+

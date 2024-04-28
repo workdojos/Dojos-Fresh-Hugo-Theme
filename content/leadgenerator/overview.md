@@ -1,5 +1,4 @@
 ---
-title: An Overview for Lead Generators and the Marketing Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ In terms of the best and worst jobs in the marketing services industry, it reall
 
 Overall, the marketing services industry offers a wide range of exciting and challenging opportunities for professionals looking to make a career in this field. With the right skills and network, professionals can find a job in this industry that is both rewarding and fulfilling.
 
-<br>
+
 <a href="https://workdojos.com/leadgenerator/day-in-the-life">next: day in the life</a>
-</p>

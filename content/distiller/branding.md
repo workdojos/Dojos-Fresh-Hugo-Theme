@@ -1,5 +1,4 @@
 ---
-title: Distiller Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -24,6 +23,5 @@ Collaborate with other organizations in the distilled spirits industry by sharin
 
 Regularly update your social media profiles with fresh content to keep your followers engaged and coming back for more.
 
-<br>
+
 <a href="https://workdojos.com/distiller/ethics">next: ethical framework</a>
-</p>

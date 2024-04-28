@@ -1,13 +1,12 @@
 ---
-title: Websites for Beauticians in the Beauty, Health & Wellness  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I would recommend considering open-source technology as a viable option for building your website. There are several benefits to using open-source technology, including:
 
 Cost: One of the main benefits of open-source technology is the fact that it is usually free to use. This can be especially appealing for small businesses that may not have a large budget for website development.
@@ -22,8 +21,8 @@ There are also several popular open-source apps that can enhance the overall use
 
 Overall, the pros and cons of using open-source technology will depend on your specific business needs and goals. However, in general, it can be a cost-effective and customizable solution that offers strong community support. It is worth considering as you plan the development of your website.
 
-<br>
+
 
 <a href="https://workdojos.com/beauticians/overview">next: overview</a>
-<br>
-</p>
+
+

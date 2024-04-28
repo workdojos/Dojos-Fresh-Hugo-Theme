@@ -1,12 +1,11 @@
 ---
-title: A Day in the Life of a Courier
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/couriers/couriers day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/couriers/couriers day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, there was a young man named Jack who worked as a courier. He was always on the go, delivering packages and packages of goods from one place to another. Jack loved his job because it allowed him to travel and see different parts of the country.
 
 One day, Jack was asked to deliver a package to a small village in the countryside. As he made his way through the winding roads, he couldn't help but marvel at the beautiful landscape that surrounded him.
@@ -21,7 +20,6 @@ As he returned home that evening, Jack couldn't help but feel a sense of pride i
 
 And so, Jack continued to deliver packages and packages of goods, always knowing that he was playing a vital role in the world around him.
 
-<br>
+
 <a href="https://workdojos.com/couriers/history">next: history</a>
-<br>
-</p>
+

@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Firefighters
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum for Firefighter:
 
 Firefighting techniques and tactics
@@ -42,6 +41,5 @@ How do you handle stress and pressure in high-stress situations?
 What are some common causes of fires and how can they be prevented?
 How do you educate the public on fire prevention and safety measures?
 
-<br>
+
 <a href="https://workdojos.com/firefighters/rights">next: workers' rights</a>
-</p>

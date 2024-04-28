@@ -1,5 +1,4 @@
 ---
-title: Getting Started as a System Administrator
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -16,6 +15,5 @@ Another helpful strategy is to identify your strengths and leverage them in your
 It's also important to surround yourself with a supportive network of people who can help you achieve your goals. This could include mentors, colleagues, and friends who are passionate about the server administration industry and can provide encouragement and guidance as you navigate the challenges of starting a business.
 
 Finally, don't be afraid to get excited about your new career path and share your enthusiasm with others. The more you can convey the benefits and excitement of working as a system administrator, the more likely you are to inspire others to consider this field as a rewarding career choice.
-<br>
+
 <a href="https://workdojos.com/admins/advice">next: advice</a>
-</p>

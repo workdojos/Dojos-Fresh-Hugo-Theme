@@ -1,12 +1,11 @@
 ---
-title: Digital Marketer Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers social.mp3" frameborder="0" style="border:0" >}}
 Sure, I can definitely help with that! Here are a few ideas for an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as a digital marketer:
 
 Instagram: Create a visually appealing Instagram feed that showcases your skills as a digital marketer. Share before and after examples of your work, testimonials from happy clients, and behind-the-scenes glimpses of your day-to-day work. Use hashtags related to digital marketing and engage with other influencers in the industry.
@@ -19,6 +18,5 @@ Pinterest: Create a Pinterest board specifically for digital marketing tips and 
 
 Overall, the key to a successful social media campaign is to consistently create valuable and engaging content, and to actively engage with your followers and other influencers in the industry. Good luck with your new business!
 
-<br>
+
 <a href="https://workdojos.com/digitalmarketers/startup">next: startup ideas</a>
-</p>

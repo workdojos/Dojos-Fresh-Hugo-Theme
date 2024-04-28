@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Interpreters and Entrepreneurs in the Translation & Interpretation  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: WordBridge
 
 One liner: Connecting people through language with our on-demand interpretation and translation services.
@@ -69,7 +68,6 @@ Finding and retaining qualified interpreters and translators
 Ensuring high-quality service for customers
 Maintaining and improving the technology platform as the business grows.
 
-<br>
-<br>
+
+
 <a href="https://workdojos.com/interpreters/tech">next: open-source tech</a>
-</p>

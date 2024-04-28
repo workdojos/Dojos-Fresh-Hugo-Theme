@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Economists and Others in the Data Science  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -16,7 +15,6 @@ Small businesses will also play a crucial role in the future of the data science
 
 Overall, it is clear that the data science industry will continue to be a driving force in the economy, and open-source technology, economists, and small businesses will all play important roles in its success. By fostering a collaborative and innovative approach, we can ensure that the data science industry continues to thrive and provide valuable insights and solutions for a wide range of industries.
 
-<br>
+
 <a href="https://workdojos.com/economists/website">next: website</a>
-<br>
-</p>
+

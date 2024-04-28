@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Account Executives
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -44,6 +43,5 @@ How do you handle objections or challenges during the sales process?
 How do you stay organized and manage your time effectively when working on multiple accounts?
 What are your long-term goals in a sales career?
 
-<br>
+
 <a href="https://workdojos.com/accountexecutive/start">next: getting started</a>
-</p>

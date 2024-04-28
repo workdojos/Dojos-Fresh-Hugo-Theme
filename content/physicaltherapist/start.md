@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Physical Therapy  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist start.mp3" frameborder="0" style="border:0" >}}
 Great! As a physical therapist, you have the opportunity to make a positive impact on people's lives every day. Not only will you be able to help people regain mobility and function, but you'll also be able to work in a variety of settings, including hospitals, clinics, and private practices.
 
 One little-known fact about physical therapy is that it is an in-demand profession. According to the Bureau of Labor Statistics, employment of physical therapists is projected to grow 21% from 2019 to 2029, much faster than the average for all occupations. This means there will be plenty of job opportunities for you to choose from as you begin your career.
@@ -24,6 +23,5 @@ The Physical Therapist Assistant: This website is specifically geared towards ph
 
 Remember, working as a physical therapist can be a rewarding and fulfilling career choice. With hard work and dedication, you can make a difference in people's lives while also enjoying the benefits of a growing and in-demand profession. Keep pushing towards your goals, and you'll be able to achieve them in no time!
 
-<br>
+
 <a href="https://workdojos.com/physicaltherapist/learning">next: learning</a>
-</p>

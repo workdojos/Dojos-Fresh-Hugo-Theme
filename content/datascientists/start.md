@@ -1,12 +1,11 @@
 ---
-title: Getting Started in the Data Sciences  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists start.mp3" frameborder="0" style="border:0" >}}
 Great! It sounds like you are interested in pursuing a career as a data scientist in the data science industry. This is a fantastic choice, as the data science industry is rapidly growing and has a lot of potential for career advancement and financial success.
 
 First of all, let's talk about the perks and benefits of working as a data scientist. One of the biggest advantages of this career is the high demand for skilled professionals in the field. Data scientists are in high demand, meaning that you will have a lot of job opportunities and the ability to negotiate a competitive salary.
@@ -24,6 +23,5 @@ Data Science Society (https://www.datasciencesociety.net/)
 Data Science Institute (https://datascience.columbia.edu/)
 Overall, the data science industry is an exciting and growing field with lots of upside potential. If you are passionate about data, technology, and problem-solving, a career as a data scientist could be the perfect fit for you. So get excited and start exploring all of the opportunities that this industry has to offer!
 
-<br>
+
 <a href="https://workdojos.com/datascientists/learning">next: learning</a>
-</p>

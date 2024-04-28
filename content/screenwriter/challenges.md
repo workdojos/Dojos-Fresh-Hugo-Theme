@@ -1,5 +1,4 @@
 ---
-title: Film  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter challenges.mp3" frameborder="0" style="border:0" >}}
 The film industry has always been a controversial and constantly evolving industry, with numerous controversies and challenges facing both filmmakers and screenwriters. From the lack of diversity and representation on screen, to the challenges of finding work and getting paid fairly, the film industry has a lot of room for improvement. In this essay, we will explore some of the major controversies and challenges facing the film industry, and argue for why it is important to make it easier for screenwriters to find work, and how the industry can get better in the years to come.
 
 Thesis statement:
@@ -30,6 +29,5 @@ Conclusion:
 
 In conclusion, the film industry is facing numerous controversies and challenges, from the lack of diversity and representation on screen, to the difficulties faced by screenwriters in finding work. By addressing these issues and making it easier for screenwriters to find work, we can create a more inclusive and thriving film industry that benefits everyone. By supporting and uplifting the voices of screenwriters and filmmakers, we can create a more diverse and exciting film industry that reflects the world we live in.
 
-<br>
+
 <a href="https://workdojos.com/screenwriter/history">next: history</a>
-</p>

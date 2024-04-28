@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Mortgage Brokers and Entrepreneurs in the Real-Estate  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -71,6 +70,5 @@ Competition from other digital mortgage platforms
 Regulation and compliance issues in the mortgage industry
 Dependence on partnerships with mortgage brokers, which may not always be successful or sustainable
 
-<br>
+
 <a href="https://workdojos.com/mortgagebrokers/tech">next: open-source tech</a>
-</p>

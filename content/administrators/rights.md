@@ -1,5 +1,4 @@
 ---
-title: The Administration & Book-Keeping  Industry and Administrator Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators rights.mp3" frameborder="0" style="border:0" >}}
 As an administrator working in the administration and bookkeeping industry, I am deeply concerned about the fair treatment and proper wages of workers in this field. In recent years, there have been numerous trends and events that have highlighted the need for more fair work practices in this industry.
 
 One trend that has emerged is the growing use of temporary and contract workers in the industry. While these workers may offer a cost-effective solution for companies, they often lack the benefits and job security of permanent employees. This can lead to exploitation and mistreatment of workers, as they may be paid less and receive fewer protections.
@@ -18,6 +17,5 @@ One recent event that has brought attention to the issue of fair work practices 
 
 Overall, it is clear that there are many challenges facing workers in the administration and bookkeeping industry. It is crucial that companies prioritize fair treatment and proper wages for their employees in order to create a more sustainable and equitable industry. By promoting worker’s rights and fair practices, we can create a better future for all workers in this field.
 
-<br>
+
 <a href="https://workdojos.com/administrators/branding">next: branding</a>
-</p>

@@ -1,12 +1,11 @@
 ---
-title: Advice for Animators
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators advice.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators advice.mp3" frameborder="0" style="border:0" >}}
 Sure, I'd be happy to help you with that. Here are some steps that you can follow to help your friend determine if a career as an animator is a good fit for them:
 
 Assess their skills and interests: Does your friend have a strong artistic background and a passion for storytelling through animation? Do they have a good eye for detail and enjoy working on projects that require creativity and problem-solving? These are all important qualities for a successful animator to have.
@@ -21,6 +20,5 @@ Network and gain experience: Networking and gaining experience can be crucial fo
 
 I hope this information is helpful! Let me know if you have any other questions or if you'd like more guidance on this topic.
 
-<br>
+
 <a href="https://workdojos.com/animators/start">next: get started</a>
-</p>

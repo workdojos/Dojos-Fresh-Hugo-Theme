@@ -1,5 +1,4 @@
 ---
-title: The Behavioral Health  Industry and Social Worker Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -8,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/socialworker/socialworker rights.mp3" frameborder="0" style="border:0" >}}
 As a social worker working in the behavioral healthcare industry, I am often faced with challenges related to fair work practices. While there have been some recent trends and events that have brought attention to the issue of worker's rights, it is important to recognize that there is still a long way to go in terms of ensuring that social workers are treated fairly and given the proper wages and benefits that they deserve.
 
 One of the biggest challenges that social workers in the behavioral healthcare industry face is the issue of low wages. Many social workers are paid significantly less than their counterparts in other healthcare fields, despite the fact that they often work long hours and face significant challenges in their work. This can lead to high levels of burnout and turnover, which can be detrimental to both the social workers themselves and the clients that they serve.
@@ -19,6 +18,5 @@ Another important aspect of fair work practices in the behavioral healthcare ind
 
 Overall, it is clear that there is still much work to be done in terms of promoting fair work practices for social workers in the behavioral healthcare industry. From advocating for higher wages and better benefits, to addressing issues of workplace safety, there are many ways in which we can work to ensure that social workers are treated fairly and given the support and resources that they need to do their jobs effectively. By working together and speaking out for worker's rights, we can create a more just and equitable society for all.
 
-<br>
+
 <a href="https://workdojos.com/socialworker/branding">next: branding</a>
-</p>

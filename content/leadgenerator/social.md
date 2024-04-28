@@ -1,5 +1,4 @@
 ---
-title: Lead Generator Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ Pinterest: Create boards featuring marketing tips, industry trends, and case stu
 
 Overall, it's important to consistently create and share high-quality content and engage with your followers in order to increase brand awareness and promote your business as a lead generator in the marketing services industry.
 
-<br>
+
 <a href="https://workdojos.com/leadgenerator/startup">next: startup ideas</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: The Startup Financing  Industry and Financier Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -8,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier rights.mp3" frameborder="0" style="border:0" >}}
 The startup financing industry is a rapidly growing and constantly evolving sector that has the potential to bring about significant innovation and disruption. However, as the industry grows and becomes more competitive, it is important to ensure that the workers within it are treated fairly and with respect.
 
 One recent trend in the startup financing industry is the increasing prevalence of unpaid internships and low-paying jobs. While these positions may be viewed as a way for workers to gain valuable experience and make connections in the industry, they often come at the expense of fair wages and benefits. This can lead to a cycle of exploitation and inequality, as workers may be forced to take on multiple low-paying jobs in order to make ends meet.
@@ -19,6 +18,5 @@ It is important for the startup financing industry to prioritize fair work pract
 
 In conclusion, fair work practices are crucial for the startup financing industry to thrive. By prioritizing the rights and well-being of workers, the industry can foster a positive and innovative culture that benefits both workers and the industry as a whole.
 
-<br>
+
 <a href="https://workdojos.com/financier/branding">next: branding</a>
-</p>

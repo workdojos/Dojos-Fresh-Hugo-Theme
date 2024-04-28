@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Screenwriters Working in the Film  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, I would approach this task by first defining the concept of ethics. Ethics refers to the principles that govern our actions and decision-making, guiding us to make choices that are morally right or wrong.
 
 In the context of starting a career as a screenwriter in the film industry, there are a few key ethical considerations that come to mind.
@@ -20,6 +19,5 @@ Finally, it is also important to consider the financial implications of your car
 
 Overall, developing an ethical framework for starting a career as a screenwriter in the film industry involves considering the impact of your work on society, treating others with respect and fairness, and being mindful of financial considerations. By taking these ethical considerations into account, you can ensure that you are making choices that align with your values and contribute to the greater good.
 
-<br>
+
 <a href="https://workdojos.com/screenwriter/social">next: social media</a>
-</p>

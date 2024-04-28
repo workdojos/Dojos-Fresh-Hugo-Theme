@@ -1,12 +1,11 @@
 ---
-title: Open-Source Tech for Agriculturists and Others in the Agriculture  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist tech.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist tech.mp3" frameborder="0" style="border:0" >}}
 The agriculture industry is a vital component of our society, providing us with the food and other resources we need to survive and thrive. However, it has long been dominated by large corporations and monolithic systems, leaving small farmers and agriculturists struggling to compete.
 
 One solution to this problem is the adoption of open-source technology in the agriculture industry. Open-source technology allows for greater collaboration and sharing of information and resources, which can level the playing field for small farmers and agriculturists. It also allows for the development of innovative and more efficient farming practices, which can lead to increased productivity and profitability.
@@ -17,7 +16,6 @@ In addition to benefiting individual agriculturists, the adoption of open-source
 
 Overall, the agriculture industry has the potential to be a key driver of both economic growth and sustainability. By embracing open-source technology and supporting small businesses, we can help to create a more vibrant and thriving agriculture industry for all.
 
-<br>
+
 <a href="https://workdojos.com/agriculturist/website">next: website</a>
-<br>
-</p>
+

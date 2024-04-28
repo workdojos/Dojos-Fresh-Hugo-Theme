@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Lead Generators Working in the Marketing Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -16,6 +15,5 @@ To develop an ethical framework for this role, I would consider the values and g
 
 Ultimately, my ethical framework for a career as a lead generator in the marketing services industry would be based on a commitment to honesty, transparency, and respect for the rights and well-being of all stakeholders. This might involve creating clear guidelines for how leads are generated, how customer data is collected and used, and how marketing campaigns are designed and implemented. It might also involve seeking out opportunities to educate and empower customers, and to engage in ethical problem-solving when challenges or dilemmas arise.
 
-<br>
+
 <a href="https://workdojos.com/leadgenerator/social">next: social media</a>
-</p>

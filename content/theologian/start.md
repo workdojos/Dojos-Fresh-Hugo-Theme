@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Religious Organizations  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian start.mp3" frameborder="0" style="border:0" >}}
 Great! It sounds like you have a clear goal in mind and are looking to learn more about the perks and benefits of working as a theologian in the religious organizations industry. First, let's start by getting you excited about this career path. As a theologian, you have the opportunity to make a positive impact on your community and help people connect with their faith and spiritual beliefs. This can be a very rewarding and fulfilling career path, as you have the chance to make a difference in people's lives on a deeper level.
 
 Now, let's talk about some of the benefits of working in this industry. One of the biggest perks is the flexibility that comes with this career. Many theologians work on a freelance basis, which allows them to set their own schedule and work at their own pace. Additionally, there are many different paths you can take as a theologian, whether it's working in a church, teaching at a university, or consulting with religious organizations. This means you have a lot of options and can choose the path that best aligns with your goals and passions.
@@ -24,6 +23,5 @@ The Society of Christian Ethics: This organization provides resources and suppor
 
 I hope these resources help you as you explore this exciting career path. Remember to stay positive and motivated, and always keep your goals in mind. With hard work and dedication, you can achieve great things as a theologian in the religious organizations industry.
 
-<br>
+
 <a href="https://workdojos.com/theologian/learning">next: learning</a>
-</p>

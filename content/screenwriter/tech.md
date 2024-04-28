@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Screenwriters and Others in the Film  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter tech.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter tech.mp3" frameborder="0" style="border:0" >}}
 The film industry is constantly evolving and adapting to new technologies and platforms. One area that has been slow to change, however, is the use of open-source technology. This technology has the potential to revolutionize the way films are made, distributed, and consumed, yet it remains largely untapped within the industry.
 
 One of the primary benefits of open-source technology is that it allows for greater collaboration and creativity within the film industry. By using open-source software and tools, filmmakers can easily share their work and ideas with others, leading to more diverse and innovative films. This can be especially beneficial for screenwriters, who can use open-source technology to showcase their work and collaborate with others on projects.
@@ -18,7 +17,6 @@ However, despite these benefits, the film industry has been slow to embrace open
 
 To truly thrive in the film industry, it is crucial that filmmakers and screenwriters embrace open-source technology. By doing so, they can take advantage of the many benefits it offers, such as increased collaboration and creativity, lower costs, and the ability to compete with larger studios. In addition, by supporting small businesses and independent filmmakers, we can help create a thriving economy that is driven by innovation and creativity.
 
-<br>
+
 <a href="https://workdojos.com/screenwriter/website">next: website</a>
-<br>
-</p>
+

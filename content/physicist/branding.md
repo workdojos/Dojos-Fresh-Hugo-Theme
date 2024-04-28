@@ -1,5 +1,4 @@
 ---
-title: Physicist Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist branding.mp3" frameborder="0" style="border:0" >}}
 Sure, I can definitely help with that. Here are some potential strategies and tactics I would recommend for managing the presence of your physics and higher education organization on social media:
 
 Identify your target audience: It's important to know who you are trying to reach and engage with on social media. Are you targeting students, educators, researchers, or a combination of all three? Knowing your audience will help you create more targeted and effective content.
@@ -22,6 +21,5 @@ Collaborate with others: Look for opportunities to collaborate with other organi
 
 Overall, the goal is to create a consistent and engaging presence on social media that helps to increase brand awareness, recruit followers, and drive traffic to your website.`
 
-<br>
+
 <a href="https://workdojos.com/physicist/ethics">next: ethical framework</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Firefighters and Others in the Public Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters tech.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/firefighters/firefighters tech.mp3" frameborder="0" style="border:0" >}}
 The public service industry is vital to the functioning of any society, and it is essential that the tools and technology used to support it are effective and efficient. One solution that has been gaining traction in recent years is the use of open-source technology.
 
 Open-source technology refers to software or systems that are freely available to the public and can be modified and distributed by anyone. In the public service industry, this could include everything from emergency dispatch systems to public transportation schedules.
@@ -20,7 +19,6 @@ Small businesses will also play a significant role in the future of the public s
 
 In conclusion, the public service industry is vital to the well-being of any community, and the use of open-source technology can help to ensure that it is efficient and effective. Firefighters and small businesses will play integral roles in the future of this industry, and by supporting them, we can help to build a stronger, more prosperous society.
 
-<br>
+
 <a href="https://workdojos.com/firefighters/website">next: website</a>
-<br>
-</p>
+

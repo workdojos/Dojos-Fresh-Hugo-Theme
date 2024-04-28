@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Musical Artists and Entrepreneurs in the Music  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: Artify
 
 One Liner: A digital platform for independent musicians to showcase and sell their music.
@@ -36,6 +35,5 @@ Estimated 1st Year Cost of Operation: $50,000 - $100,000
 
 Potential Business Challenges: Competition with established music streaming platforms, difficulty in attracting and retaining artists, obtaining sufficient traction and revenue to sustain the business.
 
-<br>
+
 <a href="https://workdojos.com/musicalartist/tech">next: open-source tech</a>
-</p>

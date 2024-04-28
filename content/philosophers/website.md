@@ -1,5 +1,4 @@
 ---
-title: Websites for Philosophers in the Philosophy And Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-<br>
+
 <p>
 As a web design consultant, I believe that using open-source technology to build your own website can be a great option for your business as a philosopher. Some benefits of using open-source technology include:
 
@@ -25,8 +24,8 @@ One potential con of using open-source technology is that you may need to invest
 
 Overall, using open-source technology to build your own website can be a cost-effective and customizable solution for your business. It is important to weigh the pros and cons and consider the specific needs and goals of your business before making a decision.
 
-<br>
+
 
 <a href="https://workdojos.com/philosophers/overview">next: overview</a>
-<br>
-</p>
+
+

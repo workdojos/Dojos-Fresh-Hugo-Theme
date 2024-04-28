@@ -1,5 +1,4 @@
 ---
-title: The Consulting  Industry and Strategist Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -8,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists rights.mp3" frameborder="0" style="border:0" >}}
 Fair work practices for a strategist working in the consulting industry have been a hot topic in recent years, with numerous trends and events highlighting the need for better treatment of workers in this sector. As a strategist, it is important to promote worker's rights, fair treatment, and proper wages in order to create a more sustainable and ethical industry.
 
 One of the most pressing issues facing workers in the consulting industry is the lack of job security. Many consultants are hired on a project-by-project basis, with no guarantee of ongoing employment. This can lead to feelings of uncertainty and instability, and can make it difficult for workers to plan for their future. To address this issue, it is important to push for more stable employment opportunities, such as permanent positions or long-term contracts.
@@ -19,6 +18,5 @@ Finally, it is important to promote fair treatment and respect for all workers i
 
 In conclusion, fair work practices are crucial for a strategist working in the consulting industry. By promoting worker's rights, fair treatment, and proper wages, we can create a more sustainable and ethical industry that benefits everyone.
 
-<br>
+
 <a href="https://workdojos.com/strategists/branding">next: branding</a>
-</p>

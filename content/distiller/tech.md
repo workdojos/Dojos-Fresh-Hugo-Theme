@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Distillers and Others in the Distilled Spirits  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,7 +19,6 @@ In addition to helping small businesses thrive, the use of open-source technolog
 
 In conclusion, the distilled spirits industry is an exciting and dynamic one, and one that is increasingly turning to open-source technology to help serve its needs. By fostering collaboration and innovation, and by helping small businesses thrive, open-source technology has the potential to play an integral role in a thriving economy in the future.
 
-<br>
+
 <a href="https://workdojos.com/distiller/website">next: website</a>
-<br>
-</p>
+

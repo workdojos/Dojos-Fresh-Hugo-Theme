@@ -1,5 +1,4 @@
 ---
-title: An Overview for Beauticians and the Beauty, Health & Wellness  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians overview.mp3" frameborder="0" style="border:0" >}}
 The health and wellness industry is a rapidly growing sector that offers a wide range of career opportunities for those interested in helping others improve their physical and mental well-being. According to the Bureau of Labor Statistics, employment in the health and wellness industry is projected to grow by 16% from 2018 to 2028, faster than the average for all occupations.
 
 One of the exciting things about working in the health and wellness industry is the opportunity to make a positive impact on people's lives. Whether you are a healthcare provider, a fitness instructor, or a wellness coach, you have the chance to help others improve their health and happiness.
@@ -22,6 +21,5 @@ There are both good and bad jobs to have in the health and wellness industry. So
 
 Overall, the health and wellness industry is a dynamic and rewarding field that offers a wide range of career opportunities. With the right education, experience, and networking skills, you can find a fulfilling and rewarding job in this exciting industry.
 
-<br>
+
 <a href="https://workdojos.com/beauticians/day-in-the-life">next: day in the life</a>
-</p>

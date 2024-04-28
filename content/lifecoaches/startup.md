@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Life Coaches and Entrepreneurs in the Life Coaching  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: "LifePath Coaching"
 
 Short One Liner: "Empowering individuals to discover and achieve their ultimate life goals through personalized coaching and support."
@@ -36,6 +35,5 @@ Estimated 1st Year Cost of Operation: $50,000-$100,000, including coaching staff
 
 Potential Business Challenges: Competition in the coaching industry, difficulty in attracting and retaining clients, limited resources for marketing and growth.
 
-<br>
+
 <a href="https://workdojos.com/lifecoaches/tech">next: open-source tech</a>
-</p>

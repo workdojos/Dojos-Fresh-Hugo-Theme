@@ -1,5 +1,4 @@
 ---
-title: The Marketing Services  Industry and Lead Generator Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -19,6 +18,5 @@ In order to promote fair treatment and proper wages for lead generators, there n
 
 Lead generators deserve to be treated with the same respect and dignity as any other worker, and it is up to companies and policymakers to ensure that they are protected and fairly compensated. By advocating for fair work practices, we can create a more equitable and just society for all workers.
 
-<br>
+
 <a href="https://workdojos.com/leadgenerator/branding">next: branding</a>
-</p>

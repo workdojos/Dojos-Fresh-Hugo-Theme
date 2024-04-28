@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Statisticians and Entrepreneurs in the Statistical Research & Development  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -70,6 +69,5 @@ Competition from existing data analytics companies
 Limited budget for marketing and advertising
 Difficulty in building a strong network of clients and partners in a specialized industry
 
-<br>
+
 <a href="https://workdojos.com/statistician/tech">next: open-source tech</a>
-</p>

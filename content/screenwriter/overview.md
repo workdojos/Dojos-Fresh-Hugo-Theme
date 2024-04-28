@@ -1,5 +1,4 @@
 ---
-title: An Overview for Screenwriters and the Film  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter overview.mp3" frameborder="0" style="border:0" >}}
 The film industry is a vast and exciting world that has captured the hearts and minds of people all around the globe. With its ability to transport us to different worlds, evoke strong emotions, and tell powerful stories, it is no wonder that many people dream of working in this industry.
 
 According to a recent report by the Motion Picture Association of America (MPAA), the film industry contributed over $100 billion to the United States economy in 2019. This includes the economic impact of both production and distribution of films, as well as the indirect impact of related industries such as theaters, home entertainment, and more.
@@ -22,6 +21,5 @@ There are also numerous resources available for those looking to learn more abou
 
 When it comes to the best and worst jobs in the film industry, it really depends on an individual's interests and skills. Some people may thrive in technical roles such as camera operation or sound design, while others may prefer more creative positions such as writing or directing. Ultimately, the best job in the film industry is one that allows you to use your skills and passions to make a meaningful contribution to the art form.
 
-<br>
+
 <a href="https://workdojos.com/screenwriter/day-in-the-life">next: day in the life</a>
-</p>

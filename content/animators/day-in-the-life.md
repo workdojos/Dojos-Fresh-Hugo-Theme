@@ -1,12 +1,11 @@
 ---
-title: A Day in the Life of an Animator
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, there was a young animator named Sarah. Sarah loved nothing more than bringing her creative ideas to life through animation. She spent her days at the studio, working tirelessly to create the most visually stunning and compelling animations possible.
 
 Sarah was part of a team of animators, each with their own unique talents and specialties. Together, they worked on a variety of projects, from short films and commercials to full-length feature films.
@@ -21,7 +20,6 @@ Throughout history, there have been many notable animators who have made a signi
 
 As Sarah continues to grow and learn in the world of animation, she knows that she has a long way to go. But with hard work and dedication, she knows that she can achieve anything she sets her mind to. And who knows, perhaps one day she will become a notable animator herself, creating stories and characters that will capture the hearts and minds of audiences around the world.
 
-<br>
+
 <a href="https://workdojos.com/animators/history">next: history</a>
-<br>
-</p>
+

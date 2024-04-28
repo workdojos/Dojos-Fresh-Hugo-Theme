@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Distilled Spirits  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -33,6 +32,5 @@ The Distilled Spirits Council of the United States: https://www.discus.org/
 The International Council of Alcohol and Addictions: https://www.icofaa.org/
 Remember, pursuing a career as a distiller in the distilled spirits industry is a great opportunity to be creative, grow and advance within the field, be a part of a community, and find job satisfaction. Keep these perks and benefits in mind as you research and explore this exciting career path!
 
-<br>
+
 <a href="https://workdojos.com/distiller/learning">next: learning</a>
-</p>

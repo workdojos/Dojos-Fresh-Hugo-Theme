@@ -1,12 +1,11 @@
 ---
-title: Startup Ideas for Administrators and Entrepreneurs in the Administration & Book-Keeping  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: AdminEase
 One Liner: Simplifying the administrative tasks for small businesses
 Target User Persona: Small business owners and administrators
@@ -22,6 +21,5 @@ Idea Validation Steps: Conduct market research to determine the need for such a 
 Estimated 1st Year Cost of Operation: $50,000
 Potential Business Challenges: Competition from similar platforms, difficulty in attracting and retaining customers, constantly updating platform to meet the needs of users
 
-<br>
+
 <a href="https://workdojos.com/administrators/tech">next: open-source tech</a>
-</p>

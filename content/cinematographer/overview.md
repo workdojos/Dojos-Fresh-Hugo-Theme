@@ -1,5 +1,4 @@
 ---
-title: An Overview for Cinematographers and the Film  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/cinematographer/cinematographer overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/cinematographer/cinematographer overview.mp3" frameborder="0" style="border:0" >}}
 The cinema industry is a rapidly growing and ever-evolving field, with a global box office revenue of over $40 billion in 2019. With the rise of streaming platforms and the increasing importance of visual media, the demand for skilled professionals in the film industry is higher than ever.
 
 One of the most exciting things about working in the cinema industry is the opportunity to be a part of the creation and storytelling process. From developing ideas and scripts, to casting and rehearsing, to shooting and post-production, there are countless roles and opportunities for those looking to make a career in film.
@@ -20,6 +19,5 @@ As with any field, there are both good and bad jobs to be had in the cinema indu
 
 In conclusion, the cinema industry is a dynamic and rewarding field with endless opportunities for those looking to make a career in film. By networking, staying informed, and finding a role that aligns with your passions and goals, you can find success in the industry and be a part of the exciting world of storytelling through film.
 
-<br>
+
 <a href="https://workdojos.com/cinematographer/day-in-the-life">next: day in the life</a>
-</p>

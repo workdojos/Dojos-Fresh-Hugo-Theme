@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Travel Agents
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum:
 
 Basic knowledge of different travel destinations and their attractions
@@ -40,6 +39,5 @@ How do you keep track of your clients' preferences and past travel experiences?
 How do you stay up-to-date on travel trends and destinations?
 What resources do you use to book travel for your clients?
 
-<br>
+
 <a href="https://workdojos.com/travelagents/rights">next: workers' rights</a>
-</p>

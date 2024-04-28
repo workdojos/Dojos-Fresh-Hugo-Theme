@@ -1,5 +1,4 @@
 ---
-title: An Overview for Graphic Designers and the Graphic Design And Graphic Arts  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/graphicdesigner/graphicdesigner overview.mp3" frameborder="0" style="border:0" >}}
 Graphic design and graphic arts are thriving industries that offer a wide range of career opportunities for creative individuals. According to the Bureau of Labor Statistics, employment in the graphic design field is expected to grow by 4% from 2019 to 2029, faster than the average for all occupations. This growth is driven by the increasing use of technology in marketing and the increasing demand for visual content in various industries.
 
 One of the most exciting things about working in the graphic design and graphic arts industry is the opportunity to be creative and constantly learn new skills. The field is constantly evolving, and designers must stay up to date with new software, trends, and techniques. Additionally, designers have the opportunity to work with a wide range of clients and projects, from corporate branding and packaging to web design and advertising.
@@ -20,6 +19,5 @@ When it comes to the best and worst jobs in the industry, it really depends on a
 
 Overall, the graphic design and graphic arts industry is a dynamic and exciting field with a wide range of career opportunities. By networking, staying up to date on industry trends, and building a strong portfolio, designers can find rewarding and fulfilling work in this industry.
 
-<br>
+
 <a href="https://workdojos.com/graphicdesigner/day-in-the-life">next: day in the life</a>
-</p>

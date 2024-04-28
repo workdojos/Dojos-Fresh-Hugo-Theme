@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Lawyers and Entrepreneurs in the Y Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/litigator/litigator startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: LegalLink
 
 Short One-Liner: A digital platform connecting clients with qualified, local attorneys for affordable legal services.
@@ -36,6 +35,5 @@ Estimated 1st Year Cost of Operation: $100,000-$150,000
 
 Potential Business Challenges: LegalLink may face competition from other legal services platforms and may need to continuously adapt to changes in the legal industry and regulations. It may also need to address concerns about the quality of attorneys available on the platform.
 
-<br>
+
 <a href="https://workdojos.com/litigator/tech">next: open-source tech</a>
-</p>

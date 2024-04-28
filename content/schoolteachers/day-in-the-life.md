@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a School Teacher
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, there was a school teacher named Ms. Jenkins. She was a kind and compassionate woman who loved nothing more than helping her students learn and grow. Each day, she would wake up bright and early, ready to tackle the challenges that lay ahead.
 
 As she made her way to the school, she couldn't help but feel a sense of excitement and purpose. She knew that she had the ability to make a real difference in the lives of her students, and she was determined to do just that.
@@ -20,7 +19,6 @@ As the school day came to an end, Ms. Jenkins packed up her things and headed ho
 
 The end.
 
-<br>
+
 <a href="https://workdojos.com/schoolteachers/history">next: history</a>
-<br>
-</p>
+

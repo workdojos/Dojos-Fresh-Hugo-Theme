@@ -1,5 +1,4 @@
 ---
-title: Musical Artist Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist social.mp3" frameborder="0" style="border:0" >}}
 Sure thing! Here are some ideas for an engaging social media campaign to promote your new business as a musical artist:
 
 Instagram: Create a series of posts showcasing your music, behind the scenes of your recording process, and any upcoming performances or releases. Utilize hashtags relevant to the music industry, such as #musicartist #newmusic #singersongwriter, to increase visibility and reach a larger audience.
@@ -20,6 +19,5 @@ Pinterest: Use Pinterest to create a board featuring your music and inspiration 
 
 Overall, the key to success in this campaign will be to create consistent, high-quality content that connects with your audience and showcases your talent as a musical artist. Good luck!
 
-<br>
+
 <a href="https://workdojos.com/musicalartist/startup">next: startup ideas</a>
-</p>

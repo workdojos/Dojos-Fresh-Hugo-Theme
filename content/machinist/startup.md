@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Machinists and Entrepreneurs in the Machining  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist startup.mp3" frameborder="0" style="border:0" >}}
 "MachinistMatch" - A digital platform connecting machinists with job opportunities in the machining industry
 Short one liner: "Your ultimate career matchmaker in the machining industry"
 
@@ -35,6 +34,5 @@ Estimated 1st year cost of operation: $100,000 - $200,000
 
 Potential business challenges to look for: Competition with existing job boards and recruitment agencies, difficulty attracting and retaining users, difficulties in monetizing the platform.
 
-<br>
+
 <a href="https://workdojos.com/machinist/tech">next: open-source tech</a>
-</p>

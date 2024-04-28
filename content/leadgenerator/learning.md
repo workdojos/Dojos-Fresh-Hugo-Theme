@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Lead Generators
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -39,6 +38,5 @@ How do you research and understand the needs and pain points of your target audi
 How do you utilize data analysis to improve lead generation efforts?
 How do you effectively communicate and present to potential leads?
 
-<br>
+
 <a href="https://workdojos.com/leadgenerator/rights">next: workers' rights</a>
-</p>

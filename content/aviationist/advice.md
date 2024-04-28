@@ -1,5 +1,4 @@
 ---
-title: Advice for Aviationists
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -25,6 +24,5 @@ Aircraft mechanic: Mechanics are responsible for maintaining and repairing aircr
 
 I hope this information is helpful as you consider your options in the aviation industry. If you have any further questions or would like more guidance, please don't hesitate to reach out.
 
-<br>
+
 <a href="https://workdojos.com/aviationist/start">next: get started</a>
-</p>

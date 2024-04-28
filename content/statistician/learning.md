@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Statisticians
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -46,6 +45,5 @@ Can you give an example of a problem you solved using statistical analysis?
 How do you visualize data to communicate insights effectively?
 How do you work with cross-functional teams to provide statistical support?
 
-<br>
+
 <a href="https://workdojos.com/statistician/rights">next: workers' rights</a>
-</p>

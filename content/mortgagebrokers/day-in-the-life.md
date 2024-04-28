@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Mortgage Broker
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,7 +19,6 @@ Throughout history, there have been many notable mortgage brokers who have left 
 
 In the end, Jane's day in the life of a mortgage broker was filled with excitement, hard work, and the satisfaction of helping others achieve their dreams. She knew that her dedication and determination would continue to lead her to success in the world of real estate.
 
-<br>
+
 <a href="https://workdojos.com/mortgagebrokers/history">next: history</a>
-<br>
-</p>
+

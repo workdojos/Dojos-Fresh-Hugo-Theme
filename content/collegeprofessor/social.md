@@ -1,12 +1,11 @@
 ---
-title: College Professor Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor social.mp3" frameborder="0" style="border:0" >}}
 Sure! Here are a few ideas for an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as a college professor in the higher education industry:
 
 Instagram: Create a series of Instagram posts showcasing your teaching style and the subject matter you specialize in. Use hashtags related to higher education and teaching, and tag relevant accounts such as colleges and universities, educational organizations, and other educators. Engage with your followers by asking for their thoughts on education and inviting them to share their own experiences.
@@ -19,6 +18,5 @@ Pinterest: Create a Pinterest board dedicated to education-related content and r
 
 Overall, the key to an engaging campaign is to create high-quality content that speaks to your audience and provides value, and to actively engage with your followers on social media. By consistently posting and interacting with your followers, you can build a loyal following and establish yourself as a go-to source of information and inspiration in the higher education industry.
 
-<br>
+
 <a href="https://workdojos.com/collegeprofessor/startup">next: startup ideas</a>
-</p>

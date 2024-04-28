@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Consulting  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists start.mp3" frameborder="0" style="border:0" >}}
 First and foremost, it's important to acknowledge that pursuing a career as a strategist in the consulting industry can be both challenging and rewarding. It requires hard work, dedication, and a willingness to continuously learn and grow.
 
 But let's focus on the perks and benefits! Working as a strategist in the consulting industry can provide you with numerous opportunities for professional growth and development. You'll have the chance to work with a diverse range of clients, industries, and projects, which can provide valuable experience and insights.
@@ -20,6 +19,5 @@ There are also numerous resources available to help you succeed in this field. W
 
 Finally, it's important to remember that the consulting industry is constantly evolving and growing. This means that there is always room for advancement and growth within your career. So if you're looking for an exciting and dynamic industry with lots of upside potential, the consulting industry may be the perfect fit for you. So go out there and chase your dreams, and don't forget to always stay motivated and focused on your goals!
 
-<br>
+
 <a href="https://workdojos.com/strategists/learning">next: learning</a>
-</p>

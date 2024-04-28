@@ -1,5 +1,4 @@
 ---
-title: An Overview for Machinists and the Machining  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist overview.mp3" frameborder="0" style="border:0" >}}
 The machining industry is a vital sector of the manufacturing industry, responsible for the production of various components and products through the use of machines and tools. According to data from the National Institute of Standards and Technology, the machining industry employs over 1.4 million people in the United States alone, making it a significant source of employment for skilled workers.
 
 One of the key ways to find opportunities to work in the machining industry is through networking with those already in the industry. This can be done through industry events, professional associations, and online forums and groups. Another option is to seek out internships or apprenticeships, which can provide valuable experience and lead to full-time employment.
@@ -20,6 +19,5 @@ When it comes to the best and worst jobs in the machining industry, it ultimatel
 
 In conclusion, the machining industry is a vital and growing sector of the manufacturing industry, offering a wide range of career opportunities for skilled workers. Through networking, internships, and research, individuals can find opportunities to work in the industry and learn more about the various career paths available. With the use of state-of-the-art technology and equipment, the machining industry offers exciting opportunities for those interested in pursuing a career in manufacturing.
 
-<br>
+
 <a href="https://workdojos.com/machinist/day-in-the-life">next: day in the life</a>
-</p>

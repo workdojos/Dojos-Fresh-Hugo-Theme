@@ -1,5 +1,4 @@
 ---
-title: The Coffee And Hospitality  Industry and Barista Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas rights.mp3" frameborder="0" style="border:0" >}}
 In this case, the topic is fair work practices for baristas working in the coffee and hospitality industry.
 
 On one hand, it is important to recognize that the coffee and hospitality industry is a vital part of our economy and provides employment for millions of people worldwide. It is also a fast-paced and often demanding industry, with long hours and high customer expectations. As such, it is essential that baristas are treated fairly and with respect by their employers.
@@ -22,6 +21,5 @@ Another solution is to offer benefits such as healthcare, paid time off, and fle
 
 In conclusion, it is clear that fair work practices for baristas in the coffee and hospitality industry are essential for the well-being of both the employees and the businesses they work for. By implementing a living wage, offering benefits and opportunities for advancement, and treating workers with respect and kindness, employers can create a positive work environment and retain top talent, ultimately leading to a more successful and sustainable business.
 
-<br>
+
 <a href="https://workdojos.com/baristas/branding">next: branding</a>
-</p>

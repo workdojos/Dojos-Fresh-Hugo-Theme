@@ -1,5 +1,4 @@
 ---
-title: An Overview for Aviationists and the Aviation  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ Some of the best jobs in the aviation industry include pilots, airline executive
 
 Overall, the aviation industry is a dynamic and exciting field with a wide range of career opportunities available. Whether you are interested in working as a pilot, airline executive, or airport staff member, there are numerous resources available to help you find your dream job in the aviation industry.
 
-<br>
+
 <a href="https://workdojos.com/aviationist/day-in-the-life">next: day in the life</a>
-</p>

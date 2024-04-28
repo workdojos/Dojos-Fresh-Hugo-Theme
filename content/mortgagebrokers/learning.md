@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Mortgage Brokers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -39,6 +38,5 @@ How do you handle difficult or dissatisfied clients?
 How do you keep up with industry changes and regulations?
 How do you generate leads for new clients?
 
-<br>
+
 <a href="https://workdojos.com/mortgagebrokers/rights">next: workers' rights</a>
-</p>

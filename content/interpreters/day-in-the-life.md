@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Interpreter
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in a land where many different languages were spoken, there lived a group of people known as interpreters. These special individuals had the ability to understand and communicate between different languages, and their skills were highly sought after by those who needed to communicate with those who spoke different languages.
 
 One such interpreter was a woman named Maria. She was a skilled linguist, able to fluently speak five different languages and proficient in several more. Every day, Maria would wake up early and spend hours practicing her language skills, honing her ability to translate and interpret with precision and accuracy.
@@ -20,7 +19,6 @@ Throughout history, there have been many notable interpreters who have made sign
 
 As the day came to a close, Maria reflected on the importance of her work as an interpreter. She knew that without her skills and dedication, many people would not be able to communicate and understand one another, and the world would be a much more divided place. And so, she went to bed that night feeling grateful for the opportunity to be a bridge between different cultures and languages, and excited for the next day's adventures as a skilled interpreter.
 
-<br>
+
 <a href="https://workdojos.com/interpreters/history">next: history</a>
-<br>
-</p>
+

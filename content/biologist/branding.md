@@ -1,12 +1,11 @@
 ---
-title: Biologist Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist branding.mp3" frameborder="0" style="border:0" >}}
 First, I would begin by creating a social media strategy that outlines the goals and objectives for each platform. This would include identifying the target audience, defining the tone and voice of the content, and creating a content calendar that includes a mix of promotional, educational, and engaging posts.
 
 Next, I would focus on increasing brand awareness by regularly posting updates and engaging with the audience through Twitter, Instagram, and Pinterest. This could include sharing industry news, hosting live Q&A sessions, and using hashtags to reach a wider audience.
@@ -17,6 +16,5 @@ To increase conversions, I would focus on creating high-quality content that res
 
 Finally, I would seek out opportunities for collaboration with other organizations in the biosciences industry, including sharing content and co-hosting events. This could help increase brand awareness and build relationships with key industry influencers.
 
-<br>
+
 <a href="https://workdojos.com/biologist/ethics">next: ethical framework</a>
-</p>

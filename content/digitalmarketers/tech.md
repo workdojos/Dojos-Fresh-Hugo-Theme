@@ -1,12 +1,11 @@
 ---
-title: Open-Source Tech for Digital Marketers and Others in the Marketing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers tech.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/digitalmarketers/digitalmarketers tech.mp3" frameborder="0" style="border:0" >}}
 As someone who has worked in the marketing industry for several years, I can confidently say that open-source technology has played a major role in my success. In an industry that is constantly evolving and adapting to new trends, open-source technology allows marketers to access a wide range of tools and resources that can help them stay ahead of the game.
 
 One of the biggest advantages of open-source technology is that it is often free or significantly cheaper than proprietary options. This is especially important for small businesses, who may not have the budget to invest in expensive marketing tools. By using open-source technology, small businesses can access the same resources as larger corporations, giving them the opportunity to compete on a level playing field.
@@ -17,7 +16,6 @@ In terms of the future of the economy, small businesses will play an integral ro
 
 Overall, the importance of open-source technology in the marketing industry cannot be overstated. It allows small businesses to compete with larger corporations, gives digital marketers the freedom to experiment and innovate, and plays a crucial role in the success of small businesses in the future economy. It is essential that we continue to support and invest in open-source technology to ensure that it remains a key component of the marketing industry.
 
-<br>
+
 <a href="https://workdojos.com/digitalmarketers/website">next: website</a>
-<br>
-</p>
+

@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Broader Business  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers start.mp3" frameborder="0" style="border:0" >}}
 Great! It sounds like you have a clear goal in mind and are motivated to learn more about the benefits and perks of working as a project manager in the business industry. Let's start by exploring some little-known facts about this field:
 
 Project managers are in high demand across various industries, including technology, healthcare, and finance. This means that there are plenty of opportunities for career advancement and growth.
@@ -30,6 +29,5 @@ The Project Management Academy is another great resource for training and certif
 
 To get you excited about a career as a project manager, I'll leave you with this thought: working as a project manager can be a challenging and rewarding career that allows you to make a positive impact on businesses and organizations. With the right training and dedication, you can become a key leader in your field and enjoy a successful and fulfilling career.
 
-<br>
+
 <a href="https://workdojos.com/projectmanagers/learning">next: learning</a>
-</p>

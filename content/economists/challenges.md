@@ -1,5 +1,4 @@
 ---
-title: Data Science  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ Another key challenge facing the data science industry as a whole is the lack of
 
 Overall, the data science industry has the potential to make a significant impact on society and the economy, but it is facing a number of challenges that need to be addressed in order to move forward. By making it easier for economistto find work, increasing pay for professionals in the field, and prioritizing diversity and inclusion, we can create a stronger and more successful data science industry that can benefit everyone.
 
-<br>
+
 <a href="https://workdojos.com/economists/history">next: history</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: The Distilled Spirits  Industry and Distiller Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -21,6 +20,5 @@ Another way to support fair work practices in the distilled spirits industry is 
 
 In conclusion, fair work practices are essential for all workers in the distilled spirits industry. By promoting fair wages, safe working conditions, and respect for workers, we can help to create a more just and equitable industry for all. It is up to us to stand up for the rights of workers and to ensure that they are treated with the dignity and respect that they deserve.
 
-<br>
+
 <a href="https://workdojos.com/distiller/branding">next: branding</a>
-</p>

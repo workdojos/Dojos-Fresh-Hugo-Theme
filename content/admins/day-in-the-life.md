@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a System Administrator
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -21,7 +20,6 @@ For example, there was Bob, a pioneering computer scientist who developed some o
 These and other system administrators have helped shape the industry and make it what it is today. And as the world continues to become more reliant on technology, the role of the system administrator will only continue to grow in importance.
 
 So the next time you use a computer or access a website, take a moment to think about the hardworking system administrators who keep everything running smoothly behind the scenes. Without them, the digital world we know and rely on would not be possible.
-<br>
+
 <a href="https://workdojos.com/admins/overview">next: overview</a>
-<br>
-</p>
+

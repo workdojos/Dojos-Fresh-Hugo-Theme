@@ -1,5 +1,4 @@
 ---
-title: Account Executive Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -19,6 +18,5 @@ Pinterest: Create a Pinterest board that showcases your sales expertise and show
 
 Overall, the key to a successful social media campaign is to be authentic, engaging, and consistent. By sharing valuable content and interacting with your followers, you can build a loyal following and effectively promote your business as an account executive in the sales industry.`
 
-<br>
+
 <a href="https://workdojos.com/accountexecutive/startup">next: startup ideas</a>
-</p>

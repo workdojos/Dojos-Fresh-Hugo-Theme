@@ -1,5 +1,4 @@
 ---
-title: Websites for Economists in the Data Science  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-<br>
+
 <p>
 As a web design consultant, I would recommend considering open-source technology as a solution for building your website for several reasons. First, open-source technology is typically free to use and modify, which can significantly reduce the cost of building and maintaining a website compared to proprietary solutions. Additionally, open-source technology is often supported by a large community of developers and users who contribute to its development and improvement, which means you have access to a wide range of resources and support for troubleshooting issues or adding new features.
 
@@ -17,8 +16,8 @@ Another option to consider is using an open-source content management system (CM
 
 Overall, open-source technology offers a cost-effective and flexible solution for building and maintaining a website, and can be easily customized to meet the specific needs of your business. However, it's important to carefully consider the pros and cons of each option and ensure that you have the necessary technical expertise or resources to properly maintain and update your website.
 
-<br>
+
 
 <a href="https://workdojos.com/economists/overview">next: overview</a>
-<br>
-</p>
+
+

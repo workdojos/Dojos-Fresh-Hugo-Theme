@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Photo Journalists Working in the Journalism, News, And Media  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, I would approach this question by first considering the various ethical theories that might be applicable to the field of journalism. Some of the key theories that come to mind include deontology, which emphasizes the importance of fulfilling moral duties and following universal moral laws; consequentialism, which focuses on the consequences of actions as the primary determinant of their moral value; and virtue ethics, which emphasizes the importance of developing and exercising virtuous character traits in decision-making.
 
 In terms of developing an ethical framework for a career in photojournalism, I would recommend considering the following key ethical principles:
@@ -22,6 +21,5 @@ Professional responsibility: As a member of the journalism and media industry, y
 
 By considering these key ethical principles, you can begin to develop a framework for ethical decision-making and conduct as a photojournalist. It is also important to be open to seeking guidance and counsel from colleagues and mentors in the industry, as well as engaging in ongoing self-reflection and critical evaluation of your own ethical practices.
 
-<br>
+
 <a href="https://workdojos.com/photojournalist/social">next: social media</a>
-</p>

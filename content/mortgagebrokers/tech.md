@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Mortgage Brokers and Others in the Real-Estate  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,7 +17,6 @@ But the benefits of open-source technology in the real-estate industry extend be
 
 Overall, the adoption of open-source technology in the real-estate industry has the potential to improve efficiency, reduce costs, and promote innovation. As such, it is a crucial step in the industry's evolution and will play an integral role in the future of a thriving economy.
 
-<br>
+
 <a href="https://workdojos.com/mortgagebrokers/website">next: website</a>
-<br>
-</p>
+

@@ -1,5 +1,4 @@
 ---
-title: The Biosciences  Industry and Biologist Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist rights.mp3" frameborder="0" style="border:0" >}}
 As a debater, I firmly believe that fair work practices are essential for biologists working in the biosciences industry. Unfortunately, recent trends and events in the industry have shown that this is not always the case.
 
 One of the most pressing issues facing biologists in the biosciences industry is the lack of proper wages. Many workers are paid significantly less than their counterparts in other industries, despite the fact that their work is often just as demanding and critical to society. This pay gap is especially pronounced for biologists who are women or people of color, who often face additional barriers to fair compensation.
@@ -22,6 +21,5 @@ We also need to improve working conditions for biologists in the biosciences ind
 
 Ultimately, fair work practices are essential for the success of the biosciences industry. By promoting worker’s rights, fair treatment, and proper wages, we can create a more just and equitable industry that is better able to serve the needs of society.
 
-<br>
+
 <a href="https://workdojos.com/biologist/branding">next: branding</a>
-</p>

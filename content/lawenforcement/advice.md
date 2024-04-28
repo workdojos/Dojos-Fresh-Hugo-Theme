@@ -1,5 +1,4 @@
 ---
-title: Advice for Police Officers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement advice.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement advice.mp3" frameborder="0" style="border:0" >}}
 Thank you for seeking guidance on your potential career as a police officer. Based on your interest in protective services, it seems that you have a desire to serve and protect your community. This is a commendable goal, and one that requires a strong sense of duty and commitment.
 
 To become a police officer, you will need to meet certain requirements, including physical and mental fitness, as well as education and training. Most agencies require a high school diploma or equivalent, and many also require a college degree. Some agencies also prefer candidates with a background in criminal justice or related fields.
@@ -18,6 +17,5 @@ To increase your chances of success, it would be beneficial to pursue further ed
 
 Overall, pursuing a career as a police officer is a rewarding and challenging path that requires a strong sense of commitment and dedication. With the right education and training, you can position yourself for success in this field.
 
-<br>
+
 <a href="https://workdojos.com/lawenforcement/start">next: get started</a>
-</p>

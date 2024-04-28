@@ -1,12 +1,11 @@
 ---
-title: Courier Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/couriers/couriers social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/couriers/couriers social.mp3" frameborder="0" style="border:0" >}}
 Here are some ideas for an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new courier business in the supply-chain industry:
 
 Share behind-the-scenes photos and videos of your team working in the warehouse, loading up delivery trucks, and delivering packages to customers. This will give followers a glimpse into the inner workings of your business and make them feel more connected to your brand.
@@ -21,6 +20,5 @@ Utilize Instagram and Pinterest to share visually appealing content, such as ima
 
 By implementing these strategies, you can create an engaging social media campaign that will help to promote your courier business and attract new customers.
 
-<br>
+
 <a href="https://workdojos.com/couriers/startup">next: startup ideas</a>
-</p>

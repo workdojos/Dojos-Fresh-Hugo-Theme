@@ -1,5 +1,4 @@
 ---
-title: An Overview for Lab Techs and the Laboratory Testing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech overview.mp3" frameborder="0" style="border:0" >}}
 Sure, I can certainly help with that. Here is a proposed outline for the essay:
 
 I. Introduction
@@ -48,6 +47,5 @@ Recap the main points of the essay
 Emphasize the importance of researching and considering job opportunities carefully before committing to a position in the laboratory testing industry
 Offer any final thoughts or advice on pursuing a career in the industry
 
-<br>
+
 <a href="https://workdojos.com/labtech/day-in-the-life">next: day in the life</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Aviation  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -37,6 +36,5 @@ Conclusion:
 
 The aviation industry faces numerous controversies and challenges, but it is an essential part of modern society. By making it easier for aviationistto find work and earn fair wages, investing in safety and security measures, and addressing environmental concerns, the industry has the potential to improve in the future. By addressing these issues, we can ensure that the aviation industry continues to play a vital role in connecting people and goods across the globe.
 
-<br>
+
 <a href="https://workdojos.com/aviationist/history">next: history</a>
-</p>

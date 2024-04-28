@@ -1,5 +1,4 @@
 ---
-title: Journalism, News, And Media  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist challenges.mp3" frameborder="0" style="border:0" >}}
 The journalism, news, and media industry is facing numerous controversies and challenges in the modern world. One of the major challenges facing photojournalists is the ability to find work and make a living in an increasingly competitive and unstable industry. With the rise of social media and citizen journalism, traditional media outlets are struggling to stay afloat, and many photographers are finding it difficult to secure steady employment.
 
 Furthermore, the industry as a whole is facing criticism for its lack of diversity and representation, as well as its role in spreading misinformation and fake news. It is crucial that steps are taken to address these issues and improve the overall quality of journalism.
@@ -20,6 +19,5 @@ Finally, the journalism, news, and media industry must work to combat the spread
 
 In conclusion, the journalism, news, and media industry is facing numerous challenges, including the difficulties faced by photojournalists in finding work and the spread of fake news and misinformation. By taking steps to address these issues and prioritize diversity and representation, we can create a more robust and trustworthy industry that serves the public interest.
 
-<br>
+
 <a href="https://workdojos.com/photojournalist/history">next: history</a>
-</p>

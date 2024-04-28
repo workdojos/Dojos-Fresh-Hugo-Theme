@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Distillers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -39,6 +38,5 @@ How do you ensure compliance with safety protocols and regulations in the distil
 Can you provide an example of a recipe you have developed or a flavor profile you have created?
 How do you approach laboratory testing and analysis in your work as a distiller?
 
-<br>
+
 <a href="https://workdojos.com/distiller/rights">next: workers' rights</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Park Rangers and Entrepreneurs in the Conservation And Park Management  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: RangerTech
 
 One Liner: Revolutionizing park management and conservation through innovative technology solutions.
@@ -67,6 +66,5 @@ Competition from other park management and conservation technology solutions
 Challenges in securing partnerships with park agencies and conservation organizations
 Difficulty in convincing park staff to adopt and utilize the platform and advanced technology solutions.
 
-<br>
+
 <a href="https://workdojos.com/parkranger/tech">next: open-source tech</a>
-</p>

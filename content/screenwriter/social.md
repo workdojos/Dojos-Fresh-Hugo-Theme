@@ -1,5 +1,4 @@
 ---
-title: Screenwriter Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/screenwriter/screenwriter social.mp3" frameborder="0" style="border:0" >}}
 Sure! Here are some potential ideas for an engaging social media campaign to promote your new business as a screenwriter:
 
 Share behind-the-scenes photos and videos on Instagram and Twitter of your writing process and the film industry in general. This will give your followers a glimpse into your world and make them feel more connected to your work.
@@ -22,6 +21,5 @@ Consider partnering with other influencers or brands in the film industry to cre
 
 Overall, the key is to be authentic and engaging, and to share valuable content that your followers will find interesting and informative. Good luck with your new business!
 
-<br>
+
 <a href="https://workdojos.com/screenwriter/startup">next: startup ideas</a>
-</p>

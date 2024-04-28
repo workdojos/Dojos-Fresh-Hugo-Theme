@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Grower
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, there was a grower named Maria. She was a master of her craft and had been growing cannabis for over 20 years. She lived in a small town nestled in the mountains, where the air was crisp and the soil was rich.
 
 Maria woke up early every day, ready to tackle the challenges that came with being a grower. She tended to her plants with the utmost care, making sure they received the right amount of sunlight, water, and nutrients.
@@ -22,7 +21,6 @@ As the day came to an end, Maria was satisfied with the work she had done and wa
 
 And that, dear friends, is a day in the life of a grower.
 
-<br>
+
 <a href="https://workdojos.com/growers/history">next: history</a>
-<br>
-</p>
+

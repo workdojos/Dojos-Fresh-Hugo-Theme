@@ -1,12 +1,11 @@
 ---
-title: Startup Ideas for Baristas and Entrepreneurs in the Coffee And Hospitality  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: Brew2Go
 
 One Liner: A mobile app that connects users with local baristas for personalized, in-home coffee experiences.
@@ -35,6 +34,5 @@ Estimated 1st Year Cost of Operation: $50,000
 
 Potential Business Challenges: Finding and retaining qualified baristas, competing with traditional coffee shops, and navigating the challenges of operating an on-demand service.
 
-<br>
+
 <a href="https://workdojos.com/baristas/tech">next: open-source tech</a>
-</p>

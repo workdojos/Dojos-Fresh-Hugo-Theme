@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Lab Techs
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum for a lab tech:
 
 Biology or chemistry coursework
@@ -42,6 +41,5 @@ How do you ensure the accuracy of your test results?
 How do you maintain laboratory equipment and supplies?
 Describe a time when you had to follow safety protocols in the lab.
 
-<br>
+
 <a href="https://workdojos.com/labtech/rights">next: workers' rights</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title:  History and Etymology of Registered Nurses and the Healthcare  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse history.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse history.mp3" frameborder="0" style="border:0" >}}
 Registered nurse:
 
 The term "registered nurse" has its roots in the early 20th century, when the nursing profession began to professionalize and standardize its training and practices. The term "registered" refers to the process of being officially recognized and licensed as a nurse, which required meeting certain education and training standards.
@@ -26,7 +25,6 @@ The concept of "care" also has a long history, with roots in the Old English wor
 
 Over time, the meaning of "healthcare" has evolved to encompass a wide range of activities and practices, including preventative care, treatment of acute and chronic conditions, and rehabilitation. Today, healthcare encompasses both the individual and societal efforts to maintain and improve health and well-being.
 
-<br>
+
 <a href="https://workdojos.com/registerednurse/advice">next: advice</a>
-<br>
-</p>
+

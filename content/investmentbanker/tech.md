@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Investment Bankers and Others in the Financial Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker tech.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker tech.mp3" frameborder="0" style="border:0" >}}
 The financial services industry has always been one of the most powerful and influential sectors in the global economy. It is responsible for facilitating the flow of capital and managing the risk associated with investing and lending. However, in recent years, the industry has come under increasing scrutiny for its lack of transparency and accountability, as well as its reliance on proprietary technology that is often expensive and difficult to access.
 
 One solution to these issues is the adoption of open-source technology in the financial services industry. Open-source technology is software that is freely available and can be modified and distributed by anyone. This allows for greater transparency and collaboration, as well as the ability for smaller companies and startups to compete with larger, more established firms.
@@ -18,7 +17,6 @@ Small businesses will also play a crucial role in a thriving economy in the futu
 
 Overall, the adoption of open-source technology in the financial services industry is an important step towards greater transparency, accountability, and innovation. It can enable investment bankers to thrive in a competitive environment and help small businesses drive economic growth. It is an important step towards building a more resilient and inclusive economy for the future.
 
-<br>
+
 <a href="https://workdojos.com/investmentbanker/website">next: website</a>
-<br>
-</p>
+

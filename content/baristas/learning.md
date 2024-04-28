@@ -1,12 +1,11 @@
 ---
-title: Learning & Development for Baristas
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum:
 
 Basic barista skills such as coffee brewing techniques, espresso preparation, and milk steaming
@@ -42,6 +41,5 @@ How do you handle a difficult customer situation?
 What is your favorite type of coffee bean and why?
 How do you stay organized and efficient during a busy shift?
 
-<br>
+
 <a href="https://workdojos.com/baristas/rights">next: workers' rights</a>
-</p>

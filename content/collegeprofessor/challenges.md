@@ -1,12 +1,11 @@
 ---
-title: Higher Education  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor challenges.mp3" frameborder="0" style="border:0" >}}
 The higher education industry is facing numerous controversies that are affecting the way colleges and universities operate. One of the major challenges that college professors face is the difficulty in finding work. The number of college professors who are struggling to find employment is increasing, and this is causing problems for the higher education industry as a whole.
 
 There are several reasons why college professors need to be paid more. For starters, professors are responsible for teaching the next generation of leaders, and their work is critical to the success of our society. Additionally, professors are required to constantly update their knowledge and skills in order to stay relevant in their field, which requires a significant amount of time and effort. As a result, it is only fair that they be compensated appropriately for their efforts.
@@ -17,6 +16,5 @@ In order to make it easier for college professorto find work, we need to focus o
 
 Overall, it is clear that the higher education industry is facing numerous challenges, and it is up to all of us to work together to address these issues. By paying college professors more, making it easier for them to find work, and investing in the higher education industry, we can create a better future for everyone.
 
-<br>
+
 <a href="https://workdojos.com/collegeprofessor/history">next: history</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: An Overview for Travel Agents and the Travel & Tours  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents overview.mp3" frameborder="0" style="border:0" >}}
 The travel and tours industry is a rapidly growing and exciting field with numerous opportunities for employment and personal growth. According to the World Travel and Tourism Council, the industry generated a total of $8.8 trillion in 2019, making it a major contributor to the global economy.
 
 One of the best ways to find opportunities in the travel and tours industry is through networking. Attend industry events, join professional organizations, and connect with professionals on social media to learn about job openings and gain valuable connections. It is also helpful to gain experience in customer service, sales, or hospitality, as these skills are valuable in the industry.
@@ -20,6 +19,5 @@ As with any industry, there are both good and bad jobs to be had in the travel a
 
 In conclusion, the travel and tours industry is a dynamic and exciting field with numerous opportunities for employment and personal growth. By networking, gaining relevant skills, and staying informed about the industry, individuals can find fulfilling careers in the travel and tours industry.
 
-<br>
+
 <a href="https://workdojos.com/travelagents/day-in-the-life">next: day in the life</a>
-</p>

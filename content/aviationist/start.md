@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Aviation  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -19,6 +18,5 @@ There are plenty of resources available to help you learn more about the aviatio
 
 I hope this information helps get you excited about the potential of a career as an aviationist in the growing and exciting aviation industry. Remember to stay positive and focused, and don't be afraid to seek out additional resources and guidance as you build your career. Good luck!
 
-<br>
+
 <a href="https://workdojos.com/aviationist/learning">next: learning</a>
-</p>

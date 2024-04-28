@@ -1,5 +1,4 @@
 ---
-title: Sales Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -17,6 +16,5 @@ Finally, the sales industry as a whole is facing a number of controversies and c
 
 In conclusion, the sales industry is facing a number of challenges and controversies that need to be addressed in order to improve and thrive in the future. By making it easier for account executiveto find work, paying them fairly, and addressing the various controversies facing the industry, we can create a more positive and sustainable future for the sales industry as a whole.
 
-<br>
+
 <a href="https://workdojos.com/accountexecutive/history">next: history</a>
-</p>

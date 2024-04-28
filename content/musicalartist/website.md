@@ -1,5 +1,4 @@
 ---
-title: Websites for Musical Artists in the Music  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,8 +6,8 @@ layout: single2
 
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I would recommend using open-source technology to build your website for a number of reasons. First and foremost, open-source technology allows you to have complete control over the design and functionality of your website, as you have access to the source code and can customize it to meet your specific needs and goals. Additionally, open-source technology is typically more cost-effective compared to proprietary platforms, as you don't have to pay for licenses or subscriptions.
 
 Some of the leading open-source web builders that can be useful for building your website include WordPress, Joomla, and Drupal. These platforms offer a wide range of features and functionality, including content management, e-commerce capabilities, and SEO tools. They also have large developer communities, which means there is a wealth of resources and support available for customizing and optimizing your website.
@@ -19,8 +18,8 @@ In terms of the pros and cons of using open-source technology, one of the main b
 
 Ultimately, the best solution for your business will depend on your specific needs and goals. I would recommend taking the time to research and compare the various options available, and considering factors such as your budget, technical expertise, and desired functionality.
 
-<br>
+
 
 <a href="https://workdojos.com/musicalartist/overview">next: overview</a>
-<br>
-</p>
+
+

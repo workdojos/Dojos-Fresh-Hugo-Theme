@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Lead Generators and Others in the Marketing Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -16,7 +15,6 @@ In addition to lead generators, small businesses also stand to benefit greatly f
 
 Overall, the use of open-source technology in the marketing services industry is a win-win for both businesses and consumers. It allows for greater innovation and collaboration within the industry, while also providing cost-effective solutions for small businesses. As small businesses continue to play an integral role in a thriving economy, the use of open-source technology will only continue to grow in importance.
 
-<br>
+
 <a href="https://workdojos.com/leadgenerator/website">next: website</a>
-<br>
-</p>
+

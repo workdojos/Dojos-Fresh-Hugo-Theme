@@ -1,12 +1,11 @@
 ---
-title: A Day in the Life of a Administrator
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/administrators/administrators day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in a land far, far away, there was a woman named Sarah who worked as an administrator in a bustling business office. Every day, Sarah arrived at work early, ready to tackle the day ahead. She spent hours organizing documents, answering emails, and making sure everything in the office ran smoothly.
 
 Sarah was a skilled administrator, with a keen eye for detail and an ability to keep track of even the most complex tasks. She was always prepared, and no task was too daunting for her.
@@ -21,7 +20,6 @@ Throughout history, there have been many notable administrators who have made th
 
 Sarah's story is just one example of the important role that administrators play in our world. They may not always be in the spotlight, but their hard work and dedication make a huge difference in the lives of so many people.
 
-<br>
+
 <a href="https://workdojos.com/administrators/history">next: history</a>
-<br>
-</p>
+

@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Philosophers and Entrepreneurs in the Philosophy And Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -68,6 +67,5 @@ Difficulty in acquiring and retaining users and subscribers
 Challenges in monetizing the platform through advertising or subscriptions
 Managing and facilitating philosophical discussions and education on the platform.
 
-<br>
+
 <a href="https://workdojos.com/philosophers/tech">next: open-source tech</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Jewelers and Entrepreneurs in the Luxury Goods  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: LuxeJewels
 
 Short One Liner: Luxury jewelry and accessories for the modern woman.
@@ -36,6 +35,5 @@ Estimated 1st Year Cost of Operation: $50,000-$100,000
 
 Potential Business Challenges: LuxeJewels may face competition from established luxury jewelers and from counterfeit products. LuxeJewels will need to carefully curate its selection and authenticate all products to differentiate itself and maintain a reputation for quality. LuxeJewels will also need to effectively market itself and build a loyal customer base in a crowded and competitive market.
 
-<br>
+
 <a href="https://workdojos.com/jeweler/tech">next: open-source tech</a>
-</p>

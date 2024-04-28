@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Marketing Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -21,6 +20,5 @@ The Lead Generation Association: This organization provides resources and traini
 The Digital Marketing Institute: This online learning platform offers courses and certifications in various digital marketing disciplines, including lead generation.
 Remember, as a lead generator in the marketing services industry, you have the opportunity to make a real impact on businesses and help them grow and succeed. You'll be working in an exciting and growing industry with lots of upside potential, so embrace this opportunity and go for it!
 
-<br>
+
 <a href="https://workdojos.com/leadgenerator/learning">next: learning</a>
-</p>

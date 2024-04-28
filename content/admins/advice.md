@@ -1,5 +1,4 @@
 ---
-title: System Administrator Tips
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ When it comes to the job market for system administrators, there are a variety o
 In terms of qualifications, it is generally beneficial for this individual to have a bachelor's degree in a relevant field, such as computer science or information technology. Additionally, obtaining certifications such as the Certified Information Systems Security Professional (CISSP) or the Microsoft Certified Solutions Expert (MCSE) can also be beneficial in demonstrating expertise and increasing job prospects.
 
 Overall, a career as a system administrator working in the server administration industry can be a rewarding and challenging path for those with strong technical skills and excellent problem-solving and communication abilities. With the right qualifications and experience, this individual can pursue a variety of career opportunities in a variety of industries.
-<br>
+
 <a href="https://workdojos.com/admins/rights">next: workers' rights</a>
-</p>

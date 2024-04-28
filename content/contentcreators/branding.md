@@ -1,12 +1,11 @@
 ---
-title: Content Creator Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/contentcreators/contentcreators branding.mp3" frameborder="0" style="border:0" >}}
 Here are some steps I would take as the social media manager for your content creation organization:
 
 Research and understand your target audience: It's important to know who you are trying to reach and what type of content will be most appealing to them. This will help inform the types of posts and campaigns we create.
@@ -25,6 +24,5 @@ Collaborate with others in the industry: Look for opportunities to collaborate w
 
 Overall, as the social media manager for your content creation organization, my main goal would be to effectively communicate your brand message and increase engagement with your audience through the use of creative and relevant content.
 
-<br>
+
 <a href="https://workdojos.com/contentcreators/ethics">next: ethical framework</a>
-</p>

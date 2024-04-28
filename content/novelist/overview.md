@@ -1,5 +1,4 @@
 ---
-title: An Overview for Novelists and the Writing & Publishing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ As with any industry, there are both good and bad jobs to be had in the writing 
 
 Overall, the writing and publishing industry is an exciting and rewarding field to work in, with plenty of opportunities for those who are willing to put in the time and effort to build their skills and connections. Whether you are a seasoned professional or just starting out, there is always something new to learn and discover in this dynamic and fast-changing industry.
 
-<br>
+
 <a href="https://workdojos.com/novelist/day-in-the-life">next: day in the life</a>
-</p>

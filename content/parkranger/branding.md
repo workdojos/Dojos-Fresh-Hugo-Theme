@@ -1,5 +1,4 @@
 ---
-title: Park Ranger Branding Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger branding.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger branding.mp3" frameborder="0" style="border:0" >}}
 Sure, I can definitely help with that! Here are some specific steps I would take as a social media manager for this organization:
 
 Develop a content calendar: First, I would work with the organization to create a content calendar that outlines what types of content will be posted and when. This can include educational content about conservation and park management, photos and videos of the organization's work in action, behind-the-scenes looks at the organization, and more.
@@ -22,6 +21,5 @@ Use analytics to measure success: I would use analytics tools to track the succe
 
 Collaborate with others: Finally, I would work to identify opportunities for collaboration with other organizations and individuals in the conservation and park management industry. This could involve sharing each other's content, hosting joint events, or participating in online campaigns together.
 
-<br>
+
 <a href="https://workdojos.com/parkranger/ethics">next: ethical framework</a>
-</p>

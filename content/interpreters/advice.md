@@ -1,5 +1,4 @@
 ---
-title: Advice for Interpreters
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters advice.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters advice.mp3" frameborder="0" style="border:0" >}}
 As a career counselor, I would first want to understand more about the individual seeking guidance. Some questions I would ask include:
 
 What languages do you speak fluently?
@@ -23,6 +22,5 @@ Given these trends, I would advise the individual to consider obtaining addition
 
 Overall, a career as a translator or interpreter can be rewarding and fulfilling for individuals who are fluent in multiple languages and have a passion for language and communication. With the right education and experience, this individual can be well-suited for a successful career in the translation and interpretation industry.
 
-<br>
+
 <a href="https://workdojos.com/interpreters/start">next: get started</a>
-</p>

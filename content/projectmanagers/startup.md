@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Project Managers and Entrepreneurs in the Broader Business  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/projectmanagers/projectmanagers startup.mp3" frameborder="0" style="border:0" >}}
 Sure! Here is a digital startup idea based on your wish to create a project management tool for the broader business industry:
 
 Idea name: ProjectPro
@@ -38,6 +37,5 @@ Estimated 1st year cost of operation: The estimated cost of operating ProjectPro
 
 Potential business challenges to look for: Some potential challenges that ProjectPro may face include competition from other project management tools, difficulty in acquiring and retaining customers, and the need to continually update and improve the product to meet the changing needs of users.``
 
-<br>
+
 <a href="https://workdojos.com/projectmanagers/tech">next: open-source tech</a>
-</p>

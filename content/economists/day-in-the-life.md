@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Economist
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -22,7 +21,6 @@ As the years passed, Maria became known as one of the leading economists of her 
 
 And so, Maria's story serves as an inspiration to all who dream of making a difference in the world through the power of data and economics.
 
-<br>
+
 <a href="https://workdojos.com/economists/history">next: history</a>
-<br>
-</p>
+

@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Statistical Research & Development  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ Find activities that can help you reach your end goal: There are many activities
 
 Overall, my goal as a motivational coach is to help you feel excited and motivated about your career goals as a statistician in the statistical research and development industry. I hope that these strategies will help you achieve your goals and succeed in this exciting and growing field!
 
-<br>
+
 <a href="https://workdojos.com/statistician/learning">next: learning</a>
-</p>

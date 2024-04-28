@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Musical Artists
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/musicalartist/musicalartist learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum for a musical artist:
 
 Music theory
@@ -42,6 +41,5 @@ How do you market and brand yourself as an artist?
 Have you worked with any notable industry professionals or collaborated with other artists?
 How do you stay up to date with industry trends and changes?
 
-<br>
+
 <a href="https://workdojos.com/musicalartist/rights">next: workers' rights</a>
-</p>

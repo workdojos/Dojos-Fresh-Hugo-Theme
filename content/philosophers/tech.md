@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Philosophers and Others in the Philosophy And Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,7 +17,6 @@ So how can a philosopher thrive in the philosophy and higher education industry 
 
 Ultimately, the philosophy and higher education industry can benefit greatly from the adoption of open-source technology. It allows for greater collaboration, democratization of knowledge, and can even help small businesses thrive. As a philosopher, it's important to stay informed about open-source resources and be open to incorporating them into your work. By doing so, we can create a more vibrant and sustainable industry for all.
 
-<br>
+
 <a href="https://workdojos.com/philosophers/website">next: website</a>
-<br>
-</p>
+

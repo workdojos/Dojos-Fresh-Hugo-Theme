@@ -1,5 +1,4 @@
 ---
-title: Websites for Travel Agents in the Travel & Tours  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,8 +6,8 @@ layout: single2
 
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I would recommend using open-source technology to build your website for several reasons.
 
 First, open-source technology allows for greater flexibility and customization. You can modify the code to fit your specific needs and preferences, rather than being limited to the pre-designed templates and features of proprietary software. This can be especially beneficial for a travel agency, as you may want to include specific booking and itinerary features that are tailored to your business.
@@ -25,8 +24,8 @@ While there are certainly benefits to using open-source technology, it's importa
 
 Overall, I believe that using open-source technology to build your website as a travel agency can be a cost-effective and customizable option that enhances user experience and meets your business goals.
 
-<br>
+
 
 <a href="https://workdojos.com/travelagents/overview">next: overview</a>
-<br>
-</p>
+
+

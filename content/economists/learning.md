@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Economists
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -41,6 +40,5 @@ How does monetary policy impact the economy?
 How do economic policies affect international trade?
 How do you analyze and interpret economic data?
 
-<br>
+
 <a href="https://workdojos.com/economists/rights">next: workers' rights</a>
-</p>

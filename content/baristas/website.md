@@ -1,13 +1,12 @@
 ---
-title: Websites for Baristas in the Coffee And Hospitality  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I would recommend using open-source technology to build your website for a few reasons.
 
 First, open-source technology allows you to have complete control over your website. This means you can customize it to meet your specific business needs and goals, rather than being limited to the features and functionality of a proprietary platform.
@@ -20,8 +19,8 @@ It's worth noting that there are also some potential downsides to using open-sou
 
 Overall, the benefits of using open-source technology to build your website far outweigh the potential downsides. With the right tools and resources, you can create a professional-looking website that meets your business needs and goals, all while saving money on monthly or yearly subscription fees.
 
-<br>
+
 
 <a href="https://workdojos.com/baristas/overview">next: overview</a>
-<br>
-</p>
+
+

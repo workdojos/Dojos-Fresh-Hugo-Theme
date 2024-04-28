@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Clerks and Others in the Small Business and Retail  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -17,7 +16,6 @@ As a clerk in a small business, it is essential to understand the importance of 
 
 Ultimately, small businesses will play a crucial role in a thriving economy in the future. By using open-source technology and supporting each other, small businesses can create a strong foundation for economic growth and success. It is important for all of us, from small business owners to clerks, to recognize the value and potential of the small business industry and do everything we can to support it.
 
-<br>
+
 <a href="https://workdojos.com/clerk/website">next: website</a>
-<br>
-</p>
+

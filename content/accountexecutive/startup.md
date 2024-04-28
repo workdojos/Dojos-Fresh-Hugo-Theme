@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Account Executives and Entrepreneurs in the Sales Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -35,6 +34,5 @@ Estimated 1st Year Cost of Operation: $500,000
 
 Potential Business Challenges: Competition in the artificial intelligence sales industry, difficulties in implementing and integrating artificial intelligence technology into existing sales processes.
 
-<br>
+
 <a href="https://workdojos.com/accountexecutive/tech">next: open-source tech</a>
-</p>

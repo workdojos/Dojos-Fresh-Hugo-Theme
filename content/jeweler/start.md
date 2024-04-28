@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Luxury Goods  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/jeweler/jeweler start.mp3" frameborder="0" style="border:0" >}}
 Great! It sounds like you have a specific goal in mind - to learn more about the perks and benefits of working as a jeweler in the luxury goods industry. Here are a few strategies that can help you achieve this goal:
 
 Research and gather information: There are many resources available online that can provide you with valuable information about the luxury goods industry and the role of a jeweler within it. Some useful websites to check out include the Luxury Goods Worldwide Market Study (https://www.globalmarketforecasts.com/luxury-goods-market) and the Jewelers of America (https://www.jewelers.org/).
@@ -20,6 +19,5 @@ Embrace a positive and proactive attitude: As you work towards your goal of lear
 
 I hope these strategies help you achieve your goal and get excited about a career as a jeweler in the luxury goods industry!
 
-<br>
+
 <a href="https://workdojos.com/jeweler/learning">next: learning</a>
-</p>

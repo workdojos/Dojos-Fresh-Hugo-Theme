@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Mortgage Brokers Working in the Real-Estate  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ Another ethical framework that could be useful is consequentialism, which focuse
 
 Ultimately, the ethical framework that you choose will depend on your personal values and beliefs. It is important to carefully consider the potential consequences of your actions and to make sure that they align with your moral code.
 
-<br>
+
 <a href="https://workdojos.com/mortgagebrokers/social">next: social media</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Advice for Account Executives
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -15,6 +14,5 @@ In terms of qualifications that would be beneficial for pursuing a career as an 
 
 Overall, a career as an account executive in the sales industry can be challenging but also highly rewarding for those who have the right skills and interests. By conducting research and obtaining the necessary qualifications, the individual can increase their chances of success and build a successful career in this field.
 
-<br>
+
 <a href="https://workdojos.com/accountexecutive/rights">next: workers' rights</a>
-</p>

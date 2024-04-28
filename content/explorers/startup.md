@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Explorers and Entrepreneurs in the Outdoor  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/explorers/explorers startup.mp3" frameborder="0" style="border:0" >}}
 Sure! Here's a digital startup idea for an explorer in the outdoor industry:
 
 Idea name: "Trailblaze"
@@ -74,6 +73,5 @@ Difficulty in acquiring and retaining users
 Ensuring the platform remains relevant and useful to users over time
 Managing the financial sustainability of the business.
 
-<br>
+
 <a href="https://workdojos.com/explorers/tech">next: open-source tech</a>
-</p>

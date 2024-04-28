@@ -1,5 +1,4 @@
 ---
-title: Websites for Distillers in the Distilled Spirits  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-<br>
+
 <p>
 As a web design consultant, I recommend using open-source technology to build your own website for several reasons. First and foremost, it allows for greater customization and control over the design and functionality of your website. With open-source tools, you have the ability to tailor the website to your specific business needs and goals, rather than being limited by the limitations of a proprietary platform. Additionally, using open-source technology can often result in cost savings, as you do not have to pay for a proprietary platform or license fees.
 
@@ -19,8 +18,8 @@ There are also a number of open-source apps that can be deployed on your own ser
 
 Overall, the benefits of using open-source technology to build your own website far outweigh the potential drawbacks. While there may be some initial costs associated with building and maintaining your own website, the long-term benefits of having full control over your website's design and functionality make it a worthwhile investment. So, it is always better to use open-source technology to build a website for your business.
 
-<br>
+
 
 <a href="https://workdojos.com/distiller/overview">next: overview</a>
-<br>
-</p>
+
+

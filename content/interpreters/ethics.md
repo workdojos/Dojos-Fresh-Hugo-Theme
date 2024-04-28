@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Interpreters Working in the Translation & Interpretation  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, I would approach this task by considering the various ethical theories that have been proposed throughout the history of philosophy. Some of the main ethical theories that could be relevant in this context include deontology, consequentialism, and virtue ethics.
 
 Deontology is an ethical theory that focuses on the idea that certain actions are inherently right or wrong, regardless of their consequences. In this theory, the right thing to do is determined by moral rules or duties that are considered to be universal and absolute.
@@ -20,6 +19,5 @@ In developing an ethical framework for starting a career as an interpreter, it w
 
 Ultimately, the development of an ethical framework for starting a career as an interpreter will depend on the specific values and priorities of the individual in question. By considering the various ethical theories and how they might apply to this context, however, one can begin to develop a comprehensive and coherent ethical framework that will guide one's actions as an interpreter.
 
-<br>
+
 <a href="https://workdojos.com/interpreters/social">next: social media</a>
-</p>

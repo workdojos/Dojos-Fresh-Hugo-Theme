@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for School Teachers and Others in the Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers tech.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/schoolteachers/schoolteachers tech.mp3" frameborder="0" style="border:0" >}}
 Sure, I'd be happy to help you with that. Here is an opinion piece on the education industry:
 
 The education industry is crucial to the development and success of society. Teachers play a vital role in shaping the future generation, and it is essential that we value and support them in their important work.
@@ -22,7 +21,6 @@ There are many ways in which the education industry as a whole can improve. One 
 
 Overall, it is clear that the education industry plays a vital role in shaping the future of our society. By valuing and supporting teachers, incorporating technology in a balanced and effective way, and investing in the overall improvement of the industry, we can work towards a brighter future for all students.
 
-<br>
+
 <a href="https://workdojos.com/schoolteachers/website">next: website</a>
-<br>
-</p>
+

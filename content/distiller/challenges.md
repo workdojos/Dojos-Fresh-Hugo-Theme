@@ -1,5 +1,4 @@
 ---
-title: Distilled Spirits  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ In addition to addressing the challenges faced by distillers, the distilled spir
 
 In conclusion, the distilled spirits industry is facing numerous controversies and challenges, but by addressing these issues and embracing innovation, the industry has the potential to be a thriving and vital part of our economy and society. By supporting distillers and the industry as a whole, we can ensure that the distilled spirits industry continues to thrive and improve in the years to come.
 
-<br>
+
 <a href="https://workdojos.com/distiller/history">next: history</a>
-</p>

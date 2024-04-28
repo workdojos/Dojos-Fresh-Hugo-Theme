@@ -1,12 +1,11 @@
 ---
-title: Ethical Framework for Baristas Working in the Coffee And Hospitality  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/baristas/baristas ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, I would begin by exploring the concept of ethics and what it means to act ethically. This could involve looking at various ethical theories, such as deontology, which emphasizes the importance of following moral rules and duties, or consequentialism, which emphasizes the consequences of actions.
 
 Next, I would consider the specific context in which the career as a barista is taking place. This would include looking at the values and goals of the company, as well as the expectations and responsibilities of the role.
@@ -17,6 +16,5 @@ Additionally, it might be helpful to consider the broader social and environment
 
 Overall, developing an ethical framework for starting a career as a barista working for Starbucks would involve considering both the specific context and responsibilities of the role, as well as broader ethical issues related to the company and its impact on society and the environment.
 
-<br>
+
 <a href="https://workdojos.com/baristas/social">next: social media</a>
-</p>

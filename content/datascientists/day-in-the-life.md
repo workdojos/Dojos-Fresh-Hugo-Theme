@@ -1,12 +1,11 @@
 ---
-title: A Day in the Life of a Data Scientist
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, there was a data scientist named Alice who lived in a world filled with endless streams of data. Every day, she woke up early to dive into the vast sea of numbers and patterns that flowed around her.
 
 As a data scientist, Alice was constantly learning and growing. She spent her days analyzing data sets, creating algorithms, and seeking out new insights that could help solve complex problems.
@@ -19,7 +18,6 @@ Another notable data scientist was Grace Hopper, a computer scientist and naval 
 
 As Alice worked hard to solve complex problems and make a difference in the world, she knew that she was standing on the shoulders of giants like Ada and Grace. And she knew that there would always be new discoveries and challenges waiting for her in the ever-evolving world of data science.
 
-<br>
+
 <a href="https://workdojos.com/datascientists/history">next: history</a>
-<br>
-</p>
+

@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Investment Bankers
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker learning.mp3" frameborder="0" style="border:0" >}}
 Sure! As an investment banker, you will be expected to have a strong understanding of financial markets, securities, and investment products. You will also need to be proficient in financial modeling and analysis, as well as be able to communicate complex financial concepts to clients and colleagues. Here are some things that should appear in a curriculum for an investment banker:
 
 Financial markets and securities: Understanding different types of financial markets (e.g. equity, fixed income, derivatives) and the securities that trade within them (e.g. stocks, bonds, options).
@@ -41,6 +40,5 @@ How do you value a company?
 Can you explain a recent financial transaction or deal that you found interesting?
 How do you stay up-to-date on industry trends and developments?
 
-<br>
+
 <a href="https://workdojos.com/investmentbanker/rights">next: workers' rights</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Translation & Interpretation  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters start.mp3" frameborder="0" style="border:0" >}}
 First of all, congratulations on considering a career as a interpreter in the translation & interpretation industry! This is a truly exciting and growing field with lots of upside potential. Here are some little-known facts and useful resources to help you get started:
 
 Did you know that the translation & interpretation industry is projected to grow at a rate of 19% over the next decade, much faster than the average for all occupations? This means that there will be plenty of job opportunities for skilled interpreters in the future.
@@ -20,6 +19,5 @@ If you want to learn more about the translation & interpretation industry and ge
 
 Finally, don't forget to stay motivated and inspired as you embark on your journey to becoming a interpreter. Remember that this is a rewarding and exciting career path with lots of potential for personal and professional growth. Keep learning, stay positive, and always strive to be the best interpreter you can be!
 
-<br>
+
 <a href="https://workdojos.com/interpreters/learning">next: learning</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Strategists
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum:
 
 Strategic thinking and planning
@@ -48,6 +47,5 @@ How do you stay informed about industry trends and developments?
 How do you gather and analyze data to inform your strategic decision making?
 How do you effectively communicate and present your strategic recommendations to leadership and other stakeholders?
 
-<br>
+
 <a href="https://workdojos.com/strategists/rights">next: workers' rights</a>
-</p>

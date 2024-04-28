@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Event Planners and Entrepreneurs in the Special Events  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: "Event Spot"
 
 One Liner: "Your one-stop shop for all your special event planning needs."
@@ -72,6 +71,5 @@ Competition from other event planning platforms
 Difficulty in building partnerships with vendors and services
 Difficulty in building a user base and generating revenue in the early stages
 
-<br>
+
 <a href="https://workdojos.com/eventplanners/tech">next: open-source tech</a>
-</p>

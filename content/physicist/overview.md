@@ -1,5 +1,4 @@
 ---
-title: An Overview for Physicists and the Physics And Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicist/physicist overview.mp3" frameborder="0" style="border:0" >}}
 As an essay writer, it is my duty to provide you with the most accurate and up-to-date information about the physics and higher education industry. After conducting thorough research on the topic, I have compiled a list of facts and figures, as well as tips on how to find opportunities and network within the industry.
 
 First and foremost, it is important to understand the scope and impact of the physics and higher education industry. According to the National Science Foundation, there are over 130,000 physics professionals in the United States, with nearly half of them working in academia. The average salary for a physics professor at a four-year college or university is around $90,000 per year, while those working in research and development earn an average of $110,000 per year.
@@ -22,6 +21,5 @@ As with any industry, there are both good and bad jobs within physics and higher
 
 Overall, the physics and higher education industry is a rewarding and impactful field, with many opportunities for those who are passionate about physics and education. With the right education and networking, anyone can find a fulfilling career in this industry.
 
-<br>
+
 <a href="https://workdojos.com/physicist/day-in-the-life">next: day in the life</a>
-</p>

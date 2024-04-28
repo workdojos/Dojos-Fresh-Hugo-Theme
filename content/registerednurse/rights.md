@@ -1,5 +1,4 @@
 ---
-title: The Healthcare  Industry and Registered Nurse Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -8,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/registerednurse/registerednurse rights.mp3" frameborder="0" style="border:0" >}}
 Sure! Here is my opinion piece on fair work practices for registered nurses in the healthcare industry:
 
 As a registered nurse, it is crucial that you are treated fairly and with respect in the workplace. Unfortunately, recent trends and events in the healthcare industry have shown that this is not always the case.
@@ -23,6 +22,5 @@ To promote fair treatment and proper wages for nurses, it is important for both 
 
 In conclusion, fair work practices are essential for registered nurses in the healthcare industry. It is important that nurses receive fair wages and benefits, as well as being treated with respect and given opportunities for advancement. By advocating for change and speaking up for their rights, nurses can help to create a more fair and equitable workplace for themselves and their colleagues.
 
-<br>
+
 <a href="https://workdojos.com/registerednurse/branding">next: branding</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Lead Generator
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -22,7 +21,6 @@ And then there was Tom, a lead generator who was known for his exceptional custo
 
 As the day came to an end, Jack reflected on all the hard work he had put in. He was tired but satisfied, knowing that he had done his best to bring in new business for his company. And he knew that with a little bit of determination and hard work, he too could be one of the notable lead generators in history.
 
-<br>
+
 <a href="https://workdojos.com/leadgenerator/history">next: history</a>
-<br>
-</p>
+

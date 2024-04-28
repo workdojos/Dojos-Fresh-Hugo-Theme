@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Thespians
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/thespian/thespian learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum:
 
 Acting techniques (e.g. Stanislavski, Meisner, Grotowski)
@@ -47,6 +46,5 @@ Can you give an example of a time when you had to adapt to a change in direction
 How do you approach character development?
 How do you handle difficult scene partners or directors?
 
-<br>
+
 <a href="https://workdojos.com/thespian/rights">next: workers' rights</a>
-</p>

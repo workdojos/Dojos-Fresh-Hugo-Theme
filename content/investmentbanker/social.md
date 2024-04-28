@@ -1,5 +1,4 @@
 ---
-title: Investment Banker Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker social.mp3" frameborder="0" style="border:0" >}}
 Sure, I can definitely help with that! Here are some ideas for an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as a investment banker:
 
 Instagram: Create visually appealing posts showcasing your financial expertise and the services you offer. Share success stories of clients you have helped, and use relevant hashtags to increase visibility. Collaborate with other financial experts and use Instagram stories to give followers a behind-the-scenes look at your work.
@@ -20,6 +19,5 @@ Pinterest: Create boards featuring financial tips, resources, and inspiration. P
 
 Overall, the key to a successful social media campaign is to consistently share valuable and engaging content that speaks to your target audience. By offering helpful resources and interacting with followers, you can build a loyal following and increase brand awareness for your financial services business.
 
-<br>
+
 <a href="https://workdojos.com/investmentbanker/startup">next: startup ideas</a>
-</p>

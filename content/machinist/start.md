@@ -1,5 +1,4 @@
 ---
-title: Getting Started in the Machining  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist start.mp3" frameborder="0" style="border:0" >}}
 Great! It sounds like you have a clear goal in mind and are interested in learning more about the machining industry and the potential benefits of a career as a machinist. Here are some strategies that can help you achieve your goal:
 
 Research the machining industry: Start by doing some online research about the machining industry and the role of a machinist. Look for websites and resources that provide information about the industry, including its history, current trends, and future growth potential. This will give you a better understanding of the field and help you see the potential for a long-term career.
@@ -20,6 +19,5 @@ Use positive language and tone: As you research and learn more about the machini
 
 Find activities and resources that will help you achieve your goals: Finally, look for resources and activities that can help you learn more about the machining industry and develop the skills you need to succeed as a machinist. This might include joining a professional association, taking online courses or workshops, or attending trade shows or conferences. By actively seeking out opportunities to learn and grow, you'll be more likely to achieve your goals.
 
-<br>
+
 <a href="https://workdojos.com/machinist/learning">next: learning</a>
-</p>

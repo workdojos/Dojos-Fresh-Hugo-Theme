@@ -1,5 +1,4 @@
 ---
-title: Clerk Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -17,6 +16,5 @@ YouTube: Create a series of videos featuring interviews with small business owne
 
 Pinterest: Create boards featuring resources and tips for small business owners, as well as inspiration for clerks looking to grow their careers. Pin infographics and images showcasing your expertise as a clerk and share success stories from clients you've worked with. Engage with followers by commenting on their pins and repinning content related to small businesses.
 
-<br>
+
 <a href="https://workdojos.com/clerk/startup">next: startup ideas</a>
-</p>

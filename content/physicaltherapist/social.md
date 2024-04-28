@@ -1,5 +1,4 @@
 ---
-title: Physical Therapist Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/physicaltherapist/physicaltherapist social.mp3" frameborder="0" style="border:0" >}}
 As a social media influencer, I would suggest creating a cohesive campaign across all platforms to promote your new business as a physical therapist. Here are some ideas for each platform:
 
 Instagram:
@@ -34,6 +33,5 @@ Pin quotes and testimonials from satisfied clients.
 Use relevant hashtags to increase your reach and engage with other physical therapy professionals and users interested in physical therapy.
 Overall, the key to a successful campaign is to consistently share engaging and informative content that showcases your expertise and the value of your physical therapy services. Don't forget to respond to comments and direct messages to build a personal connection with your followers and show that you care about their needs.
 
-<br>
+
 <a href="https://workdojos.com/physicaltherapist/startup">next: startup ideas</a>
-</p>

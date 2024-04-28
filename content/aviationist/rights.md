@@ -1,5 +1,4 @@
 ---
-title: The Aviation  Industry and Aviationist Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ It is clear that fair work practices are essential for the well-being and succes
 
 In conclusion, as an aviationist working in the industry, I stand with my fellow workers in advocating for fair work practices. It is time for companies and governments to prioritize the needs and rights of aviation workers, and to ensure that they are treated with the respect and dignity they deserve.
 
-<br>
+
 <a href="https://workdojos.com/aviationist/branding">next: branding</a>
-</p>

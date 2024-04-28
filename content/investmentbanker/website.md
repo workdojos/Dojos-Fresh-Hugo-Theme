@@ -1,5 +1,4 @@
 ---
-title: Websites for Investment Bankers in the Financial Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,8 +6,8 @@ layout: single2
 
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/investmentbanker/investmentbanker website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I believe that open-source technology can be a great option for building your own website, especially if you are working in the financial services industry. Open-source technology allows you to have complete control over the design and functionality of your website, while also providing access to a wide range of tools and resources.
 
 One of the main benefits of using open-source technology is that it is generally more cost-effective than proprietary solutions. Many open-source web builders and static-site generators offer a range of features and functionality at little or no cost, which can help to reduce your overall budget for website development.
@@ -23,9 +22,9 @@ While there are many benefits to using open-source technology, it is important t
 
 Overall, I believe that open-source technology can be a great investment for businesses in the financial services industry, as it provides a range of features and functionality that can help to enhance user experience and meet your business goals. So, it is a good idea to consider using open-source technology to build your own website.
 
-<br>
+
 
 <a href="https://workdojos.com/investmentbanker/overview">next: overview</a>
-<br>
-<br>
-</p>
+
+
+

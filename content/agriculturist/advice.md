@@ -1,12 +1,11 @@
 ---
-title: Advice for Agriculturists
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist advice.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist advice.mp3" frameborder="0" style="border:0" >}}
 As a career counselor, I would recommend that you conduct some self-assessment to determine your skills, interests, and values. This will help you identify careers that align with your strengths and goals.
 
 To pursue a career as an agriculturist, it would be beneficial to have a strong background in agriculture and related fields, such as plant science, biology, or environmental studies. It would also be helpful to have experience working on a farm or in an agricultural setting.
@@ -19,6 +18,5 @@ As far as job market trends go, the agriculture industry is expected to grow in 
 
 Overall, pursuing a career as an agriculturist can be a rewarding and fulfilling choice for individuals with a strong interest in agriculture and a desire to contribute to the sustainability of the food system. With the right education and experience, you can position yourself as a valuable asset in this field.
 
-<br>
+
 <a href="https://workdojos.com/agriculturist/start">next: get started</a>
-</p>

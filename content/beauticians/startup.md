@@ -1,12 +1,11 @@
 ---
-title: Startup Ideas for Beauticians and Entrepreneurs in the Beauty, Health & Wellness  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/beauticians/beauticians startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: GlowUp
 
 Short One Liner: "Elevate your beauty routine with virtual consultations from experienced beauticians."
@@ -35,6 +34,5 @@ Estimated 1st Year Cost of Operation: $50,000 - $75,000
 
 Potential Business Challenges: Competition with other virtual beauty consultation platforms, difficulties in finding and retaining experienced beauticians, potential issues with product sourcing and fulfillment.
 
-<br>
+
 <a href="https://workdojos.com/beauticians/tech">next: open-source tech</a>
-</p>

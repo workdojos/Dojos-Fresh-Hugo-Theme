@@ -1,5 +1,4 @@
 ---
-title: Photo Journalist Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist social.mp3" frameborder="0" style="border:0" >}}
 Sure, I'd be happy to help you create an engaging campaign on Instagram, Twitter, Youtube, and Pinterest to promote your new business as a photo journalist in the journalism, news, and media industry. Here are a few ideas to get started:
 
 Share behind-the-scenes glimpses of your work: Use Instagram and Twitter to share behind-the-scenes photos and videos of you at work as a photo journalist. This could include setting up a shot, capturing an important moment, or editing a photo.
@@ -20,6 +19,5 @@ Engage with followers: Make sure to regularly engage with your followers on all 
 
 Overall, the key is to create engaging and informative content that showcases your skills and expertise as a photo journalist, and to be proactive about engaging with your followers on social media. With a little creativity and effort, I'm confident that you'll be able to effectively promote your new business and increase brand awareness.
 
-<br>
+
 <a href="https://workdojos.com/photojournalist/startup">next: startup ideas</a>
-</p>

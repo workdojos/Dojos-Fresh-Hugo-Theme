@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Novelists and Entrepreneurs in the Writing & Publishing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -36,6 +35,5 @@ Estimated 1st Year Cost of Operation: WriteIt estimates a first year cost of ope
 Potential Business Challenges to Look For: WriteIt will need to navigate the competitive self-publishing industry and differentiate itself from other platforms. WriteIt will also need to continuously update and improve its platform and features to meet the changing needs and expectations of its users.
 >
 SARTUP
-<br>
+
 <a href="https://workdojos.com/novelist/tech">next: open-source tech</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: The Sales Industry and Account Executive Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -18,6 +17,5 @@ In addition to these trends, there have been a number of high-profile events in 
 
 In conclusion, fair work practices are essential for the well-being and success of account executives and other sales professionals. Companies should recognize the value of their workers and take steps to promote worker’s rights, fair treatment, and proper wages. By doing so, they can create a positive work environment that benefits both the individual workers and the company as a whole.
 
-<br>
+
 <a href="https://workdojos.com/accountexecutive/branding">next: branding</a>
-</p>

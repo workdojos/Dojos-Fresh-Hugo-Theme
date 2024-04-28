@@ -1,5 +1,4 @@
 ---
-title: An Overview for Data Scientists and the Data Sciences  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 featured_image: https://workmates.live/wp-content/uploads/2022/12/nutritionist-5-scaled.jpg
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists overview.mp3" frameborder="0" style="border:0" >}}
 As a data scientist, it is essential to have a deep understanding of mathematics, statistics, and computer science. According to Forbes, the data science industry is projected to be worth $190 billion by 2020. It is a rapidly growing field that is in high demand, with job opportunities expected to increase by 16% between 2016 and 2026.
 
 To find opportunities to work in the data science industry, it is essential to network with professionals in the field. Attend industry events, join relevant LinkedIn groups, and connect with professionals on social media platforms such as Twitter and Reddit. Networking can help you learn about job openings, gain valuable insights into the industry, and make connections that could lead to future job opportunities.
@@ -18,6 +17,5 @@ To learn more about the data science industry, there are several useful websites
 
 When it comes to the best and worst jobs in the data science industry, it is essential to consider factors such as job satisfaction, salary, and work-life balance. According to a survey by Glassdoor, the top three best jobs in the industry are data engineer, data scientist, and machine learning engineer. On the other hand, the three worst jobs in the industry are data analyst, business intelligence developer, and data entry clerk. Ultimately, the best job for you will depend on your skills, interests, and career goals.
 
-<br>
+
 <a href="https://workdojos.com/datascientists/day-in-the-life">next: day in the life</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: The Data Science  Industry and Economist Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -19,6 +18,5 @@ In addition to these trends, there have been several high-profile events that hi
 
 In conclusion, fair work practices are crucial for the success and well-being of data science workers. Companies must ensure that they are treating their employees fairly, providing proper wages and benefits, and creating a diverse and inclusive workplace. By prioritizing these values, the data science industry can continue to thrive and make a positive impact on society.
 
-<br>
+
 <a href="https://workdojos.com/economists/branding">next: branding</a>
-</p>

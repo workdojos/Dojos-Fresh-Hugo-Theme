@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Clerks and Entrepreneurs in the Small Business and Retail  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -22,6 +21,5 @@ Idea Validation Steps: Conduct market research to gauge interest and demand for 
 Estimated 1st Year Cost of Operation: $100,000-$150,000 (including development, marketing, and operational expenses)
 Potential Business Challenges: Competition with other task management and organization tools, difficulty in acquiring and retaining customers, balancing the needs of different types of small business clerks.
 
-<br>
+
 <a href="https://workdojos.com/clerk/tech">next: open-source tech</a>
-</p>

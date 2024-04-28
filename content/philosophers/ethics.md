@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Philosophers Working in the Philosophy And Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -16,6 +15,5 @@ Another important aspect of developing an ethical framework in this context migh
 
 Finally, it is important to consider the potential impact of our work on society at large. This might involve thinking about the ways in which our research and teaching can contribute to social justice, or the ways in which our work can help to address pressing philosophical problems and challenges facing the world today. By considering these factors and incorporating them into our ethical framework, we can ensure that our work as philosophers aligns with our values and helps to make a positive impact on the world.
 
-<br>
+
 <a href="https://workdojos.com/philosophers/social">next: social media</a>
-</p>

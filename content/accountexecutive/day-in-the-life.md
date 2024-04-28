@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of an Account Executive
 description: Making open-source more accessible.
 include_footer: true
 type: page
@@ -21,7 +20,6 @@ Sarah knew that she had big shoes to fill, but she was determined to make a name
 
 So, dear listeners, remember that even a day in the life of an account executive can be filled with excitement, challenge, and success. Who knows what the future holds for Sarah and other notable figures in the sales industry? The possibilities are endless.
 
-<br>
+
 <a href="https://workdojos.com/accountexecutive/overview">next: overview</a>
-<br>
-</p>
+

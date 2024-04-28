@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Event Planners Working in the Special Events  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/eventplanners/eventplanners ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, I would recommend considering the ethical framework of deontology, which focuses on the inherent moral value of actions and duties. In the context of starting a career as an event planner in the special events industry, some key duties to consider within this framework may include:
 
 Fidelity: This involves being loyal and faithful to clients, ensuring that their needs and desires are met to the best of your ability.
@@ -22,6 +21,5 @@ Another ethical framework to consider may be consequentialism, which focuses on 
 
 Ultimately, it is important to carefully consider the ethical implications of your actions as an event planner and strive to act in a way that is both responsible and respectful of all involved.
 
-<br>
+
 <a href="https://workdojos.com/eventplanners/social">next: social media</a>
-</p>

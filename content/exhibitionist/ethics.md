@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Exhibitionists Working in the Art And Special Events  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, I would approach this question by first considering the concept of ethics and how it applies to the art and special events industry. Ethical principles are a set of values and guidelines that help individuals and organizations make decisions that are in line with moral standards. In the context of the art and special events industry, ethical considerations may include issues such as copyright and intellectual property rights, fair compensation for artists and performers, and the representation of diverse voices and perspectives.
 
 To develop an ethical framework for starting a career as an exhibitionist in this industry, I would recommend considering the following questions:
@@ -22,6 +21,5 @@ How will you handle conflicts of interest and potential ethical dilemmas that ma
 
 By answering these questions and incorporating the values and principles they represent into your work, you can build a strong foundation for ethical conduct as an exhibitionist in the art and special events industry.
 
-<br>
+
 <a href="https://workdojos.com/exhibitionist/social">next: social media</a>
-</p>

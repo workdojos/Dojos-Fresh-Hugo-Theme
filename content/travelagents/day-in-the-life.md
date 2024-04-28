@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Travel Agent
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, there was a young woman named Maria who lived in a small town in Spain. She had always dreamed of traveling the world and experiencing all the different cultures it had to offer. So, she decided to follow her dreams and became a travel agent.
 
 Every day, Maria woke up early in the morning and headed to her office at the local travel agency. She spent hours on the phone and on the computer, booking flights and hotels for her clients. She loved the excitement of planning a trip and helping people realize their own travel dreams.
@@ -20,7 +19,6 @@ Another notable travel agent was Bertha Palmer, who was known for her innovative
 
 As the years went by, the travel industry continued to grow and evolve. Today, there are so many different ways to travel, from luxury resorts to adventure tours to cultural exchanges. And travel agents like Maria are still helping people realize their travel dreams and discover new parts of the world.
 
-<br>
+
 <a href="https://workdojos.com/travelagents/history">next: history</a>
-<br>
-</p>
+

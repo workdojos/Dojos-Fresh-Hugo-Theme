@@ -1,5 +1,4 @@
 ---
-title: A Day in the Life of a Strategist
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists day.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists day.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in the world of business, there were strategists. These were the individuals who were tasked with the important job of helping companies and organizations make the right decisions and plan for the future.
 
 Every day, these strategists would rise bright and early, ready to tackle the challenges that lay ahead. They would spend hours pouring over data, analyzing market trends, and brainstorming new ideas.
@@ -22,7 +21,6 @@ So, as you can see, the life of a strategist is never dull. It requires constant
 
 The end.
 
-<br>
+
 <a href="https://workdojos.com/strategists/history">next: history</a>
-<br>
-</p>
+

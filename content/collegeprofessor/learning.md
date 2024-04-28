@@ -1,12 +1,11 @@
 ---
-title: Learning & Development for College Professors
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum:
 
 A Ph.D. in a relevant field (e.g. education, psychology, sociology, etc.)
@@ -39,6 +38,5 @@ How do you incorporate diversity and inclusivity into your teaching?
 How do you stay current in your field and incorporate new research into your teaching?
 How do you handle difficult or challenging students in the classroom?
 
-<br>
+
 <a href="https://workdojos.com/collegeprofessor/rights">next: workers' rights</a>
-</p>

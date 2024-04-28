@@ -1,12 +1,11 @@
 ---
-title: Getting Started in the Agriculture  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist start.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/agriculturist/agriculturist start.mp3" frameborder="0" style="border:0" >}}
 First of all, congratulations on your desire to create a startup in the agriculture industry! This is a rewarding and important field that plays a vital role in our society.
 
 To help you achieve your goal of creating a startup as a agriculturist, here are some strategies and resources that may be helpful:
@@ -21,6 +20,5 @@ Share your passion for agriculturism with others. One of the best ways to get ot
 
 Remember, starting a startup can be challenging, but with hard work, dedication, and the right resources, you can achieve your goals and make a positive impact in the agriculture industry. Keep pushing forward and believe in yourself!
 
-<br>
+
 <a href="https://workdojos.com/agriculturist/learning">next: learning</a>
-</p>

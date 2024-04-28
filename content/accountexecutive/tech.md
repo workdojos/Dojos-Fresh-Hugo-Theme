@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Account Executives and Others in the Sales Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -15,7 +14,6 @@ As an account executive, it is important to stay up-to-date with the latest tech
 
 However, it is important to note that open-source technology is not a one-size-fits-all solution. It is important for sales professionals to carefully consider their needs and choose the tools and resources that best fit their business model. By carefully evaluating the various options available and staying open to new ideas, sales professionals can position themselves for success in the digital age.
 
-<br>
+
 <a href="https://workdojos.com/accountexecutive/website">next: website</a>
-<br>
-</p>
+

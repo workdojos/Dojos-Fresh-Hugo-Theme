@@ -1,12 +1,11 @@
 ---
-title: Learning & Development for Doctors
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/clinician/clinician learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/clinician/clinician learning.mp3" frameborder="0" style="border:0" >}}
 Curriculum:
 
 Bachelor's degree in Nursing or other related healthcare field
@@ -42,6 +41,5 @@ How do you stay updated on current medical practices and developments in your sp
 How do you communicate with patients and families to ensure they understand their treatment plan?
 How do you work as part of a team with other healthcare professionals?
 
-<br>
+
 <a href="https://workdojos.com/clinician/rights">next: workers' rights</a>
-</p>

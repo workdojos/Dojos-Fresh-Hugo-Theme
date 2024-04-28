@@ -1,5 +1,4 @@
 ---
-title: Open-Source Tech for Aviationists and Others in the Aviation  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -17,7 +16,6 @@ In addition to benefiting individual aviationists, the adoption of open-source t
 
 Overall, the adoption of open-source technology in the aviation industry is crucial for addressing the challenges facing the industry and promoting a thriving economy. It allows for greater collaboration, innovation, and adaptability, and provides opportunities for aviationists and small businesses to thrive. As the aviation industry continues to evolve, the adoption of open-source technology will likely become even more important in the future.
 
-<br>
+
 <a href="https://workdojos.com/aviationist/website">next: website</a>
-<br>
-</p>
+

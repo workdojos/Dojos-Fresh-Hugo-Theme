@@ -1,5 +1,4 @@
 ---
-title: Websites for Growers in the Cannabis  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,8 +6,8 @@ layout: single2
 
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I would recommend using open-source technology to build your website for several reasons. Firstly, open-source technology allows for greater flexibility and customization in the design and development process. This means that you can tailor the website to fit your specific needs and preferences, rather than being limited to pre-designed templates or features.
 
 In addition, open-source technology is generally more affordable than proprietary software, as it does not require any licensing fees. This can be especially beneficial for small businesses or startups, such as yours in the cannabis industry, that may be operating on a tight budget.
@@ -19,8 +18,8 @@ While there are many benefits to using open-source technology, it is important t
 
 Overall, I believe that using open-source technology to build your website can provide a great user experience and meet your business goals, while also offering cost-effective and customizable solutions. It is important to weigh the pros and cons and consider your specific needs and resources before making a decision.2
 
-<br>
+
 
 <a href="https://workdojos.com/growers/overview">next: overview</a>
-<br>
-</p>
+
+

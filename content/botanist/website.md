@@ -1,13 +1,12 @@
 ---
-title: Websites for Botanists in the Botany  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/botanist/botanist website.mp3" frameborder="0" style="border:0" >}}
 There are several benefits to using open-source technology to build your own website, especially in the botany industry. One of the main benefits is cost savings. Open-source technology is free to use, which means that you won't have to pay for expensive proprietary software or licenses. This can be especially beneficial for small businesses or startups that are working with a limited budget.
 
 Another benefit of open-source technology is the ability to customize and tailor the website to your specific needs and business goals. With proprietary software, you may be limited in terms of customization options, but with open-source technology, you have the freedom to make changes and modifications as needed. This can be especially useful if you are working in a niche industry like botany, where you may have specific needs that are not addressed by off-the-shelf solutions.
@@ -18,8 +17,8 @@ One potential downside to using open-source technology is the potential for secu
 
 Overall, the benefits of using open-source technology to build your own website far outweigh the potential downsides. It offers cost savings, flexibility, and customization options, making it a great choice for businesses in the botany industry.
 
-<br>
+
 
 <a href="https://workdojos.com/botanist/overview">next: overview</a>
-<br>
-</p>
+
+

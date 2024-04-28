@@ -1,5 +1,4 @@
 ---
-title: Machinist Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist social.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist social.mp3" frameborder="0" style="border:0" >}}
 Sure, I'd be happy to help you create an engaging campaign to promote your new business as a machinist! Here are some ideas for content that you could create for Instagram, Twitter, YouTube, and Pinterest:
 
 Instagram:
@@ -40,6 +39,5 @@ Engage with other machinists and industry professionals on Pinterest, building a
 
 I hope these ideas help you create an engaging campaign to promote your new business as a machinist on Instagram, Twitter, YouTube, and Pinterest! Let me know if you have any other questions or need further assistance.
 
-<br>
+
 <a href="https://workdojos.com/machinist/startup">next: startup ideas</a>
-</p>

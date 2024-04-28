@@ -1,5 +1,4 @@
 ---
-title: Advice for Economists
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -16,6 +15,5 @@ In terms of qualifications, it would be beneficial for the individual to have a 
 
 Overall, pursuing a career as an economist working in the data science industry can be a rewarding and lucrative option for individuals with strong analytical skills, an interest in economics, and experience working with data. It is important for the individual to continue learning and staying up-to-date on the latest trends and technologies in the field in order to succeed in this rapidly-evolving industry.
 
-<br>
+
 <a href="https://workdojos.com/economists/start">next: get started</a>
-</p>

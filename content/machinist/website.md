@@ -1,5 +1,4 @@
 ---
-title: Websites for Machinists in the Machining  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,8 +6,8 @@ layout: single2
 
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/machinist/machinist website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I would recommend using open-source technology to build your website for a number of reasons.
 
 First and foremost, open-source technology is often more cost-effective than proprietary options. This is because you don't have to pay for licenses or subscriptions to use the software, and you can often access a wide range of free resources and support from the open-source community.
@@ -21,8 +20,8 @@ There are also a number of other open-source apps that you could consider using 
 
 Overall, the benefits of using open-source technology to build your website far outweigh the potential drawbacks. It is generally more cost-effective, flexible, and customizable than proprietary options, and can help you to build a website that meets the needs of your business and your customers.
 
-<br>
+
 
 <a href="https://workdojos.com/machinist/overview">next: overview</a>
-<br>
-</p>
+
+

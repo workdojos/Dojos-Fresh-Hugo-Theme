@@ -1,12 +1,11 @@
 ---
-title: Startup Ideas for Animators and Entrepreneurs in the Animation Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/animators/animators startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: AnimateMe
 One Liner: A platform for animators to showcase their work, connect with clients, and find new opportunities in the animation industry.
 Target User Persona: Animators and animation enthusiasts looking to break into the industry or grow their career.
@@ -22,6 +21,5 @@ Idea Validation Steps: Conduct market research to gauge interest and demand for 
 Estimated 1st Year Cost of Operation: $50,000-$100,000 depending on team size and marketing expenses.
 Potential Business Challenges: Competition from similar platforms, difficulty in attracting and retaining users, the constantly evolving nature of the animation industry.
 
-<br>
+
 <a href="https://workdojos.com/animators/tech">next: open-source tech</a>
-</p>

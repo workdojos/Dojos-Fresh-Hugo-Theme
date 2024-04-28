@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Life Coaches
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches learning.mp3" frameborder="0" style="border:0" >}}
 As a talent coach for interviews for a life coach position, here are some suggestions for what should appear in a curriculum:
 
 A bachelor's degree in psychology, counseling, or a related field.
@@ -37,6 +36,5 @@ Can you give an example of a successful coaching session you have had in the pas
 How do you help clients set and achieve their goals?
 How do you handle difficult or resistant clients?
 
-<br>
+
 <a href="https://workdojos.com/lifecoaches/rights">next: workers' rights</a>
-</p>

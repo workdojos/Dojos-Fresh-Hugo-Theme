@@ -1,5 +1,4 @@
 ---
-title: An Overview for Mortgage Brokers and the Real-Estate  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -20,6 +19,5 @@ To learn more about the real estate industry, there are a number of websites and
 
 Overall, the real estate industry is a dynamic and exciting field that offers a wide range of career opportunities. Whether you are looking to become a real estate agent, broker, or property manager, there are many ways to get involved in the industry and make a positive impact. By networking with professionals in the field, staying up to date on industry trends, and learning from the best in the business, you can find success and fulfillment in the real estate industry.
 
-<br>
+
 <a href="https://workdojos.com/mortgagebrokers/day-in-the-life">next: day in the life</a>
-</p>

@@ -1,5 +1,4 @@
 ---
-title: An Overview for Financiers and the Startup Financing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/financier/financier overview.mp3" frameborder="0" style="border:0" >}}
 Startup financing is a rapidly growing industry that offers a variety of opportunities for those seeking to work in the field. According to data from the National Venture Capital Association, venture capital investment in startups reached a record high of $131.9 billion in 2018, with the number of deals totaling 9,527. This trend has continued in recent years, with 2019 seeing a total of $142.5 billion invested in startups.
 
 One way to find opportunities in the startup financing industry is to network with those already working in the field. This can be done through attending industry events, joining professional associations, and reaching out to individuals in the industry for informational interviews. LinkedIn is a great resource for finding and connecting with professionals in the startup financing industry.
@@ -20,6 +19,5 @@ When it comes to the best jobs to have in the startup financing industry, roles 
 
 Overall, the startup financing industry is a dynamic and exciting field that offers a range of opportunities for those looking to work in the industry. By networking, staying up-to-date on industry news and trends, and taking advantage of resources and educational materials, individuals can position themselves for success in this rapidly growing field.
 
-<br>
+
 <a href="https://workdojos.com/financier/day-in-the-life">next: day in the life</a>
-</p>

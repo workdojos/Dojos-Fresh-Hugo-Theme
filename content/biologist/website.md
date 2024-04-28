@@ -1,13 +1,12 @@
 ---
-title: Websites for Biologists in the Biosciences  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
 layout: single2
 ---
 
-<br>
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist website.mp3" frameborder="0" style="border:0" >}}<br>
+
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/biologist/biologist website.mp3" frameborder="0" style="border:0" >}}
 As a web design consultant, I would recommend using open-source technology to build your website for a number of reasons.
 
 Firstly, open-source technology is typically free to use and allows for greater flexibility and customization of your website. This means that you can build a website that is tailored to your specific business needs and goals without incurring any additional costs.
@@ -18,8 +17,8 @@ In terms of specific open-source web builders and static-site generators, there 
 
 Overall, the main benefits of using open-source technology to build your website are the cost savings and flexibility it offers, as well as the constantly evolving feature set provided by the community of developers working on the technology. However, it is important to consider the time and resources required to build and maintain a website using open-source technology, as well as the potential risks associated with relying on a third-party platform. Overall, the pros and cons of using open-source technology will depend on your specific business needs and goals.
 
-<br>
+
 
 <a href="https://workdojos.com/biologist/overview">next: overview</a>
-<br>
-</p>
+
+

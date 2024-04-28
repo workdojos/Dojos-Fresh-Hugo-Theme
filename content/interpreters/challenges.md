@@ -1,5 +1,4 @@
 ---
-title: Translation & Interpretation  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters challenges.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters challenges.mp3" frameborder="0" style="border:0" >}}
 Introduction:
 
 Translation and interpretation are crucial industries that facilitate communication and understanding between individuals and groups who do not speak the same language. However, these industries have faced numerous controversies and challenges, including issues related to the low pay and lack of job opportunities for interpreters. In this essay, I will argue that we need to make it easier for interpreterto find work, pay them more, and work towards improving the translation and interpretation industry as a whole.
@@ -32,6 +31,5 @@ Conclusion:
 
 Translation and interpretation are essential industries that facilitate communication and understanding between individuals and groups who do not speak the same language. However, these industries have faced numerous controversies and challenges, including low pay and lack of job opportunities for interpreters. We must work towards improving the translation and interpretation industry by increasing job opportunities and fair pay for interpreters, and addressing other controversies facing the industry. By doing so, we can help to create a stronger and more vibrant industry that benefits everyone involved.
 
-<br>
+
 <a href="https://workdojos.com/interpreters/history">next: history</a>
-</p>

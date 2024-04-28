@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Travel Agents Working in the Travel & Tours  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/travelagents/travelagents ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, one way to approach this question would be to consider different ethical theories and how they might apply to the situation of starting a career as a travel agent.
 
 One ethical theory that could be relevant is deontology, which holds that actions should be guided by moral duties or rules. In the context of starting a career as a travel agent, this might mean considering one's duty to act with honesty and integrity, to provide accurate and reliable information to clients, and to prioritize the safety and well-being of travelers.
@@ -18,6 +17,5 @@ A third ethical theory to consider is virtue ethics, which holds that actions sh
 
 Ultimately, developing an ethical framework for starting a career as a travel agent will likely involve a combination of these different approaches and a careful consideration of one's own values and goals. It may also involve seeking guidance from industry professionals and codes of ethics, as well as seeking to stay informed about relevant legal and regulatory considerations.
 
-<br>
+
 <a href="https://workdojos.com/travelagents/social">next: social media</a>
-</p>

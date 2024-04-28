@@ -1,5 +1,4 @@
 ---
-title: Advice for Life Coaches
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches advice.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lifecoaches/lifecoaches advice.mp3" frameborder="0" style="border:0" >}}
 Thank you for reaching out to me for career counseling. Pursuing a career as a life coach can be a rewarding and fulfilling experience, as you have the opportunity to help individuals achieve their goals and improve their overall well-being.
 
 First, let's discuss your skills, interests and experience. It is important for a life coach to have strong communication and interpersonal skills, as well as the ability to listen actively and provide support and encouragement to clients. Do you feel that you possess these skills? Additionally, a passion for helping others and an interest in personal development and self-improvement is important for success in this field. Do you have experience in these areas?
@@ -18,6 +17,5 @@ There are a few different options for obtaining qualifications as a life coach. 
 
 Overall, a career as a life coach can be a fulfilling and rewarding experience, and there are many opportunities for growth and advancement in this field. If you possess strong communication and interpersonal skills, have a passion for helping others and an interest in personal development, and are willing to invest in proper training and qualifications, then a career as a life coach may be a great fit for you.
 
-<br>
+
 <a href="https://workdojos.com/lifecoaches/start">next: get started</a>
-</p>

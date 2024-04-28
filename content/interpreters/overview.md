@@ -1,5 +1,4 @@
 ---
-title: An Overview for Interpreters and the Translation & Interpretation  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters overview.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/interpreters/interpreters overview.mp3" frameborder="0" style="border:0" >}}
 The translation and interpretation industry is a rapidly growing field that is in high demand due to the increasing globalization of the world economy. According to a report from the US Bureau of Labor Statistics, employment in the field is expected to grow by 20% between 2018 and 2028, faster than the average for all occupations.
 
 One of the most exciting things about working in the translation and interpretation industry is the opportunity to work with a diverse range of clients and industries. From government agencies to multinational corporations, translation and interpretation professionals have the chance to work with a variety of clients, each with their own unique challenges and requirements.
@@ -20,6 +19,5 @@ In terms of the best and worst jobs in the industry, it is important to consider
 
 Overall, the translation and interpretation industry is a dynamic and rewarding field with many exciting opportunities for professionals. Whether you are looking to work as a freelance translator or interpreter, or to join a large translation or interpretation company, there are a number of ways to find opportunities and succeed in this growing industry.
 
-<br>
+
 <a href="https://workdojos.com/interpreters/day-in-the-life">next: day in the life</a>
-</p>

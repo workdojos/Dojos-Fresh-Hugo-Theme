@@ -1,5 +1,4 @@
 ---
-title: Ethical Framework for Police Officers Working in the Protective Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement ethics.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/lawenforcement/lawenforcement ethics.mp3" frameborder="0" style="border:0" >}}
 As a philosopher, I would first consider the foundations of ethical thought and how they relate to the role of a police officer. This could involve looking at ethical theories such as deontology, which emphasizes a moral duty to follow rules and principles, or consequentialism, which focuses on the outcomes of actions.
 
 I would also examine the role of a police officer in the protective services industry and the ethical responsibilities that come with it. This could include considerations of justice, fairness, and the rights and well-being of individuals and communities.
@@ -18,6 +17,5 @@ Another important aspect of developing an ethical framework for this career coul
 
 Ultimately, the ethical framework for starting a career as a police officer should be centered on upholding the values and responsibilities of the protective services industry, while also considering the rights and well-being of individuals and communities.
 
-<br>
+
 <a href="https://workdojos.com/lawenforcement/social">next: social media</a>
-</p>

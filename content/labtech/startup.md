@@ -1,5 +1,4 @@
 ---
-title: Startup Ideas for Lab Techs and Entrepreneurs in the Laboratory Testing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech startup.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/labtech/labtech startup.mp3" frameborder="0" style="border:0" >}}
 Idea Name: LabTechX
 One liner: A digital platform connecting laboratory technicians with testing facilities in need of their services.
 Target user persona: Laboratory technicians with at least 2 years of experience in the industry looking for flexible and reliable work opportunities.
@@ -23,6 +22,5 @@ Idea validation steps: Conduct market research to assess demand for the service,
 Estimated 1st year cost of operation: $50,000 (includes development costs, employee salaries, marketing expenses).
 Potential business challenges: Competition from other job placement platforms, difficulty in convincing testing facilities to use the service.
 
-<br>
+
 <a href="https://workdojos.com/labtech/tech">next: open-source tech</a>
-</p>

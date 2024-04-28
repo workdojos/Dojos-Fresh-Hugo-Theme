@@ -1,5 +1,4 @@
 ---
-title: Learning & Development for Exhibitionists
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -7,7 +6,7 @@ layout: single2
 
 ---
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist learning.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist learning.mp3" frameborder="0" style="border:0" >}}
 As an exhibitionist, it is important to have a strong background in marketing and event planning. Some key skills to include in your curriculum might be:
 
 Experience organizing and managing events or exhibitions
@@ -38,6 +37,5 @@ How do you use design software to create marketing materials or event layouts?
 How do you handle unexpected challenges during the planning process?
 How do you measure the success of an event or exhibition? What metrics do you use?
 
-<br>
+
 <a href="https://workdojos.com/exhibitionist/rights">next: workers' rights</a>
-</p>

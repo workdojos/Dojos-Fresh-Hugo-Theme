@@ -1,5 +1,4 @@
 ---
-title: The Journalism, News, And Media  Industry and Photo Journalist Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
@@ -8,7 +7,7 @@ layout: single2
 ---
 
 
-{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist rights.mp3" frameborder="0" style="border:0" >}}<br>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/photojournalist/photojournalist rights.mp3" frameborder="0" style="border:0" >}}
 Once upon a time, in a bustling city called New York, there lived a young photojournalist named Sarah. Sarah was always on the lookout for the next big story. She spent her days roaming the streets, camera in hand, searching for the perfect shot.
 
 One day, Sarah received a call from her editor at the local newspaper. A major news event had just taken place and they needed her to cover it. Sarah grabbed her camera and headed to the scene.
@@ -23,6 +22,5 @@ Throughout history, there have been many notable photojournalists who have captu
 
 Sarah knew that she wanted to be remembered in the same way. She dedicated her life to capturing the truth and telling the stories that needed to be told. And as she looked through the viewfinder of her camera, she knew that she was making a difference, one photograph at a time.
 
-<br>
+
 <a href="https://workdojos.com/photojournalist/branding">next: branding</a>
-</p>
