@@ -25,13 +25,14 @@
     {{ partial "sectionZb.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.section1Z }}
+    {{ partial "section1Z.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.sectionZd }}
     {{ partial "sectionZd.html" . }}
     {{ end }}
 
-    {{ if .Site.Params.section1Z }}
-    {{ partial "section1Z.html" . }}
-    {{ end }}
 
     {{ if .Site.Params.section3a }}
     {{ partial "section3a.html" . }}

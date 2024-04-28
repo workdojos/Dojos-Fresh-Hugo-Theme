@@ -99,20 +99,20 @@ params:
     button: true
 
   sectionpoop:
-    title: Explore some of the coolest free and open-source apps.
-    subtitle: Get these and more pre-built in every Dojo.  
+    title: Tap into everything open-source.
+    subtitle: Become the almighty Admin!  
 
   section1:
     title: Free dashboards.
     subtitle: An uncluttered ad-free space for anything you want.
 
-  section1Z:
-    title: Free educational tools.
-    subtitle: Parents and teachers can spin up amazing learning management systems for free!
-
   sectionZb:
     title: Free chat apps.
-    subtitle: Sign up to learn how to create a private chat server or join ours.
+    subtitle: Sign up to learn how to create your own chat server.
+
+  section1Z:
+    title: Free educational tools.
+    subtitle: Parents and teachers, spin up learning management systems on-the-fly!
 
 #  sectionZc:
    # title: Free templates.
@@ -120,7 +120,7 @@ params:
 
   sectionZd:
     title: Free landing pages.
-    subtitle: Sign up to spin up a free landing page built in React for free.
+    subtitle: Sign up to get a free landing page built in React.
 
   sectionZe:
     title: Pick a path.
@@ -136,7 +136,7 @@ params:
 
   section3a:
     title: Free and Open-Source AI.
-    subtitle: Check out our Youtube channel featuring a cast of 16 AI avatars made exclusively with open-souce technology.
+    subtitle: Featuring a cast of 16 AI avatars made exclusively with open-souce technology.
     image: logos/multisad bigger.gif
     buttonText: Go to Youtube
     buttonLink: "https://youtube.com/@dojofans"
