@@ -127,12 +127,12 @@ params:
     subtitle: Choose from below or blaze your own trail!
     image: logos/workmates.png
 
-  section3:
-    title: Pick a path.  Become a pro.
-    subtitle: Choose from over 100 pre-built dojos or blaze your own trail.
-    image: logos/workmates.png
-    buttonText: Browse all
-    buttonLink: "https://workmates.live/marketplace"
+#  section3:
+#    title: Pick a path.
+#    subtitle: Choose from over 100 pre-built dojos or blaze your own trail.
+#    image: logos/workmates.png
+#    buttonText: Browse all
+#    buttonLink: "https://workmates.live/marketplace"
 
   section3a:
     title: Free and Open-Source AI.

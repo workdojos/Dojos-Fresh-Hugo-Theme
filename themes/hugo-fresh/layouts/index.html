@@ -11,6 +11,12 @@
     {{ partial "section2.html" . }}
     {{ end }}
 
+
+    {{ if .Site.Params.sectionpoop }}
+    {{ partial "sectionpoop.html" . }}
+    {{ end }}
+
+
     {{ if .Site.Params.section1 }}
     {{ partial "section1.html" . }}
     {{ end }}
