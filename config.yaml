@@ -124,7 +124,7 @@ params:
 
   sectionZe:
     title: Pick a path.
-    subtitle: Choose from below or blaze your own trail!
+    subtitle: Choose from below or blaze your own trail.
     image: logos/workmates.png
 
 #  section3:
