@@ -98,9 +98,6 @@ params:
     url: https://blog.workdojos.com/#/portal/signup
     button: true
 
-  sectionpoop:
-    title: Let's get you to the right place.
-    subtitle: Or scroll down to tour some of the best open-source apps.
 
   section1:
     title: Free dashboards.
