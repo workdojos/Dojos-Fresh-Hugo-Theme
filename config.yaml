@@ -99,27 +99,27 @@ params:
     button: true
 
   sectionpoop:
-    title: Unlock everything open-source.
-    subtitle: Become the almighty Admin!  
+    title: Unlock Open-Source.
+    subtitle: Hey Admin!  
 
   section1:
-    title: Free dashboards.
+    title: Free Dashboards.
     subtitle: An uncluttered ad-free space for anything you want.
 
   sectionZb:
-    title: Free chat apps.
+    title: Free Chat Apps.
     subtitle: Sign up to learn how to create your own chat server.
 
   section1Z:
-    title: Free educational tools.
-    subtitle: Parents and teachers, spin up learning management systems on-the-fly!
+    title: Educational Tools.
+    subtitle: Parents and teachers, spin up learning management systems for free!
 
 #  sectionZc:
    # title: Free templates.
    # subtitle: Sign up to get a free guide to self-hosting.
 
   sectionZd:
-    title: Free landing pages.
+    title: Free Websites.
     subtitle: Sign up to get a free landing page built in React.
 
   sectionZe:
