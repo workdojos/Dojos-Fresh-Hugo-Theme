@@ -1,4 +1,5 @@
 ---
+title: An Overview for Animators and the Animation Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

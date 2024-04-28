@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Data Scientists Working in the Data Sciences  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

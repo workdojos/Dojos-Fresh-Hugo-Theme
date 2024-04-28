@@ -1,4 +1,5 @@
 ---
+title: Getting Started in the Data Sciences  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

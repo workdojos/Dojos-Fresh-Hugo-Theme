@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Musical Artists and Entrepreneurs in the Music  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

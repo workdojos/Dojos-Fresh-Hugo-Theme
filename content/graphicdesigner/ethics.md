@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Graphic Designers Working in the Graphic Design And Graphic Arts  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

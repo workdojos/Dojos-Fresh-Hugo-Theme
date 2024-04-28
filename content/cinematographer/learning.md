@@ -1,4 +1,5 @@
 ---
+title: Learning & Development for Cinematographers
 description: Making open-source more accessible.
 include_footer: false
 type: page

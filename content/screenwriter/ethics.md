@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Screenwriters Working in the Film  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

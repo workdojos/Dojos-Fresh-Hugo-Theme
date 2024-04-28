@@ -1,4 +1,5 @@
 ---
+title: Learning & Development for Jewelers
 description: Making open-source more accessible.
 include_footer: false
 type: page

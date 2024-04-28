@@ -1,4 +1,5 @@
 ---
+title: An Overview for Lawyers and the Y Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

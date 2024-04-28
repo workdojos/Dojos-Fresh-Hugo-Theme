@@ -1,4 +1,5 @@
 ---
+title: A Day in the Life of an Agriculturist
 description: Making open-source more accessible.
 include_footer: false
 type: page

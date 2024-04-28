@@ -1,4 +1,5 @@
 ---
+title: Websites for System Administrators
 description: Making open-source more accessible.
 include_footer: false
 type: page

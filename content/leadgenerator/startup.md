@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Lead Generators and Entrepreneurs in the Marketing Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Park Rangers Working in the Conservation And Park Management  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

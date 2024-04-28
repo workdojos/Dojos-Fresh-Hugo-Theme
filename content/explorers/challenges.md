@@ -1,4 +1,5 @@
 ---
+title: Outdoor  Industry Controversies and Challenges
 description: Making open-source more accessible.
 include_footer: false
 type: page

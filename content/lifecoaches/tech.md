@@ -1,4 +1,5 @@
 ---
+title: Open-Source Tech for Life Coaches and Others in the Life Coaching  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

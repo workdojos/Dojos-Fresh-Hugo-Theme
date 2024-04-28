@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Interpreters Working in the Translation & Interpretation  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

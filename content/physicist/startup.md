@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Physicists and Entrepreneurs in the Physics And Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

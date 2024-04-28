@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Police Officers Working in the Protective Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

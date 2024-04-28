@@ -1,4 +1,5 @@
 ---
+title: Open-Source Tech for Data Scientists and Others in the Data Sciences  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

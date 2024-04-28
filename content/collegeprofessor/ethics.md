@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for College Professors Working in the Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

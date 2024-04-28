@@ -1,4 +1,5 @@
 ---
+title: The Protective Services  Industry and Police Officer  Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page

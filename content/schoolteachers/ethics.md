@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for School Teachers Working in the Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

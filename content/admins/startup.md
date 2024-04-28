@@ -1,4 +1,5 @@
 ---
+title: System Administrator Startup Ideas
 description: Making open-source more accessible.
 include_footer: false
 type: page

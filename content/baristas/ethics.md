@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Baristas Working in the Coffee And Hospitality  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

@@ -1,4 +1,5 @@
 ---
+title:  History and Etymology of Project Managers and the Broader Business  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

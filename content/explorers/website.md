@@ -1,4 +1,5 @@
 ---
+title: Websites for Explorers in the Outdoor  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

@@ -1,4 +1,5 @@
 ---
+title: A Day in the Life of a Machinist
 description: Making open-source more accessible.
 include_footer: false
 type: page

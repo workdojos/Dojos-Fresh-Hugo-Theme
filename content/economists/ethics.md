@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Economists Working in the Data Science  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

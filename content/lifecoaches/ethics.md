@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Life Coaches Working in the Life Coaching  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

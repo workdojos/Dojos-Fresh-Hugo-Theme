@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Travel Agents and Entrepreneurs in the Travel & Tours  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

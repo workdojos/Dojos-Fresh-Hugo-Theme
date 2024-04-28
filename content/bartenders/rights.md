@@ -1,4 +1,5 @@
 ---
+title: The Bartending And Hospitality  Industry and Bartender Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page

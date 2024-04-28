@@ -1,4 +1,5 @@
 ---
+title: An Overview for Musical Artists and the Music  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

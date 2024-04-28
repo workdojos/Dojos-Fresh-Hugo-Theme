@@ -1,4 +1,5 @@
 ---
+title:  History and Etymology of Exhibitionists and the Art And Special Events  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

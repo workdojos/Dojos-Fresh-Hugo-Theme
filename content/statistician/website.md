@@ -1,4 +1,5 @@
 ---
+title: Websites for Statisticians in the Statistical Research & Development  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

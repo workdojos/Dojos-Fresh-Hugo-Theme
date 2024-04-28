@@ -1,4 +1,5 @@
 ---
+title: Open-Source Tech for Theologians and Others in the Religious Organizations  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

@@ -1,4 +1,5 @@
 ---
+title: Advice for Lab Techs
 description: Making open-source more accessible.
 include_footer: false
 type: page

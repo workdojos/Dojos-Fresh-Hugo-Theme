@@ -1,4 +1,5 @@
 ---
+title: The Graphic Design And Graphic Arts  Industry and Graphic Designer Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page

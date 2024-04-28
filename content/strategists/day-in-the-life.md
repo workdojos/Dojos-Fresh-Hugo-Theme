@@ -1,4 +1,5 @@
 ---
+title: A Day in the Life of a Strategist
 description: Making open-source more accessible.
 include_footer: false
 type: page

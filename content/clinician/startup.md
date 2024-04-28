@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Doctors and Entrepreneurs in the Medical Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

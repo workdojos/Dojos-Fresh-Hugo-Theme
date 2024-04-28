@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Event Planners Working in the Special Events  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

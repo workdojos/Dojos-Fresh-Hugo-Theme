@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Agriculturists and Entrepreneurs in the Agriculture  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

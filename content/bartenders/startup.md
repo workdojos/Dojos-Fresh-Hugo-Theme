@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Bartenders and Entrepreneurs in the Bartending And Hospitality  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

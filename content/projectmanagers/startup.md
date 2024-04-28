@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Project Managers and Entrepreneurs in the Broader Business  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

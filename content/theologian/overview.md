@@ -1,4 +1,5 @@
 ---
+title: An Overview for Theologians and the Religious Organizations  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

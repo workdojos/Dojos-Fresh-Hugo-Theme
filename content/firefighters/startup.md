@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Firefighters and Entrepreneurs in the Public Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

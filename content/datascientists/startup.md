@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Data Scientists and Entrepreneurs in the Data Sciences  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

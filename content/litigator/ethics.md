@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Lawyers Working in the Y Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

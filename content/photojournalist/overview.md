@@ -1,4 +1,5 @@
 ---
+title: An Overview for Photo Journalists and the Journalism, News, And Media  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

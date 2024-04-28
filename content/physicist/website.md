@@ -1,4 +1,5 @@
 ---
+title: Websites for Physicists in the Physics And Higher Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

@@ -1,4 +1,5 @@
 ---
+title:  History and Etymology of Thespians and the Perfoming Arts  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

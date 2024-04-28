@@ -1,4 +1,5 @@
 ---
+title:  History and Etymology of School Teachers and the Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Jewelers and Entrepreneurs in the Luxury Goods  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

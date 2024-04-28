@@ -1,4 +1,5 @@
 ---
+title: Open-Source Tech for School Teachers and Others in the Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

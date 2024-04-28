@@ -1,4 +1,5 @@
 ---
+title: Open-Source Tech for Registered Nurses and Others in the Healthcare  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

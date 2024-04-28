@@ -1,4 +1,5 @@
 ---
+title: An Overview for Event Planners and the Special Events  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

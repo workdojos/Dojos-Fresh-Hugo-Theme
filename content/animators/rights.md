@@ -1,4 +1,5 @@
 ---
+title: The Animation Industry and Animator Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page

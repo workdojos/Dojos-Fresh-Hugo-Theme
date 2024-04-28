@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Screenwriters and Entrepreneurs in the Film  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

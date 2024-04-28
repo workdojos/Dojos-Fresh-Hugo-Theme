@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Social Workers and Entrepreneurs in the Behavioral Health  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

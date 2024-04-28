@@ -1,4 +1,5 @@
 ---
+title: The Data Science  Industry and Economist Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page

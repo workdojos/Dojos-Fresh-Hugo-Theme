@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Biologists and Entrepreneurs in the Biosciences  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

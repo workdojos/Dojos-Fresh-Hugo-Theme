@@ -1,4 +1,5 @@
 ---
+title: Advice for Life Coaches
 description: Making open-source more accessible.
 include_footer: false
 type: page

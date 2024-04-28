@@ -1,4 +1,5 @@
 ---
+title: The Startup Financing  Industry and Financier Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page

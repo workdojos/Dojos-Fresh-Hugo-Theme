@@ -1,4 +1,5 @@
 ---
+title:  History and Etymology of Graphic Designers and the Graphic Design And Graphic Arts  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

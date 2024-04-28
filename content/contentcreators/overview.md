@@ -1,4 +1,5 @@
 ---
+title: An Overview for Content Creators and the Influencer  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

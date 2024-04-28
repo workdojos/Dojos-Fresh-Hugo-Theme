@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Beauticians Working in the Beauty, Health & Wellness  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

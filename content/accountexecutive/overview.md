@@ -1,4 +1,5 @@
 ---
+title: An Overview for Account Executives and the Sales Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

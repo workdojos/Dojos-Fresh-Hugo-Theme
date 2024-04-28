@@ -1,4 +1,5 @@
 ---
+title: An Overview for Financiers and the Startup Financing  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

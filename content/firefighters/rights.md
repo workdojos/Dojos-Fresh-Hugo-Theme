@@ -1,4 +1,5 @@
 ---
+title: The Public Services  Industry and Firefighter Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page

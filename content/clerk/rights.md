@@ -1,4 +1,5 @@
 ---
+title: The Small Business and Retail  Industry and Clerk Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page

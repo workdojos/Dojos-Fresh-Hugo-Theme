@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Growers Working in the Cannabis  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

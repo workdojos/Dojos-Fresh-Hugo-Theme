@@ -1,4 +1,5 @@
 ---
+title: Ethical Framework for Content Creators Working in the Influencer  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

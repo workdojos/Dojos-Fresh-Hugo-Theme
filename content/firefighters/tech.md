@@ -1,4 +1,5 @@
 ---
+title: Open-Source Tech for Firefighters and Others in the Public Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

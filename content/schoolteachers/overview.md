@@ -1,4 +1,5 @@
 ---
+title: An Overview for School Teachers and the Education  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

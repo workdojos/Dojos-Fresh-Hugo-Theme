@@ -1,4 +1,5 @@
 ---
+title: Open-Source Tech for Thespians and Others in the Perfoming Arts  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

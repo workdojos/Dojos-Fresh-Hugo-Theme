@@ -1,4 +1,5 @@
 ---
+title: Data Scientist Social Media Strategy
 description: Making open-source more accessible.
 include_footer: false
 type: page

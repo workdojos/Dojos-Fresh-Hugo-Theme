@@ -1,4 +1,5 @@
 ---
+title: Open-Source Tech for Lyricists and Others in the Music  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

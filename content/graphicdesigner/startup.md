@@ -1,4 +1,5 @@
 ---
+title: Startup Ideas for Graphic Designers and Entrepreneurs in the Graphic Design And Graphic Arts  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

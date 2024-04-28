@@ -1,4 +1,5 @@
 ---
+title:  History and Etymology
 description: Making open-source more accessible.
 include_footer: false
 type: page

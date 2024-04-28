@@ -1,4 +1,5 @@
 ---
+title: Open-Source Tech for Web Designers and Others in the Digital Services  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

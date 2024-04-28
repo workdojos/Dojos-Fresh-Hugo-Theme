@@ -1,4 +1,5 @@
 ---
+title: An Overview for Machinists and the Machining  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

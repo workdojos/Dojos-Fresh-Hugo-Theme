@@ -1,4 +1,5 @@
 ---
+title: Open-Source Tech for Graphic Designers and Others in the Graphic Design And Graphic Arts  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

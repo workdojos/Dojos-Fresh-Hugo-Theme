@@ -1,4 +1,5 @@
 ---
+title: The Perfoming Arts  Industry and Thespian Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page

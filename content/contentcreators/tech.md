@@ -1,4 +1,5 @@
 ---
+title: Open-Source Tech for Content Creators and Others in the Influencer  Industry
 description: Making open-source more accessible.
 include_footer: false
 type: page

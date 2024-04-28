@@ -1,4 +1,5 @@
 ---
+title: The Physics And Higher Education  Industry and Physicist Workers' Rights
 description: Making open-source more accessible.
 include_footer: false
 type: page
