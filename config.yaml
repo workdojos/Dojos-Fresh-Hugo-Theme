@@ -52,9 +52,6 @@ params:
   navbar:
   - title: About
     url: https://about.workdojos.com
-  - title: Dashboards
-    url: https://dashboards.workdojos.com
-
   - title: Blog
     url: https://blog.workdojos.com
   - title: Dashboards
@@ -109,9 +106,9 @@ params:
     title: Free Dashboards.
     subtitle: Uncluttered space for anything you want.
 
-  sectionZb:
-    title: Personalized Chat Apps.
-    subtitle: Sign up to spin up a private chat server.
+#  sectionZb:
+#    title: Personalized Chat Apps.
+#    subtitle: Sign up to spin up a private chat server.
 
   section1Z:
     title: Educational Tools.
@@ -138,10 +135,10 @@ params:
 #    buttonLink: "https://workmates.live/marketplace"
 
   section3a:
-    title: Free and Open-Source AI.
-    subtitle: Featuring a cast of 16 AI avatars made exclusively with open-souce technology.
+    title: Open-Source AI.
+    subtitle: Meet our cast of 16 characters made with free and open-source AI tech.
     image: logos/multisad bigger.gif
-    buttonText: Go to Youtube
+    buttonText: @dojofans
     buttonLink: "https://youtube.com/@dojofans"
 
     
