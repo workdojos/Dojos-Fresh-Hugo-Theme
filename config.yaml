@@ -110,9 +110,9 @@ params:
 #    title: Personalized Chat Apps.
 #    subtitle: Sign up to spin up a private chat server.
 
-  section1Z:
-    title: Educational Tools.
-    subtitle: Parents and teachers, spin up a learning management system for free!
+#  section1Z:
+#    title: Educational Tools.
+#    subtitle: Parents and teachers, spin up a learning management system for free!
 
 #  sectionZc:
    # title: Free templates.
@@ -131,8 +131,8 @@ params:
 #    title: Pick a path.
 #    subtitle: Choose from over 100 pre-built dojos or blaze your own trail.
 #    image: logos/workmates.png
-#    buttonText: Browse all
-#    buttonLink: "https://workmates.live/marketplace"
+#    buttonText: Sign up
+#    buttonLink: "https://blog.workdojos.com/#/portal/signup"
 
   section3a:
     title: Open-Source AI.
