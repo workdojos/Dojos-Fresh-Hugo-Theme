@@ -37,9 +37,9 @@ params:
     # Hero subtitle (optional)
     subtitle: With free and open-source technology. 
     # Button text
-    buttontext: Sign up
+    buttontext: Browse
     # Where the main hero button links to
-    buttonlink: "https://blog.workdojos.com/#/portal/signup"
+    buttonlink: "https://www.workdojos.com/marketplace/"
     hrefTargetBlank: true
     # Hero image (from static/images/___)
     image: logos/flick3.gif
@@ -52,16 +52,16 @@ params:
   navbar:
   - title: About
     url: https://about.workdojos.com
-  - title: Blog
-    url: https://blog.workdojos.com
   - title: Dashboards
     url: https://dashboards.workdojos.com
 
 
   - title: Featured
     sublinks:
+    - title: Administrator Dojo
+      url: https://dashboards.workdojos.com/#Administrators
     - title: Biologist Dojo
-      url: https://dashboards.workdojos.com/#Biologists
+      url: https://dashboards.workdojos.com/#Biologist
     - title: Clinician Dojo
       url: https://dashboards.workdojos.com/#Doctors
     - title: Firefighter Dojo
@@ -73,21 +73,23 @@ params:
     - title: Life Coach Dojo
       url: https://dashboards.workdojos.com/#Life-Coaches
     - title: Lyricist Dojo
-      url: https://dashboards.workdojos.com/#Lyricists
-    - title: Musician Dojo
-      url: https://dashboards.workdojos.com/#Musicians
+      url: https://dashboards.workdojos.com/#Lyricist
     - title: Novelist Dojo
-      url: https://dashboards.workdojos.com/#Novelists
+      url: https://dashboards.workdojos.com/#Novelist
+    - title: Musician Dojo
+      url: https://dashboards.workdojos.com/#Musical-Artists
+    - title: Novelist Dojo
+      url: https://dashboards.workdojos.com/#Novelist
     - title: Philosopher Dojo
       url: https://dashboards.workdojos.com/#Philosophers
     - title: Physicist Dojo
-      url: https://dashboards.workdojos.com/#Physicists
+      url: https://dashboards.workdojos.com/#Physicist
     - title: Teacher Dojo
       url: https://dashboards.workdojos.com/#School-Teachers
     - title: Social Worker Dojo
       url: https://dashboards.workdojos.com/#Social-Workers
     - title: Thespian Dojo
-      url: https://dashboards.workdojos.com/#Thespians
+      url: https://dashboards.workdojos.com/#Thespian
 
 
   - title: Pricing
@@ -97,28 +99,28 @@ params:
     button: true
 
   sectionpoop:
-    title: Unlock "Open-Source."
+    title: Unlock Open-Source.
     subtitle: Hey Admin!  
 
   section1:
     title: Free Dashboards.
-    subtitle: Uncluttered space for anything you want.
+    subtitle: An uncluttered ad-free space for anything you want.
 
-#  sectionZb:
-#    title: Personalized Chat Apps.
-#    subtitle: Sign up to spin up a private chat server.
+  sectionZb:
+    title: Free Chat Apps.
+    subtitle: Sign up to learn how to create your own chat server.
 
-#  section1Z:
-#    title: Educational Tools.
-#    subtitle: Parents and teachers, spin up a learning management system for free!
+  section1Z:
+    title: Educational Tools.
+    subtitle: Parents and teachers, spin up learning management systems for free!
 
 #  sectionZc:
    # title: Free templates.
    # subtitle: Sign up to get a free guide to self-hosting.
 
   sectionZd:
-    title: Free Templates.
-    subtitle: Sign up to get a custom landing page built in React.
+    title: Free Websites.
+    subtitle: Sign up to get a free landing page built in React.
 
   sectionZe:
     title: Pick a path.
@@ -129,14 +131,14 @@ params:
 #    title: Pick a path.
 #    subtitle: Choose from over 100 pre-built dojos or blaze your own trail.
 #    image: logos/workmates.png
-#    buttonText: Sign up
-#    buttonLink: "https://blog.workdojos.com/#/portal/signup"
+#    buttonText: Browse all
+#    buttonLink: "https://workmates.live/marketplace"
 
   section3a:
-    title: Open-Source AI.
-    subtitle: Meet our cast of 16 characters made with free and open-source AI tech.
+    title: Free and Open-Source AI.
+    subtitle: Featuring a cast of 16 AI avatars made exclusively with open-souce technology.
     image: logos/multisad bigger.gif
-    buttonText: Dojofans
+    buttonText: Go to Youtube
     buttonLink: "https://youtube.com/@dojofans"
 
     
