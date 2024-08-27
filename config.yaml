@@ -60,8 +60,6 @@ params:
 
   - title: Featured
     sublinks:
-    - title: Administrator Dojo
-      url: https://dashboards.workdojos.com/#Administrators
     - title: Biologist Dojo
       url: https://dashboards.workdojos.com/#Biologists
     - title: Clinician Dojo
