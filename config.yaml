@@ -118,9 +118,9 @@ params:
    # title: Free templates.
    # subtitle: Sign up to get a free guide to self-hosting.
 
-  sectionZd:
-    title: Free Websites.
-    subtitle: Sign up to get a free landing page built in React.
+#  sectionZd:
+#    title: Free Websites.
+#    subtitle: Sign up to get a free landing page built in React.
 
   sectionZe:
     title: Pick a path.
