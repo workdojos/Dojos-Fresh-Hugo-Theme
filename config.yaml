@@ -106,13 +106,13 @@ params:
     title: Free Dashboards.
     subtitle: An uncluttered ad-free space for anything you want.
 
-  sectionZb:
-    title: Free Chat Apps.
-    subtitle: Sign up to learn how to create your own chat server.
+#  sectionZb:
+#    title: Free Chat Apps.
+#    subtitle: Sign up to learn how to create your own chat server.
 
-  section1Z:
-    title: Educational Tools.
-    subtitle: Parents and teachers, spin up learning management systems for free!
+ # section1Z:
+ #   title: Educational Tools.
+ #   subtitle: Parents and teachers, spin up learning management systems for free!
 
 #  sectionZc:
    # title: Free templates.
